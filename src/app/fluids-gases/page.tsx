@@ -3,44 +3,39 @@
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 
-interface Material {
+interface Fluid {
   name: string;
-  localizedName: string;
-  chemicalFormula?: string;
-  meltingPoint?: number;
-  blastFurnaceTemp?: number;
-  mass?: number;
-  density?: number;
-  toolSpeed?: number;
-  toolDurability?: number;
-  processingTierEU?: number;
+  displayName: string;
 }
 
-type SortField = "localizedName" | "meltingPoint" | "blastFurnaceTemp" | "mass" | "toolSpeed";
+type SortField = "displayName" | "name";
 
-export default function MaterialsPage() {
-  const [materials, setMaterials] = useState<Material[]>([]);
+export default function FluidsGasesPage() {
+  const [fluids, setFluids] = useState<Fluid[]>([]);
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState("");
-  const [sortField, setSortField] = useState<SortField>("localizedName");
+  const [sortField, setSortField] = useState<SortField>("displayName");
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
 
   useEffect(() => {
-    fetch("/api/materials")
+    fetch("/api/fluids")
       .then((r) => r.json())
-      .then((d) => setMaterials(d.materials || []))
+      .then((d) => setFluids(d))
+      .catch(() => {
+        setFluids([]);
+        setLoading(false);
+      })
       .finally(() => setLoading(false));
   }, []);
 
   const filtered = useMemo(() => {
-    let result = materials;
+    let result = fluids;
     if (search) {
       const q = search.toLowerCase();
       result = result.filter(
-        (m) =>
-          m.localizedName?.toLowerCase().includes(q) ||
-          m.name?.toLowerCase().includes(q) ||
-          m.chemicalFormula?.toLowerCase().includes(q)
+        (f) =>
+          f.displayName?.toLowerCase().includes(q) ||
+          f.name?.toLowerCase().includes(q)
       );
     }
     result = [...result].sort((a, b) => {
@@ -51,7 +46,7 @@ export default function MaterialsPage() {
       return sortDir === "asc" ? aVal - bVal : bVal - aVal;
     });
     return result;
-  }, [materials, search, sortField, sortDir]);
+  }, [fluids, search, sortField, sortDir]);
 
   const toggleSort = (field: SortField) => {
     if (sortField === field) {
@@ -76,67 +71,86 @@ export default function MaterialsPage() {
     </th>
   );
 
+  const isGas = (name: string): boolean => {
+    return name.includes("plasma") || name.includes("gas") || name.includes("vapor") || name.includes("steam");
+  };
+
+  const isMolten = (name: string): boolean => {
+    return name.includes("molten");
+  };
+
+  const getFluidType = (name: string): string => {
+    if (isGas(name)) return "Gas";
+    if (isMolten(name)) return "Molten";
+    return "Liquid";
+  };
+
+  const getFluidTypeColor = (name: string): string => {
+    if (isGas(name)) return "bg-accent-purple/20 text-accent-purple";
+    if (isMolten(name)) return "bg-accent-danger/20 text-accent-danger";
+    return "bg-accent-primary/20 text-accent-primary";
+  };
+
   return (
     <div className="p-4 sm:p-6 lg:p-8">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-2xl font-bold mb-1">Materials</h1>
+        <h1 className="text-2xl font-bold mb-1">Fluids & Gases</h1>
         <p className="text-text-secondary text-sm mb-6">
-          {materials.length.toLocaleString()} GregTech materials
+          {fluids.length.toLocaleString()} GregTech fluids and gases
         </p>
 
         <input
           type="text"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          placeholder="Search materials by name or formula..."
+          placeholder="Search fluids and gases by name..."
           className="w-full max-w-md px-4 py-2 mb-6 bg-bg-tertiary border border-border-default rounded-lg text-text-primary placeholder-text-muted text-sm focus:outline-none focus:border-accent-primary transition-colors"
         />
 
         {loading ? (
           <div className="h-96 bg-bg-tertiary rounded-lg animate-pulse" />
+        ) : fluids.length === 0 ? (
+          <div className="text-center py-12 bg-bg-tertiary rounded-lg border border-border-default">
+            <div className="text-text-muted mb-2">No fluids data available</div>
+            <div className="text-text-secondary text-sm">
+              The fluids API endpoint may need to be implemented
+            </div>
+          </div>
         ) : (
           <div className="overflow-x-auto border border-border-default rounded-lg">
             <table className="w-full text-sm">
               <thead className="bg-bg-secondary border-b border-border-default">
                 <tr>
-                  <SortHeader field="localizedName" label="Name" />
+                  <SortHeader field="displayName" label="Display Name" />
+                  <SortHeader field="name" label="Internal Name" />
                   <th className="px-3 py-2 text-left text-xs font-medium text-text-muted uppercase">
-                    Formula
+                    Type
                   </th>
-                  <SortHeader field="meltingPoint" label="Melting" />
-                  <SortHeader field="blastFurnaceTemp" label="Blast Temp" />
-                  <SortHeader field="mass" label="Mass" />
-                  <SortHeader field="toolSpeed" label="Tool Speed" />
                 </tr>
               </thead>
               <tbody className="divide-y divide-border-default">
-                {filtered.slice(0, 200).map((mat) => (
+                {filtered.slice(0, 200).map((fluid) => (
                   <tr
-                    key={mat.name}
+                    key={fluid.name}
                     className="hover:bg-bg-elevated transition-colors"
                   >
                     <td className="px-3 py-2">
                       <Link
-                        href={`/materials/${mat.name}`}
+                        href={`/fluids/${fluid.name}`}
                         className="font-medium text-text-primary hover:text-accent-primary transition-colors cursor-pointer"
                       >
-                        {mat.localizedName}
+                        {fluid.displayName}
                       </Link>
                     </td>
                     <td className="px-3 py-2 text-text-muted font-mono text-xs">
-                      {mat.chemicalFormula || "-"}
+                      {fluid.name}
                     </td>
-                    <td className="px-3 py-2 text-text-secondary">
-                      {mat.meltingPoint ? `${mat.meltingPoint}K` : "-"}
-                    </td>
-                    <td className="px-3 py-2 text-text-secondary">
-                      {mat.blastFurnaceTemp ? `${mat.blastFurnaceTemp}K` : "-"}
-                    </td>
-                    <td className="px-3 py-2 text-text-secondary">
-                      {mat.mass ?? "-"}
-                    </td>
-                    <td className="px-3 py-2 text-text-secondary">
-                      {mat.toolSpeed ?? "-"}
+                    <td className="px-3 py-2">
+                      <span
+                        className={`px-2 py-1 text-xs rounded-full ${getFluidTypeColor(fluid.name)}`}
+                      >
+                        {getFluidType(fluid.name)}
+                      </span>
                     </td>
                   </tr>
                 ))}

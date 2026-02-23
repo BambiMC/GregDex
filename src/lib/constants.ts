@@ -3,6 +3,7 @@ export const NAV_ITEMS = [
   { href: "/items", label: "Items", icon: "cube" },
   { href: "/machines", label: "Machines", icon: "cog" },
   { href: "/materials", label: "Materials", icon: "beaker" },
+  { href: "/fluids-gases", label: "Fluids/Gases", icon: "droplet" },
   { href: "/bees", label: "Bees", icon: "bug" },
   { href: "/ores", label: "Ores", icon: "mountain" },
   { href: "/blood-magic", label: "Blood Magic", icon: "droplet" },
