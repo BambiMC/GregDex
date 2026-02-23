@@ -3,15 +3,37 @@
 import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import ItemIcon from "@/components/ItemIcon";
+import { createReadableItemId } from "@/lib/utils";
 
 interface ItemEntry {
   id: string;
   displayName: string;
   modId: string;
+  type?: "item" | "fluid";
 }
 
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+function createReadableFluidId(fluidId: string): string {
+  // For fluids, convert dots to hyphens for readable URLs
+  return fluidId.replace(/\./g, "-");
+}
+
+function getItemUrl(item: ItemEntry): string {
+  return item.type === "fluid"
+    ? `/fluids/${createReadableFluidId(item.id)}`
+    : `/items/${createReadableItemId(item.id)}`;
+}
+
+function getItemIcon(item: ItemEntry): React.ReactElement {
+  if (item.type === "fluid") {
+    return (
+      <div className="w-full h-full bg-accent-secondary/10 border border-accent-secondary/30 rounded flex items-center justify-center">
+        <span className="text-[10px] text-accent-secondary font-bold">
+          {item.displayName.substring(0, 2)}
+        </span>
+      </div>
+    );
+  }
+  return <ItemIcon itemId={item.id} displayName={item.displayName} size={28} />;
 }
 
 export default function ItemsPage() {
@@ -27,7 +49,7 @@ export default function ItemsPage() {
     try {
       if (q.length >= 2) {
         const res = await fetch(
-          `/api/search?q=${encodeURIComponent(q)}&limit=60`
+          `/api/search?q=${encodeURIComponent(q)}&limit=60`,
         );
         const data = await res.json();
         setItems(
@@ -35,7 +57,8 @@ export default function ItemsPage() {
             id: r.id,
             displayName: r.displayName,
             modId: r.modId || "",
-          }))
+            type: r.type || "item",
+          })),
         );
         setTotal(data.results?.length || 0);
         setTotalPages(1);
@@ -95,11 +118,11 @@ export default function ItemsPage() {
             {items.map((item) => (
               <Link
                 key={item.id}
-                href={`/items/${encodeId(item.id)}`}
+                href={getItemUrl(item)}
                 className="flex items-center gap-3 px-3 py-2.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"
               >
                 <div className="item-slot !w-8 !h-8 shrink-0 group-hover:border-accent-primary">
-                  <ItemIcon itemId={item.id} displayName={item.displayName} size={28} />
+                  {getItemIcon(item)}
                 </div>
                 <div className="min-w-0 flex-1">
                   <div className="text-sm text-text-primary truncate group-hover:text-accent-primary transition-colors">
@@ -107,6 +130,11 @@ export default function ItemsPage() {
                   </div>
                   <div className="text-xs text-text-muted truncate">
                     {item.modId}
+                    {item.type === "fluid" && (
+                      <span className="ml-1 px-1.5 py-0.5 bg-accent-secondary/10 text-accent-secondary rounded text-[10px]">
+                        Fluid
+                      </span>
+                    )}
                   </div>
                 </div>
               </Link>

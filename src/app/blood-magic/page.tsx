@@ -1,7 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Link from "next/link";
 import ItemIcon from "@/components/ItemIcon";
+import { createReadableItemId } from "@/lib/utils";
 
 interface AltarRecipe {
   input: { id: string; displayName: string; amount: number };
@@ -74,7 +76,10 @@ export default function BloodMagicPage() {
         {loading ? (
           <div className="space-y-3">
             {Array.from({ length: 5 }).map((_, i) => (
-              <div key={i} className="h-20 bg-bg-tertiary rounded-lg animate-pulse" />
+              <div
+                key={i}
+                className="h-20 bg-bg-tertiary rounded-lg animate-pulse"
+              />
             ))}
           </div>
         ) : tab === "altar" ? (
@@ -86,24 +91,58 @@ export default function BloodMagicPage() {
               >
                 <div className="flex items-center gap-3 flex-wrap">
                   {/* Input */}
-                  <div className="item-slot !w-10 !h-10" title={recipe.input.displayName}>
-                    <ItemIcon itemId={recipe.input.id} displayName={recipe.input.displayName} size={32} />
-                  </div>
-                  <span className="text-sm text-text-secondary">
+                  <Link
+                    href={`/items/${createReadableItemId(recipe.input.id)}`}
+                    title={recipe.input.displayName}
+                  >
+                    <div className="item-slot !w-10 !h-10 group/slot">
+                      <ItemIcon
+                        itemId={recipe.input.id}
+                        displayName={recipe.input.displayName}
+                        size={32}
+                      />
+                    </div>
+                  </Link>
+                  <Link
+                    href={`/items/${createReadableItemId(recipe.input.id)}`}
+                    className="text-sm text-text-secondary hover:text-accent-primary transition-colors"
+                  >
                     {recipe.input.displayName}
-                  </span>
+                  </Link>
 
-                  <svg className="w-5 h-5 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  <svg
+                    className="w-5 h-5 text-text-muted"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M14 5l7 7m0 0l-7 7m7-7H3"
+                    />
                   </svg>
 
                   {/* Output */}
-                  <div className="item-slot !w-10 !h-10" title={recipe.output.displayName}>
-                    <ItemIcon itemId={recipe.output.id} displayName={recipe.output.displayName} size={32} />
-                  </div>
-                  <span className="text-sm font-medium text-text-primary">
+                  <Link
+                    href={`/items/${createReadableItemId(recipe.output.id)}`}
+                    title={recipe.output.displayName}
+                  >
+                    <div className="item-slot !w-10 !h-10 group/slot">
+                      <ItemIcon
+                        itemId={recipe.output.id}
+                        displayName={recipe.output.displayName}
+                        size={32}
+                      />
+                    </div>
+                  </Link>
+                  <Link
+                    href={`/items/${createReadableItemId(recipe.output.id)}`}
+                    className="text-sm font-medium text-text-primary hover:text-accent-primary transition-colors"
+                  >
                     {recipe.output.displayName}
-                  </span>
+                  </Link>
                 </div>
 
                 <div className="flex flex-wrap gap-3 mt-2 text-xs text-text-muted">
@@ -133,12 +172,24 @@ export default function BloodMagicPage() {
                 className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
               >
                 <div className="flex items-center gap-3 mb-2">
-                  <div className="item-slot !w-8 !h-8 shrink-0">
-                    <ItemIcon itemId={recipe.output.id} displayName={recipe.output.displayName} size={28} />
-                  </div>
-                  <span className="text-sm font-medium text-text-primary">
+                  <Link
+                    href={`/items/${createReadableItemId(recipe.output.id)}`}
+                    title={recipe.output.displayName}
+                  >
+                    <div className="item-slot !w-8 !h-8 group/slot">
+                      <ItemIcon
+                        itemId={recipe.output.id}
+                        displayName={recipe.output.displayName}
+                        size={28}
+                      />
+                    </div>
+                  </Link>
+                  <Link
+                    href={`/items/${createReadableItemId(recipe.output.id)}`}
+                    className="text-sm font-medium text-text-primary hover:text-accent-primary transition-colors"
+                  >
                     {recipe.output.displayName}
-                  </span>
+                  </Link>
                   {recipe.output.amount > 1 && (
                     <span className="text-xs text-accent-primary">
                       x{recipe.output.amount}
@@ -150,13 +201,19 @@ export default function BloodMagicPage() {
                 </div>
                 <div className="flex flex-wrap gap-1">
                   {recipe.inputs.map((input, j) => (
-                    <div
+                    <Link
                       key={j}
-                      className="item-slot !w-8 !h-8"
+                      href={`/items/${createReadableItemId(input.id)}`}
                       title={`${input.displayName} x${input.amount}`}
                     >
-                      <ItemIcon itemId={input.id} displayName={input.displayName} size={28} />
-                    </div>
+                      <div className="item-slot !w-8 !h-8 group/slot">
+                        <ItemIcon
+                          itemId={input.id}
+                          displayName={input.displayName}
+                          size={28}
+                        />
+                      </div>
+                    </Link>
                   ))}
                 </div>
               </div>

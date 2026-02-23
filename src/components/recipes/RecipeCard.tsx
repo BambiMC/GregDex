@@ -1,19 +1,32 @@
 "use client";
 
 import Link from "next/link";
-import { formatEU, formatTicks, getVoltageTier, getMachineDisplayName } from "@/lib/format";
+import {
+  formatEU,
+  formatTicks,
+  getVoltageTier,
+  getMachineDisplayName,
+} from "@/lib/format";
 import ItemIcon from "@/components/ItemIcon";
+import { createReadableItemId } from "@/lib/utils";
 
 function encodeId(id: string): string {
   return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
 }
 
-function ItemSlot({ item }: { item: { id: string; displayName: string; amount: number } | null }) {
+function ItemSlot({
+  item,
+}: {
+  item: { id: string; displayName: string; amount: number } | null;
+}) {
   if (!item) {
     return <div className="item-slot !w-10 !h-10 opacity-30" />;
   }
   return (
-    <Link href={`/items/${encodeId(item.id)}`} title={item.displayName}>
+    <Link
+      href={`/items/${createReadableItemId(item.id)}`}
+      title={item.displayName}
+    >
       <div className="item-slot !w-10 !h-10 group/slot relative">
         <ItemIcon itemId={item.id} displayName={item.displayName} size={32} />
         {item.amount > 1 && (
@@ -26,12 +39,38 @@ function ItemSlot({ item }: { item: { id: string; displayName: string; amount: n
   );
 }
 
-function FluidSlot({ fluid }: { fluid: { name: string; displayName: string; amount: number } }) {
-  return (
-    <div
-      className="item-slot !w-10 !h-10 bg-accent-secondary/10 border-accent-secondary/30"
-      title={`${fluid.displayName} (${fluid.amount}L)`}
-    >
+function createReadableFluidId(fluidId: string): string {
+  // For fluids, convert dots to hyphens for readable URLs
+  // This handles fluid names like "molten.radoxpoly" -> "molten-radoxpoly"
+  return fluidId.replace(/\./g, "-");
+}
+
+function FluidSlot({
+  fluid,
+}: {
+  fluid: { id?: string; name?: string; displayName: string; amount: number };
+}) {
+  // Get the fluid identifier (id or name)
+  const fluidId = fluid.id || fluid.name;
+
+  // Safety check - only block if fluid identifier is actually undefined or null
+  if (fluidId === undefined || fluidId === null) {
+    console.log("Undefined fluid detected:", fluid);
+    return (
+      <div
+        className="item-slot !w-10 !h-10 bg-accent-secondary/10 border-accent-secondary/30"
+        title={`Unknown Fluid (${fluid.amount}L)`}
+      >
+        <span className="text-[9px] text-accent-secondary">??</span>
+        <span className="absolute -bottom-0.5 -right-0.5 text-[8px] font-bold text-accent-secondary bg-bg-primary px-0.5 rounded">
+          {fluid.amount}L
+        </span>
+      </div>
+    );
+  }
+
+  const fluidContent = (
+    <div className="item-slot !w-10 !h-10 bg-accent-secondary/10 border-accent-secondary/30 group/slot relative">
       <span className="text-[9px] text-accent-secondary">
         {fluid.displayName.substring(0, 2)}
       </span>
@@ -39,6 +78,17 @@ function FluidSlot({ fluid }: { fluid: { name: string; displayName: string; amou
         {fluid.amount}L
       </span>
     </div>
+  );
+
+  // Make all fluids clickable
+  return (
+    <Link
+      href={`/fluids/${createReadableFluidId(fluidId)}`}
+      title={`${fluid.displayName} (${fluid.amount}L)`}
+      className="cursor-pointer hover:border-accent-secondary/50 transition-colors"
+    >
+      {fluidContent}
+    </Link>
   );
 }
 
@@ -65,10 +115,12 @@ function CraftingGrid({ recipe }: { recipe: any }) {
 export default function RecipeCard({ recipe }: { recipe: any }) {
   const isGtMachine = recipe.recipeType === "gt_machine";
   const isCrafting = recipe.machine === "crafting_table";
-  const tier = isGtMachine && recipe.euPerTick ? getVoltageTier(recipe.euPerTick) : null;
-  const totalEU = isGtMachine && recipe.euPerTick && recipe.duration
-    ? recipe.euPerTick * recipe.duration
-    : 0;
+  const tier =
+    isGtMachine && recipe.euPerTick ? getVoltageTier(recipe.euPerTick) : null;
+  const totalEU =
+    isGtMachine && recipe.euPerTick && recipe.duration
+      ? recipe.euPerTick * recipe.duration
+      : 0;
 
   return (
     <div className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors">
@@ -85,9 +137,7 @@ export default function RecipeCard({ recipe }: { recipe: any }) {
             <span style={{ color: tier.color }} className="font-medium">
               {tier.name}
             </span>
-            <span className="text-text-muted">
-              {recipe.euPerTick} EU/t
-            </span>
+            <span className="text-text-muted">{recipe.euPerTick} EU/t</span>
             <span className="text-text-muted">
               {formatTicks(recipe.duration)}
             </span>
@@ -124,8 +174,18 @@ export default function RecipeCard({ recipe }: { recipe: any }) {
 
         {/* Arrow */}
         <div className="recipe-arrow select-none px-2">
-          <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+          <svg
+            className="w-6 h-6"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M14 5l7 7m0 0l-7 7m7-7H3"
+            />
           </svg>
         </div>
 

@@ -14,14 +14,18 @@ export default function MachineDetailPage({
   const [data, setData] = useState<any>(null);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true);
+  const [search, setSearch] = useState("");
 
   useEffect(() => {
     setLoading(true);
-    fetch(`/api/recipes/by-machine/${encodeURIComponent(decodedId)}?page=${page}&limit=20`)
+    const searchParam = search ? `&search=${encodeURIComponent(search)}` : "";
+    fetch(
+      `/api/recipes/by-machine/${encodeURIComponent(decodedId)}?page=${page}&limit=20${searchParam}`,
+    )
       .then((r) => r.json())
       .then(setData)
       .finally(() => setLoading(false));
-  }, [decodedId, page]);
+  }, [decodedId, page, search]);
 
   return (
     <div className="p-4 sm:p-6 lg:p-8">
@@ -44,11 +48,28 @@ export default function MachineDetailPage({
           {data?.total?.toLocaleString() || "..."} recipes
         </p>
 
+        {/* Search */}
+        <div className="mb-6">
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => {
+              setSearch(e.target.value);
+              setPage(1); // Reset to page 1 when searching
+            }}
+            placeholder="Search recipes..."
+            className="w-full max-w-md px-4 py-2 bg-bg-tertiary border border-border-default rounded-lg text-text-primary placeholder-text-muted text-sm focus:outline-none focus:border-accent-primary transition-colors"
+          />
+        </div>
+
         {/* Recipes */}
         {loading ? (
           <div className="space-y-3">
             {Array.from({ length: 5 }).map((_, i) => (
-              <div key={i} className="h-28 bg-bg-tertiary rounded-lg animate-pulse" />
+              <div
+                key={i}
+                className="h-28 bg-bg-tertiary rounded-lg animate-pulse"
+              />
             ))}
           </div>
         ) : (

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
+import Link from "next/link";
 
 const DIMENSIONS = [
   { key: "", label: "All" },
@@ -34,6 +35,10 @@ interface SmallOre {
   dimensions: string[];
 }
 
+function encodeId(id: string): string {
+  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+
 export default function OresPage() {
   const [veins, setVeins] = useState<OreVein[]>([]);
   const [smallOres, setSmallOres] = useState<SmallOre[]>([]);
@@ -63,7 +68,7 @@ export default function OresPage() {
         v.primaryOre.materialName.toLowerCase().includes(q) ||
         v.secondaryOre.materialName.toLowerCase().includes(q) ||
         v.betweenOre.materialName.toLowerCase().includes(q) ||
-        v.sporadicOre.materialName.toLowerCase().includes(q)
+        v.sporadicOre.materialName.toLowerCase().includes(q),
     );
   }, [veins, search]);
 
@@ -73,7 +78,7 @@ export default function OresPage() {
     return smallOres.filter(
       (o) =>
         o.name.toLowerCase().includes(q) ||
-        o.ore.materialName.toLowerCase().includes(q)
+        o.ore.materialName.toLowerCase().includes(q),
     );
   }, [smallOres, search]);
 
@@ -140,7 +145,10 @@ export default function OresPage() {
         {loading ? (
           <div className="space-y-3">
             {Array.from({ length: 5 }).map((_, i) => (
-              <div key={i} className="h-24 bg-bg-tertiary rounded-lg animate-pulse" />
+              <div
+                key={i}
+                className="h-24 bg-bg-tertiary rounded-lg animate-pulse"
+              />
             ))}
           </div>
         ) : tab === "veins" ? (
@@ -152,9 +160,12 @@ export default function OresPage() {
               >
                 <div className="flex items-start justify-between mb-3">
                   <div>
-                    <h3 className="font-medium text-text-primary text-sm">
+                    <Link
+                      href={`/ores/${encodeId(vein.name)}`}
+                      className="font-medium text-text-primary text-sm hover:text-accent-cyan transition-colors"
+                    >
                       {vein.name.replace("ore.mix.", "")}
-                    </h3>
+                    </Link>
                     <div className="text-xs text-text-muted mt-0.5">
                       Y: {vein.minY} - {vein.maxY} | Weight: {vein.weight} |
                       Density: {vein.density} | Size: {vein.size}
@@ -190,19 +201,27 @@ export default function OresPage() {
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
                   <div>
                     <span className="text-text-muted">Primary: </span>
-                    <span className="text-accent-primary">{vein.primaryOre.materialName}</span>
+                    <span className="text-accent-primary">
+                      {vein.primaryOre.materialName}
+                    </span>
                   </div>
                   <div>
                     <span className="text-text-muted">Secondary: </span>
-                    <span className="text-accent-secondary">{vein.secondaryOre.materialName}</span>
+                    <span className="text-accent-secondary">
+                      {vein.secondaryOre.materialName}
+                    </span>
                   </div>
                   <div>
                     <span className="text-text-muted">Between: </span>
-                    <span className="text-accent-success">{vein.betweenOre.materialName}</span>
+                    <span className="text-accent-success">
+                      {vein.betweenOre.materialName}
+                    </span>
                   </div>
                   <div>
                     <span className="text-text-muted">Sporadic: </span>
-                    <span className="text-accent-purple">{vein.sporadicOre.materialName}</span>
+                    <span className="text-accent-purple">
+                      {vein.sporadicOre.materialName}
+                    </span>
                   </div>
                 </div>
               </div>
@@ -229,14 +248,24 @@ export default function OresPage() {
               </thead>
               <tbody className="divide-y divide-border-default">
                 {filteredSmall.map((ore) => (
-                  <tr key={ore.name} className="hover:bg-bg-elevated transition-colors">
-                    <td className="px-3 py-2 font-medium text-text-primary">
-                      {ore.ore.materialName}
+                  <tr
+                    key={ore.name}
+                    className="hover:bg-bg-elevated transition-colors"
+                  >
+                    <td className="px-3 py-2 font-medium">
+                      <Link
+                        href={`/ores/${encodeId(ore.name)}`}
+                        className="text-text-primary hover:text-accent-cyan transition-colors"
+                      >
+                        {ore.ore.materialName}
+                      </Link>
                     </td>
                     <td className="px-3 py-2 text-text-secondary">
                       {ore.minY} - {ore.maxY}
                     </td>
-                    <td className="px-3 py-2 text-text-secondary">{ore.amount}</td>
+                    <td className="px-3 py-2 text-text-secondary">
+                      {ore.amount}
+                    </td>
                     <td className="px-3 py-2">
                       <div className="flex gap-1 flex-wrap">
                         {ore.dimensions.map((d) => (

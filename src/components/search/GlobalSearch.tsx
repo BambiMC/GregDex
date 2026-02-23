@@ -4,6 +4,7 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import type { SearchResult } from "@/types";
 import ItemIcon from "@/components/ItemIcon";
+import { createReadableItemId } from "@/lib/utils";
 
 export default function GlobalSearch({
   open,
@@ -51,7 +52,7 @@ export default function GlobalSearch({
     setLoading(true);
     try {
       const res = await fetch(
-        `/api/search?q=${encodeURIComponent(q)}&limit=15`
+        `/api/search?q=${encodeURIComponent(q)}&limit=15`,
       );
       const data = await res.json();
       setResults(data.results || []);
@@ -69,14 +70,15 @@ export default function GlobalSearch({
   }, [query, search]);
 
   const navigate = (result: SearchResult) => {
-    const encodedId = btoa(result.id)
-      .replace(/\+/g, "-")
-      .replace(/\//g, "_")
-      .replace(/=+$/, "");
+    const readableId = createReadableItemId(result.id);
     if (result.type === "item") {
-      router.push(`/items/${encodedId}`);
+      router.push(`/items/${readableId}`);
+    } else if (result.type === "fluid") {
+      // For fluids, convert dots to hyphens for readable URLs
+      const readableFluidId = result.id.replace(/\./g, "-");
+      router.push(`/fluids/${readableFluidId}`);
     } else {
-      router.push(`/items/${encodedId}`);
+      router.push(`/items/${readableId}`);
     }
     onClose();
     setQuery("");
@@ -148,7 +150,11 @@ export default function GlobalSearch({
                   }`}
                 >
                   <div className="item-slot !w-8 !h-8 shrink-0">
-                    <ItemIcon itemId={result.id} displayName={result.displayName} size={28} />
+                    <ItemIcon
+                      itemId={result.id}
+                      displayName={result.displayName}
+                      size={28}
+                    />
                   </div>
                   <div className="min-w-0 flex-1">
                     <div className="truncate">{result.displayName}</div>

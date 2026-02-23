@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
+import Link from "next/link";
 
 interface Mutation {
   parent1Uid: string;
@@ -21,6 +22,10 @@ function getBeeDisplayName(uid: string): string {
   name = name.replace(/^species/i, "");
   // Add spaces before capitals
   return name.replace(/([a-z])([A-Z])/g, "$1 $2") || uid;
+}
+
+function encodeId(id: string): string {
+  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
 }
 
 export default function BeesPage() {
@@ -45,7 +50,7 @@ export default function BeesPage() {
         getBeeDisplayName(m.offspringUid).toLowerCase().includes(q) ||
         m.parent1Uid.toLowerCase().includes(q) ||
         m.parent2Uid.toLowerCase().includes(q) ||
-        m.offspringUid.toLowerCase().includes(q)
+        m.offspringUid.toLowerCase().includes(q),
     );
   }, [mutations, search]);
 
@@ -68,7 +73,10 @@ export default function BeesPage() {
         {loading ? (
           <div className="space-y-3">
             {Array.from({ length: 5 }).map((_, i) => (
-              <div key={i} className="h-20 bg-bg-tertiary rounded-lg animate-pulse" />
+              <div
+                key={i}
+                className="h-20 bg-bg-tertiary rounded-lg animate-pulse"
+              />
             ))}
           </div>
         ) : (
@@ -80,35 +88,60 @@ export default function BeesPage() {
               >
                 <div className="flex items-center gap-2 flex-wrap">
                   {/* Parent 1 */}
-                  <div className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg">
+                  <Link
+                    href={`/bees/${encodeId(mutation.parent1Uid)}`}
+                    className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
+                  >
                     <div className="text-sm font-medium text-yellow-400">
                       {getBeeDisplayName(mutation.parent1Uid)}
                     </div>
-                    <div className="text-[10px] text-text-muted">{mutation.parent1Uid}</div>
-                  </div>
+                    <div className="text-[10px] text-text-muted">
+                      {mutation.parent1Uid}
+                    </div>
+                  </Link>
 
                   <span className="text-text-muted text-lg">+</span>
 
                   {/* Parent 2 */}
-                  <div className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg">
+                  <Link
+                    href={`/bees/${encodeId(mutation.parent2Uid)}`}
+                    className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
+                  >
                     <div className="text-sm font-medium text-yellow-400">
                       {getBeeDisplayName(mutation.parent2Uid)}
                     </div>
-                    <div className="text-[10px] text-text-muted">{mutation.parent2Uid}</div>
-                  </div>
+                    <div className="text-[10px] text-text-muted">
+                      {mutation.parent2Uid}
+                    </div>
+                  </Link>
 
                   {/* Arrow */}
-                  <svg className="w-5 h-5 text-text-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  <svg
+                    className="w-5 h-5 text-text-muted shrink-0"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M14 5l7 7m0 0l-7 7m7-7H3"
+                    />
                   </svg>
 
                   {/* Offspring */}
-                  <div className="px-3 py-1.5 bg-accent-success/10 border border-accent-success/20 rounded-lg">
+                  <Link
+                    href={`/bees/${encodeId(mutation.offspringUid)}`}
+                    className="px-3 py-1.5 bg-accent-success/10 border border-accent-success/20 rounded-lg hover:border-accent-success/40 transition-colors"
+                  >
                     <div className="text-sm font-medium text-accent-success">
                       {getBeeDisplayName(mutation.offspringUid)}
                     </div>
-                    <div className="text-[10px] text-text-muted">{mutation.offspringUid}</div>
-                  </div>
+                    <div className="text-[10px] text-text-muted">
+                      {mutation.offspringUid}
+                    </div>
+                  </Link>
 
                   {/* Chance */}
                   <span className="px-2 py-0.5 bg-accent-primary/10 text-accent-primary text-xs font-medium rounded-full border border-accent-primary/20">

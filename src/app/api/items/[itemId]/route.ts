@@ -1,5 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getItem, getRecipeChunk } from "@/lib/data";
+import {
+  getItem,
+  getRecipeChunk,
+  decodeItemId,
+  encodeItemId,
+  isReadableItemId,
+  parseReadableItemId,
+} from "@/lib/data";
 
 export async function GET(
   request: NextRequest,
@@ -7,7 +14,18 @@ export async function GET(
 ) {
   const { itemId } = await params;
   const version = request.nextUrl.searchParams.get("version") || undefined;
-  const item = getItem(itemId, version);
+
+  // Handle both readable and encoded IDs for backward compatibility
+  let actualItemId: string;
+  if (isReadableItemId(itemId)) {
+    actualItemId = parseReadableItemId(itemId);
+  } else {
+    actualItemId = decodeItemId(itemId);
+  }
+
+  // Encode the actual item ID for file lookup (items are stored with encoded filenames)
+  const encodedFileId = encodeItemId(actualItemId);
+  const item = getItem(encodedFileId, version);
 
   if (!item) {
     return NextResponse.json({ error: "Item not found" }, { status: 404 });
