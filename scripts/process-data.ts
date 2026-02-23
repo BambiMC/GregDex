@@ -11,7 +11,16 @@ const NEI_DIR = (() => {
         f.startsWith("nei_export") &&
         fs.statSync(path.join(ROOT_DIR, f)).isDirectory(),
     );
-  if (!match) throw new Error("No nei_export* directory found in project root");
+  if (!match) {
+    const fallback = path.join(ROOT_DIR, "nei_export");
+    try {
+      if (!fs.existsSync(fallback)) fs.mkdirSync(fallback, { recursive: true });
+      console.log(`  Created missing directory: ${fallback}`);
+    } catch (err) {
+      console.log(`  Warning: failed to create ${fallback}: ${err}`);
+    }
+    return fallback;
+  }
   return path.join(ROOT_DIR, match);
 })();
 const DATA_DIR = path.join(__dirname, "..", "data");
@@ -24,8 +33,25 @@ function encodeItemId(id: string): string {
   return Buffer.from(id).toString("base64url");
 }
 
-function readJSON<T>(filePath: string): T {
-  return JSON.parse(fs.readFileSync(filePath, "utf-8"));
+function readJSON<T>(filePath: string, defaultValue?: T): T {
+  try {
+    if (!fs.existsSync(filePath)) {
+      if (defaultValue !== undefined) {
+        console.log(`  Notice: missing ${filePath}, using default`);
+        return defaultValue;
+      }
+      throw new Error(`File not found: ${filePath}`);
+    }
+    return JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  } catch (err) {
+    if (defaultValue !== undefined) {
+      console.log(
+        `  Warning: failed to read ${filePath}, using default: ${err}`,
+      );
+      return defaultValue;
+    }
+    throw err;
+  }
 }
 
 function writeJSON(filePath: string, data: unknown) {
@@ -112,6 +138,50 @@ async function main() {
         const cmd = `powershell -NoProfile -Command "Expand-Archive -Force -LiteralPath '${src}' -DestinationPath '${dest}'"`;
         console.log(`  Extracting ${file} -> ${dest}`);
         execSync(cmd, { stdio: "ignore" });
+
+        // If the archive extracted into a single top-level folder
+        // (e.g. dest/nei_export_2.7.4/...), move its children up one level
+        // so the desired layout is dest/recipes rather than dest/nei_export_2.7.4/recipes
+        try {
+          const entries = fs.readdirSync(dest);
+          if (entries.length === 1) {
+            const single = path.join(dest, entries[0]);
+            if (fs.existsSync(single) && fs.statSync(single).isDirectory()) {
+              for (const name of fs.readdirSync(single)) {
+                const srcChild = path.join(single, name);
+                const dstChild = path.join(dest, name);
+                // Prefer rename (fast) and fallback to copy+remove if it fails
+                try {
+                  fs.renameSync(srcChild, dstChild);
+                } catch (moveErr) {
+                  // fallback: copy recursively
+                  const copyRecursive = (s: string, d: string) => {
+                    const st = fs.statSync(s);
+                    if (st.isDirectory()) {
+                      ensureDir(d);
+                      for (const child of fs.readdirSync(s))
+                        copyRecursive(path.join(s, child), path.join(d, child));
+                    } else {
+                      fs.copyFileSync(s, d);
+                    }
+                  };
+                  copyRecursive(srcChild, dstChild);
+                }
+              }
+              // Remove the now-empty single folder
+              try {
+                fs.rmdirSync(single);
+              } catch (rmErr) {
+                // ignore
+              }
+              console.log(`  Flattened ${single} -> ${dest}`);
+            }
+          }
+        } catch (flattenErr) {
+          console.log(
+            `  Warning: failed to flatten extracted contents: ${flattenErr}`,
+          );
+        }
       } catch (err) {
         console.log(`  Failed to extract ${file}: ${err}`);
       }
@@ -139,6 +209,7 @@ async function main() {
   console.log("Step 1: Processing items...");
   const rawItems = readJSON<Record<string, any>>(
     path.join(NEI_DIR, "items.json"),
+    {},
   );
   const itemIds = Object.keys(rawItems);
   console.log(`  Found ${itemIds.length} items`);
@@ -166,9 +237,12 @@ async function main() {
   // Step 2: Process recipes and build per-item references
   console.log("\nStep 2: Processing recipes...");
   const recipesDir = path.join(NEI_DIR, "recipes");
-  const recipeFiles = fs
-    .readdirSync(recipesDir)
-    .filter((f) => f.endsWith(".json"));
+  let recipeFiles: string[] = [];
+  if (fs.existsSync(recipesDir)) {
+    recipeFiles = fs.readdirSync(recipesDir).filter((f) => f.endsWith(".json"));
+  } else {
+    console.log(`  Notice: recipes directory not found: ${recipesDir}`);
+  }
   console.log(`  Found ${recipeFiles.length} recipe files`);
 
   const CHUNK_SIZE = 500;
@@ -184,7 +258,7 @@ async function main() {
 
   for (const file of recipeFiles) {
     const machineId = file.replace(".json", "");
-    const recipes = readJSON<any[]>(path.join(recipesDir, file));
+    const recipes = readJSON<any[]>(path.join(recipesDir, file), []);
     totalRecipes += recipes.length;
 
     // Chunk recipes
@@ -280,6 +354,7 @@ async function main() {
   console.log("\nStep 4: Processing fluids...");
   const rawFluids = readJSON<Record<string, any>>(
     path.join(NEI_DIR, "fluids.json"),
+    {},
   );
   const fluidsIndex: { name: string; displayName: string }[] = [];
   for (const [name, fluid] of Object.entries(rawFluids)) {
@@ -313,12 +388,15 @@ async function main() {
   console.log("\nStep 6: Copying small datasets...");
 
   // Materials
-  const materials = readJSON<any[]>(path.join(NEI_DIR, "gt_materials.json"));
+  const materials = readJSON<any[]>(
+    path.join(NEI_DIR, "gt_materials.json"),
+    [],
+  );
   writeJSON(path.join(DATA_DIR, "materials.json"), materials);
   console.log(`  Materials: ${materials.length}`);
 
   // Bees
-  const beeData = readJSON<any>(path.join(NEI_DIR, "bee_breeding.json"));
+  const beeData = readJSON<any>(path.join(NEI_DIR, "bee_breeding.json"), {});
   writeJSON(path.join(DATA_DIR, "bee-mutations.json"), beeData.mutations || []);
   writeJSON(path.join(DATA_DIR, "bee-species.json"), beeData.species || []);
   console.log(
@@ -326,19 +404,19 @@ async function main() {
   );
 
   // Blood Magic
-  const bloodMagic = readJSON<any>(path.join(NEI_DIR, "blood_magic.json"));
+  const bloodMagic = readJSON<any>(path.join(NEI_DIR, "blood_magic.json"), {});
   writeJSON(path.join(DATA_DIR, "blood-magic.json"), bloodMagic);
   console.log(
     `  Blood Magic: ${(bloodMagic.altarRecipes || []).length} altar, ${(bloodMagic.alchemyRecipes || []).length} alchemy`,
   );
 
   // Ore veins
-  const oreVeins = readJSON<any[]>(path.join(NEI_DIR, "ore_veins.json"));
+  const oreVeins = readJSON<any[]>(path.join(NEI_DIR, "ore_veins.json"), []);
   writeJSON(path.join(DATA_DIR, "ore-veins.json"), oreVeins);
   console.log(`  Ore veins: ${oreVeins.length}`);
 
   // Small ores
-  const smallOres = readJSON<any[]>(path.join(NEI_DIR, "small_ores.json"));
+  const smallOres = readJSON<any[]>(path.join(NEI_DIR, "small_ores.json"), []);
   writeJSON(path.join(DATA_DIR, "small-ores.json"), smallOres);
   console.log(`  Small ores: ${smallOres.length}`);
 
