@@ -1,7 +1,18 @@
 import * as fs from "fs";
 import * as path from "path";
 
-const NEI_DIR = path.join(__dirname, "..", "nei_export");
+const ROOT_DIR = path.join(__dirname, "..");
+const NEI_DIR = (() => {
+  const match = fs
+    .readdirSync(ROOT_DIR)
+    .find(
+      (f) =>
+        f.startsWith("nei_export") &&
+        fs.statSync(path.join(ROOT_DIR, f)).isDirectory(),
+    );
+  if (!match) throw new Error("No nei_export* directory found in project root");
+  return path.join(ROOT_DIR, match);
+})();
 const DATA_DIR = path.join(__dirname, "..", "data");
 
 function ensureDir(dir: string) {
@@ -89,7 +100,7 @@ async function main() {
   // Step 1: Load and index items
   console.log("Step 1: Processing items...");
   const rawItems = readJSON<Record<string, any>>(
-    path.join(NEI_DIR, "items.json")
+    path.join(NEI_DIR, "items.json"),
   );
   const itemIds = Object.keys(rawItems);
   console.log(`  Found ${itemIds.length} items`);
@@ -191,7 +202,9 @@ async function main() {
       }
     }
 
-    process.stdout.write(`  Processed ${machineId} (${recipes.length} recipes)\n`);
+    process.stdout.write(
+      `  Processed ${machineId} (${recipes.length} recipes)\n`,
+    );
   }
 
   console.log(`\n  Total recipes: ${totalRecipes}`);
@@ -228,7 +241,7 @@ async function main() {
   // Step 4: Process fluids
   console.log("\nStep 4: Processing fluids...");
   const rawFluids = readJSON<Record<string, any>>(
-    path.join(NEI_DIR, "fluids.json")
+    path.join(NEI_DIR, "fluids.json"),
   );
   const fluidsIndex: { name: string; displayName: string }[] = [];
   for (const [name, fluid] of Object.entries(rawFluids)) {
@@ -271,14 +284,14 @@ async function main() {
   writeJSON(path.join(DATA_DIR, "bee-mutations.json"), beeData.mutations || []);
   writeJSON(path.join(DATA_DIR, "bee-species.json"), beeData.species || []);
   console.log(
-    `  Bee mutations: ${(beeData.mutations || []).length}, species: ${(beeData.species || []).length}`
+    `  Bee mutations: ${(beeData.mutations || []).length}, species: ${(beeData.species || []).length}`,
   );
 
   // Blood Magic
   const bloodMagic = readJSON<any>(path.join(NEI_DIR, "blood_magic.json"));
   writeJSON(path.join(DATA_DIR, "blood-magic.json"), bloodMagic);
   console.log(
-    `  Blood Magic: ${(bloodMagic.altarRecipes || []).length} altar, ${(bloodMagic.alchemyRecipes || []).length} alchemy`
+    `  Blood Magic: ${(bloodMagic.altarRecipes || []).length} altar, ${(bloodMagic.alchemyRecipes || []).length} alchemy`,
   );
 
   // Ore veins
@@ -290,6 +303,35 @@ async function main() {
   const smallOres = readJSON<any[]>(path.join(NEI_DIR, "small_ores.json"));
   writeJSON(path.join(DATA_DIR, "small-ores.json"), smallOres);
   console.log(`  Small ores: ${smallOres.length}`);
+
+  // Copy NEI icons into public/icons/items
+  const neiIconsDir = path.join(NEI_DIR, "icons");
+  const publicIconsDir = path.join(ROOT_DIR, "public", "icons", "items");
+  ensureDir(publicIconsDir);
+  if (fs.existsSync(neiIconsDir)) {
+    console.log(`  Copying icons from ${neiIconsDir} to ${publicIconsDir}`);
+    // Prefer built-in cpSync when available (Node 16.7+), otherwise do a recursive copy
+    if ((fs as any).cpSync) {
+      (fs as any).cpSync(neiIconsDir, publicIconsDir, { recursive: true });
+    } else {
+      const copyRecursive = (src: string, dest: string) => {
+        for (const name of fs.readdirSync(src)) {
+          const s = path.join(src, name);
+          const d = path.join(dest, name);
+          const st = fs.statSync(s);
+          if (st.isDirectory()) {
+            ensureDir(d);
+            copyRecursive(s, d);
+          } else {
+            fs.copyFileSync(s, d);
+          }
+        }
+      };
+      copyRecursive(neiIconsDir, publicIconsDir);
+    }
+  } else {
+    console.log(`  NEI icons directory not found: ${neiIconsDir}`);
+  }
 
   console.log("\n=== Processing complete! ===");
   console.log(`Items: ${itemCount}`);
