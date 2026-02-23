@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import * as path from "path";
+import { execSync } from "child_process";
 
 const ROOT_DIR = path.join(__dirname, "..");
 const NEI_DIR = (() => {
@@ -87,9 +88,46 @@ function getMachineCategory(machineId: string): string {
 async function main() {
   console.log("=== GregDex Data Processing ===\n");
 
-  // Clean output dir
+  // Step 0: Extract zip archives if present
+  const extractZipPattern = (globPattern: string, destDirName: string) => {
+    const files = fs.readdirSync(ROOT_DIR).filter((f) => f.match(globPattern));
+    if (files.length === 0) {
+      console.log(`  No archives found for pattern ${globPattern}`);
+      return;
+    }
+    for (const file of files) {
+      const src = path.join(ROOT_DIR, file);
+      const dest = path.join(ROOT_DIR, destDirName);
+      // If the destination already exists and is non-empty, skip extraction
+      if (fs.existsSync(dest) && fs.readdirSync(dest).length > 0) {
+        console.log(
+          `  Destination ${destDirName} already exists and is non-empty; skipping extraction of ${file}`,
+        );
+        continue;
+      }
+      ensureDir(dest);
+      try {
+        // Use PowerShell's Expand-Archive on Windows for reliable extraction
+        // Quote paths to handle spaces
+        const cmd = `powershell -NoProfile -Command "Expand-Archive -Force -LiteralPath '${src}' -DestinationPath '${dest}'"`;
+        console.log(`  Extracting ${file} -> ${dest}`);
+        execSync(cmd, { stdio: "ignore" });
+      } catch (err) {
+        console.log(`  Failed to extract ${file}: ${err}`);
+      }
+    }
+  };
+
+  extractZipPattern("^betterquesting.*\\.zip$", "betterquesting");
+  extractZipPattern("^nei_export.*\\.zip$", "nei_export");
+
+  // Clean output dir (ignore errors from locked files)
   if (fs.existsSync(DATA_DIR)) {
-    fs.rmSync(DATA_DIR, { recursive: true });
+    try {
+      fs.rmSync(DATA_DIR, { recursive: true });
+    } catch (err) {
+      console.log(`  Warning: failed to remove ${DATA_DIR}: ${err}`);
+    }
   }
   ensureDir(DATA_DIR);
   ensureDir(path.join(DATA_DIR, "items"));
@@ -307,30 +345,39 @@ async function main() {
   // Copy NEI icons into public/icons/items
   const neiIconsDir = path.join(NEI_DIR, "icons");
   const publicIconsDir = path.join(ROOT_DIR, "public", "icons", "items");
-  ensureDir(publicIconsDir);
-  if (fs.existsSync(neiIconsDir)) {
-    console.log(`  Copying icons from ${neiIconsDir} to ${publicIconsDir}`);
-    // Prefer built-in cpSync when available (Node 16.7+), otherwise do a recursive copy
-    if ((fs as any).cpSync) {
-      (fs as any).cpSync(neiIconsDir, publicIconsDir, { recursive: true });
-    } else {
-      const copyRecursive = (src: string, dest: string) => {
-        for (const name of fs.readdirSync(src)) {
-          const s = path.join(src, name);
-          const d = path.join(dest, name);
-          const st = fs.statSync(s);
-          if (st.isDirectory()) {
-            ensureDir(d);
-            copyRecursive(s, d);
-          } else {
-            fs.copyFileSync(s, d);
-          }
-        }
-      };
-      copyRecursive(neiIconsDir, publicIconsDir);
-    }
-  } else {
+  if (!fs.existsSync(neiIconsDir)) {
     console.log(`  NEI icons directory not found: ${neiIconsDir}`);
+  } else {
+    const destExistsAndNonEmpty =
+      fs.existsSync(publicIconsDir) &&
+      fs.readdirSync(publicIconsDir).length > 0;
+    if (destExistsAndNonEmpty) {
+      console.log(
+        `  Icons already present in ${publicIconsDir}; skipping copy`,
+      );
+    } else {
+      console.log(`  Copying icons from ${neiIconsDir} to ${publicIconsDir}`);
+      ensureDir(publicIconsDir);
+      // Prefer built-in cpSync when available (Node 16.7+), otherwise do a recursive copy
+      if ((fs as any).cpSync) {
+        (fs as any).cpSync(neiIconsDir, publicIconsDir, { recursive: true });
+      } else {
+        const copyRecursive = (src: string, dest: string) => {
+          for (const name of fs.readdirSync(src)) {
+            const s = path.join(src, name);
+            const d = path.join(dest, name);
+            const st = fs.statSync(s);
+            if (st.isDirectory()) {
+              ensureDir(d);
+              copyRecursive(s, d);
+            } else {
+              fs.copyFileSync(s, d);
+            }
+          }
+        };
+        copyRecursive(neiIconsDir, publicIconsDir);
+      }
+    }
   }
 
   console.log("\n=== Processing complete! ===");
