@@ -4,14 +4,15 @@ import { getTrigramIndex, getItemsIndex, getFluidsIndex } from "@/lib/data";
 export async function GET(request: NextRequest) {
   const q = request.nextUrl.searchParams.get("q") || "";
   const limit = parseInt(request.nextUrl.searchParams.get("limit") || "15");
+  const version = request.nextUrl.searchParams.get("version") || undefined;
 
   if (q.length < 2) {
     return NextResponse.json({ results: [] });
   }
 
   const query = q.toLowerCase();
-  const itemsIndex = getItemsIndex();
-  const trigramIndex = getTrigramIndex();
+  const itemsIndex = getItemsIndex(version);
+  const trigramIndex = getTrigramIndex(version);
 
   // Extract trigrams from query
   const queryTrigrams: string[] = [];
@@ -66,7 +67,7 @@ export async function GET(request: NextRequest) {
   }
 
   // Also search fluids
-  const fluidsIndex = getFluidsIndex();
+  const fluidsIndex = getFluidsIndex(version);
   for (const fluid of fluidsIndex) {
     const nameLower = fluid.displayName.toLowerCase();
     if (nameLower.includes(query)) {
@@ -75,7 +76,8 @@ export async function GET(request: NextRequest) {
         displayName: fluid.displayName,
         modId: "",
         type: "fluid",
-        score: nameLower === query ? 300 : nameLower.startsWith(query) ? 150 : 50,
+        score:
+          nameLower === query ? 300 : nameLower.startsWith(query) ? 150 : 50,
       });
     }
   }
@@ -89,6 +91,6 @@ export async function GET(request: NextRequest) {
       headers: {
         "Cache-Control": "public, max-age=3600",
       },
-    }
+    },
   );
 }

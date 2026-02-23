@@ -5,8 +5,9 @@ export async function GET(request: NextRequest) {
   const sort = request.nextUrl.searchParams.get("sort") || "localizedName";
   const dir = request.nextUrl.searchParams.get("dir") || "asc";
   const q = request.nextUrl.searchParams.get("q") || "";
+  const version = request.nextUrl.searchParams.get("version") || undefined;
 
-  let materials = getMaterials();
+  let materials = getMaterials(version);
 
   // Filter
   if (q) {
@@ -15,7 +16,7 @@ export async function GET(request: NextRequest) {
       (m: any) =>
         m.localizedName?.toLowerCase().includes(query) ||
         m.name?.toLowerCase().includes(query) ||
-        m.chemicalFormula?.toLowerCase().includes(query)
+        m.chemicalFormula?.toLowerCase().includes(query),
     );
   }
 
@@ -32,6 +33,6 @@ export async function GET(request: NextRequest) {
 
   return NextResponse.json(
     { materials },
-    { headers: { "Cache-Control": "public, max-age=86400" } }
+    { headers: { "Cache-Control": "public, max-age=86400" } },
   );
 }

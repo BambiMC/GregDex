@@ -1,7 +1,14 @@
 import fs from "fs";
 import path from "path";
+import { GTNH_VERSIONS } from "@/types/versions";
 
-const DATA_DIR = path.join(process.cwd(), "data");
+function getDataDir(version?: string): string {
+  const versionConfig = version
+    ? GTNH_VERSIONS.find((v) => v.id === version)
+    : GTNH_VERSIONS.find((v) => v.isDefault);
+
+  return path.join(process.cwd(), versionConfig?.dataPath || "data");
+}
 
 const cache = new Map<string, unknown>();
 
@@ -20,25 +27,25 @@ export function decodeItemId(encoded: string): string {
   return Buffer.from(encoded, "base64url").toString();
 }
 
-export function getItemsIndex() {
+export function getItemsIndex(version?: string) {
   return readCached<{ id: string; displayName: string; modId: string }[]>(
-    path.join(DATA_DIR, "items-index.json")
+    path.join(getDataDir(version), "items-index.json"),
   );
 }
 
-export function getItem(encodedId: string) {
-  const filePath = path.join(DATA_DIR, "items", `${encodedId}.json`);
+export function getItem(encodedId: string, version?: string) {
+  const filePath = path.join(getDataDir(version), "items", `${encodedId}.json`);
   if (!fs.existsSync(filePath)) return null;
   return readCached<any>(filePath);
 }
 
-export function getFluidsIndex() {
+export function getFluidsIndex(version?: string) {
   return readCached<{ name: string; displayName: string }[]>(
-    path.join(DATA_DIR, "fluids-index.json")
+    path.join(getDataDir(version), "fluids-index.json"),
   );
 }
 
-export function getMachines() {
+export function getMachines(version?: string) {
   return readCached<
     {
       id: string;
@@ -47,52 +54,58 @@ export function getMachines() {
       chunks: number;
       category: string;
     }[]
-  >(path.join(DATA_DIR, "machines.json"));
+  >(path.join(getDataDir(version), "machines.json"));
 }
 
-export function getRecipeChunk(machineId: string, chunk: number) {
+export function getRecipeChunk(
+  machineId: string,
+  chunk: number,
+  version?: string,
+) {
   const filePath = path.join(
-    DATA_DIR,
+    getDataDir(version),
     "recipes",
     machineId,
-    `chunk-${chunk}.json`
+    `chunk-${chunk}.json`,
   );
   if (!fs.existsSync(filePath)) return [];
   return readCached<any[]>(filePath);
 }
 
-export function getMaterials() {
-  return readCached<any[]>(path.join(DATA_DIR, "materials.json"));
+export function getMaterials(version?: string) {
+  return readCached<any[]>(path.join(getDataDir(version), "materials.json"));
 }
 
-export function getBeeMutations() {
-  return readCached<any[]>(path.join(DATA_DIR, "bee-mutations.json"));
-}
-
-export function getBeeSpecies() {
-  return readCached<any[]>(path.join(DATA_DIR, "bee-species.json"));
-}
-
-export function getOreVeins() {
-  return readCached<any[]>(path.join(DATA_DIR, "ore-veins.json"));
-}
-
-export function getSmallOres() {
-  return readCached<any[]>(path.join(DATA_DIR, "small-ores.json"));
-}
-
-export function getBloodMagic() {
-  return readCached<any>(path.join(DATA_DIR, "blood-magic.json"));
-}
-
-export function getTrigramIndex() {
-  return readCached<Record<string, number[]>>(
-    path.join(DATA_DIR, "search", "items-trigrams.json")
+export function getBeeMutations(version?: string) {
+  return readCached<any[]>(
+    path.join(getDataDir(version), "bee-mutations.json"),
   );
 }
 
-export function getItemsByMod() {
+export function getBeeSpecies(version?: string) {
+  return readCached<any[]>(path.join(getDataDir(version), "bee-species.json"));
+}
+
+export function getOreVeins(version?: string) {
+  return readCached<any[]>(path.join(getDataDir(version), "ore-veins.json"));
+}
+
+export function getSmallOres(version?: string) {
+  return readCached<any[]>(path.join(getDataDir(version), "small-ores.json"));
+}
+
+export function getBloodMagic(version?: string) {
+  return readCached<any>(path.join(getDataDir(version), "blood-magic.json"));
+}
+
+export function getTrigramIndex(version?: string) {
+  return readCached<Record<string, number[]>>(
+    path.join(getDataDir(version), "search", "items-trigrams.json"),
+  );
+}
+
+export function getItemsByMod(version?: string) {
   return readCached<Record<string, { id: string; displayName: string }[]>>(
-    path.join(DATA_DIR, "search", "items-by-mod.json")
+    path.join(getDataDir(version), "search", "items-by-mod.json"),
   );
 }

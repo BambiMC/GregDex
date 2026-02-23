@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import AppShell from "@/components/layout/AppShell";
+import { VersionProvider } from "@/contexts/VersionContext";
 
 export const metadata: Metadata = {
   title: "GregDex - GTNH Wiki",
@@ -33,7 +34,9 @@ export default function RootLayout({
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
       </head>
       <body className="font-sans antialiased">
-        <AppShell>{children}</AppShell>
+        <VersionProvider>
+          <AppShell>{children}</AppShell>
+        </VersionProvider>
       </body>
     </html>
   );

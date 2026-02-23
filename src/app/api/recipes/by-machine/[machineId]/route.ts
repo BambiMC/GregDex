@@ -3,13 +3,14 @@ import { getMachines, getRecipeChunk } from "@/lib/data";
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: Promise<{ machineId: string }> }
+  { params }: { params: Promise<{ machineId: string }> },
 ) {
   const { machineId } = await params;
   const page = parseInt(request.nextUrl.searchParams.get("page") || "1");
   const limit = parseInt(request.nextUrl.searchParams.get("limit") || "20");
+  const version = request.nextUrl.searchParams.get("version") || undefined;
 
-  const machines = getMachines();
+  const machines = getMachines(version);
   const machine = machines.find((m) => m.id === machineId);
 
   if (!machine) {
@@ -25,7 +26,7 @@ export async function GET(
 
   const recipes: any[] = [];
   for (let c = startChunk; c <= endChunk && c < machine.chunks; c++) {
-    const chunk = getRecipeChunk(machineId, c);
+    const chunk = getRecipeChunk(machineId, c, version);
     const chunkStart = c * CHUNK_SIZE;
     for (let i = 0; i < chunk.length; i++) {
       const globalIdx = chunkStart + i;
@@ -43,6 +44,6 @@ export async function GET(
       page,
       totalPages: Math.ceil(machine.recipeCount / limit),
     },
-    { headers: { "Cache-Control": "public, max-age=86400" } }
+    { headers: { "Cache-Control": "public, max-age=86400" } },
   );
 }

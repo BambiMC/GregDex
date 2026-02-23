@@ -5,14 +5,15 @@ export async function GET(request: NextRequest) {
   const page = parseInt(request.nextUrl.searchParams.get("page") || "1");
   const limit = parseInt(request.nextUrl.searchParams.get("limit") || "60");
   const mod = request.nextUrl.searchParams.get("mod") || "";
+  const version = request.nextUrl.searchParams.get("version") || undefined;
 
   let items: { id: string; displayName: string; modId?: string }[];
 
   if (mod) {
-    const byMod = getItemsByMod();
+    const byMod = getItemsByMod(version);
     items = (byMod[mod] || []).map((i) => ({ ...i, modId: mod }));
   } else {
-    items = getItemsIndex();
+    items = getItemsIndex(version);
   }
 
   const total = items.length;
@@ -22,6 +23,6 @@ export async function GET(request: NextRequest) {
 
   return NextResponse.json(
     { data, total, page, totalPages },
-    { headers: { "Cache-Control": "public, max-age=3600" } }
+    { headers: { "Cache-Control": "public, max-age=3600" } },
   );
 }

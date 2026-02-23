@@ -3,12 +3,9 @@
 import Link from "next/link";
 import { useState } from "react";
 import GlobalSearch from "@/components/search/GlobalSearch";
+import VersionSelector from "@/components/VersionSelector";
 
-export default function Header({
-  onMenuToggle,
-}: {
-  onMenuToggle: () => void;
-}) {
+export default function Header({ onMenuToggle }: { onMenuToggle: () => void }) {
   const [searchOpen, setSearchOpen] = useState(false);
 
   return (
@@ -70,12 +67,8 @@ export default function Header({
             </kbd>
           </button>
 
-          {/* GTNH badge */}
-          <div className="hidden md:flex items-center gap-1.5 text-xs text-text-muted">
-            <span className="px-2 py-0.5 rounded-full bg-accent-primary/10 text-accent-primary border border-accent-primary/20">
-              GTNH
-            </span>
-          </div>
+          {/* Version selector */}
+          <VersionSelector />
         </div>
       </header>
       <GlobalSearch open={searchOpen} onClose={() => setSearchOpen(false)} />

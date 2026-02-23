@@ -2,11 +2,12 @@ import { NextRequest, NextResponse } from "next/server";
 import { getItem, getRecipeChunk } from "@/lib/data";
 
 export async function GET(
-  _request: NextRequest,
-  { params }: { params: Promise<{ itemId: string }> }
+  request: NextRequest,
+  { params }: { params: Promise<{ itemId: string }> },
 ) {
   const { itemId } = await params;
-  const item = getItem(itemId);
+  const version = request.nextUrl.searchParams.get("version") || undefined;
+  const item = getItem(itemId, version);
 
   if (!item) {
     return NextResponse.json({ error: "Item not found" }, { status: 404 });
@@ -21,14 +22,14 @@ export async function GET(
   const inputRefs = (item.recipesAsInput || []).slice(0, 50);
 
   for (const ref of outputRefs) {
-    const chunk = getRecipeChunk(ref.machine, ref.chunk);
+    const chunk = getRecipeChunk(ref.machine, ref.chunk, version);
     if (chunk[ref.index]) {
       outputRecipes.push(chunk[ref.index]);
     }
   }
 
   for (const ref of inputRefs) {
-    const chunk = getRecipeChunk(ref.machine, ref.chunk);
+    const chunk = getRecipeChunk(ref.machine, ref.chunk, version);
     if (chunk[ref.index]) {
       inputRecipes.push(chunk[ref.index]);
     }
@@ -42,6 +43,6 @@ export async function GET(
       totalOutputRecipes: (item.recipesAsOutput || []).length,
       totalInputRecipes: (item.recipesAsInput || []).length,
     },
-    { headers: { "Cache-Control": "public, max-age=86400" } }
+    { headers: { "Cache-Control": "public, max-age=86400" } },
   );
 }
