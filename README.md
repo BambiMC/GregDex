@@ -2,6 +2,20 @@
 
 A comprehensive item database and recipe viewer for GregTech modpack.
 
+## Data Processing
+
+Run `npm run process-data` to process exported zip files (BetterQuesting, NEI) into JSON data:
+
+```bash
+# Process data from zip exports
+npm run process-data
+```
+
+This command:
+- Reads from `betterquesting_*.zip` and `nei_export_*.zip` files
+- Processes and outputs to the `data/` directory
+- Generates indexed JSON files for all items, fluids, recipes, and metadata
+
 ## Quick Start
 
 - **Install dependencies**: `npm install`
@@ -19,7 +33,3 @@ A comprehensive item database and recipe viewer for GregTech modpack.
 ## Development
 
 Built with Next.js, React, TypeScript, and TailwindCSS.
-
-## Data Processing
-
-Run `npm run process-data` to update the item and recipe database from exported zip files.
