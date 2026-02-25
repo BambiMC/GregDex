@@ -29,6 +29,31 @@ function ensureDir(dir: string) {
   fs.mkdirSync(dir, { recursive: true });
 }
 
+function extractZipCrossPlatform(zipPath: string, destPath: string): void {
+  try {
+    // Try using unzip command first (most common on Unix systems)
+    execSync(`unzip -q "${zipPath}" -d "${destPath}"`, { stdio: "ignore" });
+  } catch (unzipError) {
+    try {
+      // Fallback to Python's zipfile module
+      execSync(
+        `python3 -c "import zipfile; zipfile.ZipFile('${zipPath}').extractall('${destPath}')"`,
+        { stdio: "ignore" },
+      );
+    } catch (pythonError) {
+      try {
+        // Last resort: use PowerShell on Windows
+        const cmd = `powershell -NoProfile -Command "Expand-Archive -Force -LiteralPath '${zipPath}' -DestinationPath '${destPath}'"`;
+        execSync(cmd, { stdio: "ignore" });
+      } catch (powershellError) {
+        throw new Error(
+          `Failed to extract zip. Tried unzip, python3, and powershell. Errors: ${unzipError}, ${pythonError}, ${powershellError}`,
+        );
+      }
+    }
+  }
+}
+
 function encodeItemId(id: string): string {
   return Buffer.from(id).toString("base64url");
 }
@@ -133,11 +158,8 @@ async function main() {
       }
       ensureDir(dest);
       try {
-        // Use PowerShell's Expand-Archive on Windows for reliable extraction
-        // Quote paths to handle spaces
-        const cmd = `powershell -NoProfile -Command "Expand-Archive -Force -LiteralPath '${src}' -DestinationPath '${dest}'"`;
         console.log(`  Extracting ${file} -> ${dest}`);
-        execSync(cmd, { stdio: "ignore" });
+        extractZipCrossPlatform(src, dest);
 
         // If the archive extracted into a single top-level folder
         // (e.g. dest/nei_export_2.7.4/...), move its children up one level
