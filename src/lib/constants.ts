@@ -7,6 +7,7 @@ export const NAV_ITEMS = [
   { href: "/bees", label: "Bees", icon: "bug" },
   { href: "/ores", label: "Ores", icon: "mountain" },
   { href: "/blood-magic", label: "Blood Magic", icon: "droplet" },
+  { href: "/saved", label: "Gespeichert", icon: "bookmark" },
 ] as const;
 
 export const DIMENSIONS = [

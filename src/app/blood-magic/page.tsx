@@ -93,7 +93,6 @@ export default function BloodMagicPage() {
                   {/* Input */}
                   <Link
                     href={`/items/${createReadableItemId(recipe.input.id)}`}
-                    title={recipe.input.displayName}
                   >
                     <div className="item-slot !w-10 !h-10 group/slot">
                       <ItemIcon
@@ -127,7 +126,6 @@ export default function BloodMagicPage() {
                   {/* Output */}
                   <Link
                     href={`/items/${createReadableItemId(recipe.output.id)}`}
-                    title={recipe.output.displayName}
                   >
                     <div className="item-slot !w-10 !h-10 group/slot">
                       <ItemIcon
@@ -174,7 +172,6 @@ export default function BloodMagicPage() {
                 <div className="flex items-center gap-3 mb-2">
                   <Link
                     href={`/items/${createReadableItemId(recipe.output.id)}`}
-                    title={recipe.output.displayName}
                   >
                     <div className="item-slot !w-8 !h-8 group/slot">
                       <ItemIcon
@@ -204,7 +201,6 @@ export default function BloodMagicPage() {
                     <Link
                       key={j}
                       href={`/items/${createReadableItemId(input.id)}`}
-                      title={`${input.displayName} x${input.amount}`}
                     >
                       <div className="item-slot !w-8 !h-8 group/slot">
                         <ItemIcon

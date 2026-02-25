@@ -8,6 +8,7 @@ import {
   getMachineDisplayName,
 } from "@/lib/format";
 import ItemIcon from "@/components/ItemIcon";
+import Tooltip from "@/components/ui/Tooltip";
 import { createReadableItemId } from "@/lib/utils";
 
 function encodeId(id: string): string {
@@ -23,10 +24,7 @@ function ItemSlot({
     return <div className="item-slot !w-10 !h-10 opacity-30" />;
   }
   return (
-    <Link
-      href={`/items/${createReadableItemId(item.id)}`}
-      title={item.displayName}
-    >
+    <Link href={`/items/${createReadableItemId(item.id)}`}>
       <div className="item-slot !w-10 !h-10 group/slot relative">
         <ItemIcon itemId={item.id} displayName={item.displayName} size={32} />
         {item.amount > 1 && (
@@ -57,15 +55,14 @@ function FluidSlot({
   if (fluidId === undefined || fluidId === null) {
     console.log("Undefined fluid detected:", fluid);
     return (
-      <div
-        className="item-slot !w-10 !h-10 bg-accent-secondary/10 border-accent-secondary/30"
-        title={`Unknown Fluid (${fluid.amount}L)`}
-      >
-        <span className="text-[9px] text-accent-secondary">??</span>
-        <span className="absolute -bottom-0.5 -right-0.5 text-[8px] font-bold text-accent-secondary bg-bg-primary px-0.5 rounded">
-          {fluid.amount}L
-        </span>
-      </div>
+      <Tooltip content={`Unknown Fluid (${fluid.amount}L)`}>
+        <div className="item-slot !w-10 !h-10 bg-accent-secondary/10 border-accent-secondary/30">
+          <span className="text-[9px] text-accent-secondary">??</span>
+          <span className="absolute -bottom-0.5 -right-0.5 text-[8px] font-bold text-accent-secondary bg-bg-primary px-0.5 rounded">
+            {fluid.amount}L
+          </span>
+        </div>
+      </Tooltip>
     );
   }
 
@@ -84,10 +81,11 @@ function FluidSlot({
   return (
     <Link
       href={`/fluids/${createReadableFluidId(fluidId)}`}
-      title={`${fluid.displayName} (${fluid.amount}L)`}
       className="cursor-pointer hover:border-accent-secondary/50 transition-colors"
     >
-      {fluidContent}
+      <Tooltip content={`${fluid.displayName} (${fluid.amount}L)`}>
+        {fluidContent}
+      </Tooltip>
     </Link>
   );
 }

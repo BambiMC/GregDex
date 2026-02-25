@@ -4,6 +4,9 @@ import { useState, useEffect, use } from "react";
 import Link from "next/link";
 import RecipeCard from "@/components/recipes/RecipeCard";
 import ItemIcon from "@/components/ItemIcon";
+import SaveButton from "@/components/ui/SaveButton";
+import { useUserData } from "@/hooks/useUserData";
+import { useVersion } from "@/contexts/VersionContext";
 
 function encodeId(id: string): string {
   return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
@@ -18,13 +21,29 @@ export default function ItemDetailPage({
   const [data, setData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<"output" | "input">("output");
+  const { addToHistory } = useUserData();
+  const { currentVersion } = useVersion();
 
   useEffect(() => {
     async function load() {
       try {
         const res = await fetch(`/api/items/${itemId}`);
         if (res.ok) {
-          setData(await res.json());
+          const itemData = await res.json();
+          setData(itemData);
+
+          // Add to view history
+          if (itemData.item) {
+            addToHistory({
+              id: itemData.item.id,
+              type: "item",
+              displayName: itemData.item.displayName,
+              version: currentVersion,
+              metadata: {
+                modId: itemData.item.modId,
+              },
+            });
+          }
         }
       } catch {
         // ignore
@@ -33,7 +52,7 @@ export default function ItemDetailPage({
       }
     }
     load();
-  }, [itemId]);
+  }, [itemId, addToHistory, currentVersion]);
 
   if (loading) {
     return (
@@ -59,7 +78,13 @@ export default function ItemDetailPage({
     );
   }
 
-  const { item, outputRecipes, inputRecipes, totalOutputRecipes, totalInputRecipes } = data;
+  const {
+    item,
+    outputRecipes,
+    inputRecipes,
+    totalOutputRecipes,
+    totalInputRecipes,
+  } = data;
 
   return (
     <div className="p-4 sm:p-6 lg:p-8">
@@ -75,35 +100,52 @@ export default function ItemDetailPage({
 
         {/* Header */}
         <div className="bg-bg-tertiary border border-border-default rounded-xl p-5 mb-6">
-          <div className="flex items-start gap-4">
-            <div className="item-slot !w-12 !h-12 shrink-0">
-              <ItemIcon itemId={item.id} displayName={item.displayName} size={40} />
-            </div>
-            <div>
-              <h1 className="text-xl font-bold text-text-primary">
-                {item.displayName}
-              </h1>
-              <div className="flex flex-wrap items-center gap-2 mt-2">
-                <span className="px-2 py-0.5 rounded-full text-xs bg-accent-primary/10 text-accent-primary border border-accent-primary/20">
-                  {item.modId}
-                </span>
-                <span className="text-xs text-text-muted font-mono">
-                  {item.id}
-                </span>
+          <div className="flex items-start justify-between gap-4">
+            <div className="flex items-start gap-4">
+              <div className="item-slot !w-12 !h-12 shrink-0">
+                <ItemIcon
+                  itemId={item.id}
+                  displayName={item.displayName}
+                  size={40}
+                />
               </div>
-              {item.oreDictNames && item.oreDictNames.length > 0 && (
-                <div className="flex flex-wrap gap-1.5 mt-3">
-                  {item.oreDictNames.map((name: string) => (
-                    <span
-                      key={name}
-                      className="px-2 py-0.5 rounded text-xs bg-accent-purple/10 text-accent-purple border border-accent-purple/20"
-                    >
-                      {name}
-                    </span>
-                  ))}
+              <div>
+                <h1 className="text-xl font-bold text-text-primary">
+                  {item.displayName}
+                </h1>
+                <div className="flex flex-wrap items-center gap-2 mt-2">
+                  <span className="px-2 py-0.5 rounded-full text-xs bg-accent-primary/10 text-accent-primary border border-accent-primary/20">
+                    {item.modId}
+                  </span>
+                  <span className="text-xs text-text-muted font-mono">
+                    {item.id}
+                  </span>
                 </div>
-              )}
+                {item.oreDictNames && item.oreDictNames.length > 0 && (
+                  <div className="flex flex-wrap gap-1.5 mt-3">
+                    {item.oreDictNames.map((name: string) => (
+                      <span
+                        key={name}
+                        className="px-2 py-0.5 rounded text-xs bg-accent-purple/10 text-accent-purple border border-accent-purple/20"
+                      >
+                        {name}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </div>
             </div>
+
+            {/* Save button */}
+            <SaveButton
+              id={item.id}
+              type="item"
+              displayName={item.displayName}
+              version={currentVersion}
+              metadata={{
+                modId: item.modId,
+              }}
+            />
           </div>
         </div>
 

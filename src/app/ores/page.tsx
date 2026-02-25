@@ -3,14 +3,21 @@
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 
-const DIMENSIONS = [
-  { key: "", label: "All" },
+// Important dimensions that get quick filter buttons
+const IMPORTANT_DIMENSIONS = [
   { key: "overworld", label: "Overworld" },
   { key: "nether", label: "Nether" },
   { key: "end", label: "The End" },
-  { key: "end_asteroid", label: "End Asteroids" },
-  { key: "twilight_forest", label: "Twilight Forest" },
 ];
+
+// Dimension display mapping
+const DIMENSION_LABELS: Record<string, string> = {
+  overworld: "Overworld",
+  nether: "Nether",
+  end: "The End",
+  end_asteroid: "End Asteroids",
+  twilight_forest: "Twilight Forest",
+};
 
 interface OreVein {
   name: string;
@@ -43,13 +50,30 @@ export default function OresPage() {
   const [veins, setVeins] = useState<OreVein[]>([]);
   const [smallOres, setSmallOres] = useState<SmallOre[]>([]);
   const [loading, setLoading] = useState(true);
-  const [dimension, setDimension] = useState("");
+  const [selectedDimensions, setSelectedDimensions] = useState<string[]>([]);
+  const [allDimensions, setAllDimensions] = useState<string[]>([]);
   const [tab, setTab] = useState<"veins" | "small">("veins");
   const [search, setSearch] = useState("");
 
+  // Load all available dimensions on mount
+  useEffect(() => {
+    fetch("/api/ores")
+      .then((r) => r.json())
+      .then((d) => {
+        const dimensions = new Set<string>();
+        [...(d.veins || []), ...(d.smallOres || [])].forEach((item: any) => {
+          item.dimensions?.forEach((dim: string) => dimensions.add(dim));
+        });
+        setAllDimensions(Array.from(dimensions).sort());
+      });
+  }, []);
+
   useEffect(() => {
     setLoading(true);
-    const param = dimension ? `?dimension=${dimension}` : "";
+    const param =
+      selectedDimensions.length > 0
+        ? `?dimensions=${selectedDimensions.join(",")}`
+        : "";
     fetch(`/api/ores${param}`)
       .then((r) => r.json())
       .then((d) => {
@@ -57,7 +81,7 @@ export default function OresPage() {
         setSmallOres(d.smallOres || []);
       })
       .finally(() => setLoading(false));
-  }, [dimension]);
+  }, [selectedDimensions]);
 
   const filteredVeins = useMemo(() => {
     if (!search) return veins;
@@ -82,6 +106,27 @@ export default function OresPage() {
     );
   }, [smallOres, search]);
 
+  // Helper functions for dimension selection
+  const toggleDimension = (dimension: string) => {
+    setSelectedDimensions((prev) =>
+      prev.includes(dimension)
+        ? prev.filter((d) => d !== dimension)
+        : [...prev, dimension],
+    );
+  };
+
+  const setQuickFilter = (dimension: string) => {
+    setSelectedDimensions([dimension]);
+  };
+
+  const clearAllDimensions = () => {
+    setSelectedDimensions([]);
+  };
+
+  const selectAllDimensions = () => {
+    setSelectedDimensions(allDimensions);
+  };
+
   // Max Y for bar scaling
   const maxY = 256;
 
@@ -93,22 +138,81 @@ export default function OresPage() {
           {veins.length} ore veins, {smallOres.length} small ores
         </p>
 
-        {/* Dimension tabs */}
-        <div className="flex flex-wrap gap-1 mb-4">
-          {DIMENSIONS.map((dim) => (
+        {/* Quick filter buttons for important dimensions */}
+        <div className="mb-4">
+          <div className="text-sm font-medium text-text-secondary mb-2">
+            Quick Filters:
+          </div>
+          <div className="flex flex-wrap gap-1 mb-3">
             <button
-              key={dim.key}
-              onClick={() => setDimension(dim.key)}
+              onClick={clearAllDimensions}
               className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                dimension === dim.key
+                selectedDimensions.length === 0
                   ? "bg-accent-primary/15 text-accent-primary border border-accent-primary/30"
                   : "bg-bg-tertiary text-text-muted border border-border-default hover:bg-bg-elevated"
               }`}
             >
-              {dim.label}
+              All Dimensions
             </button>
-          ))}
+            {IMPORTANT_DIMENSIONS.map((dim) => (
+              <button
+                key={dim.key}
+                onClick={() => setQuickFilter(dim.key)}
+                className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
+                  selectedDimensions.length === 1 &&
+                  selectedDimensions[0] === dim.key
+                    ? "bg-accent-primary/15 text-accent-primary border border-accent-primary/30"
+                    : "bg-bg-tertiary text-text-muted border border-border-default hover:bg-bg-elevated"
+                }`}
+              >
+                {dim.label}
+              </button>
+            ))}
+          </div>
         </div>
+
+        {/* All dimensions checkboxes */}
+        {allDimensions.length > 0 && (
+          <div className="mb-4">
+            <div className="flex items-center justify-between mb-2">
+              <div className="text-sm font-medium text-text-secondary">
+                All Dimensions:
+              </div>
+              <div className="flex gap-2">
+                <button
+                  onClick={selectAllDimensions}
+                  className="text-xs px-2 py-1 bg-bg-tertiary border border-border-default rounded hover:bg-bg-elevated transition-colors"
+                >
+                  Select All
+                </button>
+                <button
+                  onClick={clearAllDimensions}
+                  className="text-xs px-2 py-1 bg-bg-tertiary border border-border-default rounded hover:bg-bg-elevated transition-colors"
+                >
+                  Clear All
+                </button>
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-2">
+              {allDimensions.map((dimension) => (
+                <label
+                  key={dimension}
+                  className="flex items-center gap-1.5 cursor-pointer text-sm"
+                >
+                  <input
+                    type="checkbox"
+                    checked={selectedDimensions.includes(dimension)}
+                    onChange={() => toggleDimension(dimension)}
+                    className="rounded border-border-default bg-bg-tertiary text-accent-primary focus:ring-accent-primary/20"
+                  />
+                  <span className="text-text-primary">
+                    {DIMENSION_LABELS[dimension] || dimension}
+                  </span>
+                </label>
+              ))}
+            </div>
+          </div>
+        )}
 
         <div className="flex gap-4 mb-4">
           <input

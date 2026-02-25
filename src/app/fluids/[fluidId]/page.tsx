@@ -2,6 +2,10 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
+import RecipeCard from "@/components/recipes/RecipeCard";
+import SaveButton from "@/components/ui/SaveButton";
+import { useUserData } from "@/hooks/useUserData";
+import { useVersion } from "@/contexts/VersionContext";
 
 export default function FluidDetailPage({
   params,
@@ -11,13 +15,32 @@ export default function FluidDetailPage({
   const { fluidId } = use(params);
   const [data, setData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
+  const [activeTab, setActiveTab] = useState<"output" | "input">("output");
+  const { addToHistory } = useUserData();
+  const { currentVersion } = useVersion();
 
   useEffect(() => {
     async function load() {
       try {
-        const res = await fetch(`/api/fluids/${fluidId}`);
+        const res = await fetch(
+          `/api/fluids/${fluidId}?version=${currentVersion}`,
+        );
         if (res.ok) {
-          setData(await res.json());
+          const fluidData = await res.json();
+          console.log("Fluid data received:", fluidData);
+          setData(fluidData);
+
+          // Add to view history
+          if (fluidData.fluid) {
+            addToHistory({
+              id: fluidData.fluid.name,
+              type: "fluid",
+              displayName: fluidData.fluid.displayName,
+              version: currentVersion,
+            });
+          }
+        } else {
+          console.error("API response not ok:", res.status, res.statusText);
         }
       } catch (error) {
         console.error("Error loading fluid:", error);
@@ -26,7 +49,7 @@ export default function FluidDetailPage({
       }
     }
     load();
-  }, [fluidId]);
+  }, [fluidId, addToHistory, currentVersion]);
 
   if (loading) {
     return (
@@ -45,14 +68,23 @@ export default function FluidDetailPage({
         <h1 className="text-xl font-bold text-text-primary mb-2">
           Fluid Not Found
         </h1>
-        <Link href="/fluids-gases" className="text-accent-secondary hover:underline">
+        <Link
+          href="/fluids-gases"
+          className="text-accent-secondary hover:underline"
+        >
           Back to Fluids & Gases
         </Link>
       </div>
     );
   }
 
-  const { fluid } = data;
+  const {
+    fluid,
+    outputRecipes = [],
+    inputRecipes = [],
+    totalOutputRecipes = 0,
+    totalInputRecipes = 0,
+  } = data || {};
 
   return (
     <div className="p-4 sm:p-6 lg:p-8">
@@ -68,138 +100,98 @@ export default function FluidDetailPage({
 
         {/* Header */}
         <div className="bg-bg-tertiary border border-border-default rounded-xl p-5 mb-6">
-          <div className="flex items-start gap-4">
-            <div className="w-12 h-12 bg-accent-secondary/20 border border-accent-secondary/30 rounded-lg flex items-center justify-center shrink-0">
-              <span className="text-2xl">💧</span>
-            </div>
-            <div className="flex-1">
-              <h1 className="text-xl font-bold text-text-primary">
-                {fluid.displayName}
-              </h1>
-              <div className="flex flex-wrap items-center gap-2 mt-2">
-                <span className="px-2 py-0.5 rounded-full text-xs bg-accent-secondary/10 text-accent-secondary border border-accent-secondary/20">
-                  Fluid
-                </span>
-                <span className="text-xs text-text-muted font-mono">
-                  {fluid.name}
-                </span>
+          <div className="flex items-start justify-between gap-4">
+            <div className="flex items-start gap-4">
+              <div className="item-slot !w-12 !h-12 shrink-0">
+                <div className="w-full h-full bg-bg-secondary rounded border border-border-default flex items-center justify-center">
+                  <span className="text-xs text-text-muted font-mono">💧</span>
+                </div>
+              </div>
+              <div>
+                <h1 className="text-xl font-bold text-text-primary">
+                  {fluid.displayName}
+                </h1>
+                <div className="flex flex-wrap items-center gap-2 mt-2">
+                  <span className="px-2 py-0.5 rounded-full text-xs bg-accent-primary/10 text-accent-primary border border-accent-primary/20">
+                    Fluid
+                  </span>
+                  <span className="text-xs text-text-muted font-mono">
+                    {fluid.name}
+                  </span>
+                </div>
               </div>
             </div>
+
+            {/* Save button */}
+            <SaveButton
+              id={fluid.name}
+              type="fluid"
+              displayName={fluid.displayName}
+              version={currentVersion}
+            />
           </div>
         </div>
 
-        {/* Information */}
-        <div className="bg-bg-tertiary border border-border-default rounded-xl p-5">
-          <h2 className="text-lg font-semibold text-text-primary mb-3">
-            Fluid Properties
-          </h2>
-          <div className="space-y-3">
-            <div className="flex justify-between items-center py-2 border-b border-border-default">
-              <span className="text-sm text-text-muted">Display Name</span>
-              <span className="text-sm text-text-primary font-medium">
-                {fluid.displayName}
-              </span>
-            </div>
-            <div className="flex justify-between items-center py-2 border-b border-border-default">
-              <span className="text-sm text-text-muted">Internal Name</span>
-              <span className="text-sm text-text-primary font-mono">
-                {fluid.name}
-              </span>
-            </div>
-            <div className="flex justify-between items-center py-2 border-b border-border-default">
-              <span className="text-sm text-text-muted">Fluid Type</span>
-              <span className={`px-2 py-0.5 rounded text-xs ${
-                fluid.name.includes("plasma") || fluid.name.includes("gas") || fluid.name.includes("vapor") || fluid.name.includes("steam")
-                  ? "bg-accent-purple/10 text-accent-purple border border-accent-purple/20"
-                  : fluid.name.includes("molten")
-                  ? "bg-accent-danger/10 text-accent-danger border border-accent-danger/20"
-                  : "bg-accent-primary/10 text-accent-primary border border-accent-primary/20"
-              }`}>
-                {fluid.name.includes("plasma") || fluid.name.includes("gas") || fluid.name.includes("vapor") || fluid.name.includes("steam")
-                  ? "Gas"
-                  : fluid.name.includes("molten")
-                  ? "Molten"
-                  : "Liquid"
-                }
-              </span>
-            </div>
-            <div className="flex justify-between items-center py-2">
-              <span className="text-sm text-text-muted">Category</span>
-              <span className="text-sm text-text-primary">
-                {fluid.name.includes("molten") ? "Molten Metal" : 
-                 fluid.name.includes("plasma") ? "Plasma" :
-                 fluid.name.includes("steam") ? "Steam" :
-                 fluid.name.includes("potion") ? "Potion" :
-                 fluid.name.includes("bio") ? "Biofuel" :
-                 "Industrial Fluid"}
-              </span>
-            </div>
-          </div>
+        {/* Recipe Tabs */}
+        <div className="flex gap-1 mb-4 border-b border-border-default">
+          <button
+            onClick={() => setActiveTab("output")}
+            className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${
+              activeTab === "output"
+                ? "border-accent-primary text-accent-primary"
+                : "border-transparent text-text-muted hover:text-text-secondary"
+            }`}
+          >
+            Recipes ({totalOutputRecipes})
+          </button>
+          <button
+            onClick={() => setActiveTab("input")}
+            className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${
+              activeTab === "input"
+                ? "border-accent-primary text-accent-primary"
+                : "border-transparent text-text-muted hover:text-text-secondary"
+            }`}
+          >
+            Used In ({totalInputRecipes})
+          </button>
         </div>
 
-        {/* Usage Information */}
-        <div className="mt-6 bg-bg-tertiary border border-border-default rounded-xl p-5">
-          <h2 className="text-lg font-semibold text-text-primary mb-3">
-            Usage & Applications
-          </h2>
-          <div className="space-y-4">
-            <div>
-              <h3 className="text-sm font-medium text-text-secondary mb-2">Common Uses</h3>
-              <ul className="text-sm text-text-muted space-y-1">
-                {fluid.name.includes("molten") && (
-                  <>
-                    <li>• Metal processing and alloy creation</li>
-                    <li>• High-temperature industrial processes</li>
-                    <li>• Advanced material fabrication</li>
-                  </>
-                )}
-                {fluid.name.includes("plasma") && (
-                  <>
-                    <li>• Advanced energy generation</li>
-                    <li>• High-tech manufacturing processes</li>
-                    <li>• Fusion reactor applications</li>
-                  </>
-                )}
-                {fluid.name.includes("steam") && (
-                  <>
-                    <li>• Power generation and turbines</li>
-                    <li>• Heat transfer systems</li>
-                    <li>• Industrial process heating</li>
-                  </>
-                )}
-                {fluid.name.includes("fuel") && (
-                  <>
-                    <li>• Combustion engine fuel</li>
-                    <li>• Rocket propulsion systems</li>
-                    <li>• Power plant combustion</li>
-                  </>
-                )}
-                {!fluid.name.includes("molten") && !fluid.name.includes("plasma") && 
-                 !fluid.name.includes("steam") && !fluid.name.includes("fuel") && (
-                  <>
-                    <li>• Chemical processing and reactions</li>
-                    <li>• Industrial cooling systems</li>
-                    <li>• Material synthesis and refinement</li>
-                  </>
-                )}
-              </ul>
-            </div>
-            
-            <div>
-              <h3 className="text-sm font-medium text-text-secondary mb-2">Processing Notes</h3>
-              <p className="text-sm text-text-muted">
-                {fluid.name.includes("molten") 
-                  ? "Handle with extreme caution. Requires specialized high-temperature containment systems and proper cooling procedures."
-                  : fluid.name.includes("plasma")
-                  ? "Requires magnetic containment systems and specialized plasma-handling equipment. Extremely high energy state."
-                  : fluid.name.includes("steam")
-                  ? "High-pressure steam requires proper pressure vessels and safety systems. Monitor temperature and pressure levels."
-                  : "Standard industrial fluid handling procedures apply. Check compatibility with storage materials and processing equipment."
-                }
-              </p>
-            </div>
-          </div>
+        {/* Recipe List */}
+        <div className="space-y-3">
+          {activeTab === "output" &&
+            (outputRecipes.length > 0 ? (
+              outputRecipes.map((recipe: any, i: number) => (
+                <RecipeCard key={i} recipe={recipe} />
+              ))
+            ) : (
+              <div className="text-center py-8 text-text-muted">
+                No recipes produce this fluid
+              </div>
+            ))}
+
+          {activeTab === "input" &&
+            (inputRecipes.length > 0 ? (
+              inputRecipes.map((recipe: any, i: number) => (
+                <RecipeCard key={i} recipe={recipe} />
+              ))
+            ) : (
+              <div className="text-center py-8 text-text-muted">
+                This fluid is not used in any recipes
+              </div>
+            ))}
         </div>
+
+        {/* Show more hint */}
+        {activeTab === "output" && totalOutputRecipes > 50 && (
+          <p className="text-center text-text-muted text-sm mt-4">
+            Showing first 50 of {totalOutputRecipes} recipes
+          </p>
+        )}
+        {activeTab === "input" && totalInputRecipes > 50 && (
+          <p className="text-center text-text-muted text-sm mt-4">
+            Showing first 50 of {totalInputRecipes} uses
+          </p>
+        )}
       </div>
     </div>
   );

@@ -30,6 +30,8 @@ npm run build            # Build for production
 npm start                # Run production server
 ```
 
+It is not needed for run npm run dev, because multiple agents can work on the same codebase simultaneously so there is an instance of the dev server running on http://localhost:3000 at all times.
+
 ## Architecture & Data Structure
 
 ### Data Organization

@@ -42,9 +42,11 @@ export function parseReadableItemId(readableId: string): string {
 export function isReadableItemId(id: string): boolean {
   // Check if this looks like a readable ID (contains hyphens but no colons)
   // OR if it's a simple fluid name without special encoding characters
+  // OR if it contains commas (for fluid names like "1,1dimethylhydrazine")
   const hasHyphensNoColons = id.includes("-") && !id.includes(":");
+  const hasCommas = id.includes(",");
   const isSimpleFluidName = !id.includes(":") && !id.match(/[A-Za-z0-9]{20,}/); // Not base64-like
-  return hasHyphensNoColons || isSimpleFluidName;
+  return hasHyphensNoColons || hasCommas || isSimpleFluidName;
 }
 
 export function getItemsIndex(version?: string) {

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Tooltip from "@/components/ui/Tooltip";
 
 /**
  * Derives the icon filename from an item ID.
@@ -16,22 +17,29 @@ export default function ItemIcon({
   itemId,
   displayName,
   size = 32,
+  showTooltip = true,
 }: {
   itemId: string;
   displayName: string;
   size?: number;
+  showTooltip?: boolean;
 }) {
   const [failed, setFailed] = useState(false);
 
   if (failed) {
     return (
-      <span className="text-[10px] text-text-muted leading-none">
-        {displayName.substring(0, 2)}
-      </span>
+      <Tooltip
+        content={displayName}
+        className={showTooltip ? "" : "pointer-events-none"}
+      >
+        <span className="text-[10px] text-text-muted leading-none">
+          {displayName.substring(0, 2)}
+        </span>
+      </Tooltip>
     );
   }
 
-  return (
+  const iconContent = (
     // eslint-disable-next-line @next/next/no-img-element
     <img
       src={getIconPath(itemId)}
@@ -43,4 +51,10 @@ export default function ItemIcon({
       onError={() => setFailed(true)}
     />
   );
+
+  if (showTooltip) {
+    return <Tooltip content={displayName}>{iconContent}</Tooltip>;
+  }
+
+  return iconContent;
 }
