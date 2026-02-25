@@ -1,0 +1,18 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "build": {
+    "env": {
+      "NODE_OPTIONS": "--max-old-space-size=2048"
+    }
+  },
+  "functions": {
+    "src/app/api/**/*.ts": {
+      "maxDuration": 30
+    }
+  },
+  "buildEnv": {
+    "NEXT_TELEMETRY_DISABLED": "1"
+  }
+}

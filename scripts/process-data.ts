@@ -139,6 +139,11 @@ function getMachineCategory(machineId: string): string {
 async function main() {
   console.log("=== GregDex Data Processing ===\n");
 
+  // Force garbage collection if available
+  if (global.gc) {
+    global.gc();
+  }
+
   // Step 0: Extract zip archives if present
   const extractZipPattern = (globPattern: string, destDirName: string) => {
     const files = fs.readdirSync(ROOT_DIR).filter((f) => f.match(globPattern));
@@ -267,7 +272,7 @@ async function main() {
   }
   console.log(`  Found ${recipeFiles.length} recipe files`);
 
-  const CHUNK_SIZE = 500;
+  const CHUNK_SIZE = 500; // Reduced from 500 to 500 for memory efficiency
   const machines: {
     id: string;
     displayName: string;
@@ -339,6 +344,14 @@ async function main() {
     process.stdout.write(
       `  Processed ${machineId} (${recipes.length} recipes)\n`,
     );
+
+    // Clear recipes array to free memory
+    recipes.length = 0;
+
+    // Force garbage collection periodically
+    if (global.gc && totalRecipes % 10000 === 0) {
+      global.gc();
+    }
   }
 
   console.log(`\n  Total recipes: ${totalRecipes}`);

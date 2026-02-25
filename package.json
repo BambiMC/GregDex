@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "process-data": "tsx scripts/process-data.ts"
+    "dev": "NODE_OPTIONS='--max-old-space-size=4096' next dev --webpack",
+    "build": "NODE_OPTIONS='--max-old-space-size=2048' next build --webpack",
+    "start": "NODE_OPTIONS='--max-old-space-size=2048' next start",
+    "process-data": "NODE_OPTIONS='--max-old-space-size=4096 --expose-gc' tsx scripts/process-data.ts",
+    "build-with-data": "npm run process-data && npm run build"
   },
   "dependencies": {
     "next": "^16.1.6",
