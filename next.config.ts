@@ -1,7 +1,6 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  serverExternalPackages: ["fs", "path"],
   // Use webpack instead of turbopack for better memory control
   webpack: (config, { isServer }) => {
     if (isServer) {
