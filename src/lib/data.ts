@@ -7,33 +7,7 @@ function getDataDir(version?: string): string {
     ? GTNH_VERSIONS.find((v) => v.id === version)
     : GTNH_VERSIONS.find((v) => v.isDefault);
 
-  const basePath = versionConfig?.dataPath || "data";
-  const fullPath = path.join(process.cwd(), basePath);
-
-  // Check if data exists in the expected location
-  if (fs.existsSync(fullPath)) {
-    return fullPath;
-  }
-
-  // Try alternative paths for different deployment environments
-  const alternativePaths = [
-    path.join(process.cwd(), ".next", basePath),
-    path.join("/var/task", basePath),
-    path.join("/vercel/path0", basePath),
-  ];
-
-  for (const altPath of alternativePaths) {
-    if (fs.existsSync(altPath)) {
-      console.log("Found data at alternative path:", altPath);
-      return altPath;
-    }
-  }
-
-  console.error("Data directory not found at any of these paths:", [
-    fullPath,
-    ...alternativePaths,
-  ]);
-  return fullPath; // Return original path as fallback
+  return path.join(process.cwd(), versionConfig?.dataPath || "data");
 }
 
 const cache = new Map<string, unknown>();
