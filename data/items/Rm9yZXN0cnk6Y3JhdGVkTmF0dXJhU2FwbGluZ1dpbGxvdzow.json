@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaSaplingWillow","metadata":0,"displayName":"Crated Willow Sapling","unlocalizedName":"item.cratedNaturaSaplingWillow","id":"Forestry:cratedNaturaSaplingWillow:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":7}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":426}]}

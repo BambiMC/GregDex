@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"jaffaItem","metadata":0,"displayName":"Jaffa","unlocalizedName":"item.jaffaItem","oreDictNames":["foodJaffa"],"id":"harvestcraft:jaffaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":389}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.itemRodLFTRFuel2","metadata":0,"displayName":"LFTR Fuel 2 Rod","unlocalizedName":"item.itemRodLFTRFuel2","oreDictNames":["stickLFTRFuel2"],"id":"miscutils:item.itemRodLFTRFuel2:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"bw.recipe.radhatch","chunk":0,"index":84}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":6856,"displayName":"Silicon Solar Grade (Poly SI) Ore","unlocalizedName":"gt.blockores.6856","oreDictNames":["oreBasaltSiliconSolarGrade"],"id":"gregtech:gt.blockores:6856","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":371},{"machine":"gt.recipe.macerator","chunk":8,"index":146}]}

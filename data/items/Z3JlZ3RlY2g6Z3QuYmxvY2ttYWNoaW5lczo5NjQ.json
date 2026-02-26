@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":964,"displayName":"Density^2","unlocalizedName":"gt.blockmachines.multimachine.adv.implosioncompressor","id":"gregtech:gt.blockmachines:964","recipesAsOutput":[{"machine":"crafting_table","chunk":24,"index":260}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":50}]}

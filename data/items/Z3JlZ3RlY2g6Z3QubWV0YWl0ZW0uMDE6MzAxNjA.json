@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30160,"displayName":"Stargate Crystal Slurry Cell","unlocalizedName":"gt.metaitem.01.30160","oreDictNames":["cellsgcrystalslurry"],"id":"gregtech:gt.metaitem.01:30160","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":158}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":159}]}

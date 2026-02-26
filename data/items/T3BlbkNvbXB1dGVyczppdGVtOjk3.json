@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":97,"displayName":"Texture Picker","unlocalizedName":"item.oc.TexturePicker","oreDictNames":["oc:texturePicker"],"id":"OpenComputers:item:97","recipesAsOutput":[{"machine":"crafting_table","chunk":64,"index":485}],"recipesAsInput":[]}

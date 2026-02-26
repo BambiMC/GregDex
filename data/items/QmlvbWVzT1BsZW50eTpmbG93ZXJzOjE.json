@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers","metadata":1,"displayName":"Swampflower","unlocalizedName":"tile.flowers.swampflower","oreDictNames":["flowerCyan","flowerSwamp"],"id":"BiomesOPlenty:flowers:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":105},{"machine":"gt.recipe.extractor","chunk":0,"index":218}]}

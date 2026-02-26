@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chaiteaItem","metadata":0,"displayName":"Chai Tea","unlocalizedName":"item.chaiteaItem","oreDictNames":["foodChaitea"],"id":"harvestcraft:chaiteaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":176}],"recipesAsInput":[]}

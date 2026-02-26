@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":29,"displayName":"Molten Mana Infused Metal Bucket","unlocalizedName":"item.tconstruct.bucket.Mithril","id":"TConstruct:buckets:29","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":200}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":201}]}

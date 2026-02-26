@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":378,"displayName":"Molten Pulsating Iron Cell","unlocalizedName":"gt.metaitem.99.378","oreDictNames":["cellMoltenPulsatingIron"],"id":"gregtech:gt.metaitem.99:378","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":163}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":164}]}

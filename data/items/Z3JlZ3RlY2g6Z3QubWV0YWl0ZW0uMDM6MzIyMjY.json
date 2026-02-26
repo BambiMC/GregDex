@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32226,"displayName":"Ocean Emulation Upgrade","unlocalizedName":"gt.metaitem.03.32226","oreDictNames":["apiaryUpgrade"],"id":"gregtech:gt.metaitem.03:32226","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":435},{"machine":"crafting_table","chunk":112,"index":381}],"recipesAsInput":[]}

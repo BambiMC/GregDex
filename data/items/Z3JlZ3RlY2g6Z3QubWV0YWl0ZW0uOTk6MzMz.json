@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":333,"displayName":"Molten Astral Silver Cell","unlocalizedName":"gt.metaitem.99.333","oreDictNames":["cellMoltenAstralSilver"],"id":"gregtech:gt.metaitem.99:333","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":217}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":218}]}

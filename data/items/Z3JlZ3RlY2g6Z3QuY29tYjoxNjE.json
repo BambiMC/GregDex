@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":161,"displayName":"Kevlar Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combMV","beeComb"],"id":"gregtech:gt.comb:161","recipesAsOutput":[],"recipesAsInput":[{"machine":"gtpp.recipe.quantumforcesmelter","chunk":0,"index":21}]}

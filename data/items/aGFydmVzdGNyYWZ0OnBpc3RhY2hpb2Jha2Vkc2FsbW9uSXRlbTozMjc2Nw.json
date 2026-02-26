@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pistachiobakedsalmonItem","metadata":32767,"displayName":"Pistachio Baked Salmon","unlocalizedName":"item.pistachiobakedsalmonItem","id":"harvestcraft:pistachiobakedsalmonItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":111}]}

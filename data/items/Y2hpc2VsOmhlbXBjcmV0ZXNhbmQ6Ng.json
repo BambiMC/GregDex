@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"hempcretesand","metadata":6,"displayName":"Hempcrete powder","unlocalizedName":"tile.chisel.hempcretesand","id":"chisel:hempcretesand:6","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.mixer","chunk":0,"index":131},{"machine":"gtpp.recipe.multimixer","chunk":0,"index":70}]}

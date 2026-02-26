@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"dimsumItem","metadata":0,"displayName":"Dim Sum","unlocalizedName":"item.dimsumItem","oreDictNames":["foodDimsum"],"id":"harvestcraft:dimsumItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":411}],"recipesAsInput":[]}

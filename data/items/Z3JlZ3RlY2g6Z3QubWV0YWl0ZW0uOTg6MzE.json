@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":31,"displayName":"Light Radox Cell","unlocalizedName":"gt.metaitem.98.31","id":"gregtech:gt.metaitem.98:31","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":399}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":400}]}

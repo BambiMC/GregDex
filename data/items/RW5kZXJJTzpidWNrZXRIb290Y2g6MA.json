@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketHootch","metadata":0,"displayName":"Hootch Bucket","unlocalizedName":"item.bucketHootch","id":"EnderIO:bucketHootch:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":393}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":394}]}

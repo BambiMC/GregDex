@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":37,"displayName":"Nether Cobble Slab","unlocalizedName":"tile.railcraft.slab.nether.cobble","id":"Railcraft:slab:37","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":206}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":485},{"machine":"crafting_table","chunk":84,"index":485}]}

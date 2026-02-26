@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.tierdDrone1","metadata":0,"displayName":"Drone (Level 2)","unlocalizedName":"gt.tierdDrone1","id":"gregtech:gt.tierdDrone1:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":460},{"machine":"gt.recipe.scanner","chunk":0,"index":163}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":164}]}

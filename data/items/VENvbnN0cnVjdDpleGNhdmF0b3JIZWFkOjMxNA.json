@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"excavatorHead","metadata":314,"displayName":"Unstable Induced Excavator Head","unlocalizedName":"toolpart.ExcavatorHead.unstableIngot","id":"TConstruct:excavatorHead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":454},{"machine":"gt.recipe.extruder","chunk":28,"index":455}],"recipesAsInput":[]}

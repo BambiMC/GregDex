@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicAgrichemItem","metadata":12,"displayName":"Raw Bio Resin","unlocalizedName":"item.BasicAgrichemItem.12","id":"miscutils:item.BasicAgrichemItem:12","recipesAsOutput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":218}],"recipesAsInput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":219}]}

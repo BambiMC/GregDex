@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"comb","metadata":7,"displayName":"Furtive Comb","unlocalizedName":"item.comb","oreDictNames":["beeComb"],"id":"MagicBees:comb:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_centrifuge","chunk":0,"index":1},{"machine":"gt.recipe.centrifuge","chunk":2,"index":255},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":300}]}

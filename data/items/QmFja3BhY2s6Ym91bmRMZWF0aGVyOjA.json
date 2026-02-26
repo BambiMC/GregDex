@@ -1,0 +1,1 @@
+{"modId":"Backpack","itemName":"boundLeather","metadata":0,"displayName":"Bound Leather","unlocalizedName":"item.boundLeather","id":"Backpack:boundLeather:0","recipesAsOutput":[{"machine":"crafting_table","chunk":106,"index":24}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":311}]}

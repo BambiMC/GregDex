@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":22,"displayName":"Blue Vitriol water solution Cell","unlocalizedName":"gt.metaitem.98.22","id":"gregtech:gt.metaitem.98:22","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":419}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":420}]}

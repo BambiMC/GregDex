@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreGeikielite","metadata":0,"displayName":"Geikielite Ore","unlocalizedName":"tile.OreGeikielite","oreDictNames":["oreGeikielite"],"id":"miscutils:oreGeikielite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":270},{"machine":"gt.recipe.macerator","chunk":1,"index":34}]}

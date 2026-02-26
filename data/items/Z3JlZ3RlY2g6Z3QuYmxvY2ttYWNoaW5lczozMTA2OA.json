@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31068,"displayName":"Precision Auto-Chisel","unlocalizedName":"gt.blockmachines.chisel.tier.03","id":"gregtech:gt.blockmachines:31068","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":255}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":256}]}

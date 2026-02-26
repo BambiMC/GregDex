@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"hologram1","metadata":0,"displayName":"Hologram Projector (Tier 1)","unlocalizedName":"tile.oc.hologram1","oreDictNames":["oc:hologram1"],"id":"OpenComputers:hologram1:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":4}],"recipesAsInput":[]}

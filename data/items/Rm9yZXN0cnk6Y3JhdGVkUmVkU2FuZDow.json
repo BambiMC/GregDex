@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedRedSand","metadata":0,"displayName":"Crated Red Sand","unlocalizedName":"item.cratedRedSand","id":"Forestry:cratedRedSand:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":311}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":181}]}

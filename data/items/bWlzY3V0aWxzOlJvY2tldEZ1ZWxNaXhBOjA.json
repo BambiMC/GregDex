@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"RocketFuelMixA","metadata":0,"displayName":"H8N4C2O4 Rocket Fuel Cell","unlocalizedName":"item.RocketFuelMixA","oreDictNames":["cellH8N4C2O4RocketFuel"],"id":"miscutils:RocketFuelMixA:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":288}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":289}]}

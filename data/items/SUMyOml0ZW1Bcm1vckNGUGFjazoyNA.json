@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemArmorCFPack","metadata":24,"displayName":"CF Backpack","unlocalizedName":"ic2.itemArmorCFPack","nbt":"{Fluid:{FluidName:\"ic2constructionfoam\",Amount:8000}}","id":"IC2:itemArmorCFPack:24","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":113}],"recipesAsInput":[]}

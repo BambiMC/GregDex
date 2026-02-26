@@ -1,0 +1,1 @@
+{"modId":"thaumicinsurgence","itemName":"infusionIntercepter","metadata":0,"displayName":"Infusion Intercepter","unlocalizedName":"tile.infusionIntercepter","id":"thaumicinsurgence:infusionIntercepter:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":100}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":431}]}

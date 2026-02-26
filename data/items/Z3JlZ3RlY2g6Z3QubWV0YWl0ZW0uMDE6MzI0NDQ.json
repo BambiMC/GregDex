@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32444,"displayName":"Spray Can (Light Gray)","unlocalizedName":"gt.metaitem.01.32444","id":"gregtech:gt.metaitem.01:32444","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":401}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":402}]}

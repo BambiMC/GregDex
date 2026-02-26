@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodLiquidUranium2","metadata":0,"displayName":"Dual Fuel Rod (Excited Uranium)","unlocalizedName":"item.rodLiquidUranium2","id":"GoodGenerator:rodLiquidUranium2:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":82}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":83}]}

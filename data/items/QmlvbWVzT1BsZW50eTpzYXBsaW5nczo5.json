@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"saplings","metadata":9,"displayName":"Origin Sapling","unlocalizedName":"tile.saplings.originSapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:saplings:9","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":62}],"recipesAsInput":[]}

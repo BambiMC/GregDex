@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pizzaItem","metadata":32767,"displayName":"Pizza","unlocalizedName":"item.pizzaItem","id":"harvestcraft:pizzaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":294}]}

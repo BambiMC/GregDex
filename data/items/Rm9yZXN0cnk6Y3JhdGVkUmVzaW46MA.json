@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedResin","metadata":0,"displayName":"Crated Sticky Resin","unlocalizedName":"item.cratedResin","id":"Forestry:cratedResin:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":21}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":265}]}

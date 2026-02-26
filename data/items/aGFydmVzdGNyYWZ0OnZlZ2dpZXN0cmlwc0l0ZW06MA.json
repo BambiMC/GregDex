@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"veggiestripsItem","metadata":0,"displayName":"Veggie Strips","unlocalizedName":"item.veggiestripsItem","oreDictNames":["foodVeggiestrips"],"id":"harvestcraft:veggiestripsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":415}],"recipesAsInput":[]}

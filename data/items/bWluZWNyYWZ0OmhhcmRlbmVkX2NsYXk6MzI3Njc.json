@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"hardened_clay","metadata":32767,"displayName":"Hardened Clay","unlocalizedName":"tile.clayHardened","oreDictNames":["hardenedClay"],"id":"minecraft:hardened_clay:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":22,"index":273}]}

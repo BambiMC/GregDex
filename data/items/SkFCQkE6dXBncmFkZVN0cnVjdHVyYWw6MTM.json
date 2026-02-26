@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":13,"displayName":"Structural MK XIV (Black Plutonium Plate)","unlocalizedName":"item.upgrade.structural.14","id":"JABBA:upgradeStructural:13","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":38},{"machine":"gt.recipe.assembler","chunk":1,"index":73}],"recipesAsInput":[]}

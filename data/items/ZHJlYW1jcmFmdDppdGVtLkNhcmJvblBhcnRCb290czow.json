@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CarbonPartBoots","metadata":0,"displayName":"Carbon Parts \"Boots\"","unlocalizedName":"item.CarbonPartBoots","id":"dreamcraft:item.CarbonPartBoots:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":184}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":272}]}

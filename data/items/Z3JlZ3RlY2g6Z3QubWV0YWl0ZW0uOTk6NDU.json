@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":45,"displayName":"Molten Yttrium Cell","unlocalizedName":"gt.metaitem.99.45","oreDictNames":["cellMoltenYttrium"],"id":"gregtech:gt.metaitem.99:45","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":283}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":284}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":11,"displayName":"Balsa Stairs","unlocalizedName":"tile.for.stairs.11","oreDictNames":["stairWood"],"id":"Forestry:stairs:11","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":429}],"recipesAsInput":[]}

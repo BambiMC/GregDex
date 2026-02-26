@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"GravelOre","metadata":1,"displayName":"Gold Gravel Ore","unlocalizedName":"block.ore.gravel.gold","oreDictNames":["oreGold"],"id":"TConstruct:GravelOre:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":404}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"guacamoleItem","metadata":0,"displayName":"Guacamole","unlocalizedName":"item.guacamoleItem","oreDictNames":["foodGuacamole"],"id":"harvestcraft:guacamoleItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":381}],"recipesAsInput":[]}

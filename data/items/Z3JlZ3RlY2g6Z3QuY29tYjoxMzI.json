@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":132,"displayName":"Helium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combHV"],"id":"gregtech:gt.comb:132","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":208}]}

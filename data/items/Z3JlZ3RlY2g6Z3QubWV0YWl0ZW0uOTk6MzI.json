@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":32,"displayName":"Molten Iron Cell","unlocalizedName":"gt.metaitem.99.32","oreDictNames":["cellMoltenAnyIron","cellMoltenIron"],"id":"gregtech:gt.metaitem.99:32","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":395}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":396}]}

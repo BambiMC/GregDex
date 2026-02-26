@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeBottle","metadata":0,"displayName":"Casting Form (Bottle Shape)","unlocalizedName":"item.ShapeBottle","id":"dreamcraft:item.ShapeBottle:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":51}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":121}]}

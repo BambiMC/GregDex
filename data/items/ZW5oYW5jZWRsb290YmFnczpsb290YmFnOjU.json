@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":5,"displayName":"LootBag (Tier 2 MV)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:5","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":408},{"machine":"gt.recipe.assembler","chunk":2,"index":237}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":238}]}

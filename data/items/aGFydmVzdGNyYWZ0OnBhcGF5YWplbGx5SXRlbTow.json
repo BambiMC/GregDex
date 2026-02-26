@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"papayajellyItem","metadata":0,"displayName":"Papaya Jelly","unlocalizedName":"item.papayajellyItem","oreDictNames":["foodPapayajelly"],"id":"harvestcraft:papayajellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":211}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":425}]}

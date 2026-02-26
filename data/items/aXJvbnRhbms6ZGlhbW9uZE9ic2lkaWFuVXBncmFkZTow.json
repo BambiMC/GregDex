@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"diamondObsidianUpgrade","metadata":0,"displayName":"Diamond to Obsidian Tank Upgrade","unlocalizedName":"item.irontank:diamondObsidianUpgrade","id":"irontank:diamondObsidianUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":45},{"machine":"gt.recipe.assembler","chunk":2,"index":164}],"recipesAsInput":[]}

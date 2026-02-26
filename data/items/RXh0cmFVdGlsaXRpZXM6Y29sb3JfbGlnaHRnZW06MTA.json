@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_lightgem","metadata":10,"displayName":"Colored Glowstone (Purple Frequency)","unlocalizedName":"tile.extrautils:color_lightgem.10","oreDictNames":["glowstone","glowstoneLime"],"id":"ExtraUtilities:color_lightgem:10","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":491}],"recipesAsInput":[]}

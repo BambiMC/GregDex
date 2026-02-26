@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.NaquadriaIronPlate","metadata":0,"displayName":"Naquadria-Iron Plate","unlocalizedName":"item.NaquadriaIronPlate","id":"dreamcraft:item.NaquadriaIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":318}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":148}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketEnder_distillation","metadata":0,"displayName":"Dew of the Void Bucket","unlocalizedName":"item.bucketEnder_distillation","id":"EnderIO:bucketEnder_distillation:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":381}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":382}]}

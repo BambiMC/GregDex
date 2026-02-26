@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CrossbowBodyPart","metadata":314,"displayName":"Unstable Induced Crossbow Body","unlocalizedName":"toolpart.CrossbowBody.unstableIngot","id":"TConstruct:CrossbowBodyPart:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":66},{"machine":"gt.recipe.extruder","chunk":29,"index":67}],"recipesAsInput":[]}

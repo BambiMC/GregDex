@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":485,"displayName":"Molten Alduorite Cell","unlocalizedName":"gt.metaitem.99.485","oreDictNames":["cellMoltenAlduorite"],"id":"gregtech:gt.metaitem.99:485","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":471}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":472}]}

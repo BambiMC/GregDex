@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"manaRing","metadata":1000,"displayName":"Band of Mana","unlocalizedName":"item.manaRing","nbt":"{}","id":"Botania:manaRing:1000","recipesAsOutput":[{"machine":"crafting_table","chunk":21,"index":449}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":428}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ElectricalSteelBars","metadata":0,"displayName":"Electrical Steel Bars","unlocalizedName":"item.ElectricalSteelBars","oreDictNames":["barsElectricalSteel"],"id":"dreamcraft:item.ElectricalSteelBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":176}],"recipesAsInput":[]}

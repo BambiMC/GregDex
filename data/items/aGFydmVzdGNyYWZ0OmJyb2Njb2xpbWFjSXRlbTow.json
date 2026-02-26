@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"broccolimacItem","metadata":0,"displayName":"Broccoli Mac","unlocalizedName":"item.broccolimacItem","oreDictNames":["foodBroccolimac"],"id":"harvestcraft:broccolimacItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":382}],"recipesAsInput":[]}

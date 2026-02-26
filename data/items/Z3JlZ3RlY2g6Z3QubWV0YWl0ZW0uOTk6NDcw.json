@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":470,"displayName":"Molten Epoxid Cell","unlocalizedName":"gt.metaitem.99.470","oreDictNames":["cellMoltenEpoxid"],"id":"gregtech:gt.metaitem.99:470","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":95}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":96}]}

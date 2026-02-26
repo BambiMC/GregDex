@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"signal","metadata":8,"displayName":"Signal Receiver Box","unlocalizedName":"tile.railcraft.signal.box.receiver","id":"Railcraft:signal:8","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":193}],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":140}]}

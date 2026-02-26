@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":11,"displayName":"Balsa Fence","unlocalizedName":"tile.for.fences.11","oreDictNames":["fenceWood"],"id":"Forestry:fences:11","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":299},{"machine":"crafting_table","chunk":111,"index":300},{"machine":"crafting_table","chunk":111,"index":301}],"recipesAsInput":[]}

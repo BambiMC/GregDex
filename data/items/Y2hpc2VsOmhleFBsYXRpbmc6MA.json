@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"hexPlating","metadata":0,"displayName":"Hex Plating","unlocalizedName":"tile.chisel.hexPlating","id":"chisel:hexPlating:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":349},{"machine":"gt.recipe.assembler","chunk":2,"index":179}],"recipesAsInput":[]}

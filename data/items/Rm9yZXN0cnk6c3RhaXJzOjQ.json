@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":4,"displayName":"Chestnut Stairs","unlocalizedName":"tile.for.stairs.4","oreDictNames":["stairWood"],"id":"Forestry:stairs:4","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":443}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"filledbucket","metadata":0,"displayName":"XP Bucket","unlocalizedName":"item.openblocks.xpbucket","id":"OpenBlocks:filledbucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":35}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":36}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":32018,"displayName":"Precise Auto-Assembler MT-3662","unlocalizedName":"gt.blockmachines.preciseassembler","id":"gregtech:gt.blockmachines:32018","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":88}],"recipesAsInput":[{"machine":"gt.recipe.researchstation","chunk":0,"index":284}]}

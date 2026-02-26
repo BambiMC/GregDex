@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeSmallGear","metadata":0,"displayName":"Casting Form (Small Gear Shape)","unlocalizedName":"item.ShapeSmallGear","id":"dreamcraft:item.ShapeSmallGear:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":55}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":122}]}

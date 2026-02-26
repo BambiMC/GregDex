@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"proteusblocks","metadata":1,"displayName":"Proteus Subsurface Block","unlocalizedName":"tile.ProteusSubGrunt","oreDictNames":["rockProteus","rockSpace"],"id":"GalaxySpace:proteusblocks:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":166}]}

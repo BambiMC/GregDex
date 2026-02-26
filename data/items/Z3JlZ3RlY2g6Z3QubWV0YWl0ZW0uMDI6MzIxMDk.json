@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32109,"displayName":"Reed Water","unlocalizedName":"gt.metaitem.02.32109","id":"gregtech:gt.metaitem.02:32109","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":16}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":17}]}

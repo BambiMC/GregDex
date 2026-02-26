@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"foliage","metadata":11,"displayName":"Damp Grass","unlocalizedName":"tile.foliage.dampgrass","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:foliage:11","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":329}]}

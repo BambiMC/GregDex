@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"Ethylbenzene","metadata":0,"displayName":"Ethylbenzene Cell","unlocalizedName":"item.Ethylbenzene","oreDictNames":["cellEthylbenzene"],"id":"miscutils:Ethylbenzene:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":150}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":151}]}

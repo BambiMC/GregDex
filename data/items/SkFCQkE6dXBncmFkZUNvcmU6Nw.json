@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeCore","metadata":7,"displayName":"Void upgrade","unlocalizedName":"item.upgrade.core.void","id":"JABBA:upgradeCore:7","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":45},{"machine":"crafting_table","chunk":113,"index":46}],"recipesAsInput":[]}

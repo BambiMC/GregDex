@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":91,"displayName":"Small Fluorspar Ore","unlocalizedName":"bw.blockores.02.91","oreDictNames":["oreSmallFluorspar"],"id":"bartworks:bw.blockores.02:91","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":42},{"machine":"gt.recipe.macerator","chunk":8,"index":295}]}

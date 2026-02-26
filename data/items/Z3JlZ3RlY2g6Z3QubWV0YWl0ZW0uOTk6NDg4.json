@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":488,"displayName":"Molten Rubracium Cell","unlocalizedName":"gt.metaitem.99.488","oreDictNames":["cellMoltenRubracium"],"id":"gregtech:gt.metaitem.99:488","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":479}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":480}]}

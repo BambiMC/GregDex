@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32239,"displayName":"Bottom-Quark Releasing Catalyst","unlocalizedName":"gt.metaitem.03.32239","id":"gregtech:gt.metaitem.03:32239","recipesAsOutput":[{"machine":"gt.recipe.laserengraver","chunk":1,"index":290},{"machine":"gt.recipe.plasmaforge","chunk":0,"index":10}],"recipesAsInput":[]}

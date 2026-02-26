@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"carrot_on_a_stick","metadata":0,"displayName":"Carrot on a Stick","unlocalizedName":"item.carrotOnAStick","id":"minecraft:carrot_on_a_stick:0","recipesAsOutput":[{"machine":"crafting_table","chunk":69,"index":284}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":0,"index":15}]}

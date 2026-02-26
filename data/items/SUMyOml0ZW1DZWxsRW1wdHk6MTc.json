@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":17,"displayName":"Sulfuric Apatite Cell","unlocalizedName":"ic2.SulfuricApatite","oreDictNames":["cellSulfuricApatite"],"id":"IC2:itemCellEmpty:17","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":255}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":256}]}

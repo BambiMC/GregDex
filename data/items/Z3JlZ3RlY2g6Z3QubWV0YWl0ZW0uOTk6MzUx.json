@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":351,"displayName":"Molten Rose Gold Cell","unlocalizedName":"gt.metaitem.99.351","oreDictNames":["cellMoltenRoseGold"],"id":"gregtech:gt.metaitem.99:351","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":257}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":258}]}

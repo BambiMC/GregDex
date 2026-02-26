@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4975,"displayName":"Draconium Ore","unlocalizedName":"gt.blockores.4975","oreDictNames":["oreRedgraniteDraconium"],"id":"gregtech:gt.blockores:4975","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":408},{"machine":"gt.recipe.macerator","chunk":9,"index":133}]}

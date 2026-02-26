@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers","metadata":14,"displayName":"Eyebulb","unlocalizedName":"tile.flowers.eyebulbtop","oreDictNames":["cropEyebulb"],"id":"BiomesOPlenty:flowers:14","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":28}]}

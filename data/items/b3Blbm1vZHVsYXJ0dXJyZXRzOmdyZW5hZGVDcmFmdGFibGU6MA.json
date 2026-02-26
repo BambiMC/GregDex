@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"grenadeCraftable","metadata":0,"displayName":"Ammo - Grenade","unlocalizedName":"item.grenadeCraftable","id":"openmodularturrets:grenadeCraftable:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":293}],"recipesAsInput":[]}

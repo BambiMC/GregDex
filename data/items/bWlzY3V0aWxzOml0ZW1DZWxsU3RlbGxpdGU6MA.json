@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellStellite","metadata":0,"displayName":"Stellite Cell","unlocalizedName":"item.itemCellStellite","oreDictNames":["cellStellite"],"id":"miscutils:itemCellStellite:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":25}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":26}]}

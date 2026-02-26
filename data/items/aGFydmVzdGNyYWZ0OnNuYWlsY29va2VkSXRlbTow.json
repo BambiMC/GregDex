@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"snailcookedItem","metadata":0,"displayName":"Cooked Snail","unlocalizedName":"item.snailcookedItem","oreDictNames":["foodSnailcooked"],"id":"harvestcraft:snailcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":12,"index":462}],"recipesAsInput":[]}

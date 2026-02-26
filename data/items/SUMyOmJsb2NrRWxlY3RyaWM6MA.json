@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockElectric","metadata":0,"displayName":"BatBox","unlocalizedName":"ic2.blockBatBox","id":"IC2:blockElectric:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":389}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":377}]}

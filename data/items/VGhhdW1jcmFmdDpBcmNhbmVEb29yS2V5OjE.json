@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ArcaneDoorKey","metadata":1,"displayName":"Gold Arcane Key","unlocalizedName":"item.ArcaneDoorKey.1","id":"Thaumcraft:ArcaneDoorKey:1","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":452}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":283}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"muttoncookedItem","metadata":32767,"displayName":"Cooked Mutton","unlocalizedName":"item.muttoncookedItem","id":"harvestcraft:muttoncookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":132},{"machine":"gt.recipe.macerator","chunk":29,"index":178}]}

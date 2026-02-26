@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings10","metadata":10,"displayName":"Heating Duct","unlocalizedName":"gt.blockcasings10.10","id":"gregtech:gt.blockcasings10:10","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":406}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":49}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"waxCapsuleIce","metadata":0,"displayName":"Ice Capsule","unlocalizedName":"item.for.waxCapsuleIce","oreDictNames":["capsuleIce"],"id":"Forestry:waxCapsuleIce:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":457}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":458}]}

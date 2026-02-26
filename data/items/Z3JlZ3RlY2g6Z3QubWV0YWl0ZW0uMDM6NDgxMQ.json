@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":4811,"displayName":"Glowstone Nanites","unlocalizedName":"gt.metaitem.03.4811","oreDictNames":["naniteGlowstone"],"id":"gregtech:gt.metaitem.03:4811","recipesAsOutput":[{"machine":"gt.recipe.nanoforge","chunk":0,"index":3}],"recipesAsInput":[{"machine":"gt.recipe.laserengraver","chunk":0,"index":30}]}

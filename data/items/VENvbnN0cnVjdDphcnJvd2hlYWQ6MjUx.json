@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"arrowhead","metadata":251,"displayName":"Blood Infused Iron Arrowhead","unlocalizedName":"toolpart.ArrowHead.BloodInfusedIron","id":"TConstruct:arrowhead:251","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":22}],"recipesAsInput":[]}

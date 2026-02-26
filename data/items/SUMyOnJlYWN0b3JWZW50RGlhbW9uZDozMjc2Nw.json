@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorVentDiamond","metadata":32767,"displayName":"Advanced Heat Vent","unlocalizedName":"ic2.reactorVentDiamond","id":"IC2:reactorVentDiamond:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":182},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":38}]}

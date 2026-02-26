@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"rune","metadata":11,"displayName":"Rune of Greed","unlocalizedName":"item.rune11","oreDictNames":["runeGreedB"],"id":"Botania:rune:11","recipesAsOutput":[],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":2,"index":438},{"machine":"thaumcraft_infusion_altar","chunk":2,"index":457}]}

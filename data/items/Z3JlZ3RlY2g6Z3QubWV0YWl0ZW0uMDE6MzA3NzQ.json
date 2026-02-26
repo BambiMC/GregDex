@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30774,"displayName":"Liquid Crystal Kevlar Cell","unlocalizedName":"gt.metaitem.01.30774","oreDictNames":["cellLiquidCrystalKevlar"],"id":"gregtech:gt.metaitem.01:30774","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":3}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":4}]}

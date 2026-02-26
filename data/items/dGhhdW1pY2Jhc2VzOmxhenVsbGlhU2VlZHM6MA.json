@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"lazulliaSeeds","metadata":0,"displayName":"Lazullia Seeds","unlocalizedName":"item.lazulliaSeeds","id":"thaumicbases:lazulliaSeeds:0","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":0,"index":127}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":403}]}

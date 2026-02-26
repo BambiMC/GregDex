@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"spreader","metadata":1,"displayName":"Pulse Mana Spreader","unlocalizedName":"tile.spreader1","id":"Botania:spreader:1","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":273}],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":473}]}

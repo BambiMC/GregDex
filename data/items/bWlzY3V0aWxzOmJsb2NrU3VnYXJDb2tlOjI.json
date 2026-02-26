@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockSugarCoke","metadata":2,"displayName":"Double Compressed Sugar Coke","unlocalizedName":"tile.blockSugarCoke.2","id":"miscutils:blockSugarCoke:2","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":169}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":170}]}

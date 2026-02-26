@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"shrimprawItem","metadata":32767,"displayName":"Raw Shrimp","unlocalizedName":"item.shrimprawItem","id":"harvestcraft:shrimprawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":409},{"machine":"gt.recipe.canner","chunk":1,"index":172}]}

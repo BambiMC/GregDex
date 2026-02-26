@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeCore","metadata":1,"displayName":"BSpace upgrade","unlocalizedName":"item.upgrade.core.ender","id":"JABBA:upgradeCore:1","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":39},{"machine":"crafting_table","chunk":113,"index":40}],"recipesAsInput":[]}

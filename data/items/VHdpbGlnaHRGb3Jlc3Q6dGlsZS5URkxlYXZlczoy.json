@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFLeaves","metadata":2,"displayName":"Mangrove Leaves","unlocalizedName":"tile.TFLeaves.2","oreDictNames":["treeLeaves"],"id":"TwilightForest:tile.TFLeaves:2","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":14}],"recipesAsInput":[]}

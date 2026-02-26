@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeCell","metadata":0,"displayName":"Casting Form (Cell Shape)","unlocalizedName":"item.ShapeCell","id":"dreamcraft:item.ShapeCell:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":31}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":107}]}

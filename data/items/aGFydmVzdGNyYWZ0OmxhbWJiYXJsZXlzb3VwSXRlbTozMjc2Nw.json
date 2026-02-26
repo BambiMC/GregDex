@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lambbarleysoupItem","metadata":32767,"displayName":"Lamb Barley Soup","unlocalizedName":"item.lambbarleysoupItem","id":"harvestcraft:lambbarleysoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":68}]}

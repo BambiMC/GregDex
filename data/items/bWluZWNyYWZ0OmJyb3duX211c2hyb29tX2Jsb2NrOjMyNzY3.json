@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"brown_mushroom_block","metadata":32767,"displayName":"Mushroom","unlocalizedName":"tile.mushroom","id":"minecraft:brown_mushroom_block:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":1,"index":39},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":170}]}

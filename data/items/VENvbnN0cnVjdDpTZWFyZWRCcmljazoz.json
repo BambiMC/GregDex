@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"SearedBrick","metadata":3,"displayName":"Copper Ore","unlocalizedName":"MetalOre.Copper","oreDictNames":["oreCopper"],"id":"TConstruct:SearedBrick:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":299}]}

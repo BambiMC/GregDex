@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemModule","metadata":15,"displayName":"CC Based ItemSink module","unlocalizedName":"item.ModuleCCBasedItemSink","id":"LogisticsPipes:item.itemModule:15","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":79},{"machine":"gt.recipe.press","chunk":0,"index":346}],"recipesAsInput":[]}

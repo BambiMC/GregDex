@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"alveary","metadata":4,"displayName":"Alveary Heater","unlocalizedName":"tile.for.alveary.4","id":"Forestry:alveary:4","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":187},{"machine":"gt.recipe.assembler","chunk":0,"index":473}],"recipesAsInput":[]}

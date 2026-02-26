@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.silverbell","metadata":0,"displayName":"Silverbell Stairs","unlocalizedName":"tile.stair.silverbell","oreDictNames":["stairWood"],"id":"Natura:stair.silverbell:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":37},{"machine":"crafting_table","chunk":114,"index":218}],"recipesAsInput":[]}

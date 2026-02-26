@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"WandCasting","metadata":218,"displayName":"Iron Capped Primal Staff","unlocalizedName":"item.WandCasting","nbt":"{cap:\"iron\",rod:\"primal_staff\",sceptre:1b}","id":"Thaumcraft:WandCasting:218","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":1,"index":334}],"recipesAsInput":[]}

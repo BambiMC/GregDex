@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellInconel625","metadata":0,"displayName":"Inconel-625 Cell","unlocalizedName":"item.itemCellInconel625","oreDictNames":["cellInconel625"],"id":"miscutils:itemCellInconel625:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":187}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":188}]}

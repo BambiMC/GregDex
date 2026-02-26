@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellPlasmaXenon","metadata":0,"displayName":"Xenon Plasma Cell","unlocalizedName":"item.itemCellPlasmaXenon","oreDictNames":["cellPlasmaXenon"],"id":"miscutils:itemCellPlasmaXenon:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":331}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":332}]}

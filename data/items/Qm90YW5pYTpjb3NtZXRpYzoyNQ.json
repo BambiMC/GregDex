@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":25,"displayName":"Anaglyph Glasses","unlocalizedName":"item.cosmetic25","id":"Botania:cosmetic:25","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":248},{"machine":"gt.recipe.assembler","chunk":0,"index":280}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":115}]}

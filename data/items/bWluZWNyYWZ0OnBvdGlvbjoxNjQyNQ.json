@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16425,"displayName":"Splash Potion of Strength","unlocalizedName":"item.potion","id":"minecraft:potion:16425","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":329}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":330}]}

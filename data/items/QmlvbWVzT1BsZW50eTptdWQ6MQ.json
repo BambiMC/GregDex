@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mud","metadata":1,"displayName":"Quicksand","unlocalizedName":"tile.mud.quicksand","id":"BiomesOPlenty:mud:1","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":354},{"machine":"gtpp.recipe.multimixer","chunk":0,"index":112}],"recipesAsInput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":190}]}

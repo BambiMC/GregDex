@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":1065,"displayName":"Cerium Ore","unlocalizedName":"gt.blockores.1065","oreDictNames":["oreNetherrackCerium"],"id":"gregtech:gt.blockores:1065","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":257},{"machine":"gt.recipe.macerator","chunk":10,"index":229}]}

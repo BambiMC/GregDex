@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"nodeLinker","metadata":0,"displayName":"Node Linking Device","unlocalizedName":"tile.nodeLinker","id":"thaumicbases:nodeLinker:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":414}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":50}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":8,"displayName":"Kapok Fence","unlocalizedName":"tile.for.fences.8","oreDictNames":["fenceWood"],"id":"Forestry:fences:8","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":290},{"machine":"crafting_table","chunk":111,"index":291},{"machine":"crafting_table","chunk":111,"index":292}],"recipesAsInput":[]}

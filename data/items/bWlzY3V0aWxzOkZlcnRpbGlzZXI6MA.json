@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"Fertiliser","metadata":0,"displayName":"Fertiliser Cell","unlocalizedName":"item.Fertiliser","oreDictNames":["cellFertiliser"],"id":"miscutils:Fertiliser:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":487}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":488}]}

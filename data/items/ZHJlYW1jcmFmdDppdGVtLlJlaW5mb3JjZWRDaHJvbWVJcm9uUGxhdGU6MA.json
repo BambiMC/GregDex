@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ReinforcedChromeIronPlate","metadata":0,"displayName":"Reinforced Chrome-Iron Plate","unlocalizedName":"item.ReinforcedChromeIronPlate","id":"dreamcraft:item.ReinforcedChromeIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":3,"index":146}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":116}]}

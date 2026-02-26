@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars","metadata":3,"displayName":"Water Infused Compressed Solar Panel","unlocalizedName":"tile.EMT.solar.water","id":"EMT:EMTSolars:3","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":133}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":99}]}

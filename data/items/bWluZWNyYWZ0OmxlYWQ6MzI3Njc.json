@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"lead","metadata":32767,"displayName":"Lead","unlocalizedName":"item.leash","id":"minecraft:lead:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":227},{"machine":"gt.recipe.assembler","chunk":8,"index":228}]}

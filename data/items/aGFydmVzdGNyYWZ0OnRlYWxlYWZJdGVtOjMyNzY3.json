@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"tealeafItem","metadata":32767,"displayName":"Tea Leaf","unlocalizedName":"item.tealeafItem","id":"harvestcraft:tealeafItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":322},{"machine":"gt.recipe.canner","chunk":0,"index":167}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"gt.Volumetric_Flask_32k","metadata":0,"displayName":"Gigantic Volumetric Flask","unlocalizedName":"gt.Volumetric_Flask_32k","id":"miscutils:gt.Volumetric_Flask_32k:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":460}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":366}]}

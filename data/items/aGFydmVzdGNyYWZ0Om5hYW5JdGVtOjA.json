@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"naanItem","metadata":0,"displayName":"Naan","unlocalizedName":"item.naanItem","oreDictNames":["foodNaan"],"id":"harvestcraft:naanItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":479}],"recipesAsInput":[{"machine":"crafting_table","chunk":92,"index":435}]}

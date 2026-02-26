@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPartCoalBall","metadata":0,"displayName":"Coal Ball","unlocalizedName":"ic2.itemPartCoalBall","id":"IC2:itemPartCoalBall:0","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":429},{"machine":"gtpp.recipe.multimixer","chunk":0,"index":109}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":274}]}

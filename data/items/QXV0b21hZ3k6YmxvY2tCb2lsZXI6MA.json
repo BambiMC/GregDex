@@ -1,0 +1,1 @@
+{"modId":"Automagy","itemName":"blockBoiler","metadata":0,"displayName":"Alchemical Boiler","unlocalizedName":"tile.blockBoiler","id":"Automagy:blockBoiler:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":227}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":50}]}

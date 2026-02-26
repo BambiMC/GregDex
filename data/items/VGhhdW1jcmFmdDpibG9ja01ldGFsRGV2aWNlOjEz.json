@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"blockMetalDevice","metadata":13,"displayName":"Lamp of Fertility","unlocalizedName":"tile.blockMetalDevice.13","id":"Thaumcraft:blockMetalDevice:13","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":353}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":6}]}

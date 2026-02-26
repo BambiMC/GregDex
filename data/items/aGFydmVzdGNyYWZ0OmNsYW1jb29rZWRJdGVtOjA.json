@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"clamcookedItem","metadata":0,"displayName":"Cooked Clam","unlocalizedName":"item.clamcookedItem","oreDictNames":["foodClamcooked"],"id":"harvestcraft:clamcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":9,"index":280}],"recipesAsInput":[]}

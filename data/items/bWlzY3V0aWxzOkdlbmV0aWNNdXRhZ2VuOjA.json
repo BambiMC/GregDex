@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"GeneticMutagen","metadata":0,"displayName":"Genetic Mutagen Cell","unlocalizedName":"item.GeneticMutagen","oreDictNames":["cellGeneticMutagen"],"id":"miscutils:GeneticMutagen:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":487}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":488}]}

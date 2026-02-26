@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"silverGoldUpgrade","metadata":0,"displayName":"Steel to Gold Tank Upgrade","unlocalizedName":"item.irontank:silverGoldUpgrade","id":"irontank:silverGoldUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":41},{"machine":"gt.recipe.assembler","chunk":2,"index":162}],"recipesAsInput":[]}

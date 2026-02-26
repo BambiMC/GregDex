@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"creamedcornItem","metadata":0,"displayName":"Creamed Corn","unlocalizedName":"item.creamedcornItem","oreDictNames":["foodCreamedcorn"],"id":"harvestcraft:creamedcornItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":352}],"recipesAsInput":[]}

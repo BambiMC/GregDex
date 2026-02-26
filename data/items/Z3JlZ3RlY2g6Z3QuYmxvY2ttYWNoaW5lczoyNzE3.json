@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":2717,"displayName":"Stocking Input Hatch (ME)","unlocalizedName":"gt.blockmachines.hatch.input.me.basic","id":"gregtech:gt.blockmachines:2717","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":418}],"recipesAsInput":[]}

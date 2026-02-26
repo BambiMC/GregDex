@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"scallopcookedItem","metadata":0,"displayName":"Cooked Scallop","unlocalizedName":"item.scallopcookedItem","oreDictNames":["foodScallopcooked"],"id":"harvestcraft:scallopcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":11,"index":51}],"recipesAsInput":[]}

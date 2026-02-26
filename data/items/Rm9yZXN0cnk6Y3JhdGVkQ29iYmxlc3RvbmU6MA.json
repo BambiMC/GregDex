@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedCobblestone","metadata":0,"displayName":"Crated Cobblestone","unlocalizedName":"item.cratedCobblestone","id":"Forestry:cratedCobblestone:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":380}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":87}]}

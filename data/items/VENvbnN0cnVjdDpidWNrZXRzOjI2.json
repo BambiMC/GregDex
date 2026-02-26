@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":26,"displayName":"Molten Pig Iron Bucket","unlocalizedName":"item.tconstruct.bucket.PigIron","id":"TConstruct:buckets:26","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":188}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":189}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"pumpkin_pie","metadata":32767,"displayName":"Pumpkin Pie","unlocalizedName":"item.pumpkinPie","id":"minecraft:pumpkin_pie:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":84}]}

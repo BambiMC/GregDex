@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatebaconItem","metadata":0,"displayName":"Chocolate Bacon","unlocalizedName":"item.chocolatebaconItem","oreDictNames":["foodChocolatecookie"],"id":"harvestcraft:chocolatebaconItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":239}],"recipesAsInput":[]}

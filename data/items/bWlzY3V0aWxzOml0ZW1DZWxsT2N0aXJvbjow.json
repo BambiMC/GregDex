@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellOctiron","metadata":0,"displayName":"Octiron Cell","unlocalizedName":"item.itemCellOctiron","oreDictNames":["cellOctiron"],"id":"miscutils:itemCellOctiron:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":373}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":374}]}

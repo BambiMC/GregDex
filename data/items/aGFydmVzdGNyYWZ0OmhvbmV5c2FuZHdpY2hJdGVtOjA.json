@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"honeysandwichItem","metadata":0,"displayName":"Honey Sandwich","unlocalizedName":"item.honeysandwichItem","oreDictNames":["foodHoneysandwich"],"id":"harvestcraft:honeysandwichItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":484},{"machine":"crafting_table","chunk":93,"index":485}],"recipesAsInput":[]}

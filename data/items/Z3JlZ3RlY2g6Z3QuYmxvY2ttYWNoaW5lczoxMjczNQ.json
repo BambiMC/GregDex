@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":12735,"displayName":"Circuit Assembly Line","unlocalizedName":"gt.blockmachines.circuitassemblyline","id":"gregtech:gt.blockmachines:12735","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":298},{"machine":"gt.recipe.scanner","chunk":0,"index":45}],"recipesAsInput":[]}

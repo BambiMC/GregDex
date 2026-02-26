@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerBucket","metadata":128,"displayName":"Sap Bucket","unlocalizedName":"item.containerBucket","id":"BinnieCore:containerBucket:128","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":14}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":15}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"appleciderItem","metadata":0,"displayName":"Apple Cider","unlocalizedName":"item.appleciderItem","oreDictNames":["foodApplecider"],"id":"harvestcraft:appleciderItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":243}],"recipesAsInput":[]}

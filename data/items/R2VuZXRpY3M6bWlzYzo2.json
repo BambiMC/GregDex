@@ -1,0 +1,1 @@
+{"modId":"Genetics","itemName":"misc","metadata":6,"displayName":"Empty Serum Vial","unlocalizedName":"item.misc","id":"Genetics:misc:6","recipesAsOutput":[{"machine":"furnace","chunk":11,"index":49},{"machine":"gt.recipe.assembler","chunk":26,"index":308}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":309}]}

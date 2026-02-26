@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreZirconolite","metadata":0,"displayName":"Zirconolite Ore","unlocalizedName":"tile.OreZirconolite","oreDictNames":["oreZirconolite"],"id":"miscutils:oreZirconolite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":300},{"machine":"gt.recipe.macerator","chunk":1,"index":78}]}

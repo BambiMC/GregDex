@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"tunapotatoItem","metadata":0,"displayName":"Tuna Potato","unlocalizedName":"item.tunapotatoItem","oreDictNames":["foodTunapotato"],"id":"harvestcraft:tunapotatoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":490}],"recipesAsInput":[]}

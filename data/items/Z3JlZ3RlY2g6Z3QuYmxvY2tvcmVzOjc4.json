@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":78,"displayName":"Lutetium Ore","unlocalizedName":"gt.blockores.78","oreDictNames":["oreLutetium"],"id":"gregtech:gt.blockores:78","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":437},{"machine":"gt.recipe.macerator","chunk":4,"index":360}]}

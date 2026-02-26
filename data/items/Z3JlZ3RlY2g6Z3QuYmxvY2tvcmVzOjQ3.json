@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":47,"displayName":"Niobium Ore","unlocalizedName":"gt.blockores.47","oreDictNames":["oreNiobium"],"id":"gregtech:gt.blockores:47","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":268},{"machine":"gt.recipe.macerator","chunk":7,"index":93}]}

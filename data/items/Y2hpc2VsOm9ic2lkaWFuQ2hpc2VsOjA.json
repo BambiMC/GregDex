@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"obsidianChisel","metadata":0,"displayName":"Obsidian Chisel","unlocalizedName":"item.chisel.chisel_obsidian","id":"chisel:obsidianChisel:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":230},{"machine":"crafting_table","chunk":109,"index":231},{"machine":"gt.recipe.assembler","chunk":2,"index":170}],"recipesAsInput":[]}

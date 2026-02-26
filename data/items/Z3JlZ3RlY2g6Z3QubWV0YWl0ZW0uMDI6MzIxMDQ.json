@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32104,"displayName":"Potato Juice","unlocalizedName":"gt.metaitem.02.32104","id":"gregtech:gt.metaitem.02:32104","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":464}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":465}]}

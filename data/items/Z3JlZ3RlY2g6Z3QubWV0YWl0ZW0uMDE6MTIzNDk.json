@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":12349,"displayName":"Hot Blue Steel Ingot","unlocalizedName":"gt.metaitem.01.12349","oreDictNames":["ingotHotBlueSteel"],"id":"gregtech:gt.metaitem.01:12349","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":249},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":254}]}

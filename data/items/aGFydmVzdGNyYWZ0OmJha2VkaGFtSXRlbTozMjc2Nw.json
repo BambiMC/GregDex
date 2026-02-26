@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bakedhamItem","metadata":32767,"displayName":"Baked Ham","unlocalizedName":"item.bakedhamItem","id":"harvestcraft:bakedhamItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":268}]}

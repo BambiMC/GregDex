@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15350,"displayName":"Energy Infuser","unlocalizedName":"gt.blockmachines.multimachine.em.infuser","id":"gregtech:gt.blockmachines:15350","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":88},{"machine":"gt.recipe.scanner","chunk":0,"index":43}],"recipesAsInput":[]}

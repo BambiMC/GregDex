@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"orangesodaItem","metadata":0,"displayName":"Orange Soda","unlocalizedName":"item.orangesodaItem","oreDictNames":["foodOrangesoda"],"id":"harvestcraft:orangesodaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":436}],"recipesAsInput":[]}

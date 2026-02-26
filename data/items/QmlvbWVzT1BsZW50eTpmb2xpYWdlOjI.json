@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"foliage","metadata":2,"displayName":"Medium Grass","unlocalizedName":"tile.foliage.mediumgrass","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:foliage:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":59}]}

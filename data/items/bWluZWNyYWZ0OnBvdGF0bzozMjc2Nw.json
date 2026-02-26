@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potato","metadata":32767,"displayName":"Potato","unlocalizedName":"item.potato","id":"minecraft:potato:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":333},{"machine":"gt.recipe.canner","chunk":0,"index":80}]}

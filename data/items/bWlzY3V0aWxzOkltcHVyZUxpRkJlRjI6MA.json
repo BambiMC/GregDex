@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"ImpureLiFBeF2","metadata":0,"displayName":"Impure Molten Salt Base Cell","unlocalizedName":"item.ImpureLiFBeF2","oreDictNames":["cellImpureMoltenSaltBase"],"id":"miscutils:ImpureLiFBeF2:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":61}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":62}]}

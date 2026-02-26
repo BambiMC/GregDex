@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"seedswormwood","metadata":0,"displayName":"Wormwood Seeds","unlocalizedName":"item.witchery:seedswormwood","id":"witchery:seedswormwood:0","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":266}],"recipesAsInput":[{"machine":"forestry_squeezer","chunk":0,"index":131},{"machine":"gt.recipe.fluidextractor","chunk":26,"index":362}]}

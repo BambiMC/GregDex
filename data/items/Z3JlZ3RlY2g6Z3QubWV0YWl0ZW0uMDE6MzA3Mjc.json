@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30727,"displayName":"Hot Frying Oil Cell","unlocalizedName":"gt.metaitem.01.30727","oreDictNames":["cellFryingOilHot"],"id":"gregtech:gt.metaitem.01:30727","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":443}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":444}]}

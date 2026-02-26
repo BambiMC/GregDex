@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":114,"displayName":"Tceti Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combZPM","beeComb"],"id":"gregtech:gt.comb:114","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":144},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":331}]}

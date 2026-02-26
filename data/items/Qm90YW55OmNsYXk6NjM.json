@@ -1,0 +1,1 @@
+{"modId":"Botany","itemName":"clay","metadata":63,"displayName":"Clay","unlocalizedName":"item.clay","id":"Botany:clay:63","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":275}],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":65}]}

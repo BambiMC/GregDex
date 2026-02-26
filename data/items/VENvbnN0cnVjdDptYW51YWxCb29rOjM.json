@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"manualBook","metadata":3,"displayName":"Diary of a Tinker","unlocalizedName":"item.tconstruct.manual.diary","oreDictNames":["bookTinkersManual"],"id":"TConstruct:manualBook:3","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":192}],"recipesAsInput":[]}

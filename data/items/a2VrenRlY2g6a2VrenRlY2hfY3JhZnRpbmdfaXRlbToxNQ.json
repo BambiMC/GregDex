@@ -1,0 +1,1 @@
+{"modId":"kekztech","itemName":"kekztech_crafting_item","metadata":15,"displayName":"GDC Ceramic Plate","unlocalizedName":"item.kekztech_crafting_item.15","id":"kekztech:kekztech_crafting_item:15","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":117}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":157}]}

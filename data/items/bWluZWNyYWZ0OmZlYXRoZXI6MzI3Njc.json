@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"feather","metadata":32767,"displayName":"Feather","unlocalizedName":"item.feather","oreDictNames":["craftingFeather"],"id":"minecraft:feather:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":64,"index":465}]}

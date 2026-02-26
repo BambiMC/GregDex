@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemBatLamaCrystal","metadata":26,"displayName":"Lapotron Crystal","unlocalizedName":"ic2.itemBatLamaCrystal","oreDictNames":["batteryData"],"id":"IC2:itemBatLamaCrystal:26","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":259},{"machine":"gt.recipe.unpackager","chunk":0,"index":20}],"recipesAsInput":[]}

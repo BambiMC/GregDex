@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"ioBus","metadata":0,"displayName":"IO Bus","unlocalizedName":"item.ioBus","id":"openmodularturrets:ioBus:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":430},{"machine":"gt.recipe.assembler","chunk":28,"index":291}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":307}]}

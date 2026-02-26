@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellIncoloy020","metadata":0,"displayName":"Incoloy-020 Cell","unlocalizedName":"item.itemCellIncoloy020","oreDictNames":["cellIncoloy020"],"id":"miscutils:itemCellIncoloy020:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":357}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":358}]}

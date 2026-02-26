@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":89,"displayName":"Ur Ghast Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combEV","beeComb"],"id":"gregtech:gt.comb:89","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":115},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":5}]}

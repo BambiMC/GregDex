@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":53,"displayName":"Palladium Metallic Powder Ore","unlocalizedName":"bw.blockores.01.53","oreDictNames":["orePalladiumMetallicPowder"],"id":"bartworks:bw.blockores.01:53","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":24},{"machine":"gt.recipe.macerator","chunk":8,"index":279}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers","metadata":7,"displayName":"Wildflower","unlocalizedName":"tile.flowers.wildflower","oreDictNames":["flowerPurple","flowerWildflower"],"id":"BiomesOPlenty:flowers:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":106},{"machine":"gt.recipe.extractor","chunk":0,"index":226}]}

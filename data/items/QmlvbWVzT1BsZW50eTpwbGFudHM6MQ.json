@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"plants","metadata":1,"displayName":"Desert Grass","unlocalizedName":"tile.plants.desertgrass","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:plants:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":78}]}

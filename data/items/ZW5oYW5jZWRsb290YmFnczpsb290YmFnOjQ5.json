@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":49,"displayName":"LootBag (Tier 3.5 Computers)","unlocalizedName":"item.null","nbt":"{ench:[0:{lvl:3s,id:35s}],RepairCost:2}","id":"enhancedlootbags:lootbag:49","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":452}],"recipesAsInput":[]}

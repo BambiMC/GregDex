@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"carrotcakeItem","metadata":0,"displayName":"Carrot Cake","unlocalizedName":"item.carrotcakeItem","oreDictNames":["foodCarrotcake"],"id":"harvestcraft:carrotcakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":331}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"ForbiddenMagic","itemName":"TaintFruit","metadata":32767,"displayName":"Tainted Fruit","unlocalizedName":"item.TaintFruit","id":"ForbiddenMagic:TaintFruit:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":125}]}

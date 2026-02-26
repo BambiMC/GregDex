@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":1,"displayName":"Structural MK II (Copper Plate)","unlocalizedName":"item.upgrade.structural.2","id":"JABBA:upgradeStructural:1","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":26},{"machine":"gt.recipe.assembler","chunk":1,"index":61}],"recipesAsInput":[]}

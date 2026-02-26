@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":5320,"displayName":"Fluxed Electrum Ore","unlocalizedName":"gt.blockores.5320","oreDictNames":["oreMarbleElectrumFlux"],"id":"gregtech:gt.blockores:5320","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":486},{"machine":"gt.recipe.macerator","chunk":3,"index":452}]}

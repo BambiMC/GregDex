@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":363,"displayName":"Molten Tin Alloy Cell","unlocalizedName":"gt.metaitem.99.363","oreDictNames":["cellMoltenTinAlloy"],"id":"gregtech:gt.metaitem.99:363","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":127}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":128}]}

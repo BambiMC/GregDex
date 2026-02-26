@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":526,"displayName":"Lapis Ore","unlocalizedName":"gt.blockores.526","oreDictNames":["oreLapis"],"id":"gregtech:gt.blockores:526","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":23},{"machine":"gt.recipe.hammer","chunk":7,"index":221},{"machine":"gt.recipe.macerator","chunk":8,"index":457}]}

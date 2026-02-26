@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":3844,"displayName":"Basalt Axe Head","unlocalizedName":"gt.metaitem.02.3844","oreDictNames":["toolHeadAxeBasalt"],"id":"gregtech:gt.metaitem.02:3844","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":99,"index":377},{"machine":"gt.recipe.assembler","chunk":15,"index":488}]}

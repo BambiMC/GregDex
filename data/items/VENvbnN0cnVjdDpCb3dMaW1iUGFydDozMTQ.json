@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"BowLimbPart","metadata":314,"displayName":"Unstable Induced Bow Limb","unlocalizedName":"toolpart.BowLimb.unstableIngot","id":"TConstruct:BowLimbPart:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":82},{"machine":"gt.recipe.extruder","chunk":29,"index":83}],"recipesAsInput":[]}

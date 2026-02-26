@@ -1,0 +1,1 @@
+{"modId":"harvestthenether","itemName":"glowFlower","metadata":0,"displayName":"Glow Flower","unlocalizedName":"tile.glowFlower","id":"harvestthenether:glowFlower:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":123},{"machine":"crafting_table","chunk":96,"index":123},{"machine":"gt.recipe.extractor","chunk":0,"index":341}]}

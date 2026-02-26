@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"blockMetalDevice","metadata":2,"displayName":"Vis Charge Relay","unlocalizedName":"tile.blockMetalDevice.2","id":"Thaumcraft:blockMetalDevice:2","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":412}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":329}]}

@@ -1,0 +1,1 @@
+{"modId":"WitchingGadgets","itemName":"item.WG_Cloak","metadata":2,"displayName":"Cloak of Voluminous Pockets","unlocalizedName":"item.WG_Cloak.storage","id":"WitchingGadgets:item.WG_Cloak:2","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":205}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":210}]}

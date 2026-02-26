@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":162,"displayName":"Draconium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combMV","beeComb"],"id":"gregtech:gt.comb:162","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":227},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":132}]}

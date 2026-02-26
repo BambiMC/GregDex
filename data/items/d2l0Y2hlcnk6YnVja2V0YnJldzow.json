@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"bucketbrew","metadata":0,"displayName":"item.witchery:bucketbrew.name","unlocalizedName":"item.witchery:bucketbrew","id":"witchery:bucketbrew:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":144}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":145}]}

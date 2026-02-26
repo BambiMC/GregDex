@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":42,"displayName":"Sapphire Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:42","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":192},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":97}]}

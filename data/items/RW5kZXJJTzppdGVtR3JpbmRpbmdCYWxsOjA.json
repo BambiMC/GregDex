@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":0,"displayName":"Electrical Steel Ball","unlocalizedName":"enderio.electricalSteel_ball","id":"EnderIO:itemGrindingBall:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":344},{"machine":"gt.recipe.assembler","chunk":26,"index":135}],"recipesAsInput":[]}

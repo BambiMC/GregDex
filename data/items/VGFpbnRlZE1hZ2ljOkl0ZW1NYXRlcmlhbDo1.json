@@ -1,0 +1,1 @@
+{"modId":"TaintedMagic","itemName":"ItemMaterial","metadata":5,"displayName":"Shard of Creation","unlocalizedName":"item.ItemMaterial.5","id":"TaintedMagic:ItemMaterial:5","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":292}],"recipesAsInput":[{"machine":"gt.recipe.magicfuels","chunk":0,"index":24}]}

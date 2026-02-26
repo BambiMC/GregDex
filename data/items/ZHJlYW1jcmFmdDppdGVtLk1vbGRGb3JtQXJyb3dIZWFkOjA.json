@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormArrowHead","metadata":0,"displayName":"Casting Form (Arrow Head Mold)","unlocalizedName":"item.MoldFormArrowHead","id":"dreamcraft:item.MoldFormArrowHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":7}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":65}]}

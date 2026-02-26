@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":8,"displayName":"Molten Beryllium Cell","unlocalizedName":"gt.metaitem.99.8","oreDictNames":["cellMoltenBeryllium"],"id":"gregtech:gt.metaitem.99:8","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":335}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":336}]}

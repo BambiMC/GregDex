@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormRound","metadata":0,"displayName":"Casting Form (Round Mold)","unlocalizedName":"item.MoldFormRound","id":"dreamcraft:item.MoldFormRound:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":11}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":83}]}

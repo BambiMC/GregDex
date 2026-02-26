@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"decoration.multibrick","metadata":1,"displayName":"Sandstone Brick","unlocalizedName":"block.brick.sandstone","id":"TConstruct:decoration.multibrick:1","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":2}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":14}]}

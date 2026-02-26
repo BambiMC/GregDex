@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":13,"displayName":"Bronze Ingot","unlocalizedName":"item.tconstruct.Materials.BronzeIngot","oreDictNames":["ingotBronze"],"id":"TConstruct:materials:13","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":64}],"recipesAsInput":[]}

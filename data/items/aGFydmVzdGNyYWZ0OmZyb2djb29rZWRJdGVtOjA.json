@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"frogcookedItem","metadata":0,"displayName":"Cooked Frog Legs","unlocalizedName":"item.frogcookedItem","oreDictNames":["foodFrogcooked"],"id":"harvestcraft:frogcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":293}],"recipesAsInput":[]}

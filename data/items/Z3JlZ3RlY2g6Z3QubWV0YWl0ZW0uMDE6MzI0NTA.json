@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32450,"displayName":"Spray Can (Lime)","unlocalizedName":"gt.metaitem.01.32450","id":"gregtech:gt.metaitem.01:32450","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":407}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":408}]}

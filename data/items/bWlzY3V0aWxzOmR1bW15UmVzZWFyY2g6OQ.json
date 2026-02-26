@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"dummyResearch","metadata":9,"displayName":"§dResearch on Gas Sparging","unlocalizedName":"item.dummyResearch","id":"miscutils:dummyResearch:9","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":251}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":93}]}

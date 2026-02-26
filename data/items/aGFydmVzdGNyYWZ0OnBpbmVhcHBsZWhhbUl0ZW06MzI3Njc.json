@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pineapplehamItem","metadata":32767,"displayName":"Pineapple Ham","unlocalizedName":"item.pineapplehamItem","id":"harvestcraft:pineapplehamItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":388}]}

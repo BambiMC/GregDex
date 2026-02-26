@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":12,"displayName":"Blood Stained Brick Slab","unlocalizedName":"tile.railcraft.slab.bloodstained.brick","id":"Railcraft:slab:12","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":181}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":463},{"machine":"crafting_table","chunk":84,"index":463}]}

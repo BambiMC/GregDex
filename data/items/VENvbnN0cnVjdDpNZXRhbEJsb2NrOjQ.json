@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"MetalBlock","metadata":4,"displayName":"Block of Bronze","unlocalizedName":"StorageMetals.Bronze","oreDictNames":["blockBronze"],"id":"TConstruct:MetalBlock:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":64}]}

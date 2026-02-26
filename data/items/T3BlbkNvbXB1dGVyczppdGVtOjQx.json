@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":41,"displayName":"Remote Terminal","unlocalizedName":"item.oc.Terminal","oreDictNames":["oc:terminal"],"id":"OpenComputers:item:41","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":27}],"recipesAsInput":[]}

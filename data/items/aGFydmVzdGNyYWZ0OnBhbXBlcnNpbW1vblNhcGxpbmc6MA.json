@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pampersimmonSapling","metadata":0,"displayName":"Persimmon Sapling","unlocalizedName":"tile.pampersimmonSapling","id":"harvestcraft:pampersimmonSapling:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":271},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":107}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemBasicCapacitor","metadata":8,"displayName":"Endergetic Capacitor","unlocalizedName":"enderio.endergeticCapacitor","oreDictNames":["capacitorAdvanced"],"id":"EnderIO:itemBasicCapacitor:8","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":402}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings4","metadata":6,"displayName":"Fusion Machine Casing","unlocalizedName":"gt.blockcasings4.6","id":"gregtech:gt.blockcasings4:6","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":361}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":362}]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"upgradeModule","metadata":2,"displayName":"Energy Storage Upgrade","unlocalizedName":"ic2.energyStorageUpgrade","id":"IC2:upgradeModule:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":359}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":228}]}

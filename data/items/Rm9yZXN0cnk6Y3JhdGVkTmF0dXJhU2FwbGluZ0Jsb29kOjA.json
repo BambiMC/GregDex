@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaSaplingBlood","metadata":0,"displayName":"Crated Blood Sapling","unlocalizedName":"item.cratedNaturaSaplingBlood","id":"Forestry:cratedNaturaSaplingBlood:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":246}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":171}]}

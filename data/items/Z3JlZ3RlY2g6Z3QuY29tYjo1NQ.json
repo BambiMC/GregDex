@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":55,"displayName":"Nickel Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:55","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":202},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":107}]}

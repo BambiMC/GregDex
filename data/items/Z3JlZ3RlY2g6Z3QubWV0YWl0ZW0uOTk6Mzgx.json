@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":381,"displayName":"Molten Redstone Alloy Cell","unlocalizedName":"gt.metaitem.99.381","oreDictNames":["cellMoltenRedstoneAlloy"],"id":"gregtech:gt.metaitem.99:381","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":185}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":186}]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"petalBlock","metadata":5,"displayName":"Lime Petal Block","unlocalizedName":"tile.petalBlock5","id":"Botania:petalBlock:5","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":17}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":127},{"machine":"gt.recipe.extractor","chunk":0,"index":25}]}

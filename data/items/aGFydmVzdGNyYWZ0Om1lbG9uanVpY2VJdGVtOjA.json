@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"melonjuiceItem","metadata":0,"displayName":"Melon Juice","unlocalizedName":"item.melonjuiceItem","oreDictNames":["foodMelonjuice","listAlljuice"],"id":"harvestcraft:melonjuiceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":289},{"machine":"gt.recipe.extractor","chunk":0,"index":267}],"recipesAsInput":[]}

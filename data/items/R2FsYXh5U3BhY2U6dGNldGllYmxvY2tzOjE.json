@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"tcetieblocks","metadata":1,"displayName":"T Ceti E Subsurface Block","unlocalizedName":"tile.TCetiESubGrunt","oreDictNames":["rockTcetiE","rockSpace"],"id":"GalaxySpace:tcetieblocks:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":189}]}

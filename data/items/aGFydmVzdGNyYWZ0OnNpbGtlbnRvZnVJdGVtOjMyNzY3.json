@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"silkentofuItem","metadata":32767,"displayName":"Silken Tofu","unlocalizedName":"item.silkentofuItem","id":"harvestcraft:silkentofuItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":80}]}

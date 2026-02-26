@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"waypoint","metadata":0,"displayName":"Waypoint","unlocalizedName":"tile.oc.waypoint","oreDictNames":["oc:waypoint"],"id":"OpenComputers:waypoint:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":15}],"recipesAsInput":[]}

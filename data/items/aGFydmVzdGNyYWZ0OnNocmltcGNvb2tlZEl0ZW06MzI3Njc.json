@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"shrimpcookedItem","metadata":32767,"displayName":"Cooked Shrimp","unlocalizedName":"item.shrimpcookedItem","id":"harvestcraft:shrimpcookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":186}]}

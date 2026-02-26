@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockReactorChamber","metadata":0,"displayName":"Reactor Chamber","unlocalizedName":"ic2.blockReactorChamber","id":"IC2:blockReactorChamber:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":275}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":276}]}

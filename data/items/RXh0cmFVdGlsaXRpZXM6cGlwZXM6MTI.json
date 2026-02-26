@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"pipes","metadata":12,"displayName":"Crossover Pipe","unlocalizedName":"tile.extrautils:pipes.12","id":"ExtraUtilities:pipes:12","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":185},{"machine":"crafting_table","chunk":111,"index":186},{"machine":"gt.recipe.assembler","chunk":26,"index":241}],"recipesAsInput":[]}

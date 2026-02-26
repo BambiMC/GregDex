@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":588,"displayName":"Molten SpaceTime Cell","unlocalizedName":"gt.metaitem.99.588","oreDictNames":["cellMoltenSpaceTime"],"id":"gregtech:gt.metaitem.99:588","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":213}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":214}]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPurifiedCrushedOre","metadata":4,"displayName":"Purified Crushed Uranium Ore","unlocalizedName":"ic2.itemPurifiedCrushedUranOre","oreDictNames":["crushedPurifiedUranium"],"id":"IC2:itemPurifiedCrushedOre:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":489},{"machine":"furnace","chunk":13,"index":139}]}

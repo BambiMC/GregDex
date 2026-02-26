@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CircuitMAX","metadata":0,"displayName":"Any MAX Circuit","unlocalizedName":"item.CircuitMAX","oreDictNames":["circuitTranscendent"],"id":"dreamcraft:item.CircuitMAX:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":85}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":85}]}

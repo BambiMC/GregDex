@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"broccoliItem","metadata":32767,"displayName":"Broccoli","unlocalizedName":"item.broccoliItem","id":"harvestcraft:broccoliItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":170}]}

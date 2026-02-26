@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedHoneydew","metadata":0,"displayName":"Crated Honeydew","unlocalizedName":"item.cratedHoneydew","id":"Forestry:cratedHoneydew:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":385}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":200}]}

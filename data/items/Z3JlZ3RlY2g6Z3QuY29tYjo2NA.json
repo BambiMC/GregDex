@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":64,"displayName":"Manganese Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:64","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":213},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":118}]}

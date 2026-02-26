@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"ManureSlurry","metadata":0,"displayName":"Manure Slurry Cell","unlocalizedName":"item.ManureSlurry","oreDictNames":["cellManureSlurry"],"id":"miscutils:ManureSlurry:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":175}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":176}]}

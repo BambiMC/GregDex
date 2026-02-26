@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":205,"displayName":"Molten Gaia Spirit Cell","unlocalizedName":"gt.metaitem.99.205","oreDictNames":["cellMoltenGaiaSpirit"],"id":"gregtech:gt.metaitem.99:205","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":37}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":38}]}

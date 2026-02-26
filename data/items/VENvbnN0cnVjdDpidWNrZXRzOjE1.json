@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":15,"displayName":"Liquified Emerald Bucket","unlocalizedName":"item.tconstruct.bucket.Villager","id":"TConstruct:buckets:15","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":338}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":339}]}

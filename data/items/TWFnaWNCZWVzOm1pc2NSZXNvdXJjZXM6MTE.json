@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"miscResources","metadata":11,"displayName":"Essence of Scornful Oblivion","unlocalizedName":"item.miscResources","id":"MagicBees:miscResources:11","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":285}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":336}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"rhubarbItem","metadata":32767,"displayName":"Rhubarb","unlocalizedName":"item.rhubarbItem","id":"harvestcraft:rhubarbItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":161}]}

@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.willow","metadata":0,"displayName":"Willow Stairs","unlocalizedName":"tile.stair.willow","oreDictNames":["stairWood"],"id":"Natura:stair.willow:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":34},{"machine":"crafting_table","chunk":114,"index":272}],"recipesAsInput":[]}

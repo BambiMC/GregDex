@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"grenadeTurret","metadata":0,"displayName":"Grenade Launcher Turret","unlocalizedName":"tile.grenadeTurret","id":"openmodularturrets:grenadeTurret:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":421},{"machine":"crafting_table","chunk":114,"index":423}],"recipesAsInput":[]}

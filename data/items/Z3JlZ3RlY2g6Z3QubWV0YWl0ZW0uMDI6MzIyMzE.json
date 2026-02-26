@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32231,"displayName":"Veggie Sandwich","unlocalizedName":"gt.metaitem.02.32231","id":"gregtech:gt.metaitem.02:32231","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":311},{"machine":"crafting_table","chunk":92,"index":135}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":22}]}

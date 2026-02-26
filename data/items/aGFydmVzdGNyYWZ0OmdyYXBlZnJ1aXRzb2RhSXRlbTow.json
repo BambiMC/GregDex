@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grapefruitsodaItem","metadata":0,"displayName":"Grapefruit Soda","unlocalizedName":"item.grapefruitsodaItem","oreDictNames":["foodGrapefruitsoda"],"id":"harvestcraft:grapefruitsodaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":445}],"recipesAsInput":[]}

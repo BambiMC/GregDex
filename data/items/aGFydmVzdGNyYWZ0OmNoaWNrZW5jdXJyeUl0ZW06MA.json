@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chickencurryItem","metadata":0,"displayName":"Chicken Curry","unlocalizedName":"item.chickencurryItem","oreDictNames":["foodChickencurry"],"id":"harvestcraft:chickencurryItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":116}],"recipesAsInput":[{"machine":"crafting_table","chunk":92,"index":435}]}

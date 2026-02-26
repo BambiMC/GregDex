@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"plumjellyItem","metadata":32767,"displayName":"Plum Jelly","unlocalizedName":"item.plumjellyItem","id":"harvestcraft:plumjellyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":271}]}

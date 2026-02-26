@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"waxCapsuleShortMead","metadata":0,"displayName":"Short Mead Capsule","unlocalizedName":"item.for.waxCapsuleShortMead","oreDictNames":["capsuleShortMead"],"id":"Forestry:waxCapsuleShortMead:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":492}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":493}]}

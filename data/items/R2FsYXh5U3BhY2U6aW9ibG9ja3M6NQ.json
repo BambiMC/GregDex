@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"ioblocks","metadata":5,"displayName":"Tungsten Ore","unlocalizedName":"tile.IOWolframiumOre","oreDictNames":["oreTungsten"],"id":"GalaxySpace:ioblocks:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":379},{"machine":"gt.recipe.macerator","chunk":7,"index":199}]}

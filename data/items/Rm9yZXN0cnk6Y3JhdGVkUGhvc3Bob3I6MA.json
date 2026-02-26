@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedPhosphor","metadata":0,"displayName":"Crated Phosphor","unlocalizedName":"item.cratedPhosphor","id":"Forestry:cratedPhosphor:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":146}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":50}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":6064,"displayName":"Lanthanum Ore","unlocalizedName":"gt.blockores.6064","oreDictNames":["oreBasaltLanthanum"],"id":"gregtech:gt.blockores:6064","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":161},{"machine":"gt.recipe.macerator","chunk":8,"index":403}]}

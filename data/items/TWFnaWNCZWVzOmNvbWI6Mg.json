@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"comb","metadata":2,"displayName":"Occult Comb","unlocalizedName":"item.comb","oreDictNames":["beeComb"],"id":"MagicBees:comb:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_centrifuge","chunk":0,"index":51},{"machine":"gt.recipe.centrifuge","chunk":2,"index":296},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":120}]}

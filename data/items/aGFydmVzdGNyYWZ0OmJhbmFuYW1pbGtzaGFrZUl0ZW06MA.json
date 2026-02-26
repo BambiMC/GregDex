@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bananamilkshakeItem","metadata":0,"displayName":"Banana Milkshake","unlocalizedName":"item.bananamilkshakeItem","oreDictNames":["foodBananamilkshake"],"id":"harvestcraft:bananamilkshakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":470}],"recipesAsInput":[]}

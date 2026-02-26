@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockBlockNeptunium","metadata":0,"displayName":"Block of Neptunium","unlocalizedName":"block.Neptunium.standard","oreDictNames":["blockNeptunium"],"id":"miscutils:blockBlockNeptunium:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":196},{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":305}],"recipesAsInput":[]}

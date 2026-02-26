@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"xpshower","metadata":0,"displayName":"XP Shower","unlocalizedName":"tile.openblocks.xpshower","id":"OpenBlocks:xpshower:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":397}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":499}]}

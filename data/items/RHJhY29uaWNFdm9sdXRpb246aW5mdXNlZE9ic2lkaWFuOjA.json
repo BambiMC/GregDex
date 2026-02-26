@@ -1,0 +1,1 @@
+{"modId":"DraconicEvolution","itemName":"infusedObsidian","metadata":0,"displayName":"Draconium Infused Obsidian","unlocalizedName":"tile.draconicevolution:infusedObsidian","id":"DraconicEvolution:infusedObsidian:0","recipesAsOutput":[{"machine":"gt.recipe.blastfurnace","chunk":0,"index":435},{"machine":"gt.recipe.fog_molten","chunk":0,"index":435}],"recipesAsInput":[]}

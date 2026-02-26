@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"tile.hydrogenPipe","metadata":0,"displayName":"Hydrogen Pipe","unlocalizedName":"tile.hydrogenPipe","id":"GalacticraftMars:tile.hydrogenPipe:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":278}],"recipesAsInput":[]}

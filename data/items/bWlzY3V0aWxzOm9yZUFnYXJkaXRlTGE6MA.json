@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreAgarditeLa","metadata":0,"displayName":"Agardite (La) Ore","unlocalizedName":"tile.OreAgarditeLa","oreDictNames":["oreAgarditeLa"],"id":"miscutils:oreAgarditeLa:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":261},{"machine":"gt.recipe.macerator","chunk":1,"index":19}]}

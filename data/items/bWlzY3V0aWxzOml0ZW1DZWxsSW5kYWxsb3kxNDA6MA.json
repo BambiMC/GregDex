@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellIndalloy140","metadata":0,"displayName":"Indalloy 140 Cell","unlocalizedName":"item.itemCellIndalloy140","oreDictNames":["cellIndalloy140"],"id":"miscutils:itemCellIndalloy140:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":335}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":336}]}

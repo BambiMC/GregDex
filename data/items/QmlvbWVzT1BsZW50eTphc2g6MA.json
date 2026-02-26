@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"ash","metadata":0,"displayName":"Ash Block","unlocalizedName":"tile.ash","id":"BiomesOPlenty:ash:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":2,"index":181}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":153}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings10","metadata":9,"displayName":"Coolant Duct","unlocalizedName":"gt.blockcasings10.9","id":"gregtech:gt.blockcasings10:9","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":407}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":49}]}

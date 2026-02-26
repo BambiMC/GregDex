@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"dummyResearch","metadata":10,"displayName":"§dResearch on Molecular Transformation","unlocalizedName":"item.dummyResearch","id":"miscutils:dummyResearch:10","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":269}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":94}]}

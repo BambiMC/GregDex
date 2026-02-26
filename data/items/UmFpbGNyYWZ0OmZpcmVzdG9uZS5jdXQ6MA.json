@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"firestone.cut","metadata":0,"displayName":"Cut Firestone","unlocalizedName":"item.railcraft.firestone.cut","id":"Railcraft:firestone.cut:0","recipesAsOutput":[{"machine":"gt.recipe.laserengraver","chunk":3,"index":212}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":371}]}

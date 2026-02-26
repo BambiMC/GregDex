@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"newBopDirt","metadata":0,"displayName":"Loamy Dirt","unlocalizedName":"tile.newBopDirt.dirt_loamy","id":"BiomesOPlenty:newBopDirt:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":178},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":205}]}

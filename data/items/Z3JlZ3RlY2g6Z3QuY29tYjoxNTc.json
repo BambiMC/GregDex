@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":157,"displayName":"Unknown Liquid Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combZPM","beeComb"],"id":"gregtech:gt.comb:157","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":214}]}

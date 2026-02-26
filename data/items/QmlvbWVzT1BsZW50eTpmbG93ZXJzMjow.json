@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers2","metadata":0,"displayName":"Pink Hibiscus","unlocalizedName":"tile.flowers2.hibiscus","oreDictNames":["flowerPink","flowerHibiscusPink"],"id":"BiomesOPlenty:flowers2:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":115},{"machine":"gt.recipe.extractor","chunk":0,"index":225}]}

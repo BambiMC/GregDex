@@ -1,0 +1,1 @@
+{"modId":"RandomThings","itemName":"ingredient","metadata":3,"displayName":"Ectoplasm","unlocalizedName":"item.ectoplasm","id":"RandomThings:ingredient:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":35},{"machine":"gt.recipe.blastfurnace","chunk":0,"index":442},{"machine":"gt.recipe.fog_molten","chunk":0,"index":442}]}

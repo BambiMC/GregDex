@@ -1,0 +1,1 @@
+{"modId":"WitchingGadgets","itemName":"WG_MetalDevice","metadata":0,"displayName":"Essentia Pump","unlocalizedName":"tile.WG_MetalDevice.essentiaPump","id":"WitchingGadgets:WG_MetalDevice:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":109}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":52}]}

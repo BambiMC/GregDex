@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPurifiedCrushedOre","metadata":6,"displayName":"Purified Crushed Lead Ore","unlocalizedName":"ic2.itemPurifiedCrushedLeadOre","oreDictNames":["crushedPurifiedLead"],"id":"IC2:itemPurifiedCrushedOre:6","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":389},{"machine":"furnace","chunk":13,"index":141}]}

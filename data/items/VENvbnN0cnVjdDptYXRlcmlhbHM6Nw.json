@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":7,"displayName":"Lava Crystal","unlocalizedName":"item.tconstruct.Materials.LavaCrystal","id":"TConstruct:materials:7","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":326}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":156}]}

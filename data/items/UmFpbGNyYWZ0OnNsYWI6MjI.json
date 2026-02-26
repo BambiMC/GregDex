@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":22,"displayName":"Sandy Block Slab","unlocalizedName":"tile.railcraft.slab.sandy.block","id":"Railcraft:slab:22","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":191}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":368}]}

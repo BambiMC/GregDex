@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.transfer","metadata":0,"displayName":"Item Transfer Chip","unlocalizedName":"item.chip.transfer.item","id":"RIO:item.chip.transfer:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":398}],"recipesAsInput":[]}

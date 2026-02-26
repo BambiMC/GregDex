@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.spacesuit_plate","metadata":0,"displayName":"SpaceSuit Chestplate","unlocalizedName":"item.spacesuit_plate","id":"GalaxySpace:item.spacesuit_plate:0","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":265}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":118}]}

@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"motionSensor","metadata":0,"displayName":"Motion Sensor","unlocalizedName":"tile.oc.motionSensor","oreDictNames":["oc:motionSensor"],"id":"OpenComputers:motionSensor:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":6}],"recipesAsInput":[]}

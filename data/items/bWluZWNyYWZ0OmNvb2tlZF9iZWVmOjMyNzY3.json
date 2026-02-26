@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"cooked_beef","metadata":32767,"displayName":"Steak","unlocalizedName":"item.beefCooked","id":"minecraft:cooked_beef:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":74},{"machine":"gt.recipe.macerator","chunk":12,"index":406}]}

@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"vanishing_block","metadata":3,"displayName":"Diamond Vanishing Frame","unlocalizedName":"tile.vanishing_block_diamond","id":"malisisdoors:vanishing_block:3","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":139},{"machine":"gt.recipe.assembler","chunk":27,"index":247}],"recipesAsInput":[]}

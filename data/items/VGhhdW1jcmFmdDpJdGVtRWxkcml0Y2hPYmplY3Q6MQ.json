@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemEldritchObject","metadata":1,"displayName":"Crimson Rites","unlocalizedName":"item.ItemEldritchObject.1","id":"Thaumcraft:ItemEldritchObject:1","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":398}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":4,"index":9}]}

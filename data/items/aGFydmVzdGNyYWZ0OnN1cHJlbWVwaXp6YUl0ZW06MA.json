@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"supremepizzaItem","metadata":0,"displayName":"Supreme Pizza","unlocalizedName":"item.supremepizzaItem","oreDictNames":["foodSupremepizza"],"id":"harvestcraft:supremepizzaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":358}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":443}]}

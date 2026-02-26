@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":78,"displayName":"Icy Needle","unlocalizedName":"item.witchery:ingredient.icyNeedle","oreDictNames":["itemSnowbell"],"id":"witchery:ingredient:78","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":74,"index":151}]}

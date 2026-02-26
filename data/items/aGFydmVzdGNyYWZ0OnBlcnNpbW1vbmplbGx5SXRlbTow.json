@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"persimmonjellyItem","metadata":0,"displayName":"Persimmon Jelly","unlocalizedName":"item.persimmonjellyItem","oreDictNames":["foodPersimmonjelly"],"id":"harvestcraft:persimmonjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":231}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":446}]}

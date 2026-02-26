@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"steamedspinachItem","metadata":32767,"displayName":"Steamed Spinach","unlocalizedName":"item.steamedspinachItem","id":"harvestcraft:steamedspinachItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":153}]}

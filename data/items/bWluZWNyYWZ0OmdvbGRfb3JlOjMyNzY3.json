@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"gold_ore","metadata":32767,"displayName":"Gold Ore","unlocalizedName":"tile.oreGold","id":"minecraft:gold_ore:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":112}]}

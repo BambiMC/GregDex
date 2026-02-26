@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"bones","metadata":2,"displayName":"Large Bone Segment","unlocalizedName":"tile.bones.bones_large","id":"BiomesOPlenty:bones:2","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":45}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":10,"index":89}]}

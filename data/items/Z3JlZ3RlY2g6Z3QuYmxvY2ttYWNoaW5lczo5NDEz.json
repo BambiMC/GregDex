@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":9413,"displayName":"Degasser Control Hatch","unlocalizedName":"gt.blockmachines.hatch.degasifiercontrol","id":"gregtech:gt.blockmachines:9413","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":388}],"recipesAsInput":[]}

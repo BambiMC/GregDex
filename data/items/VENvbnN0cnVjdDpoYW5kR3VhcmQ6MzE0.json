@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"handGuard","metadata":314,"displayName":"Unstable Induced Hand Guard","unlocalizedName":"toolpart.MediumGuard.unstableIngot","id":"TConstruct:handGuard:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":262},{"machine":"gt.recipe.extruder","chunk":28,"index":263}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coconutshrimpItem","metadata":0,"displayName":"Coconut Shrimp","unlocalizedName":"item.coconutshrimpItem","oreDictNames":["foodCoconutshrimp"],"id":"harvestcraft:coconutshrimpItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":387}],"recipesAsInput":[]}

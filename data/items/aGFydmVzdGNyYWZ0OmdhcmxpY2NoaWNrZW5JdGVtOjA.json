@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"garlicchickenItem","metadata":0,"displayName":"Garlic Chicken","unlocalizedName":"item.garlicchickenItem","oreDictNames":["foodGarlicchicken"],"id":"harvestcraft:garlicchickenItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":374}],"recipesAsInput":[]}

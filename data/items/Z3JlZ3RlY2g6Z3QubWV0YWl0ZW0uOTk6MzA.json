@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":30,"displayName":"Molten Chrome Cell","unlocalizedName":"gt.metaitem.99.30","oreDictNames":["cellMoltenChrome"],"id":"gregtech:gt.metaitem.99:30","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":387}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":388}]}

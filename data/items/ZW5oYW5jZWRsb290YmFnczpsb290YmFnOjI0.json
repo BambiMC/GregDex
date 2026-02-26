@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":24,"displayName":"LootBag (Space Invaders Asteroids)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:24","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":427},{"machine":"gt.recipe.assembler","chunk":2,"index":249}],"recipesAsInput":[]}

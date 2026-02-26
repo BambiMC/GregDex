@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crayfishcookedItem","metadata":0,"displayName":"Cooked Crayfish","unlocalizedName":"item.crayfishcookedItem","oreDictNames":["foodCrayfishcooked"],"id":"harvestcraft:crayfishcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":324}],"recipesAsInput":[]}

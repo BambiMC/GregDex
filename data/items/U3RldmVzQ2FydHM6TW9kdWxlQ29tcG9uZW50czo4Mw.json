@@ -1,0 +1,1 @@
+{"modId":"StevesCarts","itemName":"ModuleComponents","metadata":83,"displayName":"Iron Blade","unlocalizedName":"item.SC2:iron_blade","id":"StevesCarts:ModuleComponents:83","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":419}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":420}]}

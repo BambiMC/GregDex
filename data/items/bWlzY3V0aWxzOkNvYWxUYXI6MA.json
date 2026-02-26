@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"CoalTar","metadata":0,"displayName":"Coal Tar Cell","unlocalizedName":"item.CoalTar","oreDictNames":["cellCoalTar"],"id":"miscutils:CoalTar:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":415}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":416}]}

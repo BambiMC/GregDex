@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"enceladusblocks","metadata":0,"displayName":"Enceladus Snow","unlocalizedName":"tile.EnceladusSnow","oreDictNames":["rockSpace","rockEnceladus"],"id":"GalaxySpace:enceladusblocks:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":201},{"machine":"gt.recipe.macerator","chunk":0,"index":153}]}

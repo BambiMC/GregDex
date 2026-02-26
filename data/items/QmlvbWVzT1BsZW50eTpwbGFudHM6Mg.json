@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"plants","metadata":2,"displayName":"Desert Sprouts","unlocalizedName":"tile.plants.desertsprouts","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:plants:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":307}]}

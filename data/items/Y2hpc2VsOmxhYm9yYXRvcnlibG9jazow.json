@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"laboratoryblock","metadata":0,"displayName":"Laboratory Block","unlocalizedName":"tile.chisel.laboratoryblock","id":"chisel:laboratoryblock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":386},{"machine":"gt.recipe.assembler","chunk":2,"index":181}],"recipesAsInput":[]}

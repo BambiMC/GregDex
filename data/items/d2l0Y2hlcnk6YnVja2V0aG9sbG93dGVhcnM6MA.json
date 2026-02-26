@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"buckethollowtears","metadata":0,"displayName":"Hollow Tears Bucket","unlocalizedName":"item.witchery:buckethollowtears","id":"witchery:buckethollowtears:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":317}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":318}]}

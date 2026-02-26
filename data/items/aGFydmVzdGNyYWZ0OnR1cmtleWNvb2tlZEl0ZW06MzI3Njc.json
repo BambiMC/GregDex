@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"turkeycookedItem","metadata":32767,"displayName":"Cooked Turkey","unlocalizedName":"item.turkeycookedItem","id":"harvestcraft:turkeycookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":207},{"machine":"gt.recipe.macerator","chunk":27,"index":340}]}

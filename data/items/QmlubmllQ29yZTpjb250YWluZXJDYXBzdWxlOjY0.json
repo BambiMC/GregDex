@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCapsule","metadata":64,"displayName":"Acid Capsule","unlocalizedName":"item.containerCapsule","id":"BinnieCore:containerCapsule:64","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":86}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":87}]}

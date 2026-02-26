@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":59,"displayName":"Molten Tellurium Cell","unlocalizedName":"gt.metaitem.99.59","oreDictNames":["cellMoltenTellurium"],"id":"gregtech:gt.metaitem.99:59","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":297}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":298}]}

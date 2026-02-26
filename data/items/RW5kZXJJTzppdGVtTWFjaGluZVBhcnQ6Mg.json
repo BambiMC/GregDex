@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMachinePart","metadata":2,"displayName":"Soul Machine Chassis","unlocalizedName":"enderio.soulMachineChassi","oreDictNames":["itemSoulMachineChassi"],"id":"EnderIO:itemMachinePart:2","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":328},{"machine":"crafting_table","chunk":109,"index":329}],"recipesAsInput":[]}

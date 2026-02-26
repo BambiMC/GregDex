@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pampapayaSapling","metadata":0,"displayName":"Papaya Sapling","unlocalizedName":"tile.pampapayaSapling","id":"harvestcraft:pampapayaSapling:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":267},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":101}],"recipesAsInput":[]}

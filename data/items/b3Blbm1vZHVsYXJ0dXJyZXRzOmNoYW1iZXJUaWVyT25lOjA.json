@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"chamberTierOne","metadata":0,"displayName":"Chamber (Tier 1)","unlocalizedName":"item.chamberTierOne","id":"openmodularturrets:chamberTierOne:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":415},{"machine":"gt.recipe.assembler","chunk":28,"index":286}],"recipesAsInput":[]}

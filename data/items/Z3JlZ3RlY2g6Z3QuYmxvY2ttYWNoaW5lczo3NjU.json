@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":765,"displayName":"Atmospheric Cleaner","unlocalizedName":"gt.blockmachines.pollutioncleaner.09.tier.single","id":"gregtech:gt.blockmachines:765","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":202}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":230}]}

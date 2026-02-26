@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":120,"displayName":"End Dust Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combHV"],"id":"gregtech:gt.comb:120","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":117},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":295}]}

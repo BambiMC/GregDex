@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gooseberryItem","metadata":32767,"displayName":"Gooseberry","unlocalizedName":"item.gooseberryItem","id":"harvestcraft:gooseberryItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":229}]}

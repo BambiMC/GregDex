@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"potatosaladItem","metadata":0,"displayName":"Potato Salad","unlocalizedName":"item.potatosaladItem","oreDictNames":["foodPotatosalad"],"id":"harvestcraft:potatosaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":119}],"recipesAsInput":[]}

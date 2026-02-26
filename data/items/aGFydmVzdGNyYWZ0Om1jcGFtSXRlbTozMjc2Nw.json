@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mcpamItem","metadata":32767,"displayName":"McPam","unlocalizedName":"item.mcpamItem","id":"harvestcraft:mcpamItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":145}]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"MetalBlock","metadata":3,"displayName":"Block of Copper","unlocalizedName":"StorageMetals.Copper","oreDictNames":["blockCopper"],"id":"TConstruct:MetalBlock:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":62}]}

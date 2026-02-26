@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":828,"displayName":"COMET - Compact Cyclotron","unlocalizedName":"gt.blockmachines.cyclotron.tier.single","id":"gregtech:gt.blockmachines:828","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":160}],"recipesAsInput":[]}

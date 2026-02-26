@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeCore","metadata":8,"displayName":"Storage upgrade x81","unlocalizedName":"item.upgrade.core.storage81","id":"JABBA:upgradeCore:8","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":65},{"machine":"gt.recipe.assembler","chunk":27,"index":73}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":74}]}

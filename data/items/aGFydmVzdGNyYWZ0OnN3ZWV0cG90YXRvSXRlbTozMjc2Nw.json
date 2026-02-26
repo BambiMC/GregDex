@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sweetpotatoItem","metadata":32767,"displayName":"Sweet Potato","unlocalizedName":"item.sweetpotatoItem","id":"harvestcraft:sweetpotatoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":182},{"machine":"gt.recipe.canner","chunk":0,"index":159}]}

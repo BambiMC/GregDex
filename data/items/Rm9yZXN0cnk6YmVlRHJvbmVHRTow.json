@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"beeDroneGE","metadata":0,"displayName":"Scanned Drone","unlocalizedName":"item.for.beeDroneGE","nbt":"{display:{Name:\"Scanned Drone\"}}","id":"Forestry:beeDroneGE:0","recipesAsOutput":[{"machine":"gt.recipe.scanner","chunk":0,"index":169}],"recipesAsInput":[]}

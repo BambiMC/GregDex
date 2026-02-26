@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketFire_water","metadata":0,"displayName":"Fire Water Bucket","unlocalizedName":"item.bucketFire_water","id":"EnderIO:bucketFire_water:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":363}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":364}]}

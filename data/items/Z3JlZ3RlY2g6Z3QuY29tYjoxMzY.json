@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":136,"displayName":"Krypton Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:136","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":25,"index":322}]}

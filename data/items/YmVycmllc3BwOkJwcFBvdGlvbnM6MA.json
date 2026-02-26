@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":0,"displayName":"Bottled Fermented Wheat","unlocalizedName":"potion.FWheat.bottled","id":"berriespp:BppPotions:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":14}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":13}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"porklomeinItem","metadata":0,"displayName":"Pork Lo Mein","unlocalizedName":"item.porklomeinItem","oreDictNames":["foodPorklomein"],"id":"harvestcraft:porklomeinItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":174}],"recipesAsInput":[]}

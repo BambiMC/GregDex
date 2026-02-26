@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"item.curtain_light_blue","metadata":0,"displayName":"Light Blue Curtain","unlocalizedName":"item.curtain_light_blue","id":"malisisdoors:item.curtain_light_blue:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":206},{"machine":"gt.recipe.assembler","chunk":27,"index":284}],"recipesAsInput":[]}

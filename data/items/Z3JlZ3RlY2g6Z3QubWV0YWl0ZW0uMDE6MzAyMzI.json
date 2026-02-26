@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30232,"displayName":"Dense Steam Cell","unlocalizedName":"gt.metaitem.01.30232","oreDictNames":["cellDenseSteam"],"id":"gregtech:gt.metaitem.01:30232","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":280}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":281}]}

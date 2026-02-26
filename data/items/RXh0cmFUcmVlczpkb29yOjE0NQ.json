@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":145,"displayName":"Poplar Wood Door","unlocalizedName":"tile.door","nbt":"{meta:145}","id":"ExtraTrees:door:145","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":257},{"machine":"crafting_table","chunk":110,"index":258}],"recipesAsInput":[]}

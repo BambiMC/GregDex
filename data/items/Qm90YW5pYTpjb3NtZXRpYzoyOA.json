@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":28,"displayName":"Thick Eyebrows","unlocalizedName":"item.cosmetic28","id":"Botania:cosmetic:28","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":251},{"machine":"gt.recipe.assembler","chunk":0,"index":283}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":118}]}

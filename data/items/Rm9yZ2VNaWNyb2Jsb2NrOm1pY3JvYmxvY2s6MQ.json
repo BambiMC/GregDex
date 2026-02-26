@@ -1,0 +1,1 @@
+{"modId":"ForgeMicroblock","itemName":"microblock","metadata":1,"displayName":"Stone Cover","unlocalizedName":"item.microblock","nbt":"{mat:\"tile.stone\"}","id":"ForgeMicroblock:microblock:1","recipesAsOutput":[{"machine":"crafting_table","chunk":65,"index":134}],"recipesAsInput":[]}

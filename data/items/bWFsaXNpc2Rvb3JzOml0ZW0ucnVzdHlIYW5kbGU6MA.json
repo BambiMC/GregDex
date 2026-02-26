@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"item.rustyHandle","metadata":0,"displayName":"Rusty Handle","unlocalizedName":"item.rustyHandle","id":"malisisdoors:item.rustyHandle:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":144}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":248}]}

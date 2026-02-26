@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedPollen","metadata":0,"displayName":"Crated Pollen Cluster","unlocalizedName":"item.cratedPollen","id":"Forestry:cratedPollen:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":44}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":6}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":40,"displayName":"Red Garnet Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:40","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":190},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":95}]}

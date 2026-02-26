@@ -1,0 +1,1 @@
+{"modId":"StevesCarts","itemName":"CartModule","metadata":51,"displayName":"Projectile: Potion","unlocalizedName":"item.SC2:projectile_potion","id":"StevesCarts:CartModule:51","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":443}],"recipesAsInput":[]}

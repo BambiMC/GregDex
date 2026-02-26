@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars","metadata":14,"displayName":"Fire Infused Triple Compressed Solar Panel","unlocalizedName":"tile.EMT.solar.triplefire","id":"EMT:EMTSolars:14","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":159}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":110}]}

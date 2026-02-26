@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"dictionary","metadata":0,"displayName":"Apiarist Database","unlocalizedName":"item.dictionary","id":"ExtraBees:dictionary:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":462},{"machine":"forestry_carpenter","chunk":0,"index":337}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":164}]}

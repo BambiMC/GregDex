@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketCloud_seed_concentrated","metadata":0,"displayName":"Concentrated Cloud Seed Bucket","unlocalizedName":"item.bucketCloud_seed_concentrated","id":"EnderIO:bucketCloud_seed_concentrated:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":267}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":268}]}

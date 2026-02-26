@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"anchovyrawItem","metadata":32767,"displayName":"Raw Anchovy","unlocalizedName":"item.anchovyrawItem","id":"harvestcraft:anchovyrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":229},{"machine":"gt.recipe.canner","chunk":1,"index":155}]}

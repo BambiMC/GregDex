@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":19,"displayName":"Sulfuric Lithium Cell","unlocalizedName":"ic2.SulfuricLithium","oreDictNames":["cellSulfuricLithium"],"id":"IC2:itemCellEmpty:19","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":259}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":260}]}

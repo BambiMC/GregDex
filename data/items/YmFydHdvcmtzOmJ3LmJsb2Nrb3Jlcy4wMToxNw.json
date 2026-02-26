@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":17,"displayName":"Huebnerite Ore","unlocalizedName":"bw.blockores.01.17","oreDictNames":["oreHuebnerite"],"id":"bartworks:bw.blockores.01:17","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":116},{"machine":"gt.recipe.macerator","chunk":8,"index":358}]}

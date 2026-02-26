@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"dreamcraft_NitricAcid_bucket","metadata":0,"displayName":"Bucket of Nitric Acid","unlocalizedName":"item.NitricAcid_bucket","id":"dreamcraft:dreamcraft_NitricAcid_bucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":101}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":102}]}

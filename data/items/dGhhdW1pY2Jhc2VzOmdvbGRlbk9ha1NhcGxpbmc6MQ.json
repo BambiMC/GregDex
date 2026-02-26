@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"goldenOakSapling","metadata":1,"displayName":"Peaceful Sapling","unlocalizedName":"tile.peacefullTreeSapling","id":"thaumicbases:goldenOakSapling:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":29},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":6}],"recipesAsInput":[]}

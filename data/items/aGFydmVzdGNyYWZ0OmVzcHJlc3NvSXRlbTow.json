@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"espressoItem","metadata":0,"displayName":"Espresso","unlocalizedName":"item.espressoItem","oreDictNames":["foodEspresso"],"id":"harvestcraft:espressoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":376}],"recipesAsInput":[{"machine":"crafting_table","chunk":95,"index":177}]}

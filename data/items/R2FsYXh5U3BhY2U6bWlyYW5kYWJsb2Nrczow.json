@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"mirandablocks","metadata":0,"displayName":"Miranda Surface Block","unlocalizedName":"tile.MirandaGrunt","oreDictNames":["rockMiranda","rockSpace"],"id":"GalaxySpace:mirandablocks:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":199},{"machine":"gt.recipe.macerator","chunk":0,"index":162}]}

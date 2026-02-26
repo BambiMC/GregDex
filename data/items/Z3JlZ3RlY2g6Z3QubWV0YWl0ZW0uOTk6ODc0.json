@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":874,"displayName":"Molten Polyethylene Cell","unlocalizedName":"gt.metaitem.99.874","oreDictNames":["cellMoltenPlastic"],"id":"gregtech:gt.metaitem.99:874","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":355}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":356}]}

@@ -1,0 +1,1 @@
+{"modId":"ForbiddenMagic","itemName":"EldritchOrb","metadata":0,"displayName":"Eldritch Blood Orb","unlocalizedName":"item.EldritchOrb","id":"ForbiddenMagic:EldritchOrb:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":269}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":1}]}

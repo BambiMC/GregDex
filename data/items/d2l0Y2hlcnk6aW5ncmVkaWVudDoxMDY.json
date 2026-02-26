@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":106,"displayName":"Book of Biomes","unlocalizedName":"item.witchery:ingredient.bookBiomes","id":"witchery:ingredient:106","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":273}],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":84}]}

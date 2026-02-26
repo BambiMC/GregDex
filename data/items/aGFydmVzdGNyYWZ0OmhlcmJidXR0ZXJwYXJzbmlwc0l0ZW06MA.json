@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"herbbutterparsnipsItem","metadata":0,"displayName":"Herb Butter Parsnips","unlocalizedName":"item.herbbutterparsnipsItem","oreDictNames":["foodHerbbutterparsnips"],"id":"harvestcraft:herbbutterparsnipsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":440}],"recipesAsInput":[]}

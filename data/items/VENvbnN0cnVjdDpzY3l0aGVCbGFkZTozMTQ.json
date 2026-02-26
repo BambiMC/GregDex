@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"scytheBlade","metadata":314,"displayName":"Unstable Induced Scythe Head","unlocalizedName":"toolpart.ScytheHead.unstableIngot","id":"TConstruct:scytheBlade:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":438},{"machine":"gt.recipe.extruder","chunk":28,"index":439}],"recipesAsInput":[]}

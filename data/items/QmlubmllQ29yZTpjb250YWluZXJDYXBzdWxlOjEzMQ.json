@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCapsule","metadata":131,"displayName":"Turpentine Capsule","unlocalizedName":"item.containerCapsule","id":"BinnieCore:containerCapsule:131","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":358}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":359}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedSilver","metadata":0,"displayName":"Crated Silver Ingot","unlocalizedName":"item.cratedSilver","id":"Forestry:cratedSilver:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":72}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":77}]}

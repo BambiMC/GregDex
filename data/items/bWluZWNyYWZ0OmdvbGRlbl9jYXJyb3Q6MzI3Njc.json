@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"golden_carrot","metadata":32767,"displayName":"Golden Carrot","unlocalizedName":"item.carrotGolden","id":"minecraft:golden_carrot:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":83}]}

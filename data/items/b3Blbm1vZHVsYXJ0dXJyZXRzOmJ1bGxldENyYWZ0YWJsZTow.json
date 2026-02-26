@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"bulletCraftable","metadata":0,"displayName":"Ammo - Bullet","unlocalizedName":"item.bulletCraftable","id":"openmodularturrets:bulletCraftable:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":434},{"machine":"gt.recipe.assembler","chunk":28,"index":292}],"recipesAsInput":[]}

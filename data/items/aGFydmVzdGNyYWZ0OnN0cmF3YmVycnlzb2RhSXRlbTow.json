@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"strawberrysodaItem","metadata":0,"displayName":"Strawberry Soda","unlocalizedName":"item.strawberrysodaItem","oreDictNames":["foodStrawberrysoda"],"id":"harvestcraft:strawberrysodaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":438}],"recipesAsInput":[]}

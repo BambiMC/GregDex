@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"MAR_Casing","metadata":0,"displayName":"Field Restriction Casing","unlocalizedName":"MAR_Casing.0","id":"GoodGenerator:MAR_Casing:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":30}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":54}]}

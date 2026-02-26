@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":9,"displayName":"Structural MK X (Chrome Plate)","unlocalizedName":"item.upgrade.structural.10","id":"JABBA:upgradeStructural:9","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":34},{"machine":"gt.recipe.assembler","chunk":1,"index":69}],"recipesAsInput":[]}

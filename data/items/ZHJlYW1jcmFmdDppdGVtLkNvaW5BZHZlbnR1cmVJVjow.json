@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinAdventureIV","metadata":0,"displayName":"Coin \"The Explorer 10K\"","unlocalizedName":"item.CoinAdventureIV","id":"dreamcraft:item.CoinAdventureIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":262}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":318}]}

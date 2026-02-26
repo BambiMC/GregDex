@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"keylimepieItem","metadata":0,"displayName":"Keylime Pie","unlocalizedName":"item.keylimepieItem","oreDictNames":["foodKeylimepie"],"id":"harvestcraft:keylimepieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":391}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Silicon","itemName":"redstoneChipset","metadata":6,"displayName":"Redstone Comp Chipset","unlocalizedName":"item.redstone_comp_chipset","oreDictNames":["chipsetComp"],"id":"BuildCraft|Silicon:redstoneChipset:6","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":124}],"recipesAsInput":[]}

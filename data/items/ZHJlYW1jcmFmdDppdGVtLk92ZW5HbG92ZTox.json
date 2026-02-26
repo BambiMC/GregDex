@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.OvenGlove","metadata":1,"displayName":"Glove","unlocalizedName":"item.OvenGlove","nbt":"{Durability:1000}","id":"dreamcraft:item.OvenGlove:1","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":293},{"machine":"crafting_table","chunk":109,"index":294}],"recipesAsInput":[]}

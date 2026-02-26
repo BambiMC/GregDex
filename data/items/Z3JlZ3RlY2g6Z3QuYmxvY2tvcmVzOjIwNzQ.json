@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":2074,"displayName":"Holmium Ore","unlocalizedName":"gt.blockores.2074","oreDictNames":["oreEndstoneHolmium"],"id":"gregtech:gt.blockores:2074","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":237},{"machine":"gt.recipe.macerator","chunk":4,"index":177}]}

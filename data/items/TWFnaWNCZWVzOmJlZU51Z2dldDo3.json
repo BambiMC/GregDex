@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"beeNugget","metadata":7,"displayName":"Apatite Shard","unlocalizedName":"item.beeNugget","oreDictNames":["nuggetApatite"],"id":"MagicBees:beeNugget:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":38,"index":144}]}

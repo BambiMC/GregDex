@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":6,"displayName":"Baobab Stairs","unlocalizedName":"tile.for.stairs.6","oreDictNames":["stairWood"],"id":"Forestry:stairs:6","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":439}],"recipesAsInput":[]}

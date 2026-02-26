@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"ioblocks","metadata":6,"displayName":"Sulfur Ore","unlocalizedName":"tile.IOSulfurOre","oreDictNames":["oreSulfur"],"id":"GalaxySpace:ioblocks:6","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":289},{"machine":"gt.recipe.macerator","chunk":9,"index":21}]}

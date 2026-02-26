@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bananasplitItem","metadata":32767,"displayName":"Banana Split","unlocalizedName":"item.bananasplitItem","id":"harvestcraft:bananasplitItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":430}]}

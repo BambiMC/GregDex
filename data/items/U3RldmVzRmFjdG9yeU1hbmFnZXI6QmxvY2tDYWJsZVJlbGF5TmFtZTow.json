@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableRelayName","metadata":0,"displayName":"Inventory Relay","unlocalizedName":"tile.sfm.BlockCableRelay","id":"StevesFactoryManager:BlockCableRelayName:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":496}],"recipesAsInput":[]}

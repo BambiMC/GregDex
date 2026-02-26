@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"roastedchestnutItem","metadata":0,"displayName":"Roasted Chestnut","unlocalizedName":"item.roastedchestnutItem","oreDictNames":["foodRoastedchestnut"],"id":"harvestcraft:roastedchestnutItem:0","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":329}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"custardItem","metadata":0,"displayName":"Custard","unlocalizedName":"item.custardItem","oreDictNames":["foodCustard"],"id":"harvestcraft:custardItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":397}],"recipesAsInput":[]}

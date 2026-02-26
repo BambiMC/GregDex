@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockBlockRadium","metadata":0,"displayName":"Block of Radium","unlocalizedName":"block.Radium.standard","oreDictNames":["blockRadium"],"id":"miscutils:blockBlockRadium:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":213},{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":97}],"recipesAsInput":[]}

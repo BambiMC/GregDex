@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"comb","metadata":12,"displayName":"Firey Comb","unlocalizedName":"item.comb","oreDictNames":["beeComb"],"id":"MagicBees:comb:12","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_centrifuge","chunk":0,"index":133},{"machine":"gt.recipe.centrifuge","chunk":2,"index":364},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":292}]}

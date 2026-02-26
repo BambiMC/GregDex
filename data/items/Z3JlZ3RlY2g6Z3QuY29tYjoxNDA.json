@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":140,"displayName":"Phosphorus Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combHV"],"id":"gregtech:gt.comb:140","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":67},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":29}]}

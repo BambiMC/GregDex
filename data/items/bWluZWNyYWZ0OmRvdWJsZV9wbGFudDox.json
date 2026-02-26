@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"double_plant","metadata":1,"displayName":"Lilac","unlocalizedName":"tile.doublePlant.syringa","id":"minecraft:double_plant:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":101},{"machine":"gt.recipe.extractor","chunk":0,"index":11}]}

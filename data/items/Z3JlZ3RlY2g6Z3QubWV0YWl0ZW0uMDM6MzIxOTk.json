@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32199,"displayName":"Upgrade Frame","unlocalizedName":"gt.metaitem.03.32199","id":"gregtech:gt.metaitem.03:32199","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":417},{"machine":"gt.recipe.assembler","chunk":26,"index":334}],"recipesAsInput":[]}

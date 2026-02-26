@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"colasodaItem","metadata":0,"displayName":"Cola Soda","unlocalizedName":"item.colasodaItem","oreDictNames":["foodColasoda"],"id":"harvestcraft:colasodaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":433}],"recipesAsInput":[]}

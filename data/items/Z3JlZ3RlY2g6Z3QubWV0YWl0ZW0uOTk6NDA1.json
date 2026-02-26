@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":405,"displayName":"Molten Stellar Alloy Cell","unlocalizedName":"gt.metaitem.99.405","oreDictNames":["cellMoltenStellarAlloy"],"id":"gregtech:gt.metaitem.99:405","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":109}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":110}]}

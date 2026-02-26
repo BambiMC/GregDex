@@ -1,0 +1,1 @@
+{"modId":"BloodArsenal","itemName":"blood_infused_glowstone","metadata":0,"displayName":"Blood Infused Glowstone","unlocalizedName":"tile.blood_infused_glowstone","id":"BloodArsenal:blood_infused_glowstone:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":190},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":190}]}

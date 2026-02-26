@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMaterial","metadata":8,"displayName":"Ender Crystal","unlocalizedName":"enderio.enderCrystal","oreDictNames":["itemEnderCrystal"],"id":"EnderIO:itemMaterial:8","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":10,"index":110}]}

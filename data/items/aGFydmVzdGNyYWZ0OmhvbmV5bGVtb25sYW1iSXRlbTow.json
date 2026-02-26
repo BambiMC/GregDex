@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"honeylemonlambItem","metadata":0,"displayName":"Honey Lemon Lamb","unlocalizedName":"item.honeylemonlambItem","oreDictNames":["foodHoneylemonlamb"],"id":"harvestcraft:honeylemonlambItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":402},{"machine":"crafting_table","chunk":92,"index":403}],"recipesAsInput":[]}

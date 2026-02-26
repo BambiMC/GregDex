@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":63,"displayName":"Molten Barium Cell","unlocalizedName":"gt.metaitem.99.63","oreDictNames":["cellMoltenBarium"],"id":"gregtech:gt.metaitem.99:63","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":317}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":318}]}

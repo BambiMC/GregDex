@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":12755,"displayName":"EV 128A Low Power Laser Converter","unlocalizedName":"gt.blockmachines.ev_lplaser_converter_128","id":"gregtech:gt.blockmachines:12755","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":268}],"recipesAsInput":[]}

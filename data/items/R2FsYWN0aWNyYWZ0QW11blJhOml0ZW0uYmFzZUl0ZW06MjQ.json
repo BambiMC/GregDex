@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"item.baseItem","metadata":24,"displayName":"Dock Gangway","unlocalizedName":"item.baseItem.dockGangway","id":"GalacticraftAmunRa:item.baseItem:24","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":262}],"recipesAsInput":[{"machine":"crafting_table","chunk":105,"index":258}]}

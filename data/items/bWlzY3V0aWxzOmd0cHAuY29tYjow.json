@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"gtpp.comb","metadata":0,"displayName":"Dragonblood Comb","unlocalizedName":"item.gtpp.comb","id":"miscutils:gtpp.comb:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":1},{"machine":"kubatech.defusioncrafter","chunk":0,"index":8},{"machine":"kubatech.defusioncrafter","chunk":0,"index":9}]}

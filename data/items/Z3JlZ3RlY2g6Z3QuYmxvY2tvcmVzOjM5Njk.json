@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":3969,"displayName":"Aluminium Fluoride Ore","unlocalizedName":"gt.blockores.3969","oreDictNames":["oreBlackgraniteAluminiumfluoride"],"id":"gregtech:gt.blockores:3969","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":109},{"machine":"gt.recipe.macerator","chunk":6,"index":443}]}

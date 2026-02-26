@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.fuelCanisterPartial","metadata":1001,"displayName":"Partially Filled Fuel Canister","unlocalizedName":"item.fuelCanisterPartial","id":"GalacticraftCore:item.fuelCanisterPartial:1001","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":109}]}

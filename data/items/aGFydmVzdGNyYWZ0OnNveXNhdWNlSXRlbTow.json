@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"soysauceItem","metadata":0,"displayName":"Soy Sauce","unlocalizedName":"item.soysauceItem","oreDictNames":["foodSoysauce"],"id":"harvestcraft:soysauceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":482}],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":174}]}

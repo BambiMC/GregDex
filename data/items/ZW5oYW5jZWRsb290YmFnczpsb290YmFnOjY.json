@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":6,"displayName":"LootBag (Tier 3 HV)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:6","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":409},{"machine":"gt.recipe.assembler","chunk":2,"index":238}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":239}]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"upgradeModule","metadata":3,"displayName":"Ejector Upgrade","unlocalizedName":"ic2.ejectorUpgrade","id":"IC2:upgradeModule:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":360}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":302},{"machine":"gt.recipe.assembler","chunk":26,"index":361}]}

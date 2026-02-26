@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"roastedchestnutItem","metadata":32767,"displayName":"Roasted Chestnut","unlocalizedName":"item.roastedchestnutItem","id":"harvestcraft:roastedchestnutItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":82}]}

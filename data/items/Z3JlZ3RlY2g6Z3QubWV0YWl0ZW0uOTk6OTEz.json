@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":913,"displayName":"Molten Realgar Cell","unlocalizedName":"gt.metaitem.99.913","oreDictNames":["cellMoltenRealgar"],"id":"gregtech:gt.metaitem.99:913","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":297}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":298}]}

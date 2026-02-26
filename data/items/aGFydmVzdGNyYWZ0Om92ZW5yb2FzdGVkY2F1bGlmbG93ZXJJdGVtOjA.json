@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"ovenroastedcauliflowerItem","metadata":0,"displayName":"Oven Roasted Cauliflower","unlocalizedName":"item.ovenroastedcauliflowerItem","oreDictNames":["foodOvenroastedcauliflower"],"id":"harvestcraft:ovenroastedcauliflowerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":405}],"recipesAsInput":[]}

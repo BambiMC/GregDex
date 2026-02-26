@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"maplesyruppancakesItem","metadata":0,"displayName":"Maple Syrup Pancakes","unlocalizedName":"item.maplesyruppancakesItem","oreDictNames":["foodMaplesyruppancakes"],"id":"harvestcraft:maplesyruppancakesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":395}],"recipesAsInput":[]}

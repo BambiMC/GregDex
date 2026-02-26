@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellLFTRFuel3","metadata":0,"displayName":"LFTR Fuel 3 Cell","unlocalizedName":"item.itemCellLFTRFuel3","oreDictNames":["cellLFTRFuel3"],"id":"miscutils:itemCellLFTRFuel3:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":103}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":104}]}

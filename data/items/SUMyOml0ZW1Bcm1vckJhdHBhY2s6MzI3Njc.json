@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemArmorBatpack","metadata":32767,"displayName":"BatPack","unlocalizedName":"ic2.itemArmorBatpack","id":"IC2:itemArmorBatpack:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":29,"index":323},{"machine":"crafting_table","chunk":29,"index":360},{"machine":"gt.recipe.assembler","chunk":8,"index":386}]}

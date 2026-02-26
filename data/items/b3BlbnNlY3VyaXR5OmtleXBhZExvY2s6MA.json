@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"keypadLock","metadata":0,"displayName":"Keypad","unlocalizedName":"tile.keypadlock","id":"opensecurity:keypadLock:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":46}],"recipesAsInput":[]}

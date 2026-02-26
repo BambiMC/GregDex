@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"waxCapsuleEthanol","metadata":0,"displayName":"Ethanol Capsule","unlocalizedName":"item.for.waxCapsuleEthanol","oreDictNames":["capsuleEthanol"],"id":"Forestry:waxCapsuleEthanol:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":33}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":34}]}

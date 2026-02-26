@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormNuggets","metadata":0,"displayName":"Casting Form (Nuggets Mold)","unlocalizedName":"item.MoldFormNuggets","id":"dreamcraft:item.MoldFormNuggets:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":0}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":80}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"breadedporkchopItem","metadata":32767,"displayName":"Breaded Porkchop","unlocalizedName":"item.breadedporkchopItem","id":"harvestcraft:breadedporkchopItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":266}]}

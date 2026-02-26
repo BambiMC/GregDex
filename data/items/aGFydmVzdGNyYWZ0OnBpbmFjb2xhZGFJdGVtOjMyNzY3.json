@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pinacoladaItem","metadata":32767,"displayName":"Pinacolada","unlocalizedName":"item.pinacoladaItem","id":"harvestcraft:pinacoladaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":12}]}

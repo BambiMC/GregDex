@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"Natura.fence","metadata":1,"displayName":"Sakura Fence","unlocalizedName":"tile.fence.sakura","oreDictNames":["fenceWood"],"id":"Natura:Natura.fence:1","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":97},{"machine":"crafting_table","chunk":114,"index":98},{"machine":"crafting_table","chunk":114,"index":99}],"recipesAsInput":[]}

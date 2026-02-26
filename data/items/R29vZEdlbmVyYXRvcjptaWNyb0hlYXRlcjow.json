@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"microHeater","metadata":0,"displayName":"Micro-Heater","unlocalizedName":"item.microHeater","id":"GoodGenerator:microHeater:0","recipesAsOutput":[{"machine":"gg.recipe.precise_assembler","chunk":0,"index":0}],"recipesAsInput":[{"machine":"gg.recipe.precise_assembler","chunk":0,"index":1}]}

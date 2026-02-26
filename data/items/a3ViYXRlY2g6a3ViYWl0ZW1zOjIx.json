@@ -1,0 +1,1 @@
+{"modId":"kubatech","itemName":"kubaitems","metadata":21,"displayName":"White Tea","unlocalizedName":"kubaitem.tea.white_tea","id":"kubatech:kubaitems:21","recipesAsOutput":[{"machine":"furnace","chunk":12,"index":472}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":53}]}

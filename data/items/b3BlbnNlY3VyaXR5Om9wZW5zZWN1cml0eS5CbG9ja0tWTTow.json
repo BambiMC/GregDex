@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"opensecurity.BlockKVM","metadata":0,"displayName":"KVM Switch","unlocalizedName":"tile.kvm","id":"opensecurity:opensecurity.BlockKVM:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":44}],"recipesAsInput":[]}

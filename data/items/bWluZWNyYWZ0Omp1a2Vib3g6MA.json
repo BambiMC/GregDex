@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"jukebox","metadata":0,"displayName":"Jukebox","unlocalizedName":"tile.jukebox","id":"minecraft:jukebox:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":239}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":124}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pearjellyItem","metadata":0,"displayName":"Pear Jelly","unlocalizedName":"item.pearjellyItem","oreDictNames":["foodPearjelly"],"id":"harvestcraft:pearjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":268}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":488}]}

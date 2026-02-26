@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32114,"displayName":"Dragon Blood","unlocalizedName":"gt.metaitem.02.32114","id":"gregtech:gt.metaitem.02:32114","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":26}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":27}]}

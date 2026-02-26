@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":947,"displayName":"Molten Concrete Cell","unlocalizedName":"gt.metaitem.99.947","oreDictNames":["cellMoltenConcrete"],"id":"gregtech:gt.metaitem.99:947","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":227}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":228}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"mushroom_stew","metadata":32767,"displayName":"Mushroom Stew","unlocalizedName":"item.mushroomStew","id":"minecraft:mushroom_stew:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":64}]}

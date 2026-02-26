@@ -1,0 +1,1 @@
+{"modId":"Avaritia","itemName":"Singularity","metadata":3,"displayName":"Redstone Singularity","unlocalizedName":"item.singularity_redstone","id":"Avaritia:Singularity:3","recipesAsOutput":[{"machine":"gt.recipe.neutroniumcompressor","chunk":0,"index":3}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":409}]}

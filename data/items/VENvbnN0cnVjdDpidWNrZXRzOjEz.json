@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":13,"displayName":"Molten Glass Bucket","unlocalizedName":"item.tconstruct.bucket.Glass","id":"TConstruct:buckets:13","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":326}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":327}]}

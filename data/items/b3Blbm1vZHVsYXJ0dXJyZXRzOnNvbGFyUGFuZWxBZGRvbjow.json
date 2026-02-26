@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"solarPanelAddon","metadata":0,"displayName":"Addon - Solar Generator","unlocalizedName":"item.addonSolar","id":"openmodularturrets:solarPanelAddon:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":302}],"recipesAsInput":[]}

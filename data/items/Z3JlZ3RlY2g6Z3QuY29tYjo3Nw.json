@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":77,"displayName":"Uranium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:77","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":230},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":135}]}

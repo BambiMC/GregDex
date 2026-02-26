@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.bucketSludge","metadata":0,"displayName":"Bacterial Sludge Bucket","unlocalizedName":"item.bucketSludge","id":"GalacticraftMars:item.bucketSludge:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":105}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":106}]}

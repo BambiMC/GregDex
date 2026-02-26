@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.sakura","metadata":0,"displayName":"Sakura Stairs","unlocalizedName":"tile.stair.sakura","oreDictNames":["stairWood"],"id":"Natura:stair.sakura:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":43},{"machine":"crafting_table","chunk":114,"index":104}],"recipesAsInput":[]}

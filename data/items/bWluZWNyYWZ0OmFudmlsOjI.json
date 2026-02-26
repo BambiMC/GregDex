@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"anvil","metadata":2,"displayName":"Very Damaged Anvil","unlocalizedName":"tile.anvil.veryDamaged","id":"minecraft:anvil:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":8,"index":175},{"machine":"gt.recipe.fluidextractor","chunk":8,"index":424},{"machine":"gt.recipe.macerator","chunk":21,"index":431}]}

@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodCompressedPlutonium4","metadata":0,"displayName":"Quad Fuel Rod (High Density Plutonium)","unlocalizedName":"item.rodCompressedPlutonium4","id":"GoodGenerator:rodCompressedPlutonium4:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":63},{"machine":"gt.recipe.assembler","chunk":6,"index":64}],"recipesAsInput":[]}

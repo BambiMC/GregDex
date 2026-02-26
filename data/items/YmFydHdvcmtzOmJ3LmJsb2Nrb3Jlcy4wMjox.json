@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":1,"displayName":"Small Bismutite Ore","unlocalizedName":"bw.blockores.02.1","oreDictNames":["oreSmallBismutite"],"id":"bartworks:bw.blockores.02:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":465},{"machine":"gt.recipe.macerator","chunk":6,"index":310}]}

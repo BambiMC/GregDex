@@ -1,0 +1,1 @@
+{"modId":"DraconicEvolution","itemName":"dragonHeart","metadata":0,"displayName":"Dragon Heart","unlocalizedName":"item.draconicevolution:dragonHeart","id":"DraconicEvolution:dragonHeart:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":288},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":210}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.propolis","metadata":6,"displayName":"Silverfish Propolis","unlocalizedName":"item.gt.propolis","id":"gregtech:gt.propolis:6","recipesAsOutput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":123},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":44}],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":202}]}

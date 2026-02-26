@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"paperwall","metadata":0,"displayName":"Paperwall","unlocalizedName":"tile.chisel.paperwall","id":"chisel:paperwall:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":351},{"machine":"gt.recipe.assembler","chunk":2,"index":183}],"recipesAsInput":[]}

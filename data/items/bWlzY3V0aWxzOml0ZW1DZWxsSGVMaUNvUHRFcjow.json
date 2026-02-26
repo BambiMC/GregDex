@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellHeLiCoPtEr","metadata":0,"displayName":"HeLiCoPtEr Cell","unlocalizedName":"item.itemCellHeLiCoPtEr","oreDictNames":["cellHeLiCoPtEr"],"id":"miscutils:itemCellHeLiCoPtEr:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":389}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":390}]}

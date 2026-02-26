@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFMagicLeaves","metadata":0,"displayName":"Timewood Leaves","unlocalizedName":"tile.TFMagicLeaves.0","oreDictNames":["treeLeaves"],"id":"TwilightForest:tile.TFMagicLeaves:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":17}],"recipesAsInput":[]}

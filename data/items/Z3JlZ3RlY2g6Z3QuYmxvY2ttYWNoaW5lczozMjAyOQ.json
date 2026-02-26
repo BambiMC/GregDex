@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":32029,"displayName":"Antimatter Hatch","unlocalizedName":"gt.blockmachines.antimatterhatch","id":"gregtech:gt.blockmachines:32029","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":75},{"machine":"gt.recipe.researchstation","chunk":0,"index":39}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"magnet","metadata":5,"displayName":"Mysterious Magnet","unlocalizedName":"item.magicbees:mysteriousMagnet","oreDictNames":["mb.magnet.level2"],"id":"MagicBees:magnet:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":230}]}

@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCylinder","metadata":768,"displayName":"Growth Medium Cylinder","unlocalizedName":"item.containerCylinder","id":"BinnieCore:containerCylinder:768","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":376}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":377}]}

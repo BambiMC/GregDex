@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"bowl","metadata":32767,"displayName":"Bowl","unlocalizedName":"item.bowl","id":"minecraft:bowl:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":1,"index":471},{"machine":"gt.recipe.macerator","chunk":13,"index":52}]}

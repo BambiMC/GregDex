@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mushrooms","metadata":4,"displayName":"Flat Mushroom","unlocalizedName":"tile.mushrooms.flatmushroom","oreDictNames":["listInedibleMushroom"],"id":"BiomesOPlenty:mushrooms:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":237}]}

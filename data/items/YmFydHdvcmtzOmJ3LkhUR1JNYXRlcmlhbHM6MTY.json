@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.HTGRMaterials","metadata":16,"displayName":"TRISO pebble compound (Plutonium)","unlocalizedName":"item.HTGRTRISOPebbleCompoundPlutonium","id":"bartworks:bw.HTGRMaterials:16","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":100}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":101}]}

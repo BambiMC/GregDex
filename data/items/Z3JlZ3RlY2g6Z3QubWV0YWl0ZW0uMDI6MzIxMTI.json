@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32112,"displayName":"Hops Juice","unlocalizedName":"gt.metaitem.02.32112","id":"gregtech:gt.metaitem.02:32112","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":6}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":7}]}

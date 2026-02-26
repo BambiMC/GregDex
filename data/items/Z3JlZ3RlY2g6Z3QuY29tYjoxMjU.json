@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":125,"displayName":"Enderman Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:125","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":122},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":297}]}

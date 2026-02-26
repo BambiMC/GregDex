@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"shinyFlower","metadata":5,"displayName":"Glimmering Lime Flower","unlocalizedName":"tile.shinyFlower5","id":"Botania:shinyFlower:5","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":289}],"recipesAsInput":[{"machine":"crafting_table","chunk":74,"index":157},{"machine":"thaumcraft_crucible","chunk":0,"index":85}]}

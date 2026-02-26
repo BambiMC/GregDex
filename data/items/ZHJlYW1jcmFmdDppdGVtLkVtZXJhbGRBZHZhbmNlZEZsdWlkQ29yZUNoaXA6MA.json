@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EmeraldAdvancedFluidCoreChip","metadata":0,"displayName":"Fluid Circuit Tier II","unlocalizedName":"item.EmeraldAdvancedFluidCoreChip","id":"dreamcraft:item.EmeraldAdvancedFluidCoreChip:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":305}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":106}]}

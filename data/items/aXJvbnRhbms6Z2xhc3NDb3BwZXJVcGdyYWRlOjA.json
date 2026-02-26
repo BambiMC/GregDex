@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"glassCopperUpgrade","metadata":0,"displayName":"Glass to Copper Tank Upgrade","unlocalizedName":"item.irontank:glassCopperUpgrade","id":"irontank:glassCopperUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":44},{"machine":"gt.recipe.assembler","chunk":2,"index":157}],"recipesAsInput":[]}

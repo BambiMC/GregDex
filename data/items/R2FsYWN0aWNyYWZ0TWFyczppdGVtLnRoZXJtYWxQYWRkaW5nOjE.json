@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.thermalPadding","metadata":1,"displayName":"Thermal Padding Chestpiece","unlocalizedName":"item.thermalChestplate","id":"GalacticraftMars:item.thermalPadding:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":281}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":282}]}

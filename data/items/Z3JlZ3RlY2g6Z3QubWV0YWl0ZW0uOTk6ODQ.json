@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":84,"displayName":"Molten Iridium Cell","unlocalizedName":"gt.metaitem.99.84","oreDictNames":["cellMoltenIridium"],"id":"gregtech:gt.metaitem.99:84","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":142}],"recipesAsInput":[]}

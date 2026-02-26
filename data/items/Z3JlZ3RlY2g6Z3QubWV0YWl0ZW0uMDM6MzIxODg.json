@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32188,"displayName":"Living Bio Wafer","unlocalizedName":"gt.metaitem.03.32188","id":"gregtech:gt.metaitem.03:32188","recipesAsOutput":[{"machine":"gt.recipe.autoclave","chunk":0,"index":21}],"recipesAsInput":[{"machine":"gt.recipe.cuttingsaw","chunk":0,"index":270}]}

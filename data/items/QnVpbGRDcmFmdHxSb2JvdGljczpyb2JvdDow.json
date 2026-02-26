@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Robotics","itemName":"robot","metadata":0,"displayName":"Robot","unlocalizedName":"item.robot","nbt":"{id:\"buildcraft:boardRobotEmpty\"}","id":"BuildCraft|Robotics:robot:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":192}],"recipesAsInput":[]}

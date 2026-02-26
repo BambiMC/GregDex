@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"dummyResearch","metadata":8,"displayName":"§dResearch on Cloaking Technologies","unlocalizedName":"item.dummyResearch","id":"miscutils:dummyResearch:8","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":317}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":113}]}

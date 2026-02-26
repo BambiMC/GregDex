@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"particleBase","metadata":1,"displayName":"Up Quark","unlocalizedName":"item.particle.base.Up","oreDictNames":["particleUp"],"id":"miscutils:particleBase:1","recipesAsOutput":[{"machine":"gtpp.recipe.cyclotron","chunk":0,"index":7}],"recipesAsInput":[{"machine":"gt.recipe.plasmaforge","chunk":0,"index":8}]}

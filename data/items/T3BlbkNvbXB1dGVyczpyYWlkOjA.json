@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"raid","metadata":0,"displayName":"Raid","unlocalizedName":"tile.oc.raid","oreDictNames":["oc:raid"],"id":"OpenComputers:raid:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":11}],"recipesAsInput":[]}

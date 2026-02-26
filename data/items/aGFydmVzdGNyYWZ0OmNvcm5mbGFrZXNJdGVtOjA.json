@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cornflakesItem","metadata":0,"displayName":"Cornflakes","unlocalizedName":"item.cornflakesItem","oreDictNames":["foodCornflakes"],"id":"harvestcraft:cornflakesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":250}],"recipesAsInput":[]}

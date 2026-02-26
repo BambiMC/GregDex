@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"shinyFlower","metadata":6,"displayName":"Glimmering Pink Flower","unlocalizedName":"tile.shinyFlower6","id":"Botania:shinyFlower:6","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":290}],"recipesAsInput":[{"machine":"crafting_table","chunk":74,"index":158},{"machine":"thaumcraft_crucible","chunk":0,"index":86}]}

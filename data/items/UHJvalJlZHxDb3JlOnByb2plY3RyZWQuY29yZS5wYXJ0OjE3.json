@@ -1,0 +1,1 @@
+{"modId":"ProjRed|Core","itemName":"projectred.core.part","metadata":17,"displayName":"Iron Coil","unlocalizedName":"item.projectred.core.part.iron_coil","id":"ProjRed|Core:projectred.core.part:17","recipesAsOutput":[{"machine":"crafting_table","chunk":85,"index":33}],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":71}]}

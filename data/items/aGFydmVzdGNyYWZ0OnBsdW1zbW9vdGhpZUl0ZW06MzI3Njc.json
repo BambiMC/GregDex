@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"plumsmoothieItem","metadata":32767,"displayName":"Plum Smoothie","unlocalizedName":"item.plumsmoothieItem","id":"harvestcraft:plumsmoothieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":270}]}

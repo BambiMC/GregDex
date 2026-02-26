@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.glowstoneCell","metadata":0,"displayName":"Glowstone Fuel Rod","unlocalizedName":"gt.glowstoneCell","id":"gregtech:gt.glowstoneCell:0","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":67},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":125}],"recipesAsInput":[{"machine":"gt.recipe.ic2nuke","chunk":0,"index":20}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":167,"displayName":"Europium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combLuV","beeComb"],"id":"gregtech:gt.comb:167","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":224},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":129}]}

@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCylinder","metadata":128,"displayName":"Sap Cylinder","unlocalizedName":"item.containerCylinder","id":"BinnieCore:containerCylinder:128","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":306}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":307}]}

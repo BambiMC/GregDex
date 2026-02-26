@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":20854,"displayName":"Small Construction Foam Gear","unlocalizedName":"gt.metaitem.02.20854","oreDictNames":["gearGtSmallConstructionFoam"],"id":"gregtech:gt.metaitem.02:20854","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":15,"index":467}]}

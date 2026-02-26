@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cherrycheesecakeItem","metadata":0,"displayName":"Cherry Cheesecake","unlocalizedName":"item.cherrycheesecakeItem","oreDictNames":["foodCherrycheesecake"],"id":"harvestcraft:cherrycheesecakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":320}],"recipesAsInput":[]}

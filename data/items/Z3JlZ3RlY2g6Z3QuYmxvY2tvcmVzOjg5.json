@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":89,"displayName":"Lead Ore","unlocalizedName":"gt.blockores.89","oreDictNames":["oreLead"],"id":"gregtech:gt.blockores:89","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":176},{"machine":"gt.recipe.hammer","chunk":4,"index":55},{"machine":"gt.recipe.macerator","chunk":5,"index":432}]}

@@ -1,0 +1,1 @@
+{"modId":"TMechworks","itemName":"SpoolWire","metadata":0,"displayName":"Spool of Wire","unlocalizedName":"item.spoolwire","id":"TMechworks:SpoolWire:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":308},{"machine":"gt.recipe.assembler","chunk":27,"index":309}],"recipesAsInput":[]}

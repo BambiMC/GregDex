@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"pollenFertile","metadata":32767,"displayName":"Unknown","unlocalizedName":"item.for.pollenFertile","id":"Forestry:pollenFertile:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":374},{"machine":"gt.recipe.assembler","chunk":0,"index":476},{"machine":"gt.recipe.scanner","chunk":0,"index":177}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":984,"displayName":"Molten Flerovium Cell","unlocalizedName":"gt.metaitem.99.984","oreDictNames":["cellMoltenFlerovium_GT5U"],"id":"gregtech:gt.metaitem.99:984","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":123}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":124}]}

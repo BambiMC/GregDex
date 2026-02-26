@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":140,"displayName":"Bricked Blast Furnace","unlocalizedName":"gt.blockmachines.multimachine.brickedblastfurnace","id":"gregtech:gt.blockmachines:140","recipesAsOutput":[{"machine":"crafting_table","chunk":27,"index":465}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":37,"index":425}]}

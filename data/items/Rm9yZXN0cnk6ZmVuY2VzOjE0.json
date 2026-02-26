@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":14,"displayName":"Greenheart Fence","unlocalizedName":"tile.for.fences.14","oreDictNames":["fenceWood"],"id":"Forestry:fences:14","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":308},{"machine":"crafting_table","chunk":111,"index":309},{"machine":"crafting_table","chunk":111,"index":310}],"recipesAsInput":[]}

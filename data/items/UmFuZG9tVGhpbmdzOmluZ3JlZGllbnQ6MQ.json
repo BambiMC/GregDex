@@ -1,0 +1,1 @@
+{"modId":"RandomThings","itemName":"ingredient","metadata":1,"displayName":"Obsidian Stick","unlocalizedName":"item.obsidianStick","oreDictNames":["stickObsidian","obsidianStick","obsidianRod"],"id":"RandomThings:ingredient:1","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":164}],"recipesAsInput":[]}

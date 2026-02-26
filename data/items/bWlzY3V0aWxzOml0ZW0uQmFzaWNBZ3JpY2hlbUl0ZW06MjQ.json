@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicAgrichemItem","metadata":24,"displayName":"Pinecone","unlocalizedName":"item.BasicAgrichemItem.24","oreDictNames":["pinecone"],"id":"miscutils:item.BasicAgrichemItem:24","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":11}],"recipesAsInput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":253}]}

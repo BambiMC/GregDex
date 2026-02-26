@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":24,"displayName":"Aluminum Brass Nugget","unlocalizedName":"item.tconstruct.Materials.AluBrassNugget","oreDictNames":["nuggetAluminumBrass","nuggetAluminiumBrass"],"id":"TConstruct:materials:24","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":187}]}

@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars","metadata":7,"displayName":"Entropy Double Infused Compressed Solar Panel","unlocalizedName":"tile.EMT.solar.doubledark","id":"EMT:EMTSolars:7","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":142}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":103}]}

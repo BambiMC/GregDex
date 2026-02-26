@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_hoe","metadata":0,"displayName":"Wooden Hoe","unlocalizedName":"item.hoeWood","id":"minecraft:wooden_hoe:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":425}],"recipesAsInput":[]}

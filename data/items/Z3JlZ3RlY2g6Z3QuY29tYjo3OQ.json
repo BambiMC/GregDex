@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":79,"displayName":"Naquadah Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:79","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":232},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":137}]}

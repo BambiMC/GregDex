@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"technical","metadata":0,"displayName":"Technical Block","unlocalizedName":"tile.chisel.technical","id":"chisel:technical:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":353},{"machine":"gt.recipe.assembler","chunk":2,"index":174}],"recipesAsInput":[]}

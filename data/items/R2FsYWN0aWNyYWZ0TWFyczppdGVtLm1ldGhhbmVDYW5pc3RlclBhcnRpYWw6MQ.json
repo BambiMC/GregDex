@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.methaneCanisterPartial","metadata":1,"displayName":"Filled Methane Gas Canister","unlocalizedName":"item.methaneCanister","id":"GalacticraftMars:item.methaneCanisterPartial:1","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":31}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":32}]}

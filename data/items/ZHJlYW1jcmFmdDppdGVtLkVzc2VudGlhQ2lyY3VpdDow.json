@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EssentiaCircuit","metadata":0,"displayName":"Essentia Circuit","unlocalizedName":"item.EssentiaCircuit","id":"dreamcraft:item.EssentiaCircuit:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":87}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":412}]}

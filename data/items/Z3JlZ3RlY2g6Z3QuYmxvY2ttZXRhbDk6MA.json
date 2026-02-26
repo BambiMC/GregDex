@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmetal9","metadata":0,"displayName":"Block of Cryolite","unlocalizedName":"gt.blockmetal9.0","oreDictNames":["blockCryolite"],"id":"gregtech:gt.blockmetal9:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":2,"index":86}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":18,"index":318}]}

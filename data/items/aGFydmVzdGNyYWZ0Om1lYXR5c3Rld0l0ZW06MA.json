@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"meatystewItem","metadata":0,"displayName":"Meaty Stew","unlocalizedName":"item.meatystewItem","oreDictNames":["foodMeatystew"],"id":"harvestcraft:meatystewItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":406}],"recipesAsInput":[]}

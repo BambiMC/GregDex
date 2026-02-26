@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":69,"displayName":"Small Rarest Metal Residue Ore","unlocalizedName":"bw.blockores.02.69","oreDictNames":["oreSmallRarestMetalResidue"],"id":"bartworks:bw.blockores.02:69","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":1},{"machine":"gt.recipe.macerator","chunk":7,"index":309}]}

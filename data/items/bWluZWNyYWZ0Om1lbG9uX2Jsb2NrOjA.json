@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"melon_block","metadata":0,"displayName":"Melon","unlocalizedName":"tile.melon","id":"minecraft:melon_block:0","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":0,"index":183}],"recipesAsInput":[{"machine":"gt.recipe.slicer","chunk":0,"index":19}]}

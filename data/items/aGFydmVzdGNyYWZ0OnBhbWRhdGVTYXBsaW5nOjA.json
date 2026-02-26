@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pamdateSapling","metadata":0,"displayName":"Date Sapling","unlocalizedName":"tile.pamdateSapling","id":"harvestcraft:pamdateSapling:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":257},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":89}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"dysonswarmparts","metadata":9,"displayName":"Ultra High Strength Concrete Floor","unlocalizedName":"tile.DysonSwarmFloor","id":"GalaxySpace:dysonswarmparts:9","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":131}],"recipesAsInput":[{"machine":"gt.recipe.fakespaceprojects","chunk":0,"index":0}]}

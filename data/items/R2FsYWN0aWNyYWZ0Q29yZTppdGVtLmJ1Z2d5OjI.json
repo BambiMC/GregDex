@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.buggy","metadata":2,"displayName":"Buggy","unlocalizedName":"item.buggy","id":"GalacticraftCore:item.buggy:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":21,"index":321},{"machine":"gt.recipe.plasmaarcfurnace","chunk":0,"index":106},{"machine":"gt.recipe.plasmaarcfurnace","chunk":0,"index":107}]}

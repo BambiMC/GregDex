@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.LongStoneRod","metadata":0,"displayName":"Long Stone Rod","unlocalizedName":"item.LongStoneRod","id":"dreamcraft:item.LongStoneRod:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":246},{"machine":"gt.recipe.lathe","chunk":2,"index":347}],"recipesAsInput":[]}

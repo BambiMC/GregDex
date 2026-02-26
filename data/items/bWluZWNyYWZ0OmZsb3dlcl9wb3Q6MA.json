@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"flower_pot","metadata":0,"displayName":"Flower Pot","unlocalizedName":"item.flowerPot","id":"minecraft:flower_pot:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":15}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":64}]}

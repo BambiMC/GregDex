@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":79,"displayName":"Frozen Heart","unlocalizedName":"item.witchery:ingredient.frozenHeart","id":"witchery:ingredient:79","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":151}],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":197}]}

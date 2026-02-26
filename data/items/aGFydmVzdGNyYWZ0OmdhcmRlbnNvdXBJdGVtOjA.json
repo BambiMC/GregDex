@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gardensoupItem","metadata":0,"displayName":"Garden Soup","unlocalizedName":"item.gardensoupItem","oreDictNames":["foodGardensoup"],"id":"harvestcraft:gardensoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":413}],"recipesAsInput":[]}

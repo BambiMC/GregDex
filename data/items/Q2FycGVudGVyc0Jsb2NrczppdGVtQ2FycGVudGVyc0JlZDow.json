@@ -1,0 +1,1 @@
+{"modId":"CarpentersBlocks","itemName":"itemCarpentersBed","metadata":0,"displayName":"Carpenter's Bed","unlocalizedName":"item.itemCarpentersBed","id":"CarpentersBlocks:itemCarpentersBed:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":206}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":409}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"plumItem","metadata":32767,"displayName":"Plum","unlocalizedName":"item.plumItem","id":"harvestcraft:plumItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":224}]}

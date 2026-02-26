@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"omeletItem","metadata":32767,"displayName":"Omelet","unlocalizedName":"item.omeletItem","id":"harvestcraft:omeletItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":347}]}

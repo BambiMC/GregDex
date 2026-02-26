@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32135,"displayName":"Cave Johnson's Grenade Juice","unlocalizedName":"gt.metaitem.02.32135","id":"gregtech:gt.metaitem.02:32135","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":78}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":79}]}

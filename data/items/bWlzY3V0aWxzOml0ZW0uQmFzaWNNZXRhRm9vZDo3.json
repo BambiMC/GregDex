@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicMetaFood","metadata":7,"displayName":"Cooked Ocelot Meat","unlocalizedName":"item.BasicMetaFood.7","oreDictNames":["listAllmeatcooked"],"id":"miscutils:item.BasicMetaFood:7","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":316}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":29,"index":230}]}

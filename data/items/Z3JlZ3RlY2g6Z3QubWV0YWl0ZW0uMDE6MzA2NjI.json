@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30662,"displayName":"Wood Tar Cell","unlocalizedName":"gt.metaitem.01.30662","oreDictNames":["cellWoodTar"],"id":"gregtech:gt.metaitem.01:30662","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":280}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":281}]}

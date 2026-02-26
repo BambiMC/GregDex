@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower1","metadata":4,"displayName":"Tall Mystical Yellow Flower","unlocalizedName":"tile.doubleFlower14","oreDictNames":["mysticFlowerYellowDouble"],"id":"Botania:doubleFlower1:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":346},{"machine":"gt.recipe.extractor","chunk":0,"index":45}]}

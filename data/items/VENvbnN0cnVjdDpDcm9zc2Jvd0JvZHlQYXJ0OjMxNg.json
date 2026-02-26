@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CrossbowBodyPart","metadata":316,"displayName":"Magical Wooden Crossbow Body","unlocalizedName":"toolpart.CrossbowBody.MagicWood","id":"TConstruct:CrossbowBodyPart:316","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":69}],"recipesAsInput":[]}

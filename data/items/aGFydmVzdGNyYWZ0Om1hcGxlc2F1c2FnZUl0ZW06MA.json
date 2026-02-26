@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"maplesausageItem","metadata":0,"displayName":"Maple Sausage","unlocalizedName":"item.maplesausageItem","oreDictNames":["foodMaplesausage"],"id":"harvestcraft:maplesausageItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":234}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":452}]}

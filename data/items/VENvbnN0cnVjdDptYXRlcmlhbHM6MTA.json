@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":10,"displayName":"Tin Ingot","unlocalizedName":"item.tconstruct.Materials.TinIngot","oreDictNames":["ingotTin"],"id":"TConstruct:materials:10","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":63},{"machine":"furnace","chunk":10,"index":300},{"machine":"furnace","chunk":12,"index":406}],"recipesAsInput":[]}

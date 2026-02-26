@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"TrunkSpawner","metadata":0,"displayName":"Traveling Trunk","unlocalizedName":"item.TrunkSpawner","id":"Thaumcraft:TrunkSpawner:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":379}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":478}]}

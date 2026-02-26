@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"tritonblocks","metadata":3,"displayName":"Mithril Ore","unlocalizedName":"tile.TritonMithrilOre","oreDictNames":["oreMithril"],"id":"GalaxySpace:tritonblocks:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":351},{"machine":"gt.recipe.macerator","chunk":9,"index":78}]}

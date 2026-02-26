@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cart.beehouse","metadata":1,"displayName":"Minecart with Apiary","unlocalizedName":"item.for.cart.apiary","id":"Forestry:cart.beehouse:1","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":442},{"machine":"gt.recipe.assembler","chunk":26,"index":273}],"recipesAsInput":[]}

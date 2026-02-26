@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"cyclohexane","metadata":0,"displayName":"Cyclohexane Cell","unlocalizedName":"item.cyclohexane","oreDictNames":["cellCyclohexane"],"id":"miscutils:cyclohexane:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":62}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":63}]}

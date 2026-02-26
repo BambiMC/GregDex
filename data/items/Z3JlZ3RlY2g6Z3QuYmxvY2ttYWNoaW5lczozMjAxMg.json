@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":32012,"displayName":"Neutron Sensor","unlocalizedName":"gt.blockmachines.neutron_sensor","id":"gregtech:gt.blockmachines:32012","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":53}],"recipesAsInput":[]}

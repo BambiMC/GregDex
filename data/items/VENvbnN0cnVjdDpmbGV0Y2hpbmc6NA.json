@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"fletching","metadata":4,"displayName":"Slimeleaf Fletching","unlocalizedName":"item.tconstruct.Fletching.slimeleaf","id":"TConstruct:fletching:4","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":11,"index":294}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pistachiobakedsalmonItem","metadata":0,"displayName":"Pistachio Baked Salmon","unlocalizedName":"item.pistachiobakedsalmonItem","oreDictNames":["foodPistachiobakedsalmon"],"id":"harvestcraft:pistachiobakedsalmonItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":232}],"recipesAsInput":[]}

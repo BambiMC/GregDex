@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"fletching","metadata":3,"displayName":"Slime Fletching","unlocalizedName":"item.tconstruct.Fletching.blueslime","id":"TConstruct:fletching:3","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":11,"index":292}],"recipesAsInput":[]}

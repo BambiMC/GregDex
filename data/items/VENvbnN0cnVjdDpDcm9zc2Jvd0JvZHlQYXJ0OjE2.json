@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CrossbowBodyPart","metadata":16,"displayName":"Steel Crossbow Body","unlocalizedName":"toolpart.CrossbowBody.Steel","id":"TConstruct:CrossbowBodyPart:16","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":65}],"recipesAsInput":[]}

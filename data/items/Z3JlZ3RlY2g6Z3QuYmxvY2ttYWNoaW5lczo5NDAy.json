@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":9402,"displayName":"Water Purification Plant","unlocalizedName":"gt.blockmachines.multimachine.purificationplant","id":"gregtech:gt.blockmachines:9402","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":51},{"machine":"gt.recipe.scanner","chunk":0,"index":17}],"recipesAsInput":[]}

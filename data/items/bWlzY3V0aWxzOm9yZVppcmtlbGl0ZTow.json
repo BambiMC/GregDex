@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreZirkelite","metadata":0,"displayName":"Zirkelite Ore","unlocalizedName":"tile.OreZirkelite","oreDictNames":["oreZirkelite"],"id":"miscutils:oreZirkelite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":246},{"machine":"gt.recipe.macerator","chunk":1,"index":0}]}

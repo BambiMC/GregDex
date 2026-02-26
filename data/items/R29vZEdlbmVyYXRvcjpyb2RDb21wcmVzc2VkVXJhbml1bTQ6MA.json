@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodCompressedUranium4","metadata":0,"displayName":"Quad Fuel Rod (High Density Uranium)","unlocalizedName":"item.rodCompressedUranium4","id":"GoodGenerator:rodCompressedUranium4:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":60},{"machine":"gt.recipe.assembler","chunk":6,"index":61}],"recipesAsInput":[]}

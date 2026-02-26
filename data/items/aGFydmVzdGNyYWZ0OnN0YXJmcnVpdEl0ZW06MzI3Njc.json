@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"starfruitItem","metadata":32767,"displayName":"Starfruit","unlocalizedName":"item.starfruitItem","id":"harvestcraft:starfruitItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":226}]}

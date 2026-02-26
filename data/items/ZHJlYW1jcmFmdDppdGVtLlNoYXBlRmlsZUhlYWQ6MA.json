@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeFileHead","metadata":0,"displayName":"Casting Form (File Head Shape)","unlocalizedName":"item.ShapeFileHead","id":"dreamcraft:item.ShapeFileHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":48}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":120}]}

@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":35,"displayName":"Cypress Wood Door","unlocalizedName":"tile.door","nbt":"{meta:35}","id":"ExtraTrees:door:35","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":12},{"machine":"crafting_table","chunk":110,"index":13}],"recipesAsInput":[]}

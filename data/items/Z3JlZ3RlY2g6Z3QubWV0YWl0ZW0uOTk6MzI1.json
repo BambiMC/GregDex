@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":325,"displayName":"Molten Naquadah Alloy Cell","unlocalizedName":"gt.metaitem.99.325","oreDictNames":["cellMoltenNaquadahAlloy"],"id":"gregtech:gt.metaitem.99:325","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":201}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":202}]}

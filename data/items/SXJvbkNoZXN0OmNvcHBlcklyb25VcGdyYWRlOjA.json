@@ -1,0 +1,1 @@
+{"modId":"IronChest","itemName":"copperIronUpgrade","metadata":0,"displayName":"Copper to Iron Chest Upgrade","unlocalizedName":"item.ironchest:COPPERIRON","id":"IronChest:copperIronUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":6},{"machine":"gt.recipe.assembler","chunk":27,"index":31}],"recipesAsInput":[]}

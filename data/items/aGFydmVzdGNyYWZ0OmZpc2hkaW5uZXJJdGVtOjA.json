@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fishdinnerItem","metadata":0,"displayName":"Fish Dinner","unlocalizedName":"item.fishdinnerItem","oreDictNames":["foodFishdinner"],"id":"harvestcraft:fishdinnerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":359}],"recipesAsInput":[]}

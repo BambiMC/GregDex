@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":392,"displayName":"Molten Duralumin Cell","unlocalizedName":"gt.metaitem.99.392","oreDictNames":["cellMoltenDuralumin"],"id":"gregtech:gt.metaitem.99:392","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":91}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":92}]}

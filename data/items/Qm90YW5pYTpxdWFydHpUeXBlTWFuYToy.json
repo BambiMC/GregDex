@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"quartzTypeMana","metadata":2,"displayName":"Pillar Mana Quartz Block","unlocalizedName":"tile.botania:pillarManaQuartz","id":"Botania:quartzTypeMana:2","recipesAsOutput":[{"machine":"crafting_table","chunk":84,"index":438}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":20},{"machine":"gt.recipe.extractor","chunk":0,"index":73}]}

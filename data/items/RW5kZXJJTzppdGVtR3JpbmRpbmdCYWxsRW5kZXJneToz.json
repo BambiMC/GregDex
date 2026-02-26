@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBallEndergy","metadata":3,"displayName":"Stellar Alloy Grinding Ball","unlocalizedName":"enderio.stellarAlloyGrindingBall","id":"EnderIO:itemGrindingBallEndergy:3","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":356},{"machine":"gt.recipe.assembler","chunk":26,"index":147}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"dysonswarmparts","metadata":3,"displayName":"Dyson Swarm Module Deployment Unit Core","unlocalizedName":"tile.DysonSwarmDeploymentUnitCore","id":"GalaxySpace:dysonswarmparts:3","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":17},{"machine":"gt.recipe.researchstation","chunk":0,"index":9}],"recipesAsInput":[]}

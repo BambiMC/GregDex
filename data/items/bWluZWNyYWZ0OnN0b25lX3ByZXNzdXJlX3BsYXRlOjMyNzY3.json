@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_pressure_plate","metadata":32767,"displayName":"Pressure Plate","unlocalizedName":"tile.pressurePlate","id":"minecraft:stone_pressure_plate:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":20,"index":341}]}

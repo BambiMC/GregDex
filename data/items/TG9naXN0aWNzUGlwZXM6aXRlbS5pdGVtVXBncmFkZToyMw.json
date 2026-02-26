@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemUpgrade","metadata":23,"displayName":"Crafting Byproduct Extraction Upgrade","unlocalizedName":"item.CraftingByproductUpgrade","id":"LogisticsPipes:item.itemUpgrade:23","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":140}],"recipesAsInput":[]}

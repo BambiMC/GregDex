@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"marzipanItem","metadata":32767,"displayName":"Marzipan","unlocalizedName":"item.marzipanItem","id":"harvestcraft:marzipanItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":284}]}

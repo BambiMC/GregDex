@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":111,"displayName":"Haumea Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combLuV","beeComb"],"id":"gregtech:gt.comb:111","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":141},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":175}]}

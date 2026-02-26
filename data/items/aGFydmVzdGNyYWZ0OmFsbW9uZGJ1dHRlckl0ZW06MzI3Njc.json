@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"almondbutterItem","metadata":32767,"displayName":"Almond Butter","unlocalizedName":"item.almondbutterItem","id":"harvestcraft:almondbutterItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":227}]}

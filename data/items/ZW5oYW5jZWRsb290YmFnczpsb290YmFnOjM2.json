@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":36,"displayName":"LootBag (Gardens)","unlocalizedName":"item.null","nbt":"{ench:[0:{lvl:3s,id:35s}],RepairCost:2}","id":"enhancedlootbags:lootbag:36","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":439}],"recipesAsInput":[]}

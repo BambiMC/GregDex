@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32436,"displayName":"Spray Can (Brown)","unlocalizedName":"gt.metaitem.01.32436","id":"gregtech:gt.metaitem.01:32436","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":383}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":384}]}

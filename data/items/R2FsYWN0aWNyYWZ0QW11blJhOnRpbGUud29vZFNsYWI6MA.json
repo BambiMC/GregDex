@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"tile.woodSlab","metadata":0,"displayName":"Lumipod Slab","unlocalizedName":"tile.podPlanks.slab","oreDictNames":["slabWood"],"id":"GalacticraftAmunRa:tile.woodSlab:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":499},{"machine":"gt.recipe.macerator","chunk":13,"index":249}]}

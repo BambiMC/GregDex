@@ -1,0 +1,1 @@
+{"modId":"BloodArsenal","itemName":"glass_shard","metadata":0,"displayName":"Glass Shard","unlocalizedName":"item.glass_shard","id":"BloodArsenal:glass_shard:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":167},{"machine":"gt.recipe.macerator","chunk":10,"index":123},{"machine":"gt.recipe.press","chunk":0,"index":86}]}

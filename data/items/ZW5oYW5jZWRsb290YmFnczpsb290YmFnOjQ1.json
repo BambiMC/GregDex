@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":45,"displayName":"LootBag (Computer Floppies)","unlocalizedName":"item.null","nbt":"{ench:[0:{lvl:3s,id:35s}],RepairCost:2}","id":"enhancedlootbags:lootbag:45","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":448}],"recipesAsInput":[]}

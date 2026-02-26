@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.HTGRMaterials","metadata":2,"displayName":"TRISO pebble compound (Thorium)","unlocalizedName":"item.HTGRTRISOPebbleCompoundThorium","id":"bartworks:bw.HTGRMaterials:2","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":94}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":95}]}

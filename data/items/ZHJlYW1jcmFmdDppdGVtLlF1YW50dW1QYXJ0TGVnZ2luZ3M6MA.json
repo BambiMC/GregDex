@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.QuantumPartLeggings","metadata":0,"displayName":"Quantum Parts \"Leggings\"","unlocalizedName":"item.QuantumPartLeggings","id":"dreamcraft:item.QuantumPartLeggings:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":195}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":339}]}

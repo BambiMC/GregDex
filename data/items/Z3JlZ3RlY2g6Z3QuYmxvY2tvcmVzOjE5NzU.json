@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":1975,"displayName":"Draconium Ore","unlocalizedName":"gt.blockores.1975","oreDictNames":["oreNetherrackDraconium"],"id":"gregtech:gt.blockores:1975","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":110},{"machine":"gt.recipe.macerator","chunk":7,"index":403}]}

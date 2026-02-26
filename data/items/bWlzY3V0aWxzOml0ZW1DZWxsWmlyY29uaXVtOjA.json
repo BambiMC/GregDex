@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellZirconium","metadata":0,"displayName":"Zirconium Cell","unlocalizedName":"item.itemCellZirconium","oreDictNames":["cellZirconium"],"id":"miscutils:itemCellZirconium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":91}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":92}]}

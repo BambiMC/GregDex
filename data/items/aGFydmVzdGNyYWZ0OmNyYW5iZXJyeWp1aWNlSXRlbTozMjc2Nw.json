@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cranberryjuiceItem","metadata":32767,"displayName":"Cranberry Juice","unlocalizedName":"item.cranberryjuiceItem","id":"harvestcraft:cranberryjuiceItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":1}]}

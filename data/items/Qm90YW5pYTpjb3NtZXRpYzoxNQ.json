@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":15,"displayName":"Googly Eyes","unlocalizedName":"item.cosmetic15","id":"Botania:cosmetic:15","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":238},{"machine":"gt.recipe.assembler","chunk":0,"index":270}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":105}]}

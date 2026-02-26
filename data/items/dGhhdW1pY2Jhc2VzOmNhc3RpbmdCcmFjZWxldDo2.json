@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"castingBracelet","metadata":6,"displayName":"Bone Bracelet","unlocalizedName":"item.tb.bracelet.bone","id":"thaumicbases:castingBracelet:6","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":4,"index":2}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":416}]}

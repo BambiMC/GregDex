@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32106,"displayName":"Leninade","unlocalizedName":"gt.metaitem.02.32106","id":"gregtech:gt.metaitem.02:32106","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":476}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":477}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryJuice","metadata":0,"displayName":"Juice Capsule","unlocalizedName":"item.for.refractoryJuice","id":"Forestry:refractoryJuice:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":188}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":189}]}

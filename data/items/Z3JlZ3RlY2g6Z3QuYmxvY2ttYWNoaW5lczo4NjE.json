@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":861,"displayName":"Air Intake Hatch","unlocalizedName":"gt.blockmachines.hatch.air.intake.tier.00","id":"gregtech:gt.blockmachines:861","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":205}],"recipesAsInput":[{"machine":"crafting_table","chunk":25,"index":206}]}

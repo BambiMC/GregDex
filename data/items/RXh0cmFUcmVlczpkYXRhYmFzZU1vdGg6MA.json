@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"databaseMoth","metadata":0,"displayName":"Lepidopterist Database","unlocalizedName":"item.databaseMoth","id":"ExtraTrees:databaseMoth:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":464},{"machine":"forestry_carpenter","chunk":0,"index":67}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":164}]}

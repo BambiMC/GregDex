@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fishtrapbaitItem","metadata":0,"displayName":"Fish Trap Bait","unlocalizedName":"item.fishtrapbaitItem","oreDictNames":["fishtrapBait"],"id":"harvestcraft:fishtrapbaitItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":494}],"recipesAsInput":[]}

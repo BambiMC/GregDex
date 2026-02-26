@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"orangejellyItem","metadata":0,"displayName":"Orange Jelly","unlocalizedName":"item.orangejellyItem","oreDictNames":["foodOrangejelly"],"id":"harvestcraft:orangejellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":210}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":424}]}

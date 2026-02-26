@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":354,"displayName":"Molten Magnetic Iron Cell","unlocalizedName":"gt.metaitem.99.354","oreDictNames":["cellMoltenIronMagnetic"],"id":"gregtech:gt.metaitem.99:354","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":243}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":244}]}

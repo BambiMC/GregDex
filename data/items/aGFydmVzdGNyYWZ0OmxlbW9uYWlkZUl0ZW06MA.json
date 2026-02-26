@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonaideItem","metadata":0,"displayName":"Lemonade","unlocalizedName":"item.lemonaideItem","oreDictNames":["foodLemonaide","listAlljuice"],"id":"harvestcraft:lemonaideItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":316}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":487}]}

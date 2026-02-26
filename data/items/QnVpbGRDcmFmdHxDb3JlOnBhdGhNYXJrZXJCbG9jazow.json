@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Core","itemName":"pathMarkerBlock","metadata":0,"displayName":"Path Mark","unlocalizedName":"tile.pathMarkerBlock","id":"BuildCraft|Core:pathMarkerBlock:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":37}],"recipesAsInput":[]}

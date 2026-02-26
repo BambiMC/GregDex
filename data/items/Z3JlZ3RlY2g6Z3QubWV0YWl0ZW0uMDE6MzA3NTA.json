@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30750,"displayName":"Trimethyl Borate Cell","unlocalizedName":"gt.metaitem.01.30750","oreDictNames":["cellTrimethylBorate"],"id":"gregtech:gt.metaitem.01:30750","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":479}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":480}]}

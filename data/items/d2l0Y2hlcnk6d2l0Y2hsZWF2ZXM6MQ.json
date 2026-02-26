@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"witchleaves","metadata":1,"displayName":"Alder Leaves","unlocalizedName":"tile.witchery:witchleaves.alder","oreDictNames":["treeLeaves"],"id":"witchery:witchleaves:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":35}],"recipesAsInput":[]}

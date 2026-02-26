@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_axe","metadata":0,"displayName":"Stone Axe","unlocalizedName":"item.hatchetStone","id":"minecraft:stone_axe:0","recipesAsOutput":[{"machine":"crafting_table","chunk":65,"index":252},{"machine":"gt.recipe.assembler","chunk":8,"index":419}],"recipesAsInput":[]}

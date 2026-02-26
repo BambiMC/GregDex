@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":362,"displayName":"Molten Knightmetal Cell","unlocalizedName":"gt.metaitem.99.362","oreDictNames":["cellMoltenKnightmetal"],"id":"gregtech:gt.metaitem.99:362","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":125}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":126}]}

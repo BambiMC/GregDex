@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"fence","metadata":32,"displayName":"Fir Fence","unlocalizedName":"tile.fence","oreDictNames":["fenceWood"],"nbt":"{meta:32}","id":"ExtraTrees:fence:32","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":14},{"machine":"crafting_table","chunk":111,"index":15},{"machine":"crafting_table","chunk":111,"index":16}],"recipesAsInput":[]}

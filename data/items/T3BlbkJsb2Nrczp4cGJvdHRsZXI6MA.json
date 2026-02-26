@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"xpbottler","metadata":0,"displayName":"XP Bottler","unlocalizedName":"tile.openblocks.xpbottler","id":"OpenBlocks:xpbottler:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":248},{"machine":"gt.recipe.assembler","chunk":28,"index":249},{"machine":"gt.recipe.assembler","chunk":28,"index":250}],"recipesAsInput":[]}

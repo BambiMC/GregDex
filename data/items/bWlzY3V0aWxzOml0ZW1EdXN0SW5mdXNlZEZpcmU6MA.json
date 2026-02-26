@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemDustInfusedFire","metadata":0,"displayName":"Infused Fire Dust","unlocalizedName":"item.itemDustInfusedFire","oreDictNames":["dustInfusedFire"],"id":"miscutils:itemDustInfusedFire:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":24,"index":83},{"machine":"crafting_table","chunk":24,"index":85}]}

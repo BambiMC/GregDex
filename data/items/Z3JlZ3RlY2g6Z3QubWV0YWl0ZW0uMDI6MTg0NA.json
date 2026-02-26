@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":1844,"displayName":"Basalt Pickaxe Head","unlocalizedName":"gt.metaitem.02.1844","oreDictNames":["toolHeadPickaxeBasalt"],"id":"gregtech:gt.metaitem.02:1844","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":100,"index":99},{"machine":"gt.recipe.assembler","chunk":17,"index":210}]}

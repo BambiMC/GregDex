@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":9407,"displayName":"pH Sensor Hatch","unlocalizedName":"gt.blockmachines.hatch.phsensor","id":"gregtech:gt.blockmachines:9407","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":385}],"recipesAsInput":[]}

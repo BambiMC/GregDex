@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"peachesandcreamoatmealItem","metadata":0,"displayName":"Peaches and Cream Oatmeal","unlocalizedName":"item.peachesandcreamoatmealItem","oreDictNames":["foodPeachesandcreamoatmeal"],"id":"harvestcraft:peachesandcreamoatmealItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":448}],"recipesAsInput":[]}

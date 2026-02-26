@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemArmorNanoHelmet","metadata":32767,"displayName":"NanoSuit Helmet","unlocalizedName":"ic2.itemArmorNanoHelmet","id":"IC2:itemArmorNanoHelmet:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":190},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":212}]}

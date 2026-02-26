@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.darkwood","metadata":0,"displayName":"Darkwood Stairs","unlocalizedName":"tile.stair.darkwood","oreDictNames":["stairWood"],"id":"Natura:stair.darkwood:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":33},{"machine":"crafting_table","chunk":114,"index":290}],"recipesAsInput":[]}

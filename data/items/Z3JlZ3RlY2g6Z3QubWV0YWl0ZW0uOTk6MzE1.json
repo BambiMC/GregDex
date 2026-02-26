@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":315,"displayName":"Molten Battery Alloy Cell","unlocalizedName":"gt.metaitem.99.315","oreDictNames":["cellMoltenBatteryAlloy"],"id":"gregtech:gt.metaitem.99:315","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":337}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":338}]}

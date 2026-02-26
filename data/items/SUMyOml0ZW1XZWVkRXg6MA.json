@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemWeedEx","metadata":0,"displayName":"Weed-EX","unlocalizedName":"ic2.itemWeedEx","id":"IC2:itemWeedEx:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":303}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":304},{"machine":"gt.recipe.mixer","chunk":0,"index":458}]}

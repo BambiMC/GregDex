@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":369,"displayName":"Molten Conductive Iron Cell","unlocalizedName":"gt.metaitem.99.369","oreDictNames":["cellMoltenConductiveIron"],"id":"gregtech:gt.metaitem.99:369","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":145}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":146}]}

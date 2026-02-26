@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemConduitFacade","metadata":0,"displayName":"Conduit Facade","unlocalizedName":"item.enderio.itemConduitFacade","id":"EnderIO:itemConduitFacade:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":162}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":39}]}

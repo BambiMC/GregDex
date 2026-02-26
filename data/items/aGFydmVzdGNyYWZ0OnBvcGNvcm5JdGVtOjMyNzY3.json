@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"popcornItem","metadata":32767,"displayName":"Popcorn","unlocalizedName":"item.popcornItem","id":"harvestcraft:popcornItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":234}]}

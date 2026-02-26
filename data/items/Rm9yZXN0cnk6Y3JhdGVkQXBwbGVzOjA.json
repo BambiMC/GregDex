@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedApples","metadata":0,"displayName":"Crated Apple","unlocalizedName":"item.cratedApples","id":"Forestry:cratedApples:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":111}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":225}]}

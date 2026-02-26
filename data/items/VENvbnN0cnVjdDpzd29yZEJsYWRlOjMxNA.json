@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"swordBlade","metadata":314,"displayName":"Unstable Induced Sword Blade","unlocalizedName":"toolpart.SwordBlade.unstableIngot","id":"TConstruct:swordBlade:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":230},{"machine":"gt.recipe.extruder","chunk":28,"index":231}],"recipesAsInput":[]}

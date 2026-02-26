@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32193,"displayName":"Woven Kevlar","unlocalizedName":"gt.metaitem.03.32193","id":"gregtech:gt.metaitem.03:32193","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":449}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":365}]}

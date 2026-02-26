@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32763,"displayName":"GregTech Sensor Kit","unlocalizedName":"gt.metaitem.01.32763","id":"gregtech:gt.metaitem.01:32763","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":96}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":450}]}

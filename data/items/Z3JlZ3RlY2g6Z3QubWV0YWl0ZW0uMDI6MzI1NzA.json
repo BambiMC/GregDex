@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32570,"displayName":"Baked Cake Bottom","unlocalizedName":"gt.metaitem.02.32570","id":"gregtech:gt.metaitem.02:32570","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":67}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":262},{"machine":"gt.recipe.canner","chunk":0,"index":56}]}

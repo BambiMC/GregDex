@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellHG1223","metadata":0,"displayName":"HG-1223 Cell","unlocalizedName":"item.itemCellHG1223","oreDictNames":["cellHG1223"],"id":"miscutils:itemCellHG1223:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":197}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":198}]}

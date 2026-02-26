@@ -1,0 +1,1 @@
+{"modId":"IronChest","itemName":"ironGoldUpgrade","metadata":0,"displayName":"Iron to Gold Chest Upgrade","unlocalizedName":"item.ironchest:IRONGOLD","id":"IronChest:ironGoldUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":10},{"machine":"gt.recipe.assembler","chunk":27,"index":35}],"recipesAsInput":[]}

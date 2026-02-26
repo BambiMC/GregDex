@@ -1,0 +1,1 @@
+{"modId":"WR-CBE|Addons","itemName":"triangulator","metadata":0,"displayName":"Triangulator","unlocalizedName":"item.wrcbe_addons:triangulator","id":"WR-CBE|Addons:triangulator:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":58}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":29,"index":59}]}

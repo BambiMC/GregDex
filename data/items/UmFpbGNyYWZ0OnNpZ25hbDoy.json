@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"signal","metadata":2,"displayName":"Switch Motor","unlocalizedName":"tile.railcraft.signal.switch.motor","id":"Railcraft:signal:2","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":185}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":10}]}

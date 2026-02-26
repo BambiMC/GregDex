@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.RocketControlComputer","metadata":100,"displayName":"Moon Buggy Control Computer","unlocalizedName":"item.computerBuggy","id":"GalaxySpace:item.RocketControlComputer:100","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":128}],"recipesAsInput":[]}

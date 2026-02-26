@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CarbonPartChestplate","metadata":0,"displayName":"Carbon Parts \"Chestplate\"","unlocalizedName":"item.CarbonPartChestplate","id":"dreamcraft:item.CarbonPartChestplate:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":185}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":270}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":512,"displayName":"Spinel Ore","unlocalizedName":"gt.blockores.512","oreDictNames":["oreFoolsRuby"],"id":"gregtech:gt.blockores:512","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":0},{"machine":"gt.recipe.hammer","chunk":6,"index":358},{"machine":"gt.recipe.macerator","chunk":8,"index":133}]}

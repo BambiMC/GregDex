@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"carprawItem","metadata":32767,"displayName":"Raw Carp","unlocalizedName":"item.carprawItem","id":"harvestcraft:carprawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":3},{"machine":"gt.recipe.canner","chunk":1,"index":157}]}

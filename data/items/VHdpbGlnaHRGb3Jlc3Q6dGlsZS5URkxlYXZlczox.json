@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFLeaves","metadata":1,"displayName":"Canopy Tree Leaves","unlocalizedName":"tile.TFLeaves.1","oreDictNames":["treeLeaves"],"id":"TwilightForest:tile.TFLeaves:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":13}],"recipesAsInput":[]}

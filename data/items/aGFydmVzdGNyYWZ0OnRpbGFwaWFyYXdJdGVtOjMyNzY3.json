@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"tilapiarawItem","metadata":32767,"displayName":"Raw Tilapia","unlocalizedName":"item.tilapiarawItem","id":"harvestcraft:tilapiarawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":428},{"machine":"gt.recipe.canner","chunk":1,"index":175}]}

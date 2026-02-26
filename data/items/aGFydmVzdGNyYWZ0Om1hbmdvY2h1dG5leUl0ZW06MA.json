@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mangochutneyItem","metadata":0,"displayName":"Mango Chutney","unlocalizedName":"item.mangochutneyItem","oreDictNames":["foodMangochutney"],"id":"harvestcraft:mangochutneyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":437}],"recipesAsInput":[{"machine":"crafting_table","chunk":92,"index":435}]}

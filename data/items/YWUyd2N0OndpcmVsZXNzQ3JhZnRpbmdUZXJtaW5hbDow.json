@@ -1,0 +1,1 @@
+{"modId":"ae2wct","itemName":"wirelessCraftingTerminal","metadata":0,"displayName":"Wireless Crafting Terminal","unlocalizedName":"item.wirelessCraftingTerminal","id":"ae2wct:wirelessCraftingTerminal:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":241}],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":296}]}

@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"redstoneReactorAddon","metadata":0,"displayName":"Addon - Redstone Reactor","unlocalizedName":"item.addonReactor","id":"openmodularturrets:redstoneReactorAddon:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":307}],"recipesAsInput":[]}

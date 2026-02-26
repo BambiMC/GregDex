@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16458,"displayName":"Splash Potion of Slowness","unlocalizedName":"item.potion","id":"minecraft:potion:16458","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":167}],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":178},{"machine":"gt.recipe.fluidcanner","chunk":0,"index":168}]}

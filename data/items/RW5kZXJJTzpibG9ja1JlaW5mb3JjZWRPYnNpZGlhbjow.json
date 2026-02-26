@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockReinforcedObsidian","metadata":0,"displayName":"Reinforced Obsidian","unlocalizedName":"tile.blockReinforcedObsidian","id":"EnderIO:blockReinforcedObsidian:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":378},{"machine":"gt.recipe.assembler","chunk":26,"index":206}],"recipesAsInput":[]}

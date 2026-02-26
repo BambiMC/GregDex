@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower1","metadata":0,"displayName":"Tall Mystical White Flower","unlocalizedName":"tile.doubleFlower10","oreDictNames":["mysticFlowerWhiteDouble"],"id":"Botania:doubleFlower1:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":342},{"machine":"gt.recipe.extractor","chunk":0,"index":37}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"wafflesItem","metadata":0,"displayName":"Waffles","unlocalizedName":"item.wafflesItem","oreDictNames":["foodWaffles"],"id":"harvestcraft:wafflesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":394}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":396}]}

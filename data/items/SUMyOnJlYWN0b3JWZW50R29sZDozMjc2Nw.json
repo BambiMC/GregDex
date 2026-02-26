@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorVentGold","metadata":32767,"displayName":"Overclocked Heat Vent","unlocalizedName":"ic2.reactorVentGold","id":"IC2:reactorVentGold:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":181},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":6}]}

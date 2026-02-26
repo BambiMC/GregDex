@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":25,"displayName":"Small Hedenbergite Ore","unlocalizedName":"bw.blockores.02.25","oreDictNames":["oreSmallHedenbergite"],"id":"bartworks:bw.blockores.02:25","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":134},{"machine":"gt.recipe.macerator","chunk":5,"index":497}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":336,"displayName":"Molten Shadow Iron Cell","unlocalizedName":"gt.metaitem.99.336","oreDictNames":["cellMoltenShadowIron"],"id":"gregtech:gt.metaitem.99:336","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":223}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":224}]}

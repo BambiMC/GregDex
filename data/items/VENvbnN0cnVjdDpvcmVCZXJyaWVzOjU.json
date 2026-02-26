@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"oreBerries","metadata":5,"displayName":"Concentrated Essence Berry","unlocalizedName":"item.oreberry.essence","oreDictNames":["oreberryEssence"],"id":"TConstruct:oreBerries:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":217}]}

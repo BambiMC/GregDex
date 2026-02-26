@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"item.minotaurAxe","metadata":0,"displayName":"Minotaur Axe","unlocalizedName":"item.minotaurAxe","id":"TwilightForest:item.minotaurAxe:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":4,"index":134},{"machine":"gt.recipe.hammer","chunk":0,"index":6},{"machine":"gt.recipe.macerator","chunk":16,"index":91}]}

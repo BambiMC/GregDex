@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_stone","metadata":6,"displayName":"Colored Stone (Pink Frequency)","unlocalizedName":"tile.extrautils:color_stone.6","oreDictNames":["stoneSmooth","stone","stoneCyan"],"id":"ExtraUtilities:color_stone:6","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":11}],"recipesAsInput":[]}

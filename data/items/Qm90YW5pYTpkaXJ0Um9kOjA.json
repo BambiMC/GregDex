@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"dirtRod","metadata":0,"displayName":"Rod of the Lands","unlocalizedName":"item.dirtRod","id":"Botania:dirtRod:0","recipesAsOutput":[{"machine":"crafting_table","chunk":21,"index":416}],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":417},{"machine":"crafting_table","chunk":95,"index":280}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawAncientGranite","metadata":0,"displayName":"Raw Ancient Granite Ore","unlocalizedName":"item.oreRawAncientGranite","oreDictNames":["oreRawAncientGranite"],"id":"miscutils:oreRawAncientGranite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":139}]}

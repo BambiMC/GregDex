@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":30,"displayName":"Molten Enderium Bucket","unlocalizedName":"item.tconstruct.bucket.Enderium","id":"TConstruct:buckets:30","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":198}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":199}]}

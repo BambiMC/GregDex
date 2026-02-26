@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.basicItem","metadata":17,"displayName":"Can of Food","unlocalizedName":"item.basicItem.cannedFood","id":"GalacticraftCore:item.basicItem:17","recipesAsOutput":[{"machine":"gt.recipe.canner","chunk":1,"index":373}],"recipesAsInput":[]}

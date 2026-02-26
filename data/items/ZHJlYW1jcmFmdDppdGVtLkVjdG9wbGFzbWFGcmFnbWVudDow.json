@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EctoplasmaFragment","metadata":0,"displayName":"Ectoplasma Fragment","unlocalizedName":"item.EctoplasmaFragment","id":"dreamcraft:item.EctoplasmaFragment:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":212}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":213}]}

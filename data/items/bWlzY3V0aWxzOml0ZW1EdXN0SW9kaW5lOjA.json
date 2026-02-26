@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemDustIodine","metadata":0,"displayName":"Iodine Dust","unlocalizedName":"item.itemDustIodine","oreDictNames":["dustIodine"],"id":"miscutils:itemDustIodine:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":172},{"machine":"crafting_table","chunk":23,"index":174},{"machine":"furnace","chunk":8,"index":291}]}

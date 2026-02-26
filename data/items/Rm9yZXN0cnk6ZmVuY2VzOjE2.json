@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":16,"displayName":"Mahoe Fence","unlocalizedName":"tile.for.fences.16","oreDictNames":["fenceWood"],"id":"Forestry:fences:16","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":314},{"machine":"crafting_table","chunk":111,"index":315},{"machine":"crafting_table","chunk":111,"index":316}],"recipesAsInput":[]}

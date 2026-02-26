@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":10,"displayName":"Blue Butterfly","unlocalizedName":"item.cosmetic10","id":"Botania:cosmetic:10","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":233},{"machine":"gt.recipe.assembler","chunk":0,"index":265}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":100}]}

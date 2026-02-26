@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":32767,"displayName":"Stinky Potion","unlocalizedName":"item.potion","id":"minecraft:potion:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":7,"index":424},{"machine":"gt.recipe.macerator","chunk":20,"index":285}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32005,"displayName":"Dark Chocolate Milk","unlocalizedName":"gt.metaitem.02.32005","id":"gregtech:gt.metaitem.02:32005","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":160}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":161}]}

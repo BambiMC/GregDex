@@ -1,0 +1,1 @@
+{"modId":"AWWayofTime","itemName":"outputRoutingFocus","metadata":4,"displayName":"Output Routing Focus (Global)","unlocalizedName":"item.outputRoutingFocus.global","id":"AWWayofTime:outputRoutingFocus:4","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":286},{"machine":"gt.recipe.assembler","chunk":26,"index":8}],"recipesAsInput":[]}

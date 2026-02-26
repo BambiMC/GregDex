@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemScrapbox","metadata":0,"displayName":"Scrap Box","unlocalizedName":"ic2.itemScrapbox","id":"IC2:itemScrapbox:0","recipesAsOutput":[{"machine":"gt.recipe.packager","chunk":2,"index":155}],"recipesAsInput":[{"machine":"gt.recipe.uuamplifier","chunk":0,"index":1},{"machine":"gtpp.recipe.matterfab2","chunk":0,"index":1}]}

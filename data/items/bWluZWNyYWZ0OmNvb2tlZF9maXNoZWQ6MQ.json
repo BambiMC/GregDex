@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"cooked_fished","metadata":1,"displayName":"Cooked Salmon","unlocalizedName":"item.fish.salmon.cooked","oreDictNames":["listAllfishcooked"],"id":"minecraft:cooked_fished:1","recipesAsOutput":[{"machine":"furnace","chunk":9,"index":235}],"recipesAsInput":[]}

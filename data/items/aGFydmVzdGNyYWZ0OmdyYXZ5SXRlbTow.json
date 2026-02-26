@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gravyItem","metadata":0,"displayName":"Gravy","unlocalizedName":"item.gravyItem","oreDictNames":["foodGravy"],"id":"harvestcraft:gravyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":409}],"recipesAsInput":[]}

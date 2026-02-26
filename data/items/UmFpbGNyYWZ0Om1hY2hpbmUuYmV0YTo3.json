@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"machine.beta","metadata":7,"displayName":"Hobbyist's Steam Engine","unlocalizedName":"tile.railcraft.machine.beta.engine.steam.hobby","id":"Railcraft:machine.beta:7","recipesAsOutput":[{"machine":"crafting_table","chunk":29,"index":370},{"machine":"gt.recipe.assembler","chunk":7,"index":396}],"recipesAsInput":[]}

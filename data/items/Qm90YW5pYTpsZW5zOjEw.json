@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"lens","metadata":10,"displayName":"Mana Lens: Magnetizing","unlocalizedName":"item.lensMagnet","id":"Botania:lens:10","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":276}],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":458}]}

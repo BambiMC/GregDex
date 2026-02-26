@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":20299,"displayName":"Small Stone Gear","unlocalizedName":"gt.metaitem.02.20299","oreDictNames":["gearGtSmallStone"],"id":"gregtech:gt.metaitem.02:20299","recipesAsOutput":[{"machine":"crafting_table","chunk":73,"index":55}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":14,"index":463}]}

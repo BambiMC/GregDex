@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32211,"displayName":"Chum on a Stick","unlocalizedName":"gt.metaitem.02.32211","id":"gregtech:gt.metaitem.02:32211","recipesAsOutput":[{"machine":"crafting_table","chunk":102,"index":472}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":12}]}

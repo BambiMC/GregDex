@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.hopseed","metadata":0,"displayName":"Hopseed Stairs","unlocalizedName":"tile.stair.hopseed","oreDictNames":["stairWood"],"id":"Natura:stair.hopseed:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":39},{"machine":"crafting_table","chunk":114,"index":182}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30780,"displayName":"4-Nitroaniline Cell","unlocalizedName":"gt.metaitem.01.30780","oreDictNames":["cell4Nitroaniline"],"id":"gregtech:gt.metaitem.01:30780","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":27}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":28}]}

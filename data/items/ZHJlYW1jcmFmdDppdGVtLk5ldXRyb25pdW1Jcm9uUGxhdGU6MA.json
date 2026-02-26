@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.NeutroniumIronPlate","metadata":0,"displayName":"Neutronium-Iron Plate","unlocalizedName":"item.NeutroniumIronPlate","id":"dreamcraft:item.NeutroniumIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":319}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":149}]}

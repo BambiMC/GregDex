@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"kiwijellyItem","metadata":0,"displayName":"Kiwi Jelly","unlocalizedName":"item.kiwijellyItem","oreDictNames":["foodKiwijelly"],"id":"harvestcraft:kiwijellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":206}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":420}]}

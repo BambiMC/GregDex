@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":844,"displayName":"Basalt Sword Blade","unlocalizedName":"gt.metaitem.02.844","oreDictNames":["toolHeadSwordBasalt"],"id":"gregtech:gt.metaitem.02:844","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":101,"index":312},{"machine":"gt.recipe.assembler","chunk":21,"index":270}]}

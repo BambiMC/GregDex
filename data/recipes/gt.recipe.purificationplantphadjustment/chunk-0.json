@@ -1,0 +1,1 @@
+[{"machine":"gt.recipe.purificationplantphadjustment","recipeType":"gt_machine","euPerTick":122880,"duration":2400,"itemInputs":[],"fluidInputs":[{"id":"grade3purifiedwater","displayName":"Flocculated Water (Grade 3)","amount":1000}],"itemOutputs":[],"fluidOutputs":[{"id":"grade4purifiedwater","displayName":"pH Neutralized Water (Grade 4)","amount":900}]}]

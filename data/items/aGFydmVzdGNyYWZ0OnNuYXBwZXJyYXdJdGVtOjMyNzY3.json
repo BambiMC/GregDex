@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"snapperrawItem","metadata":32767,"displayName":"Raw Snapper","unlocalizedName":"item.snapperrawItem","id":"harvestcraft:snapperrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":0,"index":2},{"machine":"gt.recipe.canner","chunk":1,"index":174}]}

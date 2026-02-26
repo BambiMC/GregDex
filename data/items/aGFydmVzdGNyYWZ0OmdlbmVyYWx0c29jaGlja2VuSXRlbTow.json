@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"generaltsochickenItem","metadata":0,"displayName":"General Tso's Chicken","unlocalizedName":"item.generaltsochickenItem","oreDictNames":["foodGeneraltsochicken"],"id":"harvestcraft:generaltsochickenItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":301}],"recipesAsInput":[]}

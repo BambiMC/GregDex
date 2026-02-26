@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":7,"displayName":"Red Ribbons","unlocalizedName":"item.cosmetic7","id":"Botania:cosmetic:7","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":230},{"machine":"gt.recipe.assembler","chunk":0,"index":262}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":97}]}

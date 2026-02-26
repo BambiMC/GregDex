@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"eggnogItem","metadata":32767,"displayName":"Egg Nog","unlocalizedName":"item.eggnogItem","id":"harvestcraft:eggnogItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":14}]}

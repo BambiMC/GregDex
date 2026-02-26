@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.location","metadata":0,"displayName":"Location Chip","unlocalizedName":"item.chip.location","id":"RIO:item.chip.location:0","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":306},{"machine":"gt.recipe.assembler","chunk":28,"index":397}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":103}]}

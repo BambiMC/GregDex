@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sausageItem","metadata":32767,"displayName":"Sausage","unlocalizedName":"item.sausageItem","id":"harvestcraft:sausageItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":254}]}

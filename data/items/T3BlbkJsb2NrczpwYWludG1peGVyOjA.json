@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"paintmixer","metadata":0,"displayName":"Paint Mixer","unlocalizedName":"tile.openblocks.paintmixer","id":"OpenBlocks:paintmixer:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":245},{"machine":"gt.recipe.assembler","chunk":28,"index":246},{"machine":"gt.recipe.assembler","chunk":28,"index":247}],"recipesAsInput":[]}

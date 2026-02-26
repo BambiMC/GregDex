@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreFlorencite","metadata":0,"displayName":"Florencite Ore","unlocalizedName":"tile.OreFlorencite","oreDictNames":["oreFlorencite"],"id":"miscutils:oreFlorencite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":285},{"machine":"gt.recipe.macerator","chunk":1,"index":59}]}

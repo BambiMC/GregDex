@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"recyclerAddon","metadata":0,"displayName":"Addon - Recycler","unlocalizedName":"item.addonRecycler","id":"openmodularturrets:recyclerAddon:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":305}],"recipesAsInput":[]}

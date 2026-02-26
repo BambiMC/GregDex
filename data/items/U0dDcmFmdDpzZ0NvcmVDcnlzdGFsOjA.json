@@ -1,0 +1,1 @@
+{"modId":"SGCraft","itemName":"sgCoreCrystal","metadata":0,"displayName":"Stargate Core Crystal","unlocalizedName":"item.gcewing_sg:sgCoreCrystal","id":"SGCraft:sgCoreCrystal:0","recipesAsOutput":[{"machine":"gt.recipe.blastfurnace","chunk":0,"index":90},{"machine":"gt.recipe.fog_molten","chunk":0,"index":90}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"ProteinCan","metadata":0,"displayName":"Protein Can","unlocalizedName":"item.gendustry.protein.can","id":"gendustry:ProteinCan:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":176}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":177}]}

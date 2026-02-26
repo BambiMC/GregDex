@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":16,"displayName":"Djurleite Ore","unlocalizedName":"bw.blockores.01.16","oreDictNames":["oreDjurleite"],"id":"bartworks:bw.blockores.01:16","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":312},{"machine":"gt.recipe.macerator","chunk":10,"index":3}]}

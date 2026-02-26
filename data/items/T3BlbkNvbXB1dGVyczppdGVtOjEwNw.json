@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":107,"displayName":"Nanomachines","unlocalizedName":"item.oc.Nanomachines","oreDictNames":["oc:nanomachines"],"id":"OpenComputers:item:107","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":21}],"recipesAsInput":[]}

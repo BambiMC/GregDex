@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.SawBladeManyullyn","metadata":0,"displayName":"Manyullyn Saw Blade","unlocalizedName":"item.SawBladeManyullyn","oreDictNames":["toolHeadSawManyullyn"],"id":"dreamcraft:item.SawBladeManyullyn:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":255},{"machine":"gt.recipe.extruder","chunk":11,"index":288}],"recipesAsInput":[]}

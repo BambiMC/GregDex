@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeSide","metadata":2,"displayName":"Redstone facade","unlocalizedName":"item.upgrade.side.redstone","id":"JABBA:upgradeSide:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":75}],"recipesAsInput":[]}

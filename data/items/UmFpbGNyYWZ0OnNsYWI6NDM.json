@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":43,"displayName":"Steel Slab","unlocalizedName":"tile.railcraft.slab.steel","id":"Railcraft:slab:43","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":211}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":489},{"machine":"crafting_table","chunk":84,"index":489}]}

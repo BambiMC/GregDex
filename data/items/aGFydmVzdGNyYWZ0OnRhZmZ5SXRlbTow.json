@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"taffyItem","metadata":0,"displayName":"Taffy","unlocalizedName":"item.taffyItem","oreDictNames":["foodTaffy"],"id":"harvestcraft:taffyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":343},{"machine":"crafting_table","chunk":93,"index":344},{"machine":"crafting_table","chunk":93,"index":345}],"recipesAsInput":[]}

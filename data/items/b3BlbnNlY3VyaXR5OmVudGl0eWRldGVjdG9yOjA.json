@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"entitydetector","metadata":0,"displayName":"Entity Detector","unlocalizedName":"tile.entitydetector","id":"opensecurity:entitydetector:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":40}],"recipesAsInput":[]}

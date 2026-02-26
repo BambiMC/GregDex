@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pumpkinoatsconesItem","metadata":32767,"displayName":"Pumpkin Oat Scones","unlocalizedName":"item.pumpkinoatsconesItem","id":"harvestcraft:pumpkinoatsconesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":70}]}

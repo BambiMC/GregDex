@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.werkstoffblocks.01","metadata":11109,"displayName":"Block of Gangue","unlocalizedName":"bw.werkstoffblocks.01.11109","id":"bartworks:bw.werkstoffblocks.01:11109","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":94}],"recipesAsInput":[{"machine":"gt.recipe.neutroniumcompressor","chunk":0,"index":66}]}

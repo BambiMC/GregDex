@@ -1,0 +1,1 @@
+{"modId":"ForbiddenMagic","itemName":"TaintFruit","metadata":0,"displayName":"Tainted Fruit","unlocalizedName":"item.TaintFruit","id":"ForbiddenMagic:TaintFruit:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":33}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":4,"index":95}]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockRubLeaves","metadata":0,"displayName":"Rubber Tree Leaves","unlocalizedName":"ic2.blockRubLeaves","oreDictNames":["treeLeaves"],"id":"IC2:blockRubLeaves:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":8}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":184}]}

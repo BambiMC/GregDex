@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cornItem","metadata":32767,"displayName":"Corn","unlocalizedName":"item.cornItem","id":"harvestcraft:cornItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":4,"index":320},{"machine":"gt.recipe.canner","chunk":0,"index":147}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bakedbeetsItem","metadata":0,"displayName":"Baked Beets","unlocalizedName":"item.bakedbeetsItem","oreDictNames":["foodBakedbeets"],"id":"harvestcraft:bakedbeetsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":381}],"recipesAsInput":[]}

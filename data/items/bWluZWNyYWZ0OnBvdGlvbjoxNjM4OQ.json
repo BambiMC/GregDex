@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16389,"displayName":"Splash Potion of Healing","unlocalizedName":"item.potion","id":"minecraft:potion:16389","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":265}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":266}]}

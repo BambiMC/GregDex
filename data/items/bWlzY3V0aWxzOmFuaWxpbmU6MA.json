@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"aniline","metadata":0,"displayName":"Aniline Cell","unlocalizedName":"item.aniline","oreDictNames":["cellAniline"],"id":"miscutils:aniline:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":366}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":367}]}

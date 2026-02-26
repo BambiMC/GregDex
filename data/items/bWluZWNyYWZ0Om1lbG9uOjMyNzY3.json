@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"melon","metadata":32767,"displayName":"Melon","unlocalizedName":"item.melon","id":"minecraft:melon:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":72},{"machine":"gt.recipe.chemicalreactor","chunk":1,"index":277},{"machine":"gt.recipe.largechemicalreactor","chunk":1,"index":349}]}

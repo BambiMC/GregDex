@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"biometricScanner","metadata":0,"displayName":"Biometric Reader","unlocalizedName":"tile.biometricreader","id":"opensecurity:biometricScanner:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":47}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMaterial","metadata":4,"displayName":"Vibrant Alloy Nugget","unlocalizedName":"enderio.vibrantNugget","oreDictNames":["itemVibrantNugget","nuggetVibrantAlloy"],"id":"EnderIO:itemMaterial:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":72,"index":478},{"machine":"crafting_table","chunk":72,"index":478}]}

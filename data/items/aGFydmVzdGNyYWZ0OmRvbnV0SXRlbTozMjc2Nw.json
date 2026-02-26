@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"donutItem","metadata":32767,"displayName":"Donut","unlocalizedName":"item.donutItem","id":"harvestcraft:donutItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":460}]}

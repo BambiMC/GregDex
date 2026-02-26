@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":352,"displayName":"Molten Black Bronze Cell","unlocalizedName":"gt.metaitem.99.352","oreDictNames":["cellMoltenBlackBronze"],"id":"gregtech:gt.metaitem.99:352","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":259}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":260}]}

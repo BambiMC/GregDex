@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":21,"displayName":"Botanist Emblem","unlocalizedName":"item.cosmetic21","id":"Botania:cosmetic:21","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":244},{"machine":"gt.recipe.assembler","chunk":0,"index":276}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":111}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gooseberryjuiceItem","metadata":0,"displayName":"Gooseberry Juice","unlocalizedName":"item.gooseberryjuiceItem","oreDictNames":["foodGooseberryjuice","listAlljuice"],"id":"harvestcraft:gooseberryjuiceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":405}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":13,"displayName":"Roquesite Ore","unlocalizedName":"bw.blockores.01.13","oreDictNames":["oreRoquesite"],"id":"bartworks:bw.blockores.01:13","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":279},{"machine":"gt.recipe.macerator","chunk":6,"index":135}]}

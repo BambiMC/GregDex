@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":43,"displayName":"Hickory Wood Door","unlocalizedName":"tile.door","nbt":"{meta:43}","id":"ExtraTrees:door:43","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":52},{"machine":"crafting_table","chunk":110,"index":53}],"recipesAsInput":[]}

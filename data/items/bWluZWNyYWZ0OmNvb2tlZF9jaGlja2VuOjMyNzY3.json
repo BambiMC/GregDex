@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"cooked_chicken","metadata":32767,"displayName":"Cooked Chicken","unlocalizedName":"item.chickenCooked","id":"minecraft:cooked_chicken:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":76},{"machine":"gt.recipe.macerator","chunk":15,"index":344}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"porklettucewrapItem","metadata":0,"displayName":"Pork Lettuce Wrap","unlocalizedName":"item.porklettucewrapItem","oreDictNames":["foodPorklettucewrap"],"id":"harvestcraft:porklettucewrapItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":154}],"recipesAsInput":[]}

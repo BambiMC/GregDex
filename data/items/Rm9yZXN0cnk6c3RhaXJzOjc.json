@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":7,"displayName":"Sequoia Stairs","unlocalizedName":"tile.for.stairs.7","oreDictNames":["stairWood"],"id":"Forestry:stairs:7","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":437}],"recipesAsInput":[]}

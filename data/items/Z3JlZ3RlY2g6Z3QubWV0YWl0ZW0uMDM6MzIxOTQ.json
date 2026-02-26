@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32194,"displayName":"Spinneret","unlocalizedName":"gt.metaitem.03.32194","id":"gregtech:gt.metaitem.03:32194","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":457}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":56,"index":219}]}

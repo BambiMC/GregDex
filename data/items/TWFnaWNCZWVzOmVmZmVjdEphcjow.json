@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"effectJar","metadata":0,"displayName":"Bee Collector's Jar","unlocalizedName":"tile.effectJar","id":"MagicBees:effectJar:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":221}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":93,"displayName":"Small Atheneite Ore","unlocalizedName":"bw.blockores.02.93","oreDictNames":["oreSmallAtheneite"],"id":"bartworks:bw.blockores.02:93","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":433},{"machine":"gt.recipe.macerator","chunk":4,"index":356}]}

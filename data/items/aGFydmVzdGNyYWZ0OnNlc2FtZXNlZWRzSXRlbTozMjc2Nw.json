@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sesameseedsItem","metadata":32767,"displayName":"Sesame Seeds","unlocalizedName":"item.sesameseedsItem","id":"harvestcraft:sesameseedsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":4,"index":379},{"machine":"gt.recipe.canner","chunk":0,"index":190}]}

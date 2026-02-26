@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"snailrawItem","metadata":32767,"displayName":"Raw Snail","unlocalizedName":"item.snailrawItem","id":"harvestcraft:snailrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":462},{"machine":"gt.recipe.canner","chunk":1,"index":173}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.UnfiredCokeOvenBrick","metadata":0,"displayName":"Unfired Coke Oven Brick","unlocalizedName":"item.UnfiredCokeOvenBrick","id":"dreamcraft:item.UnfiredCokeOvenBrick:0","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":489}],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":320}]}

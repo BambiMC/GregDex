@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":389,"displayName":"Molten Callisto Ice Cell","unlocalizedName":"gt.metaitem.99.389","oreDictNames":["cellMoltenCallistoIce"],"id":"gregtech:gt.metaitem.99:389","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":81}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":82}]}

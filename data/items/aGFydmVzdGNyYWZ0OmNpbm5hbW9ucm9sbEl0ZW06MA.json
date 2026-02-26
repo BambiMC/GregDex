@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cinnamonrollItem","metadata":0,"displayName":"Cinnamon Roll","unlocalizedName":"item.cinnamonrollItem","oreDictNames":["foodCinnamonroll"],"id":"harvestcraft:cinnamonrollItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":396}],"recipesAsInput":[]}

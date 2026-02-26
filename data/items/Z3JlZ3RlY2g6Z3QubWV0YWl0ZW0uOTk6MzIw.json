@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":320,"displayName":"Molten Fluxed Electrum Cell","unlocalizedName":"gt.metaitem.99.320","oreDictNames":["cellMoltenElectrumFlux"],"id":"gregtech:gt.metaitem.99:320","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":393}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":394}]}

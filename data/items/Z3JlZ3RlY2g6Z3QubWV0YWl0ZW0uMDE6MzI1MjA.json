@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32520,"displayName":"Medium Acid Battery","unlocalizedName":"gt.metaitem.01.32520","oreDictNames":["batteryMV"],"id":"gregtech:gt.metaitem.01:32520","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":40}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":194}]}

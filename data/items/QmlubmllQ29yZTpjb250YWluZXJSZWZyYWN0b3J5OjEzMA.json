@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerRefractory","metadata":130,"displayName":"Latex Capsule","unlocalizedName":"item.containerRefractory","id":"BinnieCore:containerRefractory:130","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":482}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":483}]}

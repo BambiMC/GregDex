@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_stone","metadata":5,"displayName":"Colored Stone (Lime Frequency)","unlocalizedName":"tile.extrautils:color_stone.5","oreDictNames":["stoneSmooth","stonePurple","stone"],"id":"ExtraUtilities:color_stone:5","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":12}],"recipesAsInput":[]}

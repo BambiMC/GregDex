@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"bucket","metadata":2,"displayName":"Gelid Cryotheum Bucket","unlocalizedName":"item.MiscUtils.bucket.bucketCryotheum","oreDictNames":["bucketCryotheum"],"id":"miscutils:bucket:2","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":75}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":76}]}

@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"ravaged_brick","metadata":0,"displayName":"Ravaged Brick","unlocalizedName":"tile.ravagedBrick","id":"HardcoreEnderExpansion:ravaged_brick:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":254},{"machine":"gt.recipe.assembler","chunk":26,"index":330}],"recipesAsInput":[]}

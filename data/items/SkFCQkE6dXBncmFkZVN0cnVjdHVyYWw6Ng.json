@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":6,"displayName":"Structural MK VII (Stainless Steel Plate)","unlocalizedName":"item.upgrade.structural.7","id":"JABBA:upgradeStructural:6","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":31},{"machine":"gt.recipe.assembler","chunk":1,"index":66}],"recipesAsInput":[]}

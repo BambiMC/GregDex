@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pampecanSapling","metadata":0,"displayName":"Pecan Sapling","unlocalizedName":"tile.pampecanSapling","id":"harvestcraft:pampecanSapling:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":269},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":105}],"recipesAsInput":[]}

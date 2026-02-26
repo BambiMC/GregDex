@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.transfer","metadata":21,"displayName":"Redstone Transfer Chip","unlocalizedName":"item.chip.transfer.redstone","id":"RIO:item.chip.transfer:21","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":404}],"recipesAsInput":[]}

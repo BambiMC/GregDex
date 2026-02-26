@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars2","metadata":3,"displayName":"Double Compressed Terra Solar","unlocalizedName":"tile.EMT.solar.doubleearth","id":"EMT:EMTSolars2:3","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":174}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":115}]}

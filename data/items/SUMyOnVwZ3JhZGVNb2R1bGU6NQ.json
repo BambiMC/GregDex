@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"upgradeModule","metadata":5,"displayName":"Redstone Signal Inverter Upgrade","unlocalizedName":"ic2.redstoneinvUpgrade","id":"IC2:upgradeModule:5","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":362}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":304}]}

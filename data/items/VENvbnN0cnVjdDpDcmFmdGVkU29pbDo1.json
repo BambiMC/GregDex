@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CraftedSoil","metadata":5,"displayName":"Blue Slimedirt","unlocalizedName":"block.slime.soil.blue","id":"TConstruct:CraftedSoil:5","recipesAsOutput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":190}],"recipesAsInput":[]}

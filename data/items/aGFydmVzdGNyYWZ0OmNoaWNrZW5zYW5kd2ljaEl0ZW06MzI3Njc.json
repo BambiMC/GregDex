@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chickensandwichItem","metadata":32767,"displayName":"Chicken Sandwich","unlocalizedName":"item.chickensandwichItem","id":"harvestcraft:chickensandwichItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":263}]}

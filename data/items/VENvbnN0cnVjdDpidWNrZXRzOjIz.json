@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":23,"displayName":"Liquified Ender Bucket","unlocalizedName":"item.tconstruct.bucket.Ender","oreDictNames":["bucketEnder"],"id":"TConstruct:buckets:23","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":186}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":187}]}

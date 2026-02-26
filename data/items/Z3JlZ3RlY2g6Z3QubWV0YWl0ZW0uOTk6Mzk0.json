@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":394,"displayName":"Molten Infinity Catalyst Cell","unlocalizedName":"gt.metaitem.99.394","oreDictNames":["cellMoltenInfinityCatalyst"],"id":"gregtech:gt.metaitem.99:394","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":75}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":76}]}

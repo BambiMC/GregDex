@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"garlicmashedpotatoesItem","metadata":0,"displayName":"Garlic Mashed Potatoes","unlocalizedName":"item.garlicmashedpotatoesItem","oreDictNames":["foodGarlicmashedpotatoes"],"id":"harvestcraft:garlicmashedpotatoesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":324}],"recipesAsInput":[]}

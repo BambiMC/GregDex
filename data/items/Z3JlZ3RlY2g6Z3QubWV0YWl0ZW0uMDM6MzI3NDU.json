@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32745,"displayName":"White Dwarf Extruder Shape (Shovel Head)","unlocalizedName":"gt.metaitem.03.32745","id":"gregtech:gt.metaitem.03:32745","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":56,"index":238}],"recipesAsInput":[]}

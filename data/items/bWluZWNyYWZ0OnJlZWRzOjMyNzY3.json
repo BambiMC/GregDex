@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"reeds","metadata":32767,"displayName":"Sugar Canes","unlocalizedName":"item.reeds","id":"minecraft:reeds:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":194},{"machine":"gt.recipe.chemicalbath","chunk":0,"index":195}]}

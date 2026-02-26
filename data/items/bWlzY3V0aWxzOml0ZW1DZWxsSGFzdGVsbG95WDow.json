@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellHastelloyX","metadata":0,"displayName":"Hastelloy-X Cell","unlocalizedName":"item.itemCellHastelloyX","oreDictNames":["cellHastelloyX"],"id":"miscutils:itemCellHastelloyX:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":75}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":76}]}

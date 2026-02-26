@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32004,"displayName":"Sweet Jesus Latte","unlocalizedName":"gt.metaitem.02.32004","id":"gregtech:gt.metaitem.02:32004","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":138}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":139}]}

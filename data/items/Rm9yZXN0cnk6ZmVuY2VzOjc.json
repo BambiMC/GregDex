@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":7,"displayName":"Sequoia Fence","unlocalizedName":"tile.for.fences.7","oreDictNames":["fenceWood"],"id":"Forestry:fences:7","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":287},{"machine":"crafting_table","chunk":111,"index":288},{"machine":"crafting_table","chunk":111,"index":289}],"recipesAsInput":[]}

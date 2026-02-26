@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFLeaves","metadata":3,"displayName":"Rainbow Oak Leaves","unlocalizedName":"tile.TFLeaves.3","oreDictNames":["treeLeaves"],"id":"TwilightForest:tile.TFLeaves:3","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":20}],"recipesAsInput":[]}

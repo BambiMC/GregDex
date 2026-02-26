@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemPowderIngot","metadata":3,"displayName":"Copper Powder","unlocalizedName":"enderio.powderCopper","oreDictNames":["dustCopper","dustAnyCopper"],"id":"EnderIO:itemPowderIngot:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":0,"index":26}]}

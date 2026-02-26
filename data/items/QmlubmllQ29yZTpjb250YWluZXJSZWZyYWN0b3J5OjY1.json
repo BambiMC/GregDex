@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerRefractory","metadata":65,"displayName":"Poison Capsule","unlocalizedName":"item.containerRefractory","id":"BinnieCore:containerRefractory:65","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":28}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":29}]}

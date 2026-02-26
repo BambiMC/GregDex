@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"nether_brick_fence","metadata":0,"displayName":"Nether Brick Fence","unlocalizedName":"tile.netherFence","id":"minecraft:nether_brick_fence:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":18,"index":38}],"recipesAsInput":[]}

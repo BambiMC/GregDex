@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorCondensatorLap","metadata":1,"displayName":"LZH-Condensator","unlocalizedName":"ic2.reactorCondensatorLap","id":"IC2:reactorCondensatorLap:1","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":425},{"machine":"crafting_table","chunk":112,"index":426},{"machine":"gt.recipe.assembler","chunk":4,"index":290}],"recipesAsInput":[]}

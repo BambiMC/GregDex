@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedSpruceWood","metadata":0,"displayName":"Crated Spruce Wood","unlocalizedName":"item.cratedSpruceWood","id":"Forestry:cratedSpruceWood:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":403}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":223}]}

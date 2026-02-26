@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"barrelTierOne","metadata":0,"displayName":"Barrel (Tier 1)","unlocalizedName":"item.barrelTierOne","id":"openmodularturrets:barrelTierOne:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":416},{"machine":"gt.recipe.assembler","chunk":28,"index":281}],"recipesAsInput":[]}

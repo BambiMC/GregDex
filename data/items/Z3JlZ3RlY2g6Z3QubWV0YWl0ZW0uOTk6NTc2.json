@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":576,"displayName":"Molten TPV-Alloy Cell","unlocalizedName":"gt.metaitem.99.576","oreDictNames":["cellMoltenTPVAlloy"],"id":"gregtech:gt.metaitem.99:576","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":449}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":450}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bambooshootItem","metadata":32767,"displayName":"Bamboo Shoot","unlocalizedName":"item.bambooshootItem","id":"harvestcraft:bambooshootItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":148}]}

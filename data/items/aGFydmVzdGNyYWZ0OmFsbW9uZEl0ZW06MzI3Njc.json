@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"almondItem","metadata":32767,"displayName":"Almond","unlocalizedName":"item.almondItem","id":"harvestcraft:almondItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":196}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32620,"displayName":"Steam Valve (LV)","unlocalizedName":"gt.metaitem.01.32620","id":"gregtech:gt.metaitem.01:32620","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":175}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":170}]}

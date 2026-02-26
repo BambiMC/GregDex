@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":0,"displayName":"Structural MK I (Oak Wood Planks)","unlocalizedName":"item.upgrade.structural.1","id":"JABBA:upgradeStructural:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":25},{"machine":"gt.recipe.assembler","chunk":1,"index":60}],"recipesAsInput":[]}

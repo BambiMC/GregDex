@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":37,"displayName":"Seared Brick","unlocalizedName":"item.tconstruct.Materials.SearedBrick","id":"TConstruct:materials:37","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":390},{"machine":"gt.recipe.alloysmelter","chunk":1,"index":189}],"recipesAsInput":[]}

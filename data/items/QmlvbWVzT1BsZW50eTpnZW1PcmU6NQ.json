@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"gemOre","metadata":5,"displayName":"Block of Peridot","unlocalizedName":"tile.gemOre.peridotblock","oreDictNames":["blockPeridot"],"id":"BiomesOPlenty:gemOre:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":120}]}

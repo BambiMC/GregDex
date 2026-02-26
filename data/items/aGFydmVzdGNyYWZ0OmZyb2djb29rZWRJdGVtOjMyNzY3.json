@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"frogcookedItem","metadata":32767,"displayName":"Cooked Frog Legs","unlocalizedName":"item.frogcookedItem","id":"harvestcraft:frogcookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":183}]}

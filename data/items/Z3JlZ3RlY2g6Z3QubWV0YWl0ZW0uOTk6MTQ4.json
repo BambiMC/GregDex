@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":148,"displayName":"Molten Mellion Cell","unlocalizedName":"gt.metaitem.99.148","oreDictNames":["cellMoltenMellion"],"id":"gregtech:gt.metaitem.99:148","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":85}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":86}]}

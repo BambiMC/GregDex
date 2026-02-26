@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"personalHealingDevice","metadata":0,"displayName":"§9Personal Healing NanoBooster§r","unlocalizedName":"item.personalHealingDevice","id":"miscutils:personalHealingDevice:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":359},{"machine":"gt.recipe.scanner","chunk":0,"index":108}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellCinobiteA243","metadata":0,"displayName":"Cinobite A243 Cell","unlocalizedName":"item.itemCellCinobiteA243","oreDictNames":["cellCinobiteA243"],"id":"miscutils:itemCellCinobiteA243:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":391}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":392}]}

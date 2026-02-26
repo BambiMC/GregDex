@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"tyrian","metadata":0,"displayName":"Tyrian","unlocalizedName":"tile.chisel.tyrian","oreDictNames":["tyrian"],"id":"chisel:tyrian:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":391},{"machine":"gt.recipe.assembler","chunk":2,"index":175}],"recipesAsInput":[]}

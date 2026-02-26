@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"leekbaconsoupItem","metadata":32767,"displayName":"Leek Bacon Soup","unlocalizedName":"item.leekbaconsoupItem","id":"harvestcraft:leekbaconsoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":75}]}

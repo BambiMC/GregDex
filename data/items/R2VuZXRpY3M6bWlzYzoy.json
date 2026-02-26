@@ -1,0 +1,1 @@
+{"modId":"Genetics","itemName":"misc","metadata":2,"displayName":"Fluorescent Dye","unlocalizedName":"item.misc","id":"Genetics:misc:2","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":362},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":31}],"recipesAsInput":[]}

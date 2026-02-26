@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"eelrawItem","metadata":32767,"displayName":"Raw Eel","unlocalizedName":"item.eelrawItem","id":"harvestcraft:eelrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":393},{"machine":"gt.recipe.canner","chunk":1,"index":163}]}

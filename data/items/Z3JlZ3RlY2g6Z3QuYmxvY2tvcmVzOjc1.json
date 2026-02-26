@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":75,"displayName":"Erbium Ore","unlocalizedName":"gt.blockores.75","oreDictNames":["oreErbium"],"id":"gregtech:gt.blockores:75","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":109},{"machine":"gt.recipe.macerator","chunk":7,"index":402}]}

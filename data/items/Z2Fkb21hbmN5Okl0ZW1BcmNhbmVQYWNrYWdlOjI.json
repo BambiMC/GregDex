@@ -1,0 +1,1 @@
+{"modId":"gadomancy","itemName":"ItemArcanePackage","metadata":2,"displayName":"§6Used Familiar Items","unlocalizedName":"item.ItemArcanePackage","nbt":"{display:{Name:\"§6Used Familiar Items\"}}","id":"gadomancy:ItemArcanePackage:2","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":244}],"recipesAsInput":[]}

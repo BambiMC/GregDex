@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":758,"displayName":"Upgraded Pollution Scrubber","unlocalizedName":"gt.blockmachines.pollutioncleaner.02.tier.single","id":"gregtech:gt.blockmachines:758","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":195}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":223}]}

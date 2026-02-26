@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemFrankenSkull","metadata":1,"displayName":"Z-Logic Controller","unlocalizedName":"skullZombieController","id":"EnderIO:itemFrankenSkull:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":191},{"machine":"gt.recipe.assembler","chunk":26,"index":203}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMachinePart","metadata":3,"displayName":"End Steel Chassis","unlocalizedName":"enderio.endSteelMachineChassi","oreDictNames":["itemEndSteelMachineChassi"],"id":"EnderIO:itemMachinePart:3","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":330},{"machine":"crafting_table","chunk":109,"index":331}],"recipesAsInput":[]}

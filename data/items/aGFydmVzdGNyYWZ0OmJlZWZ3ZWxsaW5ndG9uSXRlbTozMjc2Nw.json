@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"beefwellingtonItem","metadata":32767,"displayName":"Beef Wellington","unlocalizedName":"item.beefwellingtonItem","id":"harvestcraft:beefwellingtonItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":127}]}

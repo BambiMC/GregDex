@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"pumpkin_seeds","metadata":32767,"displayName":"Pumpkin Seeds","unlocalizedName":"item.seeds_pumpkin","id":"minecraft:pumpkin_seeds:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":183},{"machine":"gt.recipe.fluidextractor","chunk":25,"index":309}]}

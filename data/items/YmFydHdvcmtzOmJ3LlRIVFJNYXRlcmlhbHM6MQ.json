@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.THTRMaterials","metadata":1,"displayName":"BISO pebble ball","unlocalizedName":"item.BISOPelletBall","id":"bartworks:bw.THTRMaterials:1","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":90}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":91}]}

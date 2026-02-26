@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":342,"displayName":"Molten Deep Dark Iron Cell","unlocalizedName":"gt.metaitem.99.342","oreDictNames":["cellMoltenDarkIron"],"id":"gregtech:gt.metaitem.99:342","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":233}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":234}]}

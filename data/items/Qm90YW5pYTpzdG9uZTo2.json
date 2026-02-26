@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":6,"displayName":"Polished Diorite","unlocalizedName":"tile.stone6","oreDictNames":["stoneDioritePolished"],"id":"Botania:stone:6","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":125}],"recipesAsInput":[]}

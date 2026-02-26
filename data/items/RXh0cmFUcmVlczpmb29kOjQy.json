@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"food","metadata":42,"displayName":"Redcurrant","unlocalizedName":"item.food","oreDictNames":["cropRedcurrant"],"id":"ExtraTrees:food:42","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":228}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":2,"index":93}]}

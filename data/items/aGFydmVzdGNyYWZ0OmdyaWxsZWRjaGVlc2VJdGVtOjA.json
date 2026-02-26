@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grilledcheeseItem","metadata":0,"displayName":"Grilled Cheese","unlocalizedName":"item.grilledcheeseItem","oreDictNames":["foodGrilledcheese"],"id":"harvestcraft:grilledcheeseItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":327}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinCookIV","metadata":0,"displayName":"Coin \"The Cook 10K\"","unlocalizedName":"item.CoinCookIV","id":"dreamcraft:item.CoinCookIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":278}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":334}]}

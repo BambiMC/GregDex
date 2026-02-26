@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBallEndergy","metadata":0,"displayName":"Clay Compound Grinding Ball","unlocalizedName":"enderio.crudeSteelGrindingBall","id":"EnderIO:itemGrindingBallEndergy:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":353},{"machine":"gt.recipe.assembler","chunk":26,"index":144}],"recipesAsInput":[]}

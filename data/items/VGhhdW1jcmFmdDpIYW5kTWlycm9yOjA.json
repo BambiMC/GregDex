@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"HandMirror","metadata":0,"displayName":"Magic Hand Mirror","unlocalizedName":"item.HandMirror","id":"Thaumcraft:HandMirror:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":373}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":25}]}

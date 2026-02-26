@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemNuggetPlutonium238","metadata":0,"displayName":"Plutonium-238 Nugget","unlocalizedName":"item.itemNuggetPlutonium238","oreDictNames":["nuggetPlutonium238"],"id":"miscutils:itemNuggetPlutonium238:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":56,"index":38}],"recipesAsInput":[]}

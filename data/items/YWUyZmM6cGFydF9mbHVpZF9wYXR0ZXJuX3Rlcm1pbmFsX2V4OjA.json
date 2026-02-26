@@ -1,0 +1,1 @@
+{"modId":"ae2fc","itemName":"part_fluid_pattern_terminal_ex","metadata":0,"displayName":"ME Fluid Processing Pattern Terminal","unlocalizedName":"item.part_fluid_pattern_terminal_ex","id":"ae2fc:part_fluid_pattern_terminal_ex:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":220}],"recipesAsInput":[{"machine":"gt.recipe.spaceassembler","chunk":0,"index":15}]}

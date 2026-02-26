@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"canLava","metadata":0,"displayName":"Lava Can","unlocalizedName":"item.for.canLava","id":"Forestry:canLava:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":422}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":423}]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":18,"displayName":"Molten Lead Bucket","unlocalizedName":"item.tconstruct.bucket.Lead","id":"TConstruct:buckets:18","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":342}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":343}]}

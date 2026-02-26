@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"applesauceItem","metadata":0,"displayName":"Apple Sauce","unlocalizedName":"item.applesauceItem","oreDictNames":["foodApplesauce"],"id":"harvestcraft:applesauceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":287}],"recipesAsInput":[]}

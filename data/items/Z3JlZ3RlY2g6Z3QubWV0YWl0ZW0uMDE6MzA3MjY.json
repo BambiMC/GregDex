@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30726,"displayName":"Refined Glue Cell","unlocalizedName":"gt.metaitem.01.30726","oreDictNames":["cellGlue"],"id":"gregtech:gt.metaitem.01:30726","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":435}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":436}]}

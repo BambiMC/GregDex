@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockSugarCharcoal","metadata":3,"displayName":"Triple Compressed Sugar Charcoal","unlocalizedName":"tile.blockSugarCharcoal.3","id":"miscutils:blockSugarCharcoal:3","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":165}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":166}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32511,"displayName":"Small Mercury Battery","unlocalizedName":"gt.metaitem.01.32511","id":"gregtech:gt.metaitem.01:32511","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":36}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":193}]}

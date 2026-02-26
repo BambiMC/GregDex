@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"Labware","metadata":0,"displayName":"Genetics Labware","unlocalizedName":"item.gendustry.Labware","id":"gendustry:Labware:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":296}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":327}]}

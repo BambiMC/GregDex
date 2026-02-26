@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"tile.mars","metadata":2,"displayName":"Desh Ore","unlocalizedName":"tile.mars.deshmars","oreDictNames":["oreDesh"],"id":"GalacticraftMars:tile.mars:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":262},{"machine":"gt.recipe.macerator","chunk":6,"index":117}]}

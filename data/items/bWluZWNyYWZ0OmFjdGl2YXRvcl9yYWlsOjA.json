@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"activator_rail","metadata":0,"displayName":"Activator Track","unlocalizedName":"tile.activatorRail","id":"minecraft:activator_rail:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":237}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":85}]}

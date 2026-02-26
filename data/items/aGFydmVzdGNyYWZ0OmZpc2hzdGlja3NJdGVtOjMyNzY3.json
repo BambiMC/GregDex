@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fishsticksItem","metadata":32767,"displayName":"Fish Sticks","unlocalizedName":"item.fishsticksItem","id":"harvestcraft:fishsticksItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":274}]}

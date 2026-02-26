@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grilledcheeseItem","metadata":32767,"displayName":"Grilled Cheese","unlocalizedName":"item.grilledcheeseItem","id":"harvestcraft:grilledcheeseItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":242}]}

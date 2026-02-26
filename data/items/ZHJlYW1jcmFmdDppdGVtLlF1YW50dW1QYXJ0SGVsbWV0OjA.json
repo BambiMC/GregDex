@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.QuantumPartHelmet","metadata":0,"displayName":"Quantum Parts \"Helmet\"","unlocalizedName":"item.QuantumPartHelmet","id":"dreamcraft:item.QuantumPartHelmet:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":194}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":337}]}

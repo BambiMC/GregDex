@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":890,"displayName":"Molten Glass Cell","unlocalizedName":"gt.metaitem.99.890","oreDictNames":["cellMoltenGlass"],"id":"gregtech:gt.metaitem.99:890","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":363}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":364}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockElectricLight","metadata":5,"displayName":"Wireless Powered Light (Inverted)","unlocalizedName":"item.itemWirelessLightInverted","id":"EnderIO:blockElectricLight:5","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":160}],"recipesAsInput":[]}

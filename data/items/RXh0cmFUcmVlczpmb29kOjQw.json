@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"food","metadata":40,"displayName":"Papayimar","unlocalizedName":"item.food","oreDictNames":["cropPapayimar"],"id":"ExtraTrees:food:40","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":136}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":107}]}

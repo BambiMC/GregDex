@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFMagicLeaves","metadata":1,"displayName":"Leaves of Transformation","unlocalizedName":"tile.TFMagicLeaves.1","oreDictNames":["treeLeaves"],"id":"TwilightForest:tile.TFMagicLeaves:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":18}],"recipesAsInput":[]}

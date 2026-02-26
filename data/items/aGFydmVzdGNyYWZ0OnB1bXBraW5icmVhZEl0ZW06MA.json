@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pumpkinbreadItem","metadata":0,"displayName":"Pumpkin Bread","unlocalizedName":"item.pumpkinbreadItem","oreDictNames":["foodPumpkinbread"],"id":"harvestcraft:pumpkinbreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":329}],"recipesAsInput":[]}

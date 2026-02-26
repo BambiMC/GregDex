@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cashewchickenItem","metadata":32767,"displayName":"Cashew Chicken","unlocalizedName":"item.cashewchickenItem","id":"harvestcraft:cashewchickenItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":84}]}

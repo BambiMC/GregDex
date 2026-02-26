@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grilledskewersItem","metadata":0,"displayName":"Grilled Skewer","unlocalizedName":"item.grilledskewersItem","oreDictNames":["foodGrilledskewers"],"id":"harvestcraft:grilledskewersItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":357}],"recipesAsInput":[]}

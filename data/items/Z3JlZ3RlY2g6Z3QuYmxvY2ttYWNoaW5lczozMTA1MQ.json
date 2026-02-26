@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31051,"displayName":"Data Orb Repository","unlocalizedName":"gt.blockmachines.hatch.input_bus.elementalorbholder","id":"gregtech:gt.blockmachines:31051","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":347},{"machine":"gt.recipe.scanner","chunk":0,"index":96}],"recipesAsInput":[]}

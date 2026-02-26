@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonyogurtItem","metadata":0,"displayName":"Lemon Yogurt","unlocalizedName":"item.lemonyogurtItem","oreDictNames":["foodLemonyogurt"],"id":"harvestcraft:lemonyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":351}],"recipesAsInput":[]}

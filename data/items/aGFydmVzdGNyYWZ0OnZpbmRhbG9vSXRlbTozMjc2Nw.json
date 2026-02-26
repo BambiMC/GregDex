@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"vindalooItem","metadata":32767,"displayName":"Vindaloo","unlocalizedName":"item.vindalooItem","id":"harvestcraft:vindalooItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":261}]}

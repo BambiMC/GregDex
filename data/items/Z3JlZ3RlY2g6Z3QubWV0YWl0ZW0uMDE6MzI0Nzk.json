@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32479,"displayName":"Platinum Lighter (Full)","unlocalizedName":"gt.metaitem.01.32479","id":"gregtech:gt.metaitem.01:32479","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":441}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":442}]}

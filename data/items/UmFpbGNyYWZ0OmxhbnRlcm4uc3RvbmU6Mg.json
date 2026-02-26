@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"lantern.stone","metadata":2,"displayName":"Blood Stained Stone Lantern","unlocalizedName":"tile.railcraft.lantern.stone.bloodstained","id":"Railcraft:lantern.stone:2","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":246},{"machine":"gt.recipe.assembler","chunk":28,"index":363}],"recipesAsInput":[]}

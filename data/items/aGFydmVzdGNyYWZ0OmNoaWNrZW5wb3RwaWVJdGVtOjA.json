@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chickenpotpieItem","metadata":0,"displayName":"Chicken Pot Pie","unlocalizedName":"item.chickenpotpieItem","oreDictNames":["foodChickenpotpie"],"id":"harvestcraft:chickenpotpieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":336}],"recipesAsInput":[]}

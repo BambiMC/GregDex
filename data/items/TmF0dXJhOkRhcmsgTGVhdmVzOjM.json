@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"Dark Leaves","metadata":3,"displayName":"Fusewood Leaves","unlocalizedName":"block.leaves.fusewood","oreDictNames":["treeLeaves"],"id":"Natura:Dark Leaves:3","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":44}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":145}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellTechnetium","metadata":0,"displayName":"Technetium Cell","unlocalizedName":"item.itemCellTechnetium","oreDictNames":["cellTechnetium"],"id":"miscutils:itemCellTechnetium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":55}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":56}]}

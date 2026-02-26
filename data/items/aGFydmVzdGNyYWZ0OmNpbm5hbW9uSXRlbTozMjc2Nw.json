@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cinnamonItem","metadata":32767,"displayName":"Cinnamon","unlocalizedName":"item.cinnamonItem","id":"harvestcraft:cinnamonItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":203}]}

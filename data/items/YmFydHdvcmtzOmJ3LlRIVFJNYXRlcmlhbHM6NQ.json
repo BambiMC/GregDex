@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.THTRMaterials","metadata":5,"displayName":"Burned Out TRISO pebble ball","unlocalizedName":"item.BurnedOutTRISOPelletBall","id":"bartworks:bw.THTRMaterials:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":225},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":155}]}

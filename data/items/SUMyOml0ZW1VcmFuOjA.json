@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemUran","metadata":0,"displayName":"Enriched Uranium Nuclear Fuel","unlocalizedName":"ic2.itemUran","id":"IC2:itemUran:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":376}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":338},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":48}]}

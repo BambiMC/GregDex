@@ -1,0 +1,1 @@
+{"modId":"IronChest","itemName":"diamondObsidianUpgrade","metadata":0,"displayName":"Diamond to Obsidian Chest Upgrade","unlocalizedName":"item.ironchest:DIAMONDOBSIDIAN","id":"IronChest:diamondObsidianUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":17},{"machine":"gt.recipe.assembler","chunk":27,"index":42}],"recipesAsInput":[]}

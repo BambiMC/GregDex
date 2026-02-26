@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crabcookedItem","metadata":32767,"displayName":"Cooked Crab","unlocalizedName":"item.crabcookedItem","id":"harvestcraft:crabcookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":181}]}

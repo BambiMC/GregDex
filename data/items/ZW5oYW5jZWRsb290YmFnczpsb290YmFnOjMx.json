@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":31,"displayName":"LootBag (Dessert)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:31","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":434},{"machine":"gt.recipe.assembler","chunk":2,"index":252}],"recipesAsInput":[]}

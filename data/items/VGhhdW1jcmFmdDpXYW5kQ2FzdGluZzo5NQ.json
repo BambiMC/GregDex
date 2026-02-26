@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"WandCasting","metadata":95,"displayName":"Gold Banded Thaumic Wand","unlocalizedName":"item.WandCasting","nbt":"{cap:\"gold\",rod:\"tbthaumium\"}","id":"Thaumcraft:WandCasting:95","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":2,"index":456}],"recipesAsInput":[]}

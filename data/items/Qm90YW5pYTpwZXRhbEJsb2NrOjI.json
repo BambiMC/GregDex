@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"petalBlock","metadata":2,"displayName":"Magenta Petal Block","unlocalizedName":"tile.petalBlock2","id":"Botania:petalBlock:2","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":14}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":124},{"machine":"gt.recipe.extractor","chunk":0,"index":22}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32456,"displayName":"Spray Can (Magenta)","unlocalizedName":"gt.metaitem.01.32456","id":"gregtech:gt.metaitem.01:32456","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":429}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":430}]}

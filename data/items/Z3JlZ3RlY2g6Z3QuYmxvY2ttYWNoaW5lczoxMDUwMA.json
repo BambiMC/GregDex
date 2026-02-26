@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":10500,"displayName":"Digester","unlocalizedName":"gt.blockmachines.digester","id":"gregtech:gt.blockmachines:10500","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":98}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":31,"displayName":"Questgiver Mark","unlocalizedName":"item.cosmetic31","id":"Botania:cosmetic:31","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":254},{"machine":"gt.recipe.assembler","chunk":0,"index":286}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":121}]}

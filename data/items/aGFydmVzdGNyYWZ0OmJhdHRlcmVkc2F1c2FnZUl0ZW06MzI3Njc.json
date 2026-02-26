@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"batteredsausageItem","metadata":32767,"displayName":"Battered Sausage","unlocalizedName":"item.batteredsausageItem","id":"harvestcraft:batteredsausageItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":191}]}

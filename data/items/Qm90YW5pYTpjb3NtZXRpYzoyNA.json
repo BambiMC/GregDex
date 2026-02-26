@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":24,"displayName":"Alien Antenna","unlocalizedName":"item.cosmetic24","id":"Botania:cosmetic:24","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":247},{"machine":"gt.recipe.assembler","chunk":0,"index":279}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":114}]}

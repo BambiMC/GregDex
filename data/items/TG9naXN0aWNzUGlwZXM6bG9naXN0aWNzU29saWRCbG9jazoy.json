@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"logisticsSolidBlock","metadata":2,"displayName":"Logistics Security Station","unlocalizedName":"tile.logisticssecuritystation","id":"LogisticsPipes:logisticsSolidBlock:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":198}],"recipesAsInput":[]}

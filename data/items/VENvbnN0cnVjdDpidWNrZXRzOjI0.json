@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":24,"displayName":"Liquid Slime Bucket","unlocalizedName":"item.tconstruct.bucket.Slime","id":"TConstruct:buckets:24","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":184}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":185}]}

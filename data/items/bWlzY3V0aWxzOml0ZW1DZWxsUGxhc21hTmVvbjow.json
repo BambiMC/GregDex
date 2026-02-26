@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellPlasmaNeon","metadata":0,"displayName":"Neon Plasma Cell","unlocalizedName":"item.itemCellPlasmaNeon","oreDictNames":["cellPlasmaNeon"],"id":"miscutils:itemCellPlasmaNeon:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":444}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":445}]}

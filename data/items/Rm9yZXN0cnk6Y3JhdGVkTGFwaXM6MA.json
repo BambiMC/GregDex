@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedLapis","metadata":0,"displayName":"Crated Lapis Lazuli","unlocalizedName":"item.cratedLapis","id":"Forestry:cratedLapis:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":312}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":249}]}

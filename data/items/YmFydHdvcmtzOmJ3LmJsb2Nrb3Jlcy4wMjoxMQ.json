@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":11,"displayName":"Small Ferberite Ore","unlocalizedName":"bw.blockores.02.11","oreDictNames":["oreSmallFerberite"],"id":"bartworks:bw.blockores.02:11","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":449},{"machine":"gt.recipe.macerator","chunk":5,"index":335}]}

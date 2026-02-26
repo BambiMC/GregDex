@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"leather_boots","metadata":0,"displayName":"Leather Boots","unlocalizedName":"item.bootsCloth","id":"minecraft:leather_boots:0","recipesAsOutput":[{"machine":"crafting_table","chunk":65,"index":170},{"machine":"gtpp.recipe.fishpond","chunk":0,"index":31}],"recipesAsInput":[]}

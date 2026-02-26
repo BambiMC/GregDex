@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemUpgrade","metadata":44,"displayName":"Upgrade Module Upgrade","unlocalizedName":"item.UpgradeModuleUpgrade","id":"LogisticsPipes:item.itemUpgrade:44","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":145}],"recipesAsInput":[]}

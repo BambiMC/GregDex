@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"expanderPowerTierTwo","metadata":0,"displayName":"Base Power Expander (Tier 2)","unlocalizedName":"tile.expanderPowerTierTwo","id":"openmodularturrets:expanderPowerTierTwo:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":272}],"recipesAsInput":[]}

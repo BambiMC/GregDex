@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31025,"displayName":"Turbine Housing","unlocalizedName":"gt.blockmachines.hatch.turbine.input.tier.00","id":"gregtech:gt.blockmachines:31025","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":350},{"machine":"gt.recipe.scanner","chunk":0,"index":99}],"recipesAsInput":[]}

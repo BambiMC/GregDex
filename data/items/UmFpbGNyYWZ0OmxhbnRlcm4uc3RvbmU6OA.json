@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"lantern.stone","metadata":8,"displayName":"Sandstone Lantern","unlocalizedName":"tile.railcraft.lantern.stone.sandstone","id":"Railcraft:lantern.stone:8","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":252},{"machine":"gt.recipe.assembler","chunk":28,"index":369}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"meatpieItem","metadata":32767,"displayName":"Meat Pie","unlocalizedName":"item.meatpieItem","id":"harvestcraft:meatpieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":140}]}

@@ -1,0 +1,1 @@
+{"modId":"ae2fc","itemName":"part_level_terminal","metadata":0,"displayName":"ME Level Terminal","unlocalizedName":"item.part_level_terminal","id":"ae2fc:part_level_terminal:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":221}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":25,"index":402}]}

@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"plutoglowstone","metadata":0,"displayName":"Pluto Glowstone","unlocalizedName":"tile.PlutoGlowStone","oreDictNames":["rockPluto","glowstone","rockSpace"],"id":"GalaxySpace:plutoglowstone:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":258}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":3,"index":160}]}

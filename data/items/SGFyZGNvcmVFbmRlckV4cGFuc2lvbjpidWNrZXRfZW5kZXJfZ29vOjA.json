@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"bucket_ender_goo","metadata":0,"displayName":"Ender Goo Bucket","unlocalizedName":"item.bucketEnderGoo","id":"HardcoreEnderExpansion:bucket_ender_goo:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":116}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":117}]}

@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCapsule","metadata":768,"displayName":"binniecore.item.container.capsule.binnie.growthmedium","unlocalizedName":"item.containerCapsule","id":"BinnieCore:containerCapsule:768","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":390}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":391}]}

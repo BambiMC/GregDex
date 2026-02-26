@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"carrot","metadata":32767,"displayName":"Carrot","unlocalizedName":"item.carrots","id":"minecraft:carrot:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":79},{"machine":"gt.recipe.chemicalreactor","chunk":1,"index":278},{"machine":"gt.recipe.largechemicalreactor","chunk":1,"index":350}]}

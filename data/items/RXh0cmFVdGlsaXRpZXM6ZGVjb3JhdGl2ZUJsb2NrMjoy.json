@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"decorativeBlock2","metadata":2,"displayName":"Glass Bricks","unlocalizedName":"tile.extrautils:decorativeBlock2.2","oreDictNames":["blockGlass"],"id":"ExtraUtilities:decorativeBlock2:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":216}],"recipesAsInput":[]}

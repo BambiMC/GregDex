@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockglass1","metadata":2,"displayName":"Omni-Purpose Infinity Fused Glass","unlocalizedName":"gt.blockglass1.2","id":"gregtech:gt.blockglass1:2","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":56}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":57}]}

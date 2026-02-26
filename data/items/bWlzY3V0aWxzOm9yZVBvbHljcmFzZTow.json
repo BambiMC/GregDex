@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"orePolycrase","metadata":0,"displayName":"Polycrase Ore","unlocalizedName":"tile.OrePolycrase","oreDictNames":["orePolycrase"],"id":"miscutils:orePolycrase:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":351},{"machine":"gt.recipe.macerator","chunk":1,"index":160}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedBirchSapling","metadata":0,"displayName":"Crated Birch Sapling","unlocalizedName":"item.cratedBirchSapling","id":"Forestry:cratedBirchSapling:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":309}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":52}]}

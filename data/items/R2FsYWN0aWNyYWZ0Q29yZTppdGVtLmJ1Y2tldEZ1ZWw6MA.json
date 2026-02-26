@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.bucketFuel","metadata":0,"displayName":"Fuel Bucket","unlocalizedName":"item.bucketFuel","id":"GalacticraftCore:item.bucketFuel:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":494}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":495}]}

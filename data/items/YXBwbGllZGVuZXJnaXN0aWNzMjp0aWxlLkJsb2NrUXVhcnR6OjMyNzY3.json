@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockQuartz","metadata":32767,"displayName":"Certus Quartz Block","unlocalizedName":"tile.appliedenergistics2.BlockQuartz","id":"appliedenergistics2:tile.BlockQuartz:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":0,"index":8},{"machine":"gt.recipe.macerator","chunk":19,"index":39}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers","metadata":3,"displayName":"Glowflower","unlocalizedName":"tile.flowers.glowflower","oreDictNames":["flowerGlowflower","flowerWhite"],"id":"BiomesOPlenty:flowers:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":134}]}

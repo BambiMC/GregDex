@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"NuclearWaste","metadata":0,"displayName":"Nuclear Waste Cell","unlocalizedName":"item.NuclearWaste","oreDictNames":["cellNuclearWaste"],"id":"miscutils:NuclearWaste:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":203}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":204}]}

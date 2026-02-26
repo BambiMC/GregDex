@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"gemOre","metadata":1,"displayName":"Block of Amethyst","unlocalizedName":"tile.gemOre.amethystblock","id":"BiomesOPlenty:gemOre:1","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":144}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":119}]}

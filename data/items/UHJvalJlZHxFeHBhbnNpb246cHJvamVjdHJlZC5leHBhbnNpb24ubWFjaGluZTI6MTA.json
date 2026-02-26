@@ -1,0 +1,1 @@
+{"modId":"ProjRed|Expansion","itemName":"projectred.expansion.machine2","metadata":10,"displayName":"Project Bench","unlocalizedName":"tile.projectred.expansion.machine2|10","id":"ProjRed|Expansion:projectred.expansion.machine2:10","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":70}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":200}]}

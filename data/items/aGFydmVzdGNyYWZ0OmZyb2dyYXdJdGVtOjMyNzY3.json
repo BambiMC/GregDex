@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"frograwItem","metadata":32767,"displayName":"Raw Frog","unlocalizedName":"item.frograwItem","id":"harvestcraft:frograwItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":293},{"machine":"gt.recipe.canner","chunk":1,"index":164}]}

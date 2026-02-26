@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"heavyPlate","metadata":13,"displayName":"Copper Large Plate","unlocalizedName":"toolpart.LargePlate.Copper","id":"TConstruct:heavyPlate:13","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":402}],"recipesAsInput":[]}

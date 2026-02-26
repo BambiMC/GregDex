@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"rune","metadata":14,"displayName":"Rune of Envy","unlocalizedName":"item.rune14","oreDictNames":["runeEnvyB"],"id":"Botania:rune:14","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":423},{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":92},{"machine":"thaumcraft_infusion_altar","chunk":2,"index":457}]}

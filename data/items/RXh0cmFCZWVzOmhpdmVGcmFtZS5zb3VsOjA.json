@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"hiveFrame.soul","metadata":0,"displayName":"Soul Frame","unlocalizedName":"item.hiveFrame","id":"ExtraBees:hiveFrame.soul:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":306}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":296},{"machine":"gt.recipe.assembler","chunk":4,"index":319}]}

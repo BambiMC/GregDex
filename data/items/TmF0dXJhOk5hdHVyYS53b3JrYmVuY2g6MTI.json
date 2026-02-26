@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"Natura.workbench","metadata":12,"displayName":"Crafting Table","unlocalizedName":"tile.workbench","oreDictNames":["craftingTableWood","crafterWood"],"id":"Natura:Natura.workbench:12","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":301}],"recipesAsInput":[]}

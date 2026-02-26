@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodCompressedPlutonium2","metadata":0,"displayName":"Dual Fuel Rod (High Density Plutonium)","unlocalizedName":"item.rodCompressedPlutonium2","id":"GoodGenerator:rodCompressedPlutonium2:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":62}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":63}]}

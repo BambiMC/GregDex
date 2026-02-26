@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"powerConverter","metadata":0,"displayName":"Power Converter","unlocalizedName":"tile.oc.powerConverter","oreDictNames":["oc:powerConverter"],"id":"OpenComputers:powerConverter:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":9}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"rfidwriter","metadata":0,"displayName":"Card Writer","unlocalizedName":"tile.cardwriter","id":"opensecurity:rfidwriter:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":38}],"recipesAsInput":[]}

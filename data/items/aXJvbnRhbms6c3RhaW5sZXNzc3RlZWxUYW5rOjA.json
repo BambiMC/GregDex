@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"stainlesssteelTank","metadata":0,"displayName":"Stainless Steel Tank","unlocalizedName":"tile.irontank:stainlesssteelTank","id":"irontank:stainlesssteelTank:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":58},{"machine":"gt.recipe.assembler","chunk":2,"index":154}],"recipesAsInput":[]}

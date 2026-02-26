@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32260,"displayName":"Veggie Pizza","unlocalizedName":"gt.metaitem.02.32260","id":"gregtech:gt.metaitem.02:32260","recipesAsOutput":[{"machine":"furnace","chunk":7,"index":396}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":34}]}

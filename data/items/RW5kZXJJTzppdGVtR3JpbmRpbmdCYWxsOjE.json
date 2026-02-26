@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":1,"displayName":"Energetic Alloy Ball","unlocalizedName":"enderio.energeticAlloy_ball","id":"EnderIO:itemGrindingBall:1","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":345},{"machine":"gt.recipe.assembler","chunk":26,"index":136}],"recipesAsInput":[]}

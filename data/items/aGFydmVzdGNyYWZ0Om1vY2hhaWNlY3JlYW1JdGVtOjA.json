@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mochaicecreamItem","metadata":0,"displayName":"Mocha Ice Cream","unlocalizedName":"item.mochaicecreamItem","oreDictNames":["foodMochaicecream"],"id":"harvestcraft:mochaicecreamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":377}],"recipesAsInput":[]}

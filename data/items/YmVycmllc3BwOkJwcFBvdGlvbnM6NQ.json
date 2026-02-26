@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":5,"displayName":"Bottled Mash","unlocalizedName":"potion.Mash.bottled","id":"berriespp:BppPotions:5","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":24}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":23}]}

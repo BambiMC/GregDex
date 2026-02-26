@@ -1,0 +1,1 @@
+{"modId":"openprinter","itemName":"openprinter.printerPaperRoll","metadata":0,"displayName":"Printer Paper Roll","unlocalizedName":"item.printerPaperRoll","id":"openprinter:openprinter.printerPaperRoll:0","recipesAsOutput":[{"machine":"crafting_table","chunk":65,"index":156},{"machine":"gt.recipe.assembler","chunk":1,"index":31}],"recipesAsInput":[]}

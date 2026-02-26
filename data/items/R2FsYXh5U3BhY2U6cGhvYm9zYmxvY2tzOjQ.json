@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"phobosblocks","metadata":4,"displayName":"Cobalt Ore","unlocalizedName":"tile.PhobosCobaltumOre","oreDictNames":["oreCobalt"],"id":"GalaxySpace:phobosblocks:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":388},{"machine":"gt.recipe.macerator","chunk":6,"index":243}]}

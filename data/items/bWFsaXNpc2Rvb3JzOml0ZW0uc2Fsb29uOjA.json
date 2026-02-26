@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"item.saloon","metadata":0,"displayName":"Saloon Door","unlocalizedName":"item.saloon","id":"malisisdoors:item.saloon:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":208},{"machine":"gt.recipe.assembler","chunk":27,"index":286}],"recipesAsInput":[]}

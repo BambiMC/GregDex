@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":6,"displayName":"Molten Ardite Bucket","unlocalizedName":"item.tconstruct.bucket.Ardite","id":"TConstruct:buckets:6","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":282}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":283}]}

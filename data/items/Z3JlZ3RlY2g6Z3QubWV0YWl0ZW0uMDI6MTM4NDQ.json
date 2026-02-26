@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":13844,"displayName":"Basalt Plow Head","unlocalizedName":"gt.metaitem.02.13844","oreDictNames":["toolHeadPlowBasalt"],"id":"gregtech:gt.metaitem.02:13844","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":100,"index":356},{"machine":"gt.recipe.assembler","chunk":18,"index":484}]}

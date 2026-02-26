@@ -1,0 +1,1 @@
+{"modId":"BiblioCraft","itemName":"Armor Stand","metadata":0,"displayName":"Armor Stand","unlocalizedName":"tile.BiblioArmorStand","id":"BiblioCraft:Armor Stand:0","recipesAsOutput":[{"machine":"crafting_table","chunk":106,"index":266},{"machine":"crafting_table","chunk":116,"index":203}],"recipesAsInput":[{"machine":"crafting_table","chunk":116,"index":202}]}

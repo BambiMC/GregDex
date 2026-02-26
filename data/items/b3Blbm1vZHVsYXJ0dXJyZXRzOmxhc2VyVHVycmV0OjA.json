@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"laserTurret","metadata":0,"displayName":"Laser Turret","unlocalizedName":"tile.laserTurret","id":"openmodularturrets:laserTurret:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":427}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":1,"index":45}]}

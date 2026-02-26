@@ -1,0 +1,1 @@
+{"modId":"ProjRed|Integration","itemName":"projectred.integration.gate","metadata":16,"displayName":"Rain Sensor","unlocalizedName":"item.projectred.integration.gate|16","id":"ProjRed|Integration:projectred.integration.gate:16","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":73}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":126}]}

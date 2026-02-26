@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4868,"displayName":"Trinium Ore","unlocalizedName":"gt.blockores.4868","oreDictNames":["oreRedgraniteTrinium"],"id":"gregtech:gt.blockores:4868","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":213},{"machine":"gt.recipe.macerator","chunk":6,"index":72}]}

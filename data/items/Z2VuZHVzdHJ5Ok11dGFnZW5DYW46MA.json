@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"MutagenCan","metadata":0,"displayName":"Mutagen Can","unlocalizedName":"item.gendustry.mutagen.can","id":"gendustry:MutagenCan:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":118}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":119}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":18,"displayName":"Molten Magnesium Cell","unlocalizedName":"gt.metaitem.99.18","oreDictNames":["cellMoltenMagnesium"],"id":"gregtech:gt.metaitem.99:18","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":341}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":342}]}

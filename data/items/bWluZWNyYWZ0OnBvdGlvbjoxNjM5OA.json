@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16398,"displayName":"Splash Potion of Invisibility","unlocalizedName":"item.potion","id":"minecraft:potion:16398","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":291}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":292}]}

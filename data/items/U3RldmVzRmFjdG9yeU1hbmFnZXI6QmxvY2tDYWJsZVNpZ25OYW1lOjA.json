@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableSignName","metadata":0,"displayName":"Sign Updater","unlocalizedName":"tile.sfm.BlockCableSign","id":"StevesFactoryManager:BlockCableSignName:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":2}],"recipesAsInput":[]}

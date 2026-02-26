@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"rutabagaItem","metadata":32767,"displayName":"Rutabaga","unlocalizedName":"item.rutabagaItem","id":"harvestcraft:rutabagaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":158}]}

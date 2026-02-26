@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemUpgrade","metadata":42,"displayName":"Opaque Upgrade","unlocalizedName":"item.OpaqueUpgrade","id":"LogisticsPipes:item.itemUpgrade:42","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":350}],"recipesAsInput":[]}

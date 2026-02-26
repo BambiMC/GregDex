@@ -1,0 +1,1 @@
+{"modId":"harvestthenether","itemName":"netherLeaves","metadata":0,"displayName":"Nether Leaves","unlocalizedName":"tile.netherLeaves","oreDictNames":["treeLeaves"],"id":"harvestthenether:netherLeaves:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":115}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"ItemSensorLocationCard","metadata":0,"displayName":"Reactor Sensor Location Card","unlocalizedName":"item.ItemSensorLocationCard","id":"IC2NuclearControl:ItemSensorLocationCard:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":59}]}

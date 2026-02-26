@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15202,"displayName":"ZPM 4A Dynamo Hatch","unlocalizedName":"gt.blockmachines.hatch.dynamomulti04.tier.07","id":"gregtech:gt.blockmachines:15202","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":492}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":5,"index":2}]}

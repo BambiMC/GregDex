@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":840,"displayName":"Large Sifter Control Block","unlocalizedName":"gt.blockmachines.industrialsifter.controller.tier.single","id":"gregtech:gt.blockmachines:840","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":186}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":18}]}

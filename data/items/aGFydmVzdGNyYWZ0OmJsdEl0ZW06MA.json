@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bltItem","metadata":0,"displayName":"BLT","unlocalizedName":"item.bltItem","oreDictNames":["foodBlt"],"id":"harvestcraft:bltItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":342}],"recipesAsInput":[]}

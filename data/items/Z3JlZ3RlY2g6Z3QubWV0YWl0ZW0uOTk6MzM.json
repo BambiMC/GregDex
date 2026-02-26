@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":33,"displayName":"Molten Cobalt Cell","unlocalizedName":"gt.metaitem.99.33","oreDictNames":["cellMoltenCobalt"],"id":"gregtech:gt.metaitem.99:33","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":367}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":368}]}

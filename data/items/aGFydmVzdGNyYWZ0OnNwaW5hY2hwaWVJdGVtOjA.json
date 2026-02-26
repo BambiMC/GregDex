@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"spinachpieItem","metadata":0,"displayName":"Spinach Pie","unlocalizedName":"item.spinachpieItem","oreDictNames":["foodSpinachpie"],"id":"harvestcraft:spinachpieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":419}],"recipesAsInput":[]}

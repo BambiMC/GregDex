@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32213,"displayName":"Winter Emulation Upgrade","unlocalizedName":"gt.metaitem.03.32213","oreDictNames":["apiaryUpgrade"],"id":"gregtech:gt.metaitem.03:32213","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":422},{"machine":"crafting_table","chunk":112,"index":368}],"recipesAsInput":[]}

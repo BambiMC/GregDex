@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grubItem","metadata":0,"displayName":"Bee Grub","unlocalizedName":"item.grubItem","oreDictNames":["grubBee"],"id":"harvestcraft:grubItem:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":410}]}

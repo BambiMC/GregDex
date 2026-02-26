@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"broccolindipItem","metadata":0,"displayName":"Broccoli n Dip","unlocalizedName":"item.broccolindipItem","oreDictNames":["foodBroccolindip"],"id":"harvestcraft:broccolindipItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":383}],"recipesAsInput":[]}

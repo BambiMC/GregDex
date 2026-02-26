@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreYttrialite","metadata":0,"displayName":"Yttrialite Ore","unlocalizedName":"tile.OreYttrialite","oreDictNames":["oreYttrialite"],"id":"miscutils:oreYttrialite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":255},{"machine":"gt.recipe.macerator","chunk":1,"index":9}]}

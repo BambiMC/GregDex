@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":15,"displayName":"Fitted Infernal Stone Slab","unlocalizedName":"tile.railcraft.slab.infernal.fitted","id":"Railcraft:slab:15","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":184}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":466},{"machine":"crafting_table","chunk":84,"index":466}]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"item.baseItem","metadata":14,"displayName":"Shuttle Legs","unlocalizedName":"item.baseItem.shuttleLegs","id":"GalacticraftAmunRa:item.baseItem:14","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":260},{"machine":"gt.recipe.assembler","chunk":25,"index":408}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":1398,"displayName":"Mysterious Crystal Ore","unlocalizedName":"gt.blockores.1398","oreDictNames":["oreNetherrackMysteriousCrystal"],"id":"gregtech:gt.blockores:1398","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":225},{"machine":"gt.recipe.macerator","chunk":4,"index":167}]}

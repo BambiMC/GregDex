@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"porklomeinItem","metadata":32767,"displayName":"Pork Lo Mein","unlocalizedName":"item.porklomeinItem","id":"harvestcraft:porklomeinItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":252}]}

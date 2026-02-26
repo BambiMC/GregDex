@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"figjellyItem","metadata":0,"displayName":"Fig Jelly","unlocalizedName":"item.figjellyItem","oreDictNames":["foodFigjelly"],"id":"harvestcraft:figjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":224}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":443}]}

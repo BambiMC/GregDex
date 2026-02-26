@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedAcaciaWood","metadata":0,"displayName":"Crated Acacia Wood","unlocalizedName":"item.cratedAcaciaWood","id":"Forestry:cratedAcaciaWood:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":431}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":204}]}

@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"glieoniaSeed","metadata":0,"displayName":"Glieonia Seed","unlocalizedName":"item.glieoniaSeed","id":"thaumicbases:glieoniaSeed:0","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":0,"index":132}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":403}]}

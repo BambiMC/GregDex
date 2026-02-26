@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.Empty1080SpCell","metadata":0,"displayName":"1080K Space Cell","unlocalizedName":"item.Empty1080SpCell","id":"dreamcraft:item.Empty1080SpCell:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":150}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":9}]}

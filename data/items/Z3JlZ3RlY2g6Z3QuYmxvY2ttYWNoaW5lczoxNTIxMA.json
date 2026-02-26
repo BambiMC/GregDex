@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15210,"displayName":"IV 16A Dynamo Hatch","unlocalizedName":"gt.blockmachines.hatch.dynamomulti16.tier.05","id":"gregtech:gt.blockmachines:15210","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":0}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":5,"index":10}]}

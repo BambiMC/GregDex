@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaBlockTainted","metadata":0,"displayName":"Crated Tainted Soil","unlocalizedName":"item.cratedNaturaBlockTainted","id":"Forestry:cratedNaturaBlockTainted:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":367}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":356}]}

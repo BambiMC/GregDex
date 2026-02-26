@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":8,"displayName":"Real Bottled Jägermeister!","unlocalizedName":"potion.jagi.bottled","id":"berriespp:BppPotions:8","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":30}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":29}]}

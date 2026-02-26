@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"hay_block","metadata":0,"displayName":"Hay Bale","unlocalizedName":"tile.hayBlock","id":"minecraft:hay_block:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":313}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":340},{"machine":"thaumcraft_crucible","chunk":3,"index":213}]}

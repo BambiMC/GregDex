@@ -1,0 +1,1 @@
+{"modId":"RandomThings","itemName":"fluidDisplay","metadata":0,"displayName":"Fluid Display","unlocalizedName":"tile.fluidDisplay","id":"RandomThings:fluidDisplay:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":385}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":386}]}

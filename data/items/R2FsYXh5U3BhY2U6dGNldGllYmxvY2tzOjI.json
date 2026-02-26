@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"tcetieblocks","metadata":2,"displayName":"T Ceti E Stone Block","unlocalizedName":"tile.TCetiEStone","oreDictNames":["rockTcetiE","rockSpace"],"id":"GalaxySpace:tcetieblocks:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":244},{"machine":"gt.recipe.macerator","chunk":0,"index":190}]}

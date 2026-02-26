@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"arrowhead","metadata":314,"displayName":"Unstable Induced Arrowhead","unlocalizedName":"toolpart.ArrowHead.unstableIngot","id":"TConstruct:arrowhead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":18},{"machine":"gt.recipe.extruder","chunk":29,"index":19}],"recipesAsInput":[]}

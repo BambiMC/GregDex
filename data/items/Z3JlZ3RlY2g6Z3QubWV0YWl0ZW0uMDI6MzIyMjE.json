@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32221,"displayName":"Veggieburger","unlocalizedName":"gt.metaitem.02.32221","id":"gregtech:gt.metaitem.02:32221","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":151},{"machine":"crafting_table","chunk":95,"index":16}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":17}]}

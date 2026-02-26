@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemTreetap","metadata":0,"displayName":"Treetap","unlocalizedName":"ic2.itemTreetap","id":"IC2:itemTreetap:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":427},{"machine":"gt.recipe.assembler","chunk":26,"index":347}],"recipesAsInput":[]}

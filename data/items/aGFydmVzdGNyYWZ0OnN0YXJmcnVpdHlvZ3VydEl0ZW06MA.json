@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"starfruityogurtItem","metadata":0,"displayName":"Starfruit Yogurt","unlocalizedName":"item.starfruityogurtItem","oreDictNames":["foodStarfruityogurt"],"id":"harvestcraft:starfruityogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":329}],"recipesAsInput":[]}

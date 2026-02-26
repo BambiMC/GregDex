@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":3077,"displayName":"Ytterbium Ore","unlocalizedName":"gt.blockores.3077","oreDictNames":["oreBlackgraniteYtterbium"],"id":"gregtech:gt.blockores:3077","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":417},{"machine":"gt.recipe.macerator","chunk":7,"index":238}]}

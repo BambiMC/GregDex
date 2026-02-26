@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.BioChunk","metadata":0,"displayName":"Bio Chunk","unlocalizedName":"item.BioChunk","id":"dreamcraft:item.BioChunk:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":100}],"recipesAsInput":[{"machine":"gt.recipe.blastfurnace","chunk":0,"index":439},{"machine":"gt.recipe.fog_molten","chunk":0,"index":439}]}

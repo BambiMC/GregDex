@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellNitinol60","metadata":0,"displayName":"Nitinol 60 Cell","unlocalizedName":"item.itemCellNitinol60","oreDictNames":["cellNitinol60"],"id":"miscutils:itemCellNitinol60:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":468}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":469}]}

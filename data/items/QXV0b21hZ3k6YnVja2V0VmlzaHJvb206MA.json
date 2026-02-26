@@ -1,0 +1,1 @@
+{"modId":"Automagy","itemName":"bucketVishroom","metadata":0,"displayName":"Bucket of Vishroom Soup","unlocalizedName":"item.bucketVishroom","id":"Automagy:bucketVishroom:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":248}],"recipesAsInput":[{"machine":"crafting_table","chunk":97,"index":23},{"machine":"gt.recipe.fluidcanner","chunk":2,"index":249}]}

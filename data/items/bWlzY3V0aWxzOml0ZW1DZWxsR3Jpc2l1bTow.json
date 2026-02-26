@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellGrisium","metadata":0,"displayName":"Grisium Cell","unlocalizedName":"item.itemCellGrisium","oreDictNames":["cellGrisium"],"id":"miscutils:itemCellGrisium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":182}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":183}]}

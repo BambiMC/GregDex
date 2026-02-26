@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"avocadoburritoItem","metadata":0,"displayName":"Avocado Burrito","unlocalizedName":"item.avocadoburritoItem","oreDictNames":["foodAvocadoburrito"],"id":"harvestcraft:avocadoburritoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":388},{"machine":"crafting_table","chunk":92,"index":389}],"recipesAsInput":[]}

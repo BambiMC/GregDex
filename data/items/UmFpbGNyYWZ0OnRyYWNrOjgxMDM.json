@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"track","metadata":8103,"displayName":"Priming Track","unlocalizedName":"tile.railcraft.track.priming","nbt":"{track:\"railcraft:track.priming\"}","id":"Railcraft:track:8103","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":181}],"recipesAsInput":[]}

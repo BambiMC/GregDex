@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fishlettucewrapItem","metadata":0,"displayName":"Fish Lettuce Wrap","unlocalizedName":"item.fishlettucewrapItem","oreDictNames":["foodFishlettucewrap"],"id":"harvestcraft:fishlettucewrapItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":155}],"recipesAsInput":[]}

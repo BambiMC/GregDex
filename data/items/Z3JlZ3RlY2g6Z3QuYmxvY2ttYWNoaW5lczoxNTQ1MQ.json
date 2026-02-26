@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15451,"displayName":"Object Holder","unlocalizedName":"gt.blockmachines.hatch.holder.tier.09","id":"gregtech:gt.blockmachines:15451","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":85},{"machine":"gt.recipe.scanner","chunk":0,"index":40}],"recipesAsInput":[]}

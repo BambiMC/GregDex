@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.sensorGlasses","metadata":0,"displayName":"Sensor Glasses","unlocalizedName":"item.sensorGlasses","id":"GalacticraftCore:item.sensorGlasses:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":496}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":117}]}

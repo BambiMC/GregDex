@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"FrothPyropeflotation","metadata":0,"displayName":"Pyrope Froth Cell","unlocalizedName":"item.FrothPyropeflotation","oreDictNames":["cellPyropeFroth"],"id":"miscutils:FrothPyropeflotation:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":431}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":432}]}

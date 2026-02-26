@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"upgradeModule","metadata":6,"displayName":"Pulling Upgrade","unlocalizedName":"ic2.pullingUpgrade","id":"IC2:upgradeModule:6","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":363}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":303}]}

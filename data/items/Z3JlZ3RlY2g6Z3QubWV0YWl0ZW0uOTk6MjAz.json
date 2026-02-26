@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":203,"displayName":"Molten Elven Elementium Cell","unlocalizedName":"gt.metaitem.99.203","oreDictNames":["cellMoltenElvenElementium"],"id":"gregtech:gt.metaitem.99:203","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":17}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":18}]}

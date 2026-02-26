@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":52,"displayName":"Palladium Ore","unlocalizedName":"gt.blockores.52","oreDictNames":["orePalladium"],"id":"gregtech:gt.blockores:52","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":240},{"machine":"gt.recipe.macerator","chunk":9,"index":433}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lamingtonItem","metadata":0,"displayName":"Lamington","unlocalizedName":"item.lamingtonItem","oreDictNames":["foodLamington"],"id":"harvestcraft:lamingtonItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":457}],"recipesAsInput":[]}

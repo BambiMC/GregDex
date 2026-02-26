@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"FRF_Casings","metadata":0,"displayName":"Naquadah Fuel Refinery Casing","unlocalizedName":"FRF_Casing.0","id":"GoodGenerator:FRF_Casings:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":302},{"machine":"gt.recipe.scanner","chunk":0,"index":54}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32209,"displayName":"Bag of Chili Chips","unlocalizedName":"gt.metaitem.02.32209","id":"gregtech:gt.metaitem.02:32209","recipesAsOutput":[{"machine":"crafting_table","chunk":102,"index":470},{"machine":"gt.recipe.packager","chunk":2,"index":158}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":10}]}

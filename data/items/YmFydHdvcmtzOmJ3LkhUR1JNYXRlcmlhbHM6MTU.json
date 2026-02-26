@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.HTGRMaterials","metadata":15,"displayName":"BISO pebble compound (Plutonium)","unlocalizedName":"item.HTGRBISOPebbleCompoundPlutonium","id":"bartworks:bw.HTGRMaterials:15","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":99}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":100}]}

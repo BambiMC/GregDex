@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"watermelonjellyItem","metadata":0,"displayName":"Watermelon Jelly","unlocalizedName":"item.watermelonjellyItem","oreDictNames":["foodWatermelonjelly"],"id":"harvestcraft:watermelonjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":414}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":431}]}

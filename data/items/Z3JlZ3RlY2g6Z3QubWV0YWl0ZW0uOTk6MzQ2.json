@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":346,"displayName":"Molten Fiery Blood Cell","unlocalizedName":"gt.metaitem.99.346","oreDictNames":["cellMoltenFierySteel"],"id":"gregtech:gt.metaitem.99:346","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":227}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":228}]}

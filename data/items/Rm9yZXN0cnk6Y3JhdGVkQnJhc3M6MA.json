@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedBrass","metadata":0,"displayName":"Crated Bronze Ingot","unlocalizedName":"item.cratedBrass","id":"Forestry:cratedBrass:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":12},{"machine":"forestry_carpenter","chunk":0,"index":188}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":143}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketNutrient_distillation","metadata":0,"displayName":"Nutrient Distillation Bucket","unlocalizedName":"item.bucketNutrient_distillation","id":"EnderIO:bucketNutrient_distillation:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":316}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":317}]}

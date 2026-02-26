@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":5,"displayName":"Polished Basalt","unlocalizedName":"tile.stone5","oreDictNames":["stoneBasaltPolished"],"id":"Botania:stone:5","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":120}],"recipesAsInput":[]}

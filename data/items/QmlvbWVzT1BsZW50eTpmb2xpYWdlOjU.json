@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"foliage","metadata":5,"displayName":"Sprout","unlocalizedName":"tile.foliage.sprout","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:foliage:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":201}]}

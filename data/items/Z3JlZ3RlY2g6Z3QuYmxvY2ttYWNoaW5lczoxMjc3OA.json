@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":12778,"displayName":"ZPM 32A Low Power Laser Source Hatch","unlocalizedName":"gt.blockmachines.zpm_lplaser_dynamo_32","id":"gregtech:gt.blockmachines:12778","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":243}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":713,"displayName":"Quadruple Input Hatch (UV)","unlocalizedName":"gt.blockmachines.hatch.multi.input.tier.05","id":"gregtech:gt.blockmachines:713","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":203}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":418}]}

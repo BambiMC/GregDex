@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"salmonpattiesItem","metadata":0,"displayName":"Salmon Patties","unlocalizedName":"item.salmonpattiesItem","oreDictNames":["foodSalmonpatties"],"id":"harvestcraft:salmonpattiesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":433}],"recipesAsInput":[]}

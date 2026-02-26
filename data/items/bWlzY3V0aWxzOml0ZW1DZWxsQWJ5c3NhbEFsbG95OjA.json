@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellAbyssalAlloy","metadata":0,"displayName":"Abyssal Alloy Cell","unlocalizedName":"item.itemCellAbyssalAlloy","oreDictNames":["cellAbyssalAlloy"],"id":"miscutils:itemCellAbyssalAlloy:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":450}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":451}]}

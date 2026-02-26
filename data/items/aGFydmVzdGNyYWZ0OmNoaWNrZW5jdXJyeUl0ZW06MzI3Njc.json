@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chickencurryItem","metadata":32767,"displayName":"Chicken Curry","unlocalizedName":"item.chickencurryItem","id":"harvestcraft:chickencurryItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":435}]}

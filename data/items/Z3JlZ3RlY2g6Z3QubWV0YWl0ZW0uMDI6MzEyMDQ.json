@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":31204,"displayName":"Livingrock Gear","unlocalizedName":"gt.metaitem.02.31204","oreDictNames":["gearGtLivingrock","gearLivingrock"],"id":"gregtech:gt.metaitem.02:31204","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":22,"index":108}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mashedpotatoesItem","metadata":32767,"displayName":"Mashed Potatoes","unlocalizedName":"item.mashedpotatoesItem","id":"harvestcraft:mashedpotatoesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":257}]}

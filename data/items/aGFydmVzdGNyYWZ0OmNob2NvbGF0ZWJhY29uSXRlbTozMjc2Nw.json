@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatebaconItem","metadata":32767,"displayName":"Chocolate Bacon","unlocalizedName":"item.chocolatebaconItem","id":"harvestcraft:chocolatebaconItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":148}]}

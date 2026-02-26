@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"catfishrawItem","metadata":32767,"displayName":"Raw Catfish","unlocalizedName":"item.catfishrawItem","id":"harvestcraft:catfishrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":0,"index":0},{"machine":"gt.recipe.canner","chunk":1,"index":158}]}

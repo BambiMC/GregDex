@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreAgarditeCd","metadata":0,"displayName":"Agardite (Cd) Ore","unlocalizedName":"tile.OreAgarditeCd","oreDictNames":["oreAgarditeCd"],"id":"miscutils:oreAgarditeCd:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":318},{"machine":"gt.recipe.macerator","chunk":1,"index":108}]}

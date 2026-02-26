@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"herringrawItem","metadata":32767,"displayName":"Raw Herring","unlocalizedName":"item.herringrawItem","id":"harvestcraft:herringrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":330},{"machine":"gt.recipe.canner","chunk":1,"index":166}]}

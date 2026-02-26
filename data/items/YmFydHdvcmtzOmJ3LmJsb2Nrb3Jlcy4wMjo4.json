@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":8,"displayName":"Small Vanadio-Oxy-Dravite Ore","unlocalizedName":"bw.blockores.02.8","oreDictNames":["oreSmallVanadio-Oxy-Dravite"],"id":"bartworks:bw.blockores.02:8","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":373},{"machine":"gt.recipe.macerator","chunk":10,"index":61}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_slab","metadata":7,"displayName":"Oak Wood Slab","unlocalizedName":"tile.woodSlab.oak","oreDictNames":["slabWood"],"id":"minecraft:wooden_slab:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":33},{"machine":"crafting_table","chunk":91,"index":33}]}

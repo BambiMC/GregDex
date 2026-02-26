@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormChestplate","metadata":0,"displayName":"Casting Form (Chestplate Mold)","unlocalizedName":"item.MoldFormChestplate","id":"dreamcraft:item.MoldFormChestplate:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":18}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":96}]}

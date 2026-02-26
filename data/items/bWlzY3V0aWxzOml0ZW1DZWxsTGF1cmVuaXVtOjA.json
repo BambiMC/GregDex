@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellLaurenium","metadata":0,"displayName":"Laurenium Cell","unlocalizedName":"item.itemCellLaurenium","oreDictNames":["cellLaurenium"],"id":"miscutils:itemCellLaurenium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":154}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":155}]}

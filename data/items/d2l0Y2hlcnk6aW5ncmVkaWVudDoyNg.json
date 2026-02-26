@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":26,"displayName":"Soft Clay Jar","unlocalizedName":"item.witchery:ingredient.clayJarSoft","id":"witchery:ingredient:26","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":363}],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":277}]}

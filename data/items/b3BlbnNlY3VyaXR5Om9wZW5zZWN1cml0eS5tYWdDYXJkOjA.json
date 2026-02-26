@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"opensecurity.magCard","metadata":0,"displayName":"Magnetic Strip Card","unlocalizedName":"item.magCard","id":"opensecurity:opensecurity.magCard:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":48}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":179}]}

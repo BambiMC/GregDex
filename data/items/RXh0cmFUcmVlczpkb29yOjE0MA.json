@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":140,"displayName":"Willow Wood Door","unlocalizedName":"tile.door","nbt":"{meta:140}","id":"ExtraTrees:door:140","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":232},{"machine":"crafting_table","chunk":110,"index":233}],"recipesAsInput":[]}

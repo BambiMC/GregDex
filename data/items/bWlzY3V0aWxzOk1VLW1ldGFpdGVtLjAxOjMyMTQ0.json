@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"MU-metaitem.01","metadata":32144,"displayName":"Transmission Component (HV)","unlocalizedName":"MU-metaitem.01.32144","id":"miscutils:MU-metaitem.01:32144","recipesAsOutput":[{"machine":"gt.recipe.laserengraver","chunk":1,"index":255}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":208}]}

@@ -1,0 +1,1 @@
+{"modId":"ProjRed|Integration","itemName":"projectred.integration.gate","metadata":20,"displayName":"State Cell","unlocalizedName":"item.projectred.integration.gate|20","id":"ProjRed|Integration:projectred.integration.gate:20","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":246}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":195}]}

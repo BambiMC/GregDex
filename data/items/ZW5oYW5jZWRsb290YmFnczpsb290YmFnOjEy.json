@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":12,"displayName":"LootBag (Magic Grandmaster)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:12","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":415},{"machine":"gt.recipe.assembler","chunk":2,"index":257}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":258}]}

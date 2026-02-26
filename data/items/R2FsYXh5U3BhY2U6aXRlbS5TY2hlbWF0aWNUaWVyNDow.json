@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.SchematicTier4","metadata":0,"displayName":"NASA Workbench Schematic","unlocalizedName":"item.SchematicTier4","id":"GalaxySpace:item.SchematicTier4:0","recipesAsOutput":[{"machine":"gt.recipe.laserengraver","chunk":1,"index":274}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":186}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeHoeHead","metadata":0,"displayName":"Casting Form (Hoe Head Shape)","unlocalizedName":"item.ShapeHoeHead","id":"dreamcraft:item.ShapeHoeHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":46}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":101}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"royaljellyItem","metadata":0,"displayName":"Royal Jelly","unlocalizedName":"item.royaljellyItem","id":"harvestcraft:royaljellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":323}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":410}]}

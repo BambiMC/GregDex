@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"fence","metadata":47,"displayName":"Yew Fence","unlocalizedName":"tile.fence","oreDictNames":["fenceWood"],"nbt":"{meta:47}","id":"ExtraTrees:fence:47","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":59},{"machine":"crafting_table","chunk":111,"index":60},{"machine":"crafting_table","chunk":111,"index":61}],"recipesAsInput":[]}

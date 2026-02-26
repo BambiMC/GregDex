@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":40,"displayName":"Redstone Soup","unlocalizedName":"item.witchery:ingredient.redstoneSoup","id":"witchery:ingredient:40","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":199},{"machine":"crafting_table","chunk":84,"index":426},{"machine":"gtpp.recipe.multimixer","chunk":0,"index":1}]}

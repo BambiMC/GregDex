@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32590,"displayName":"Large Infinity Battery","unlocalizedName":"gt.metaitem.01.32590","oreDictNames":["batteryUXV"],"id":"gregtech:gt.metaitem.01:32590","recipesAsOutput":[{"machine":"gt.recipe.canner","chunk":1,"index":335}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":216}]}

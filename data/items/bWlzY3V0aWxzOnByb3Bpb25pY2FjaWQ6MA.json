@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"propionicacid","metadata":0,"displayName":"Propionic Acid Cell","unlocalizedName":"item.propionicacid","oreDictNames":["cellPropionicAcid"],"id":"miscutils:propionicacid:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":301}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":302}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":10,"displayName":"Mahogany Fence","unlocalizedName":"tile.for.fences.10","oreDictNames":["fenceWood"],"id":"Forestry:fences:10","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":296},{"machine":"crafting_table","chunk":111,"index":297},{"machine":"crafting_table","chunk":111,"index":298}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.HTGRMaterials","metadata":8,"displayName":"BISO pebble compound (Uranium)","unlocalizedName":"item.HTGRBISOPebbleCompoundUranium","id":"bartworks:bw.HTGRMaterials:8","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":96}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":97}]}

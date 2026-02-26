@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8236,"displayName":"Potion of Harming","unlocalizedName":"item.potion","id":"minecraft:potion:8236","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":321}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":54},{"machine":"gt.recipe.fluidcanner","chunk":0,"index":322}]}

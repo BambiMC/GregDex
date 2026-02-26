@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":7,"displayName":"Structural MK VIII (Titanium Plate)","unlocalizedName":"item.upgrade.structural.8","id":"JABBA:upgradeStructural:7","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":32},{"machine":"gt.recipe.assembler","chunk":1,"index":67}],"recipesAsInput":[]}

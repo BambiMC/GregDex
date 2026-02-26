@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"calamaricookedItem","metadata":32767,"displayName":"Cooked Calamari","unlocalizedName":"item.calamaricookedItem","id":"harvestcraft:calamaricookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":134}]}

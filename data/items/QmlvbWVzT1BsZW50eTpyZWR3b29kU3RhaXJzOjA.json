@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"redwoodStairs","metadata":0,"displayName":"Redwood Wood Stairs","unlocalizedName":"tile.redwoodStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:redwoodStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":0},{"machine":"crafting_table","chunk":0,"index":1}],"recipesAsInput":[]}

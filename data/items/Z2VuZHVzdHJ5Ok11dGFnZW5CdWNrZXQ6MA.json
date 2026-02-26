@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"MutagenBucket","metadata":0,"displayName":"Mutagen Bucket","unlocalizedName":"item.gendustry.mutagen.bucket","id":"gendustry:MutagenBucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":487}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":488}]}

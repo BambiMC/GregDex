@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chikorollItem","metadata":0,"displayName":"Chiko Roll","unlocalizedName":"item.chikorollItem","oreDictNames":["foodChikoroll"],"id":"harvestcraft:chikorollItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":171}],"recipesAsInput":[]}

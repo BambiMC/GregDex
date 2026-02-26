@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"binding","metadata":2,"displayName":"Iron Binding","unlocalizedName":"toolpart.Binding.Iron","id":"TConstruct:binding:2","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":285}],"recipesAsInput":[]}

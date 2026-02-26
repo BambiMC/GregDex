@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32489,"displayName":"Book","unlocalizedName":"gt.metaitem.01.32489","oreDictNames":["bookWritten","craftingBook"],"id":"gregtech:gt.metaitem.01:32489","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":6,"index":414},{"machine":"gt.recipe.macerator","chunk":19,"index":370}]}

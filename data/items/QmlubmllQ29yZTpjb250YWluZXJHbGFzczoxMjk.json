@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerGlass","metadata":129,"displayName":"Resin Glass","unlocalizedName":"item.containerGlass","id":"BinnieCore:containerGlass:129","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":219}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":220}]}

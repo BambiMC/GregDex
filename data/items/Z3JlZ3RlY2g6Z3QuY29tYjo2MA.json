@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":60,"displayName":"Gallium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:60","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":208},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":113}]}

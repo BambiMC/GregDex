@@ -1,0 +1,1 @@
+{"modId":"cookingforblockheads","itemName":"recipebook","metadata":3,"displayName":"Cooking for Blockheads","unlocalizedName":"item.cookingforblockheads:recipebook_tier0","id":"cookingforblockheads:recipebook:3","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":162}],"recipesAsInput":[{"machine":"furnace","chunk":4,"index":361}]}

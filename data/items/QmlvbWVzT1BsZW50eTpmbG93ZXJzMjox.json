@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers2","metadata":1,"displayName":"Lily of the Valley","unlocalizedName":"tile.flowers2.lilyofthevalley","oreDictNames":["flowerWhite","flowerLilyValley"],"id":"BiomesOPlenty:flowers2:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":230}]}

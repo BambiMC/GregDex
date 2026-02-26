@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":29,"displayName":"LootBag (Slow Food)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:29","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":432},{"machine":"gt.recipe.assembler","chunk":2,"index":250}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":251}]}

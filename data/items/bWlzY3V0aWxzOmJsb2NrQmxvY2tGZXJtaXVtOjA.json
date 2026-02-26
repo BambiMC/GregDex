@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockBlockFermium","metadata":0,"displayName":"Block of Fermium","unlocalizedName":"block.Fermium.standard","oreDictNames":["blockFermium"],"id":"miscutils:blockBlockFermium:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":191},{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":457}],"recipesAsInput":[]}

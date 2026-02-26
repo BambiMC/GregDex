@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zombiejerkyItem","metadata":32767,"displayName":"Zombie Jerky","unlocalizedName":"item.zombiejerkyItem","id":"harvestcraft:zombiejerkyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":283}]}

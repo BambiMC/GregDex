@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":32008,"displayName":"Neutron Accelerator IV","unlocalizedName":"gt.blockmachines.neutron_accelerator_iv","id":"gregtech:gt.blockmachines:32008","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":288}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":59}]}

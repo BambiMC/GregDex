@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"curryItem","metadata":0,"displayName":"Curry Rice","unlocalizedName":"item.curryItem","oreDictNames":["foodCurry"],"id":"harvestcraft:curryItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":363},{"machine":"crafting_table","chunk":91,"index":364},{"machine":"crafting_table","chunk":91,"index":365}],"recipesAsInput":[]}

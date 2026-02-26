@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"walnutItem","metadata":32767,"displayName":"Walnut","unlocalizedName":"item.walnutItem","id":"harvestcraft:walnutItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":228}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32132,"displayName":"Limoncello","unlocalizedName":"gt.metaitem.02.32132","id":"gregtech:gt.metaitem.02:32132","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":68}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":69}]}

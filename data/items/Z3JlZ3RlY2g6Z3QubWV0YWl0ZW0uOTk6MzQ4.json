@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":348,"displayName":"Molten Red Steel Cell","unlocalizedName":"gt.metaitem.99.348","oreDictNames":["cellMoltenRedSteel"],"id":"gregtech:gt.metaitem.99:348","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":229}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":230}]}

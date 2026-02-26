@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32250,"displayName":"Raw Veggie Pizza","unlocalizedName":"gt.metaitem.02.32250","id":"gregtech:gt.metaitem.02:32250","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":20}],"recipesAsInput":[{"machine":"furnace","chunk":7,"index":396},{"machine":"gt.recipe.canner","chunk":0,"index":31}]}

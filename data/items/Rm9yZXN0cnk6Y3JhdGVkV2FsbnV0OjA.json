@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedWalnut","metadata":0,"displayName":"Crated Walnut","unlocalizedName":"item.cratedWalnut","id":"Forestry:cratedWalnut:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":121}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":133}]}

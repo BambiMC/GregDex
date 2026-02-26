@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cornonthecobItem","metadata":0,"displayName":"Corn on the Cob","unlocalizedName":"item.cornonthecobItem","oreDictNames":["foodCornonthecob"],"id":"harvestcraft:cornonthecobItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":307}],"recipesAsInput":[]}

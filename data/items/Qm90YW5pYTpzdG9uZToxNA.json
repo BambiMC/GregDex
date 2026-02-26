@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":14,"displayName":"Chiseled Diorite Brick","unlocalizedName":"tile.stone14","oreDictNames":["stoneDioriteChiseled"],"id":"Botania:stone:14","recipesAsOutput":[{"machine":"crafting_table","chunk":85,"index":14}],"recipesAsInput":[]}

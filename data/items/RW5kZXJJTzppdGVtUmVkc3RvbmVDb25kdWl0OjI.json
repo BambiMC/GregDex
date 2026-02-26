@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemRedstoneConduit","metadata":2,"displayName":"Insulated Redstone Conduit","unlocalizedName":"enderio.itemRedstoneConduitInsulated","id":"EnderIO:itemRedstoneConduit:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":163}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":164}]}

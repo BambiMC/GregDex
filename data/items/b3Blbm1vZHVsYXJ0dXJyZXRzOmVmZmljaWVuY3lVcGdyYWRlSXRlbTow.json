@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"efficiencyUpgradeItem","metadata":0,"displayName":"Upgrade - Efficiency","unlocalizedName":"item.upgEff","id":"openmodularturrets:efficiencyUpgradeItem:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":300}],"recipesAsInput":[]}

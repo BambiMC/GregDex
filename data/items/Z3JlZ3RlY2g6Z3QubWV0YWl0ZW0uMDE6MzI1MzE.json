@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32531,"displayName":"Large Mercury Battery","unlocalizedName":"gt.metaitem.01.32531","oreDictNames":["batteryHV"],"id":"gregtech:gt.metaitem.01:32531","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":38}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":197}]}

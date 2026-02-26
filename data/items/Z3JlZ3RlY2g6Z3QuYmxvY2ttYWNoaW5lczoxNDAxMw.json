@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":14013,"displayName":"Space Research Module","unlocalizedName":"gt.blockmachines.projectmoduleresearch","id":"gregtech:gt.blockmachines:14013","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":408},{"machine":"gt.recipe.researchstation","chunk":0,"index":287}],"recipesAsInput":[]}

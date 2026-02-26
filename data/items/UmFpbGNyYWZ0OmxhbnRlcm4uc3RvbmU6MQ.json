@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"lantern.stone","metadata":1,"displayName":"Bleached Bone Stone Lantern","unlocalizedName":"tile.railcraft.lantern.stone.bleachedbone","id":"Railcraft:lantern.stone:1","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":245},{"machine":"gt.recipe.assembler","chunk":28,"index":362}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"ForbiddenMagic","itemName":"TaintSapling","metadata":0,"displayName":"Tainted Sapling","unlocalizedName":"tile.TaintSapling","id":"ForbiddenMagic:TaintSapling:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":33},{"machine":"thaumcraft_crucible","chunk":3,"index":190}],"recipesAsInput":[]}

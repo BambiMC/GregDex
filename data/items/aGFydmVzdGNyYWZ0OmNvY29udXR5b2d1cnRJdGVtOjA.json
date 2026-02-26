@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coconutyogurtItem","metadata":0,"displayName":"Coconut Yogurt","unlocalizedName":"item.coconutyogurtItem","oreDictNames":["foodCoconutyogurt"],"id":"harvestcraft:coconutyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":335}],"recipesAsInput":[]}

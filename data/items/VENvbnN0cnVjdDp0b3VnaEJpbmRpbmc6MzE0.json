@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"toughBinding","metadata":314,"displayName":"Unstable Induced Tough Binding","unlocalizedName":"toolpart.ToughBinding.unstableIngot","id":"TConstruct:toughBinding:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":390},{"machine":"gt.recipe.extruder","chunk":28,"index":391}],"recipesAsInput":[]}

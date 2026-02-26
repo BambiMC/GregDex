@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"storage","metadata":3,"displayName":"Iron Compartment","unlocalizedName":"tile.storage","id":"BinnieCore:storage:3","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":97},{"machine":"forestry_carpenter","chunk":0,"index":382}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":328}]}

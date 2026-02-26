@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pepperoniItem","metadata":32767,"displayName":"Pepperoni","unlocalizedName":"item.pepperoniItem","id":"harvestcraft:pepperoniItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":199}]}

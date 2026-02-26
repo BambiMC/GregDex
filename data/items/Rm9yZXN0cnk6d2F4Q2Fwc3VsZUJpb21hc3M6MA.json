@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"waxCapsuleBiomass","metadata":0,"displayName":"Biomass Capsule","unlocalizedName":"item.for.waxCapsuleBiomass","oreDictNames":["capsuleBiomass"],"id":"Forestry:waxCapsuleBiomass:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":415}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":416}]}

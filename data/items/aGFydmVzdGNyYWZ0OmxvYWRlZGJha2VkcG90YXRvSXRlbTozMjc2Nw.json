@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"loadedbakedpotatoItem","metadata":32767,"displayName":"Loaded Baked Potato","unlocalizedName":"item.loadedbakedpotatoItem","id":"harvestcraft:loadedbakedpotatoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":256}]}

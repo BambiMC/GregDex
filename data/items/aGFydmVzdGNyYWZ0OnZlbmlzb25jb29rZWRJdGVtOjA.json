@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"venisoncookedItem","metadata":0,"displayName":"Cooked Venison","unlocalizedName":"item.venisoncookedItem","oreDictNames":["foodVenisoncooked","listAllmeatcooked","listAllvenisoncooked"],"id":"harvestcraft:venisoncookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":0,"index":3}],"recipesAsInput":[]}

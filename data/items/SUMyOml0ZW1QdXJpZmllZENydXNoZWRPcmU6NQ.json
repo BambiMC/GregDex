@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPurifiedCrushedOre","metadata":5,"displayName":"Purified Crushed Silver Ore","unlocalizedName":"ic2.itemPurifiedCrushedSilverOre","oreDictNames":["crushedPurifiedSilver"],"id":"IC2:itemPurifiedCrushedOre:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":452},{"machine":"furnace","chunk":13,"index":140}]}

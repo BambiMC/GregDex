@@ -1,0 +1,1 @@
+{"modId":"CarpentersBlocks","itemName":"blockCarpentersSafe","metadata":0,"displayName":"Carpenter's Safe","unlocalizedName":"tile.blockCarpentersSafe","id":"CarpentersBlocks:blockCarpentersSafe:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":204},{"machine":"gt.recipe.assembler","chunk":26,"index":71}],"recipesAsInput":[]}

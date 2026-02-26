@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16396,"displayName":"Splash Potion of Harming","unlocalizedName":"item.potion","id":"minecraft:potion:16396","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":241}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":242}]}

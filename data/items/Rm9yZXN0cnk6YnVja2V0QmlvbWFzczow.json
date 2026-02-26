@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"bucketBiomass","metadata":0,"displayName":"Biomass Bucket","unlocalizedName":"item.for.bucketBiomass","id":"Forestry:bucketBiomass:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":46}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":47}]}

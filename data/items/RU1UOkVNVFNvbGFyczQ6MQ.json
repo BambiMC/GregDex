@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars4","metadata":1,"displayName":"Sextuple Compressed Aer Solar","unlocalizedName":"tile.EMT.Sextuple_Compressed_Aer_Solar","id":"EMT:EMTSolars4:1","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":170}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":131}]}

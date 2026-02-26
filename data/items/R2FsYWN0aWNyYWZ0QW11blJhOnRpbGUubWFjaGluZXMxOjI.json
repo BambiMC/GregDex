@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"tile.machines1","metadata":2,"displayName":"Mothership Navigation Console","unlocalizedName":"tile.mothershipController","id":"GalacticraftAmunRa:tile.machines1:2","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":466},{"machine":"gt.recipe.researchstation","chunk":0,"index":302}],"recipesAsInput":[]}

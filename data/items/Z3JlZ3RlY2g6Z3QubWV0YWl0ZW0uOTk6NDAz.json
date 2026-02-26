@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":403,"displayName":"Molten Crystalline Alloy Cell","unlocalizedName":"gt.metaitem.99.403","oreDictNames":["cellMoltenCrystallineAlloy"],"id":"gregtech:gt.metaitem.99:403","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":97}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":98}]}

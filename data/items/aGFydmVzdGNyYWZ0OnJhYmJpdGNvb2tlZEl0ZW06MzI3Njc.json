@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"rabbitcookedItem","metadata":32767,"displayName":"Cooked Rabbit","unlocalizedName":"item.rabbitcookedItem","id":"harvestcraft:rabbitcookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":209},{"machine":"gt.recipe.macerator","chunk":29,"index":179}]}

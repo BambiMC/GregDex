@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"datenutbreadItem","metadata":0,"displayName":"Date Nut Bread","unlocalizedName":"item.datenutbreadItem","oreDictNames":["foodDatenutbread"],"id":"harvestcraft:datenutbreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":447}],"recipesAsInput":[]}

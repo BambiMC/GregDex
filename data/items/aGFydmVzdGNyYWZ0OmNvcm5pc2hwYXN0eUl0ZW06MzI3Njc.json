@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cornishpastyItem","metadata":32767,"displayName":"Cornish Pasty","unlocalizedName":"item.cornishpastyItem","id":"harvestcraft:cornishpastyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":230}]}

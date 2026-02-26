@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"baklavaItem","metadata":0,"displayName":"Baklava","unlocalizedName":"item.baklavaItem","oreDictNames":["foodBaklava"],"id":"harvestcraft:baklavaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":398}],"recipesAsInput":[]}

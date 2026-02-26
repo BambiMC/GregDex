@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawFlorencite","metadata":0,"displayName":"Raw Florencite Ore","unlocalizedName":"item.oreRawFlorencite","oreDictNames":["oreRawFlorencite"],"id":"miscutils:oreRawFlorencite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":60}]}

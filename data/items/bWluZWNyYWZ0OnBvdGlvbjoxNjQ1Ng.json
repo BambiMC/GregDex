@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16456,"displayName":"Splash Potion of Weakness","unlocalizedName":"item.potion","id":"minecraft:potion:16456","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":171}],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":180},{"machine":"gt.recipe.fluidcanner","chunk":0,"index":172}]}

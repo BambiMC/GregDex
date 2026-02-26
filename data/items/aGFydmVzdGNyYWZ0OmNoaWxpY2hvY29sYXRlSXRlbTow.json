@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chilichocolateItem","metadata":0,"displayName":"Chili Chocolate","unlocalizedName":"item.chilichocolateItem","oreDictNames":["foodChilichocolate"],"id":"harvestcraft:chilichocolateItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":168}],"recipesAsInput":[]}

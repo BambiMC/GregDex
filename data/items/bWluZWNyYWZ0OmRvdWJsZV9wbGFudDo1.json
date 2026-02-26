@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"double_plant","metadata":5,"displayName":"Peony","unlocalizedName":"tile.doublePlant.paeonia","id":"minecraft:double_plant:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":103},{"machine":"gt.recipe.extractor","chunk":0,"index":13}]}

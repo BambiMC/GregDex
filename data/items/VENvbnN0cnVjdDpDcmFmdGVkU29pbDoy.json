@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CraftedSoil","metadata":2,"displayName":"Slimy Mud","unlocalizedName":"CraftedSoil.BlueSlime","id":"TConstruct:CraftedSoil:2","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":88}],"recipesAsInput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":184},{"machine":"gt.recipe.compressor","chunk":0,"index":72}]}

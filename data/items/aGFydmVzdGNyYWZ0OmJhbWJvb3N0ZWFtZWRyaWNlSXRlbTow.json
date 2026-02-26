@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bamboosteamedriceItem","metadata":0,"displayName":"Bamboo Steamed Rice","unlocalizedName":"item.bamboosteamedriceItem","oreDictNames":["foodBamboosteamedrice"],"id":"harvestcraft:bamboosteamedriceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":221}],"recipesAsInput":[]}

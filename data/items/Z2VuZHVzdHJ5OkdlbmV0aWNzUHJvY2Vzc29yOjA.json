@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"GeneticsProcessor","metadata":0,"displayName":"Genetics Processor","unlocalizedName":"item.gendustry.GeneticsProcessor","id":"gendustry:GeneticsProcessor:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":300}],"recipesAsInput":[]}

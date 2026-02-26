@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"food","metadata":54,"displayName":"Allspice","unlocalizedName":"item.food","id":"ExtraTrees:food:54","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":241}],"recipesAsInput":[{"machine":"forestry_squeezer","chunk":0,"index":141},{"machine":"gt.recipe.fluidextractor","chunk":26,"index":371}]}

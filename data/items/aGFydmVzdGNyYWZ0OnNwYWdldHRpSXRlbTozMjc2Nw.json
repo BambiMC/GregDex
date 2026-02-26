@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"spagettiItem","metadata":32767,"displayName":"Spagetti","unlocalizedName":"item.spagettiItem","id":"harvestcraft:spagettiItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":290}]}

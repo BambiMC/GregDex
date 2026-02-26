@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"woolen_clay","metadata":1,"displayName":"Woolen Clay","unlocalizedName":"tile.chisel.woolen_clay","id":"chisel:woolen_clay:1","recipesAsOutput":[{"machine":"crafting_table","chunk":97,"index":7},{"machine":"gt.recipe.assembler","chunk":2,"index":220}],"recipesAsInput":[]}

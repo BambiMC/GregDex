@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.UnknowWaterBucket","metadata":0,"displayName":"Bucket of Unknown Liquid","unlocalizedName":"item.UnknowWaterBucket","id":"GalaxySpace:item.UnknowWaterBucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":416}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":417}]}

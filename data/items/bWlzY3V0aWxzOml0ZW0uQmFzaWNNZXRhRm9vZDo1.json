@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicMetaFood","metadata":5,"displayName":"Cooked Wolf Meat","unlocalizedName":"item.BasicMetaFood.5","oreDictNames":["listAllmeatcooked"],"id":"miscutils:item.BasicMetaFood:5","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":315}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":20,"index":106}]}

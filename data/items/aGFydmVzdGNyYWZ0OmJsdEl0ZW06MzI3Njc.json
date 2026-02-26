@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bltItem","metadata":32767,"displayName":"BLT","unlocalizedName":"item.bltItem","id":"harvestcraft:bltItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":298}]}

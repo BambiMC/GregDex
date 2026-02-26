@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"fenceTierFour","metadata":0,"displayName":"Fence (Tier 4)","unlocalizedName":"tile.fenceTierFour","id":"openmodularturrets:fenceTierFour:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":269}],"recipesAsInput":[]}

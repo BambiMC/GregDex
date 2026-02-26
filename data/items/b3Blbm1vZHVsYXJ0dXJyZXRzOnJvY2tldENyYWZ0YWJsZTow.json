@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"rocketCraftable","metadata":0,"displayName":"Ammo - Rocket","unlocalizedName":"item.rocketCraftable","id":"openmodularturrets:rocketCraftable:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":294}],"recipesAsInput":[]}

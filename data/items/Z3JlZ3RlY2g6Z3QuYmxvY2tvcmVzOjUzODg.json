@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":5388,"displayName":"Black Plutonium Ore","unlocalizedName":"gt.blockores.5388","oreDictNames":["oreMarbleBlackPlutonium"],"id":"gregtech:gt.blockores:5388","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":24},{"machine":"gt.recipe.macerator","chunk":4,"index":434}]}

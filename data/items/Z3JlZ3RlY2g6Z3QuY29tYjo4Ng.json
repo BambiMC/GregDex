@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":86,"displayName":"Naga Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combMV","beeComb"],"id":"gregtech:gt.comb:86","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":112},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":148}]}

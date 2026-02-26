@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"figbarItem","metadata":32767,"displayName":"Fig Bar","unlocalizedName":"item.figbarItem","id":"harvestcraft:figbarItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":91}]}

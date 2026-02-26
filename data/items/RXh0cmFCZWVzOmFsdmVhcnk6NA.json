@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"alveary","metadata":4,"displayName":"Electrical Stimulator","unlocalizedName":"tile.alveary","id":"ExtraBees:alveary:4","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":98},{"machine":"gt.recipe.assembler","chunk":4,"index":323}],"recipesAsInput":[]}

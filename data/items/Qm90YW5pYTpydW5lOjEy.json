@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"rune","metadata":12,"displayName":"Rune of Sloth","unlocalizedName":"item.rune12","oreDictNames":["runeSlothB"],"id":"Botania:rune:12","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":427},{"machine":"thaumcraft_infusion_altar","chunk":2,"index":438},{"machine":"thaumcraft_infusion_altar","chunk":2,"index":457}]}

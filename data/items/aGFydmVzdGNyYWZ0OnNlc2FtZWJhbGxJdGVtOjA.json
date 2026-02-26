@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sesameballItem","metadata":0,"displayName":"Sesame Ball","unlocalizedName":"item.sesameballItem","oreDictNames":["foodSesameball"],"id":"harvestcraft:sesameballItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":413}],"recipesAsInput":[]}

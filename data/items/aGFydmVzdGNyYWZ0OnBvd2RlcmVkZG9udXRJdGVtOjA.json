@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"powdereddonutItem","metadata":0,"displayName":"Powdered Donut","unlocalizedName":"item.powdereddonutItem","oreDictNames":["foodPowdereddonut"],"id":"harvestcraft:powdereddonutItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":348}],"recipesAsInput":[]}

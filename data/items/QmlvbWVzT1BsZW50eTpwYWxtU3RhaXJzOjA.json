@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"palmStairs","metadata":0,"displayName":"Palm Wood Stairs","unlocalizedName":"tile.palmStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:palmStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":14},{"machine":"crafting_table","chunk":0,"index":15}],"recipesAsInput":[]}

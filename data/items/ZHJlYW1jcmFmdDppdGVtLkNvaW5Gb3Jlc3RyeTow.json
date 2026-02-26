@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinForestry","metadata":0,"displayName":"Coin \"The Forest Ranger 1\"","unlocalizedName":"item.CoinForestry","id":"dreamcraft:item.CoinForestry:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":343}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":287}]}

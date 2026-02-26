@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemBucketPure","metadata":0,"displayName":"Bucket of Purifying Fluid","unlocalizedName":"item.ItemBucketPure","id":"Thaumcraft:ItemBucketPure:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":213}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":214}]}

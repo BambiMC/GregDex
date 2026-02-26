@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":12,"displayName":"Small Loellingite Ore","unlocalizedName":"bw.blockores.02.12","oreDictNames":["oreSmallLoellingite"],"id":"bartworks:bw.blockores.02:12","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":77},{"machine":"gt.recipe.macerator","chunk":6,"index":411}]}

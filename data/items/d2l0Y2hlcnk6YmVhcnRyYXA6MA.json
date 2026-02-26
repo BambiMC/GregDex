@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"beartrap","metadata":0,"displayName":"Beartrap","unlocalizedName":"tile.witchery:beartrap","id":"witchery:beartrap:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":231}],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":232},{"machine":"crafting_table","chunk":22,"index":359}]}

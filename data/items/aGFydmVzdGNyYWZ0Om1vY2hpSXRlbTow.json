@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mochiItem","metadata":0,"displayName":"Mochi","unlocalizedName":"item.mochiItem","oreDictNames":["foodMochi"],"id":"harvestcraft:mochiItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":478}],"recipesAsInput":[]}

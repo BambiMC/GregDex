@@ -1,0 +1,1 @@
+{"modId":"IronChest","itemName":"diamondCrystalUpgrade","metadata":0,"displayName":"Diamond to Crystal Chest Upgrade","unlocalizedName":"item.ironchest:DIAMONDCRYSTAL","id":"IronChest:diamondCrystalUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":15},{"machine":"gt.recipe.assembler","chunk":27,"index":40}],"recipesAsInput":[]}

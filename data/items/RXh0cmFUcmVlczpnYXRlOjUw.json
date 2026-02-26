@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"gate","metadata":50,"displayName":"Rowan Gate","unlocalizedName":"tile.null","nbt":"{meta:50}","id":"ExtraTrees:gate:50","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":376},{"machine":"crafting_table","chunk":110,"index":377},{"machine":"crafting_table","chunk":110,"index":378}],"recipesAsInput":[]}

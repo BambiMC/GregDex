@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"toughRod","metadata":13,"displayName":"Copper Tough Rod","unlocalizedName":"toolpart.ToughRod.Copper","id":"TConstruct:toughRod:13","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":370}],"recipesAsInput":[]}

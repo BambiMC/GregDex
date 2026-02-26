@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockMachineManagerName","metadata":0,"displayName":"Machine Inventory Manager","unlocalizedName":"tile.sfm.BlockMachineManager","id":"StevesFactoryManager:BlockMachineManagerName:0","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":440}],"recipesAsInput":[]}

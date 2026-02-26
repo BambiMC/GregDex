@@ -1,0 +1,1 @@
+{"modId":"ThaumicHorizons","itemName":"meatTH","metadata":0,"displayName":"Unidentifiable Meat","unlocalizedName":"item.meatTH","id":"ThaumicHorizons:meatTH:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":2,"index":182}],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":287}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"muttonrawItem","metadata":32767,"displayName":"Raw Mutton","unlocalizedName":"item.muttonrawItem","id":"harvestcraft:muttonrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":400},{"machine":"gt.recipe.canner","chunk":0,"index":131},{"machine":"gt.recipe.macerator","chunk":30,"index":151}]}

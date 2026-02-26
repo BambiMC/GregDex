@@ -1,0 +1,1 @@
+{"modId":"kubatech","itemName":"kubaitems","metadata":20,"displayName":"Pu-erh Tea","unlocalizedName":"kubaitem.tea.pu-erh_tea","id":"kubatech:kubaitems:20","recipesAsOutput":[{"machine":"furnace","chunk":12,"index":471}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":53}]}

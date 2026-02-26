@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"ToolStationBlock","metadata":0,"displayName":"Tool Station","unlocalizedName":"ToolStation.Crafter","id":"TConstruct:ToolStationBlock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":3},{"machine":"crafting_table","chunk":116,"index":4}],"recipesAsInput":[]}

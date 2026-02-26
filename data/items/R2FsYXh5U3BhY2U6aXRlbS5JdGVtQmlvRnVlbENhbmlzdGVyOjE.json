@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.ItemBioFuelCanister","metadata":1,"displayName":"Biofuel Canister","unlocalizedName":"item.biofuelCanister","id":"GalaxySpace:item.ItemBioFuelCanister:1","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":103}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":104}]}

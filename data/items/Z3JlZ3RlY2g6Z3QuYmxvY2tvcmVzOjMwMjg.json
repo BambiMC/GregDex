@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":3028,"displayName":"Titanium Ore","unlocalizedName":"gt.blockores.3028","oreDictNames":["oreBlackgraniteTitanium"],"id":"gregtech:gt.blockores:3028","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":365},{"machine":"gt.recipe.macerator","chunk":7,"index":185}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":868,"displayName":"Molten Trinium Cell","unlocalizedName":"gt.metaitem.99.868","oreDictNames":["cellMoltenTrinium"],"id":"gregtech:gt.metaitem.99:868","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":435}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":436}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ArcaneShardFragment","metadata":0,"displayName":"Arcane Shard Fragment","unlocalizedName":"item.ArcaneShardFragment","id":"dreamcraft:item.ArcaneShardFragment:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":214}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":215}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"waxItem","metadata":0,"displayName":"Wax","unlocalizedName":"item.waxItem","oreDictNames":["materialPressedwax"],"id":"harvestcraft:waxItem:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":61},{"machine":"gt.recipe.compressor","chunk":0,"index":62}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":328}]}

@@ -1,0 +1,1 @@
+{"modId":"CarpentersBlocks","itemName":"blockCarpentersBarrier","metadata":0,"displayName":"Carpenter's Barrier","unlocalizedName":"tile.blockCarpentersBarrier","id":"CarpentersBlocks:blockCarpentersBarrier:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":210},{"machine":"gt.recipe.assembler","chunk":26,"index":62}],"recipesAsInput":[]}

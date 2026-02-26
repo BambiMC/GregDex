@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"foliage","metadata":9,"displayName":"Shrub","unlocalizedName":"tile.foliage.shrub","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:foliage:9","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":396}]}

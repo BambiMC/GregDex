@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"stew","metadata":32767,"displayName":"Meaty Stew","unlocalizedName":"item.witchery:stew","id":"witchery:stew:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":292}]}

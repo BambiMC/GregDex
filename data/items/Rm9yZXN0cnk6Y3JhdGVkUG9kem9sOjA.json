@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedPodzol","metadata":0,"displayName":"Crated Podzol","unlocalizedName":"item.cratedPodzol","id":"Forestry:cratedPodzol:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":201}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":287}]}

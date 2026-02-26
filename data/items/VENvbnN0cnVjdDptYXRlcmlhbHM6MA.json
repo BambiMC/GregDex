@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":0,"displayName":"Paper Stack","unlocalizedName":"item.tconstruct.Materials.PaperStack","id":"TConstruct:materials:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":73}],"recipesAsInput":[]}

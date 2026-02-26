@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"vineBall","metadata":0,"displayName":"Vine Ball","unlocalizedName":"item.vineBall","id":"Botania:vineBall:0","recipesAsOutput":[{"machine":"crafting_table","chunk":21,"index":478}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":101},{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":102}]}

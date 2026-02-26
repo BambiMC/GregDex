@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":7,"displayName":"Biogas Cell","unlocalizedName":"ic2.itemCellBiogas","id":"IC2:itemCellEmpty:7","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":229}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":230},{"machine":"gt.recipe.gasturbinefuel","chunk":0,"index":6}]}

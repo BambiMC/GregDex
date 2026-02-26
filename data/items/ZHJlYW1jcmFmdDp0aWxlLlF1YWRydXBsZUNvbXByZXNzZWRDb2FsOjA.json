@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"tile.QuadrupleCompressedCoal","metadata":0,"displayName":"Block of Quadruple Compressed Coal","unlocalizedName":"tile.QuadrupleCompressedCoal","id":"dreamcraft:tile.QuadrupleCompressedCoal:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":106}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":109}]}

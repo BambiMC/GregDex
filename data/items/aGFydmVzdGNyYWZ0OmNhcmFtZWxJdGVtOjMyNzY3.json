@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"caramelItem","metadata":32767,"displayName":"Caramel","unlocalizedName":"item.caramelItem","id":"harvestcraft:caramelItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":280}]}

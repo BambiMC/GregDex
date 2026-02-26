@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"rainbowcurryItem","metadata":0,"displayName":"Rainbow Curry","unlocalizedName":"item.rainbowcurryItem","oreDictNames":["foodRainbowcurry"],"id":"harvestcraft:rainbowcurryItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":331}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":443}]}

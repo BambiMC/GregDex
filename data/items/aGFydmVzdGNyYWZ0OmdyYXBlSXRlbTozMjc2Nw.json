@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grapeItem","metadata":32767,"displayName":"Grape","unlocalizedName":"item.grapeItem","id":"harvestcraft:grapeItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":134},{"machine":"gt.recipe.canner","chunk":0,"index":141}]}

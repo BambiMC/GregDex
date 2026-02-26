@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"dysonswarmparts","metadata":8,"displayName":"Dyson Swarm Control Center Toroid Casing","unlocalizedName":"tile.DysonSwarmControlToroid","id":"GalaxySpace:dysonswarmparts:8","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":22},{"machine":"gt.recipe.researchstation","chunk":0,"index":14}],"recipesAsInput":[]}

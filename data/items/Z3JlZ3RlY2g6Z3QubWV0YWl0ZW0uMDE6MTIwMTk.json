@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":12019,"displayName":"Hot Aluminium Ingot","unlocalizedName":"gt.metaitem.01.12019","oreDictNames":["ingotHotAluminium"],"id":"gregtech:gt.metaitem.01:12019","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":259},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":181}]}

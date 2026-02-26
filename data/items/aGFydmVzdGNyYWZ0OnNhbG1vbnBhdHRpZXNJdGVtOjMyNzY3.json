@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"salmonpattiesItem","metadata":32767,"displayName":"Salmon Patties","unlocalizedName":"item.salmonpattiesItem","id":"harvestcraft:salmonpattiesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":253}]}

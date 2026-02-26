@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.basicItem","metadata":0,"displayName":"Single Solar Module","unlocalizedName":"item.basicItem.solar_module_0","id":"GalacticraftCore:item.basicItem:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":290}],"recipesAsInput":[]}

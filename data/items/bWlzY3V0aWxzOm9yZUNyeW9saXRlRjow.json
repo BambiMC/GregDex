@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreCryoliteF","metadata":0,"displayName":"Cryolite (F) Ore","unlocalizedName":"tile.OreCryoliteF","oreDictNames":["oreCryoliteF"],"id":"miscutils:oreCryoliteF:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":276},{"machine":"gt.recipe.macerator","chunk":1,"index":44}]}

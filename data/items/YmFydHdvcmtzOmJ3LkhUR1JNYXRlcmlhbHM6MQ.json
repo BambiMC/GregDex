@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.HTGRMaterials","metadata":1,"displayName":"BISO pebble compound (Thorium)","unlocalizedName":"item.HTGRBISOPebbleCompoundThorium","id":"bartworks:bw.HTGRMaterials:1","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":93}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":94}]}

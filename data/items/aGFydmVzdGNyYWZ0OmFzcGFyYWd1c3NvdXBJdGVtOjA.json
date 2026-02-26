@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"asparagussoupItem","metadata":0,"displayName":"Asparagus Soup","unlocalizedName":"item.asparagussoupItem","oreDictNames":["foodAsparagussoup"],"id":"harvestcraft:asparagussoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":385}],"recipesAsInput":[]}

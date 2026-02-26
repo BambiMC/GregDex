@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.TitaniumIronPlate","metadata":0,"displayName":"Titanium-Iron Plate","unlocalizedName":"item.TitaniumIronPlate","id":"dreamcraft:item.TitaniumIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":313}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":143}]}

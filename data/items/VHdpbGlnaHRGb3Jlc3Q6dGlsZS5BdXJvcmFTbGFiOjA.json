@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.AuroraSlab","metadata":0,"displayName":"Aurora Slab","unlocalizedName":"tile.AuroraSlab","id":"TwilightForest:tile.AuroraSlab:0","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":213}],"recipesAsInput":[{"machine":"gt.recipe.electrolyzer","chunk":0,"index":2},{"machine":"gtpp.recipe.multielectro","chunk":0,"index":36}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pineapplehamItem","metadata":0,"displayName":"Pineapple Ham","unlocalizedName":"item.pineapplehamItem","oreDictNames":["foodPineappleham"],"id":"harvestcraft:pineapplehamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":368}],"recipesAsInput":[]}

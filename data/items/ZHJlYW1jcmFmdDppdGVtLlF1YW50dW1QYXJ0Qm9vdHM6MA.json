@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.QuantumPartBoots","metadata":0,"displayName":"Quantum Parts \"Boots\"","unlocalizedName":"item.QuantumPartBoots","id":"dreamcraft:item.QuantumPartBoots:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":191}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":340}]}

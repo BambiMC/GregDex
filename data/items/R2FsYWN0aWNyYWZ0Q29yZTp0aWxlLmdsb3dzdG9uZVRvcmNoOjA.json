@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"tile.glowstoneTorch","metadata":0,"displayName":"Glowstone Torch","unlocalizedName":"tile.glowstoneTorch","id":"GalacticraftCore:tile.glowstoneTorch:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":266},{"machine":"gt.recipe.assembler","chunk":26,"index":276}],"recipesAsInput":[]}

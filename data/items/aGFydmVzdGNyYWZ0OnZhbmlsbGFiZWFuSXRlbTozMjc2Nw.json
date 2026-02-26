@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"vanillabeanItem","metadata":32767,"displayName":"Vanilla Bean","unlocalizedName":"item.vanillabeanItem","id":"harvestcraft:vanillabeanItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":4,"index":382},{"machine":"gt.recipe.canner","chunk":0,"index":227}]}

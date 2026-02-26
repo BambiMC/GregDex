@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"fullGuard","metadata":314,"displayName":"Unstable Induced Full Guard","unlocalizedName":"toolpart.FullGuard.unstableIngot","id":"TConstruct:fullGuard:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":2},{"machine":"gt.recipe.extruder","chunk":29,"index":3}],"recipesAsInput":[]}

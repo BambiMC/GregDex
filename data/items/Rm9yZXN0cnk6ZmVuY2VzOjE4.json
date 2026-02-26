@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":18,"displayName":"Palm Fence","unlocalizedName":"tile.for.fences.18","oreDictNames":["fenceWood"],"id":"Forestry:fences:18","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":320},{"machine":"crafting_table","chunk":111,"index":321},{"machine":"crafting_table","chunk":111,"index":322}],"recipesAsInput":[]}

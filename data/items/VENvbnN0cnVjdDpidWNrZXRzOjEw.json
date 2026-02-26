@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":10,"displayName":"Molten Alumite Bucket","unlocalizedName":"item.tconstruct.bucket.Alumite","id":"TConstruct:buckets:10","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":298}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":299}]}

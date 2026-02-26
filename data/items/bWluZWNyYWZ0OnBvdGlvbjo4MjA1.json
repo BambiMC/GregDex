@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8205,"displayName":"Potion of Water Breathing","unlocalizedName":"item.potion","id":"minecraft:potion:8205","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":283}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":284}]}

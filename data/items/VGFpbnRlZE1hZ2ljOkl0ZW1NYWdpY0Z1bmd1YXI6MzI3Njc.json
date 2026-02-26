@@ -1,0 +1,1 @@
+{"modId":"TaintedMagic","itemName":"ItemMagicFunguar","metadata":32767,"displayName":"Magic Funguar","unlocalizedName":"item.ItemMagicFunguar","id":"TaintedMagic:ItemMagicFunguar:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":300}]}

@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"Natura.bookshelf","metadata":7,"displayName":"Bookshelf","unlocalizedName":"tile.bookshelf","oreDictNames":["bookshelfWood"],"id":"Natura:Natura.bookshelf:7","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":132}],"recipesAsInput":[]}

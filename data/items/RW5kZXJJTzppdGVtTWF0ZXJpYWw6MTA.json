@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMaterial","metadata":10,"displayName":"Weather Crystal","unlocalizedName":"enderio.weatherCrystal","oreDictNames":["itemWeatherCrystal"],"id":"EnderIO:itemMaterial:10","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":151}],"recipesAsInput":[]}

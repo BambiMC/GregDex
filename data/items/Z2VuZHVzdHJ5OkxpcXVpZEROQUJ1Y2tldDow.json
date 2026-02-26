@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"LiquidDNABucket","metadata":0,"displayName":"Liquid DNA Bucket","unlocalizedName":"item.gendustry.liquiddna.bucket","id":"gendustry:LiquidDNABucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":362}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":363}]}

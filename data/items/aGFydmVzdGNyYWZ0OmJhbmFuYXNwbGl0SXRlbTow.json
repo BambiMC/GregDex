@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bananasplitItem","metadata":0,"displayName":"Banana Split","unlocalizedName":"item.bananasplitItem","oreDictNames":["foodBananasplit"],"id":"harvestcraft:bananasplitItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":383}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":2888,"displayName":"Coffee Powder","unlocalizedName":"gt.metaitem.01.2888","oreDictNames":["dyeBrown","dustCoffee","dye"],"id":"gregtech:gt.metaitem.01:2888","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":76,"index":309},{"machine":"crafting_table","chunk":76,"index":310}]}

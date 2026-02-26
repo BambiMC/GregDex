@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":26889,"displayName":"Short Sealed Wood Stick","unlocalizedName":"gt.metaitem.01.26889","oreDictNames":["boltWoodSealed"],"id":"gregtech:gt.metaitem.01:26889","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":471}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":22,"index":252}]}

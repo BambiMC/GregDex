@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"clamrawItem","metadata":32767,"displayName":"Raw Clam","unlocalizedName":"item.clamrawItem","id":"harvestcraft:clamrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":280},{"machine":"gt.recipe.canner","chunk":1,"index":160}]}

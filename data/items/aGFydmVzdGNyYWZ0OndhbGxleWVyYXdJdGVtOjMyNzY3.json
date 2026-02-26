@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"walleyerawItem","metadata":32767,"displayName":"Raw Walleye","unlocalizedName":"item.walleyerawItem","id":"harvestcraft:walleyerawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":184},{"machine":"gt.recipe.canner","chunk":1,"index":179}]}

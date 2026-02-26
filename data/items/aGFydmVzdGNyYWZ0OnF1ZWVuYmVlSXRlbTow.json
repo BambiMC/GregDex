@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"queenbeeItem","metadata":0,"displayName":"Queen Bee","unlocalizedName":"item.queenbeeItem","oreDictNames":["beeQueen"],"id":"harvestcraft:queenbeeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":410}],"recipesAsInput":[]}

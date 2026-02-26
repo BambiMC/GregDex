@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":338,"displayName":"Molten Ironwood Cell","unlocalizedName":"gt.metaitem.99.338","oreDictNames":["cellMoltenIronWood"],"id":"gregtech:gt.metaitem.99:338","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":213}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":214}]}

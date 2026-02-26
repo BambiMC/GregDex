@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mangroveStairs","metadata":0,"displayName":"Mangrove Wood Stairs","unlocalizedName":"tile.mangroveStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:mangroveStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":16},{"machine":"crafting_table","chunk":0,"index":17}],"recipesAsInput":[]}

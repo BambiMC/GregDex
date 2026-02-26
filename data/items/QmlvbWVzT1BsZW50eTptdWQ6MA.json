@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mud","metadata":0,"displayName":"Mud","unlocalizedName":"tile.mud.mud","id":"BiomesOPlenty:mud:0","recipesAsOutput":[{"machine":"crafting_table","chunk":69,"index":286}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":239}]}

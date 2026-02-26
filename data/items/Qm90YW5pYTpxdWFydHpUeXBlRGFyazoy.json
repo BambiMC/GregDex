@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"quartzTypeDark","metadata":2,"displayName":"Pillar Smokey Quartz Block","unlocalizedName":"tile.botania:pillarDarkQuartz","id":"Botania:quartzTypeDark:2","recipesAsOutput":[{"machine":"crafting_table","chunk":84,"index":437}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":18},{"machine":"gt.recipe.extractor","chunk":0,"index":70}]}

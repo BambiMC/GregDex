@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":113,"displayName":"Centauri Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combZPM","beeComb"],"id":"gregtech:gt.comb:113","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":143},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":417}]}

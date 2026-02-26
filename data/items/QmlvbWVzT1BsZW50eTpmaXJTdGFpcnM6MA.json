@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"firStairs","metadata":0,"displayName":"Fir Wood Stairs","unlocalizedName":"tile.firStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:firStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":6},{"machine":"crafting_table","chunk":0,"index":7}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars3","metadata":13,"displayName":"Quintuple Compressed Ignis Solar","unlocalizedName":"tile.EMT.Quintuple_Compressed_Ignis_Solar","id":"EMT:EMTSolars3:13","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":161}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":128}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"Kerosene","metadata":0,"displayName":"Kerosene Cell","unlocalizedName":"item.Kerosene","oreDictNames":["cellKerosene"],"id":"miscutils:Kerosene:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":179}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":180}]}

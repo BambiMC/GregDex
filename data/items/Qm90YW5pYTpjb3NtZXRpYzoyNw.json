@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":27,"displayName":"Groucho Glasses","unlocalizedName":"item.cosmetic27","id":"Botania:cosmetic:27","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":250},{"machine":"gt.recipe.assembler","chunk":0,"index":282}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":117}]}

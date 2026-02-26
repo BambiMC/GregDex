@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"item.liveRoot","metadata":0,"displayName":"Liveroot","unlocalizedName":"item.liveRoot","id":"TwilightForest:item.liveRoot:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":6,"index":73},{"machine":"gt.recipe.macerator","chunk":18,"index":399}]}

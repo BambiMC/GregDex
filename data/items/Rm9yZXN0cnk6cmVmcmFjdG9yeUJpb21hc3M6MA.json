@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryBiomass","metadata":0,"displayName":"Biomass Capsule","unlocalizedName":"item.for.refractoryBiomass","id":"Forestry:refractoryBiomass:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":334}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":335}]}

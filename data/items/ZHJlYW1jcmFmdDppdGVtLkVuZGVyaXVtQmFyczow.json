@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EnderiumBars","metadata":0,"displayName":"Enderium Bars","unlocalizedName":"item.EnderiumBars","oreDictNames":["barsEnderium"],"id":"dreamcraft:item.EnderiumBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":183}],"recipesAsInput":[]}

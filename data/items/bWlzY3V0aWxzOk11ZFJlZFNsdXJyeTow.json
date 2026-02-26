@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"MudRedSlurry","metadata":0,"displayName":"Red Mud Slurry Cell","unlocalizedName":"item.MudRedSlurry","oreDictNames":["cellRedMudSlurry"],"id":"miscutils:MudRedSlurry:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":346}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":347}]}

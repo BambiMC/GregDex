@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":401,"displayName":"Molten End Steel Cell","unlocalizedName":"gt.metaitem.99.401","oreDictNames":["cellMoltenEndSteel"],"id":"gregtech:gt.metaitem.99:401","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":93}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":94}]}

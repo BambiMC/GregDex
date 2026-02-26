@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockCactusCharcoal","metadata":0,"displayName":"Cactus Charcoal","unlocalizedName":"tile.blockCactusCharcoal.0","id":"miscutils:blockCactusCharcoal:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":149}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":153}]}

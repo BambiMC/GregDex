@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.SawBladeArdite","metadata":0,"displayName":"Ardite Saw Blade","unlocalizedName":"item.SawBladeArdite","oreDictNames":["toolHeadSawArdite"],"id":"dreamcraft:item.SawBladeArdite:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":254},{"machine":"gt.recipe.extruder","chunk":11,"index":287}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryEthanol","metadata":0,"displayName":"Ethanol Capsule","unlocalizedName":"item.for.refractoryEthanol","id":"Forestry:refractoryEthanol:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":420}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":421}]}

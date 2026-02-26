@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.ThermalPaddingT2","metadata":2,"displayName":"Thermal Leggings","unlocalizedName":"item.thermalLeggingsT2","id":"GalaxySpace:item.ThermalPaddingT2:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":115}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":110}]}

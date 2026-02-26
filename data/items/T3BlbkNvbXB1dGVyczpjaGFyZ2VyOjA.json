@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"charger","metadata":0,"displayName":"Charger","unlocalizedName":"tile.oc.charger","oreDictNames":["oc:charger"],"id":"OpenComputers:charger:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":0}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"soymilkItem","metadata":32767,"displayName":"Soy Milk","unlocalizedName":"item.soymilkItem","id":"harvestcraft:soymilkItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":78}]}

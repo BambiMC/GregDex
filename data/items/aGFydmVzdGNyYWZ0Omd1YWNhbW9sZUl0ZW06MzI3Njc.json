@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"guacamoleItem","metadata":32767,"displayName":"Guacamole","unlocalizedName":"item.guacamoleItem","id":"harvestcraft:guacamoleItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":423}]}

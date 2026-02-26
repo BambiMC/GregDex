@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":13,"displayName":"Small Roquesite Ore","unlocalizedName":"bw.blockores.02.13","oreDictNames":["oreSmallRoquesite"],"id":"bartworks:bw.blockores.02:13","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":381},{"machine":"gt.recipe.macerator","chunk":5,"index":270}]}

@@ -1,0 +1,1 @@
+{"modId":"StorageDrawers","itemName":"tape","metadata":0,"displayName":"Packing Tape","unlocalizedName":"item.storagedrawers.tape","id":"StorageDrawers:tape:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":374},{"machine":"gt.recipe.assembler","chunk":0,"index":375}],"recipesAsInput":[]}

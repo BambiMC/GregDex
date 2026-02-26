@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCan","metadata":128,"displayName":"Sap Can","unlocalizedName":"item.containerCan","id":"BinnieCore:containerCan:128","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":117}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":118}]}

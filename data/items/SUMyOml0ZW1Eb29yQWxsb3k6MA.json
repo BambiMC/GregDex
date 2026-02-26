@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemDoorAlloy","metadata":0,"displayName":"Reinforced Door","unlocalizedName":"ic2.itemDoorAlloy","id":"IC2:itemDoorAlloy:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":436},{"machine":"gt.recipe.assembler","chunk":26,"index":354}],"recipesAsInput":[]}

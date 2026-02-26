@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cucumbersaladItem","metadata":0,"displayName":"Cucumber Salad","unlocalizedName":"item.cucumbersaladItem","oreDictNames":["foodCucumbersalad"],"id":"harvestcraft:cucumbersaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":166}],"recipesAsInput":[]}

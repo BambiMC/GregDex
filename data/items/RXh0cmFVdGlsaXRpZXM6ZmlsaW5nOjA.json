@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"filing","metadata":0,"displayName":"Filing Cabinet","unlocalizedName":"tile.extrautils:filing.0","id":"ExtraUtilities:filing:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":171},{"machine":"gt.recipe.assembler","chunk":4,"index":330}],"recipesAsInput":[]}

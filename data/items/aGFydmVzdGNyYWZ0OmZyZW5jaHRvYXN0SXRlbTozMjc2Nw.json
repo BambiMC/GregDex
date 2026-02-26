@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"frenchtoastItem","metadata":32767,"displayName":"French Toast","unlocalizedName":"item.frenchtoastItem","id":"harvestcraft:frenchtoastItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":458}]}

@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"machine.epsilon","metadata":0,"displayName":"Electric Feeder Unit","unlocalizedName":"tile.railcraft.machine.epsilon.electric.feeder","id":"Railcraft:machine.epsilon:0","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":231}],"recipesAsInput":[{"machine":"crafting_table","chunk":29,"index":400}]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower1","metadata":6,"displayName":"Tall Mystical Pink Flower","unlocalizedName":"tile.doubleFlower16","oreDictNames":["mysticFlowerPinkDouble"],"id":"Botania:doubleFlower1:6","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":348},{"machine":"gt.recipe.extractor","chunk":0,"index":49}]}

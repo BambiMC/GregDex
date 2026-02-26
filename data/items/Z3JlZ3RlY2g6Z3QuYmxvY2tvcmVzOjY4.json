@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":68,"displayName":"Promethium Ore","unlocalizedName":"gt.blockores.68","oreDictNames":["orePromethium"],"id":"gregtech:gt.blockores:68","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":26},{"machine":"gt.recipe.macerator","chunk":8,"index":281}]}

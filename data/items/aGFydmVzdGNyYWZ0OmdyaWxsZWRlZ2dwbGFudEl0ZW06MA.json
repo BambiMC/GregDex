@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grilledeggplantItem","metadata":0,"displayName":"Grilled Eggplant","unlocalizedName":"item.grilledeggplantItem","oreDictNames":["foodGrilledeggplant"],"id":"harvestcraft:grilledeggplantItem:0","recipesAsOutput":[{"machine":"furnace","chunk":11,"index":68}],"recipesAsInput":[]}

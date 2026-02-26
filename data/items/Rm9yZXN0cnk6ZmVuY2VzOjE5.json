@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":19,"displayName":"Papaya Fence","unlocalizedName":"tile.for.fences.19","oreDictNames":["fenceWood"],"id":"Forestry:fences:19","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":323},{"machine":"crafting_table","chunk":111,"index":324},{"machine":"crafting_table","chunk":111,"index":325}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"quartz_stairs","metadata":0,"displayName":"Quartz Stairs","unlocalizedName":"tile.stairsQuartz","id":"minecraft:quartz_stairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":58}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":37,"index":421}]}

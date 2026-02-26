@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":19,"displayName":"Papaya Stairs","unlocalizedName":"tile.for.stairs.19","oreDictNames":["stairWood"],"id":"Forestry:stairs:19","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":413}],"recipesAsInput":[]}

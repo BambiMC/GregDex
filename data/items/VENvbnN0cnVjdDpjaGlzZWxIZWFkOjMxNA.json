@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"chiselHead","metadata":314,"displayName":"Unstable Induced Chisel Head","unlocalizedName":"toolpart.ChiselHead.unstableIngot","id":"TConstruct:chiselHead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":358},{"machine":"gt.recipe.extruder","chunk":28,"index":359}],"recipesAsInput":[]}

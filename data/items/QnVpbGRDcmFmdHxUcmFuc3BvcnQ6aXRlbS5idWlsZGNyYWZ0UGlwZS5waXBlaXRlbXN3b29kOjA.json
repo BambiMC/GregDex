@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Transport","itemName":"item.buildcraftPipe.pipeitemswood","metadata":0,"displayName":"Wooden Transport Pipe","unlocalizedName":"item.PipeItemsWood","id":"BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":49}],"recipesAsInput":[]}

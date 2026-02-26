@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":20,"displayName":"Hyper Plus","unlocalizedName":"item.cosmetic20","id":"Botania:cosmetic:20","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":243},{"machine":"gt.recipe.assembler","chunk":0,"index":275}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":110}]}

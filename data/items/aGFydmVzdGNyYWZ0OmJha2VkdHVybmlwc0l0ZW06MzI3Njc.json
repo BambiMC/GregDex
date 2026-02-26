@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bakedturnipsItem","metadata":32767,"displayName":"Baked Turnips","unlocalizedName":"item.bakedturnipsItem","id":"harvestcraft:bakedturnipsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":392}]}

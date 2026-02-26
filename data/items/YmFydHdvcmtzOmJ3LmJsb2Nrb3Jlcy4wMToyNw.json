@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":27,"displayName":"Orange Descloizite Ore","unlocalizedName":"bw.blockores.01.27","oreDictNames":["oreOrangeDescloizite"],"id":"bartworks:bw.blockores.01:27","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":467},{"machine":"gt.recipe.macerator","chunk":8,"index":230}]}

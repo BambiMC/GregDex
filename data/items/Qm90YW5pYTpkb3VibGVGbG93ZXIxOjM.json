@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower1","metadata":3,"displayName":"Tall Mystical Light Blue Flower","unlocalizedName":"tile.doubleFlower13","oreDictNames":["mysticFlowerLightBlueDouble"],"id":"Botania:doubleFlower1:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":345},{"machine":"gt.recipe.extractor","chunk":0,"index":43}]}

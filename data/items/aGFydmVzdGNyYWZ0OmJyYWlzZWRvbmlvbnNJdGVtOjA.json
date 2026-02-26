@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"braisedonionsItem","metadata":0,"displayName":"Braised Onions","unlocalizedName":"item.braisedonionsItem","oreDictNames":["foodBraisedonions"],"id":"harvestcraft:braisedonionsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":350}],"recipesAsInput":[]}

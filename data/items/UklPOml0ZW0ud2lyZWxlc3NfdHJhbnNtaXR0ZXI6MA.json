@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.wireless_transmitter","metadata":0,"displayName":"Wireless Transmitter","unlocalizedName":"item.wireless_transmitter","id":"RIO:item.wireless_transmitter:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":395}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":406}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawLautarite","metadata":0,"displayName":"Raw Lautarite Ore","unlocalizedName":"item.oreRawLautarite","oreDictNames":["oreRawLautarite"],"id":"miscutils:oreRawLautarite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":84}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ArcaneShardChip","metadata":0,"displayName":"Arcane Shard Chip","unlocalizedName":"item.ArcaneShardChip","id":"dreamcraft:item.ArcaneShardChip:0","recipesAsOutput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":199}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":214}]}

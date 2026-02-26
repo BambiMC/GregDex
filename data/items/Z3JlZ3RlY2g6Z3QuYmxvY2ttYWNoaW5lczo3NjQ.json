@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":764,"displayName":"Precision Air Recycler","unlocalizedName":"gt.blockmachines.pollutioncleaner.08.tier.single","id":"gregtech:gt.blockmachines:764","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":201}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":229}]}

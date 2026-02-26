@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatecherryItem","metadata":0,"displayName":"Chocolate Cherry","unlocalizedName":"item.chocolatecherryItem","oreDictNames":["foodChocolatecherry"],"id":"harvestcraft:chocolatecherryItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":172}],"recipesAsInput":[]}

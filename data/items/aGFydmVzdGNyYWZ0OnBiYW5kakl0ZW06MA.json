@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pbandjItem","metadata":0,"displayName":"PB&J","unlocalizedName":"item.pbandjItem","oreDictNames":["foodPbandj"],"id":"harvestcraft:pbandjItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":355}],"recipesAsInput":[]}

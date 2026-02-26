@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32007,"displayName":"Tea","unlocalizedName":"gt.metaitem.02.32007","id":"gregtech:gt.metaitem.02:32007","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":152}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":153}]}

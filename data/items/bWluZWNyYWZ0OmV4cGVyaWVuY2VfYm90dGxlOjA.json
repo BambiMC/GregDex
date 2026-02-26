@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"experience_bottle","metadata":0,"displayName":"Bottle o' Enchanting","unlocalizedName":"item.expBottle","id":"minecraft:experience_bottle:0","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":390}],"recipesAsInput":[{"machine":"gt.recipe.magicfuels","chunk":0,"index":8}]}

@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"tool.signal.tuner","metadata":0,"displayName":"Signal Tuner","unlocalizedName":"item.railcraft.tool.signal.tuner","id":"Railcraft:tool.signal.tuner:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":381}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":382}]}

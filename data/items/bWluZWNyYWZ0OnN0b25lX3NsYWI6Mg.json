@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_slab","metadata":2,"displayName":"Wooden Slab","unlocalizedName":"tile.stoneSlab.wood","id":"minecraft:stone_slab:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":17,"index":248}]}

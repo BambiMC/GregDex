@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32755,"displayName":"White Dwarf Extruder Shape (Turbine Blade)","unlocalizedName":"gt.metaitem.03.32755","id":"gregtech:gt.metaitem.03:32755","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":56,"index":246}],"recipesAsInput":[]}

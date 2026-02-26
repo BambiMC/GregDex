@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"calamarirawItem","metadata":32767,"displayName":"Raw Calamari","unlocalizedName":"item.calamarirawItem","id":"harvestcraft:calamarirawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":273},{"machine":"gt.recipe.canner","chunk":0,"index":133}]}

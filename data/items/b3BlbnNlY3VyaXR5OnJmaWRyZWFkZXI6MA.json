@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"rfidreader","metadata":0,"displayName":"RFID Reader","unlocalizedName":"tile.rfidreader","id":"opensecurity:rfidreader:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":37}],"recipesAsInput":[]}

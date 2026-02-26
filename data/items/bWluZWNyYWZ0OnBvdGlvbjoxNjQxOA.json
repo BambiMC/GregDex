@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16418,"displayName":"Splash Potion of Swiftness","unlocalizedName":"item.potion","id":"minecraft:potion:16418","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":235}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":236}]}

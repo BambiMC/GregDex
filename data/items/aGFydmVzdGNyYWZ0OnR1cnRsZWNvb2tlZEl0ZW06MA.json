@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"turtlecookedItem","metadata":0,"displayName":"Cooked Turtle","unlocalizedName":"item.turtlecookedItem","oreDictNames":["foodTurtlecooked"],"id":"harvestcraft:turtlecookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":10,"index":483}],"recipesAsInput":[]}

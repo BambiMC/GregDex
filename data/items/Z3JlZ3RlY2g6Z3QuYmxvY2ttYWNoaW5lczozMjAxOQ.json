@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":32019,"displayName":"Compact Fusion Computer MK-I Prototype","unlocalizedName":"gt.blockmachines.largefusioncomputer1","id":"gregtech:gt.blockmachines:32019","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":94}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":82}]}

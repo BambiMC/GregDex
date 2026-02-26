@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"item.giantPick","metadata":0,"displayName":"Giant's Pickaxe","unlocalizedName":"item.giantPick","id":"TwilightForest:item.giantPick:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":362}],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":5,"index":68},{"machine":"gt.recipe.macerator","chunk":17,"index":200}]}

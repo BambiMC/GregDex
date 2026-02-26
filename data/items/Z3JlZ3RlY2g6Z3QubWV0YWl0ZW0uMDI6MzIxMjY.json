@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32126,"displayName":"Cider","unlocalizedName":"gt.metaitem.02.32126","id":"gregtech:gt.metaitem.02:32126","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":62}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":63}]}

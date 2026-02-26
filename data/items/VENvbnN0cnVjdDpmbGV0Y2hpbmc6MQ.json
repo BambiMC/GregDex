@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"fletching","metadata":1,"displayName":"Leaf Fletching","unlocalizedName":"item.tconstruct.Fletching.leaf","id":"TConstruct:fletching:1","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":11,"index":293}],"recipesAsInput":[]}

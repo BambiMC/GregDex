@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeCore","metadata":2,"displayName":"Redstone upgrade","unlocalizedName":"item.upgrade.core.redstone","id":"JABBA:upgradeCore:2","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":41},{"machine":"crafting_table","chunk":113,"index":42}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":1,"index":75}]}

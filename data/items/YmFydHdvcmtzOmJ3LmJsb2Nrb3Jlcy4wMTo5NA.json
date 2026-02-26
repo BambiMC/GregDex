@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":94,"displayName":"Temagamite Ore","unlocalizedName":"bw.blockores.01.94","oreDictNames":["oreTemagamite"],"id":"bartworks:bw.blockores.01:94","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":426},{"machine":"gt.recipe.macerator","chunk":3,"index":398}]}

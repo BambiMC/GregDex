@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"spawn_egg","metadata":60,"displayName":"Spawn Silverfish","unlocalizedName":"item.monsterPlacer","id":"minecraft:spawn_egg:60","recipesAsOutput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":123},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":44}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"ricesoupItem","metadata":32767,"displayName":"Rice Soup","unlocalizedName":"item.ricesoupItem","id":"harvestcraft:ricesoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":333}]}

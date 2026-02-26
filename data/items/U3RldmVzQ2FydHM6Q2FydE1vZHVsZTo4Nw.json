@@ -1,0 +1,1 @@
+{"modId":"StevesCarts","itemName":"CartModule","metadata":87,"displayName":"Crafter","unlocalizedName":"item.SC2:crafter","id":"StevesCarts:CartModule:87","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":474}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":475}]}

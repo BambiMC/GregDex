@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blocktintedglass","metadata":1,"displayName":"Tinted Industrial Glass (Light Gray)","unlocalizedName":"gt.blocktintedglass.1","oreDictNames":["blockGlassEV"],"id":"gregtech:gt.blocktintedglass:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":371}],"recipesAsInput":[]}

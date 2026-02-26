@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32116,"displayName":"Scotch","unlocalizedName":"gt.metaitem.02.32116","id":"gregtech:gt.metaitem.02:32116","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":20}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":21}]}

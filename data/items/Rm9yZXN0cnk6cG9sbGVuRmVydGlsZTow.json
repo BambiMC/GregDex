@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"pollenFertile","metadata":0,"displayName":"pollenFertile","unlocalizedName":"item.for.pollenFertile","nbt":"{display:{Name:\"Scanned Pollen\"}}","id":"Forestry:pollenFertile:0","recipesAsOutput":[{"machine":"gt.recipe.scanner","chunk":0,"index":177}],"recipesAsInput":[]}

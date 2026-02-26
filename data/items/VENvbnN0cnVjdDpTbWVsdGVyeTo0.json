@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"Smeltery","metadata":4,"displayName":"Seared Stone","unlocalizedName":"Smeltery.Stone","id":"TConstruct:Smeltery:4","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":64,"index":395}],"recipesAsInput":[]}

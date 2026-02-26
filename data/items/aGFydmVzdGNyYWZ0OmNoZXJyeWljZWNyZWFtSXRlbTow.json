@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cherryicecreamItem","metadata":0,"displayName":"Cherry Ice Cream","unlocalizedName":"item.cherryicecreamItem","oreDictNames":["foodCherryicecream"],"id":"harvestcraft:cherryicecreamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":253}],"recipesAsInput":[{"machine":"crafting_table","chunk":95,"index":256}]}

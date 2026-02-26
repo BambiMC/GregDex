@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"sky","metadata":0,"displayName":"Sky Block","unlocalizedName":"tile.openblocks.sky.normal","id":"OpenBlocks:sky:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":392},{"machine":"crafting_table","chunk":114,"index":393}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":244}]}

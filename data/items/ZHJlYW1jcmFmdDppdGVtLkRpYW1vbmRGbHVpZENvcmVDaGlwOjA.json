@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.DiamondFluidCoreChip","metadata":0,"displayName":"Fluid Circuit Tier I","unlocalizedName":"item.DiamondFluidCoreChip","id":"dreamcraft:item.DiamondFluidCoreChip:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":304}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":105}]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"item.schematic","metadata":0,"displayName":"Shuttle Schematic","unlocalizedName":"item.schematic.schematicShuttle","id":"GalacticraftAmunRa:item.schematic:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":471},{"machine":"gt.recipe.researchstation","chunk":0,"index":307}],"recipesAsInput":[]}

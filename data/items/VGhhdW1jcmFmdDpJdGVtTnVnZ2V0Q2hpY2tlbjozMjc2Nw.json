@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemNuggetChicken","metadata":32767,"displayName":"Chicken Nugget","unlocalizedName":"item.ItemNuggetChicken","id":"Thaumcraft:ItemNuggetChicken:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":86},{"machine":"gt.recipe.macerator","chunk":22,"index":316}]}

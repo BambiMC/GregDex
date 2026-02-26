@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"raisincookiesItem","metadata":0,"displayName":"Raisin Cookies","unlocalizedName":"item.raisincookiesItem","oreDictNames":["foodRaisincookies"],"id":"harvestcraft:raisincookiesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":349}],"recipesAsInput":[]}

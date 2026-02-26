@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":5,"displayName":"Structural MK VI (Aluminium Plate)","unlocalizedName":"item.upgrade.structural.6","id":"JABBA:upgradeStructural:5","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":30},{"machine":"gt.recipe.assembler","chunk":1,"index":65}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.bucketOil","metadata":0,"displayName":"Oil Bucket","unlocalizedName":"item.bucketOil","id":"GalacticraftCore:item.bucketOil:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":431}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":432}]}

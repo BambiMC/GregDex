@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.GeneticCircuit","metadata":0,"displayName":"Genetic Circuit","unlocalizedName":"item.GeneticCircuit","id":"dreamcraft:item.GeneticCircuit:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":310}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":300}]}

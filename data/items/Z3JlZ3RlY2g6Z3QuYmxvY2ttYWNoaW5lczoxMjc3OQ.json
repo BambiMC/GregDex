@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":12779,"displayName":"EV 64A Low Power Laser Source Hatch","unlocalizedName":"gt.blockmachines.ev_lplaser_dynamo_64","id":"gregtech:gt.blockmachines:12779","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":246}],"recipesAsInput":[]}

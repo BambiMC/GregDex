@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crackerItem","metadata":0,"displayName":"Cracker","unlocalizedName":"item.crackerItem","oreDictNames":["foodCracker"],"id":"harvestcraft:crackerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":434}],"recipesAsInput":[]}

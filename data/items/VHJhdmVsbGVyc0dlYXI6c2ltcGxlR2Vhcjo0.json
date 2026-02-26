@@ -1,0 +1,1 @@
+{"modId":"TravellersGear","itemName":"simpleGear","metadata":4,"displayName":"Pauldrons","unlocalizedName":"item.TravellersGear.simpleGear.pauldrons","oreDictNames":["travelgearShoulderBase"],"id":"TravellersGear:simpleGear:4","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":199}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":224}]}

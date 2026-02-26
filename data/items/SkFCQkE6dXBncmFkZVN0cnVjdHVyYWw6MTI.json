@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":12,"displayName":"Structural MK XIII (Neutronium Plate)","unlocalizedName":"item.upgrade.structural.13","id":"JABBA:upgradeStructural:12","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":37},{"machine":"gt.recipe.assembler","chunk":1,"index":72}],"recipesAsInput":[]}

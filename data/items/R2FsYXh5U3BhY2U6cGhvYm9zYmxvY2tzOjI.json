@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"phobosblocks","metadata":2,"displayName":"Phobos Stone","unlocalizedName":"tile.PhobosStone","oreDictNames":["rockSpace","rockPhobos"],"id":"GalaxySpace:phobosblocks:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":164},{"machine":"gt.recipe.macerator","chunk":0,"index":132}]}

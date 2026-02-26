@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":20,"displayName":"LootBag (Forest Ranger Advanced)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:20","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":423},{"machine":"gt.recipe.assembler","chunk":2,"index":242}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":243}]}

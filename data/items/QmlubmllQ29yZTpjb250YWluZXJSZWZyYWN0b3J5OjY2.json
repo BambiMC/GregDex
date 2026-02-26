@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerRefractory","metadata":66,"displayName":"Nitrogen Capsule","unlocalizedName":"item.containerRefractory","id":"BinnieCore:containerRefractory:66","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":10}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":11}]}

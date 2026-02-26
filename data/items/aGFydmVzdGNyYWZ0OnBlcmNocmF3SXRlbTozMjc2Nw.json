@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"perchrawItem","metadata":32767,"displayName":"Raw Perch","unlocalizedName":"item.perchrawItem","id":"harvestcraft:perchrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":433},{"machine":"gt.recipe.canner","chunk":1,"index":170}]}

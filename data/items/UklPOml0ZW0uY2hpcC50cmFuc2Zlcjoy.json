@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.transfer","metadata":2,"displayName":"Essentia Transfer Chip","unlocalizedName":"item.chip.transfer.essentia","id":"RIO:item.chip.transfer:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":400}],"recipesAsInput":[]}

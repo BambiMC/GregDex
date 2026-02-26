@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":34,"displayName":"LootBag (Transportation 1 Class)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:34","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":437},{"machine":"gt.recipe.assembler","chunk":2,"index":254}],"recipesAsInput":[]}

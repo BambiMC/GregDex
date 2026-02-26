@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4083,"displayName":"Osmium Ore","unlocalizedName":"gt.blockores.4083","oreDictNames":["oreRedgraniteOsmium"],"id":"gregtech:gt.blockores:4083","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":173},{"machine":"gt.recipe.macerator","chunk":6,"index":31}]}

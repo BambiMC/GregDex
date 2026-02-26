@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMEConduit","metadata":0,"displayName":"ME Conduit","unlocalizedName":"enderio.itemMEConduit","id":"EnderIO:itemMEConduit:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":129}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":130}]}

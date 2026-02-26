@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeSawBlade","metadata":0,"displayName":"Casting Form (Saw Blade Shape)","unlocalizedName":"item.ShapeSawBlade","id":"dreamcraft:item.ShapeSawBlade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":49}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":123}]}

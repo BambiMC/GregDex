@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lettuceItem","metadata":32767,"displayName":"Lettuce","unlocalizedName":"item.lettuceItem","id":"harvestcraft:lettuceItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":173}]}

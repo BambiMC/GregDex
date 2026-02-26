@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fruitpunchItem","metadata":0,"displayName":"Fruit Punch","unlocalizedName":"item.fruitpunchItem","oreDictNames":["foodFruitpunch"],"id":"harvestcraft:fruitpunchItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":199}],"recipesAsInput":[]}

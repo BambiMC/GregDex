@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockCactusCharcoal","metadata":3,"displayName":"Triple Compressed Cactus Charcoal","unlocalizedName":"tile.blockCactusCharcoal.3","id":"miscutils:blockCactusCharcoal:3","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":155}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":156}]}

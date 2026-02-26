@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCofeeBeans","metadata":0,"displayName":"Coffee Beans","unlocalizedName":"ic2.itemCofeeBeans","oreDictNames":["cropCoffee"],"id":"IC2:itemCofeeBeans:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":413},{"machine":"gt.recipe.macerator","chunk":4,"index":310}]}

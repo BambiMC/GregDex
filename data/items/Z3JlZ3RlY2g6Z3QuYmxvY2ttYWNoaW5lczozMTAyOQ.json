@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31029,"displayName":"Ball Housing","unlocalizedName":"gt.blockmachines.hatch.milling","id":"gregtech:gt.blockmachines:31029","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":250}],"recipesAsInput":[]}

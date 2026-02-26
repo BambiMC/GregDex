@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"starfruitjellyItem","metadata":32767,"displayName":"Starfruit Jelly","unlocalizedName":"item.starfruitjellyItem","id":"harvestcraft:starfruitjellyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":46}]}

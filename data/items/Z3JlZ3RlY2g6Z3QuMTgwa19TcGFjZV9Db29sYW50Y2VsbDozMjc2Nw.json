@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.180k_Space_Coolantcell","metadata":32767,"displayName":"180k Sp Coolant Cell","unlocalizedName":"gt.180k_Space_Coolantcell","id":"gregtech:gt.180k_Space_Coolantcell:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":194},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":114}]}

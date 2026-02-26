@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"okrachipsItem","metadata":32767,"displayName":"Okra Chips","unlocalizedName":"item.okrachipsItem","id":"harvestcraft:okrachipsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":248}]}

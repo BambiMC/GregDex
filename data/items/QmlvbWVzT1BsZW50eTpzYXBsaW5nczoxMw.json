@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"saplings","metadata":13,"displayName":"Hellbark Sapling","unlocalizedName":"tile.saplings.hellbarkSapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:saplings:13","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":66}],"recipesAsInput":[]}

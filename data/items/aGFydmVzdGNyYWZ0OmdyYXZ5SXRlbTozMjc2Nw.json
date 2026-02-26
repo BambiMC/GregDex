@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gravyItem","metadata":32767,"displayName":"Gravy","unlocalizedName":"item.gravyItem","id":"harvestcraft:gravyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":282}]}

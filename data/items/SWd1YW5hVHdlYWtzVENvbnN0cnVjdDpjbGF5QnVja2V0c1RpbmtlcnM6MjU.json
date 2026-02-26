@@ -1,0 +1,1 @@
+{"modId":"IguanaTweaksTConstruct","itemName":"clayBucketsTinkers","metadata":25,"displayName":"Sticky Glue Clay Bucket","unlocalizedName":"item.iguana.tcon.clayBucket.Glue","id":"IguanaTweaksTConstruct:clayBucketsTinkers:25","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":214}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":215}]}

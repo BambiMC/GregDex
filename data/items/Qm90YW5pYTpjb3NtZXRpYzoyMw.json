@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":23,"displayName":"Eerie Mask","unlocalizedName":"item.cosmetic23","id":"Botania:cosmetic:23","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":246},{"machine":"gt.recipe.assembler","chunk":0,"index":278}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":113}]}

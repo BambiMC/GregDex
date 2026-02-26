@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":1132,"displayName":"Integrated Ore Factory","unlocalizedName":"gt.blockmachines.multimachine.oreprocessor","id":"gregtech:gt.blockmachines:1132","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":459},{"machine":"gt.recipe.scanner","chunk":0,"index":162}],"recipesAsInput":[]}

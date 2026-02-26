@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Core","itemName":"stoneGearItem","metadata":0,"displayName":"Stone Gear","unlocalizedName":"item.stoneGearItem","oreDictNames":["gearStone"],"id":"BuildCraft|Core:stoneGearItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":161}],"recipesAsInput":[]}

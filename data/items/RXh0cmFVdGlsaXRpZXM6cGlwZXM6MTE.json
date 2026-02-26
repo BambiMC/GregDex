@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"pipes","metadata":11,"displayName":"Energy Pipe","unlocalizedName":"tile.extrautils:pipes.11","id":"ExtraUtilities:pipes:11","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":184},{"machine":"gt.recipe.assembler","chunk":26,"index":240}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":245}]}

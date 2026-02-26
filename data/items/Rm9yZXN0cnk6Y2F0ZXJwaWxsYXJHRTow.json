@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"caterpillarGE","metadata":0,"displayName":"Scanned Caterpillar","unlocalizedName":"item.for.caterpillarGE","nbt":"{display:{Name:\"Scanned Caterpillar\"}}","id":"Forestry:caterpillarGE:0","recipesAsOutput":[{"machine":"gt.recipe.scanner","chunk":0,"index":176}],"recipesAsInput":[]}

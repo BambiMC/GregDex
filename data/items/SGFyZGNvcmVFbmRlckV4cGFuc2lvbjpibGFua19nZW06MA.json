@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"blank_gem","metadata":0,"displayName":"Blank Gem","unlocalizedName":"item.blankGem","id":"HardcoreEnderExpansion:blank_gem:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":320}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":321}]}

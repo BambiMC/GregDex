@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.HTGRMaterials","metadata":9,"displayName":"TRISO pebble compound (Uranium)","unlocalizedName":"item.HTGRTRISOPebbleCompoundUranium","id":"bartworks:bw.HTGRMaterials:9","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":97}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":98}]}

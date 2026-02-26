@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"CarbonDisulfide","metadata":0,"displayName":"Carbon Disulfide Cell","unlocalizedName":"item.CarbonDisulfide","oreDictNames":["cellCarbonDisulfide"],"id":"miscutils:CarbonDisulfide:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":432}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":433}]}

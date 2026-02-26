@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"garlicbreadItem","metadata":32767,"displayName":"Garlic Bread","unlocalizedName":"item.garlicbreadItem","id":"harvestcraft:garlicbreadItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":399}]}

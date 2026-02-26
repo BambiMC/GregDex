@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":28,"displayName":"Zebrawood Fence","unlocalizedName":"tile.for.fences.28","oreDictNames":["fenceWood"],"id":"Forestry:fences:28","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":350},{"machine":"crafting_table","chunk":111,"index":351},{"machine":"crafting_table","chunk":111,"index":352}],"recipesAsInput":[]}

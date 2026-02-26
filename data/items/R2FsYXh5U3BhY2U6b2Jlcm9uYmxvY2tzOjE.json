@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"oberonblocks","metadata":1,"displayName":"Oberon Subsurface Block","unlocalizedName":"tile.OberonSubGrunt","oreDictNames":["rockOberon","rockSpace"],"id":"GalaxySpace:oberonblocks:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":200},{"machine":"gt.recipe.macerator","chunk":0,"index":160}]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.null","metadata":0,"displayName":"Throwable Meteor Chunk","unlocalizedName":"item.meteorChunk","id":"GalacticraftCore:item.null:0","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":368}],"recipesAsInput":[{"machine":"furnace","chunk":9,"index":230}]}

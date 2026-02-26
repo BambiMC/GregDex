@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":340,"displayName":"Molten Meteoric Iron Cell","unlocalizedName":"gt.metaitem.99.340","oreDictNames":["cellMoltenMeteoricIron"],"id":"gregtech:gt.metaitem.99:340","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":215}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":216}]}

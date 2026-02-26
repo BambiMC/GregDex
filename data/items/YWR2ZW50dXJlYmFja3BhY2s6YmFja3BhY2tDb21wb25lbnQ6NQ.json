@@ -1,0 +1,1 @@
+{"modId":"adventurebackpack","itemName":"backpackComponent","metadata":5,"displayName":"Two-Cylinder Diesel Engine","unlocalizedName":"item.adventurebackpack:copterEngine","id":"adventurebackpack:backpackComponent:5","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":100}],"recipesAsInput":[{"machine":"crafting_table","chunk":29,"index":361}]}

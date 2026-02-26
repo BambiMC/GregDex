@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32482,"displayName":"Magic Paper","unlocalizedName":"gt.metaitem.01.32482","id":"gregtech:gt.metaitem.01:32482","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":8,"index":473},{"machine":"gt.recipe.macerator","chunk":22,"index":346}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"butteredpotatoItem","metadata":32767,"displayName":"Buttered Potato","unlocalizedName":"item.butteredpotatoItem","id":"harvestcraft:butteredpotatoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":255}]}

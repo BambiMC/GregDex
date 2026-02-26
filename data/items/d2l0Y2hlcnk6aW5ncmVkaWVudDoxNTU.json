@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":155,"displayName":"Silver Bolt","unlocalizedName":"item.witchery:ingredient.boltSilver","id":"witchery:ingredient:155","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":358},{"machine":"crafting_table","chunk":65,"index":197}],"recipesAsInput":[]}

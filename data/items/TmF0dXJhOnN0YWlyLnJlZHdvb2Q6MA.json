@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.redwood","metadata":0,"displayName":"Redwood Stairs","unlocalizedName":"tile.stair.redwood","oreDictNames":["stairWood"],"id":"Natura:stair.redwood:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":41},{"machine":"crafting_table","chunk":114,"index":141}],"recipesAsInput":[]}

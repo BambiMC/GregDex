@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":3,"displayName":"Snow Slab","unlocalizedName":"tile.railcraft.slab.snow","id":"Railcraft:slab:3","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":172}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":29,"index":62},{"machine":"gt.recipe.assembler","chunk":29,"index":63}]}

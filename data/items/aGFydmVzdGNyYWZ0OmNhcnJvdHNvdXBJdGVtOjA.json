@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"carrotsoupItem","metadata":0,"displayName":"Carrot Soup","unlocalizedName":"item.carrotsoupItem","oreDictNames":["foodCarrotsoup"],"id":"harvestcraft:carrotsoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":332}],"recipesAsInput":[]}

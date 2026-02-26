@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":84,"displayName":"Americium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combLuV","beeComb"],"id":"gregtech:gt.comb:84","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":236},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":141}]}

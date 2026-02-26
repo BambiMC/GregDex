@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grapesaladItem","metadata":0,"displayName":"Grape Salad","unlocalizedName":"item.grapesaladItem","oreDictNames":["foodGrapesalad"],"id":"harvestcraft:grapesaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":314}],"recipesAsInput":[]}

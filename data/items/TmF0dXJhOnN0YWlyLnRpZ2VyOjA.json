@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.tiger","metadata":0,"displayName":"Tigerwood Stairs","unlocalizedName":"tile.stair.tiger","oreDictNames":["stairWood"],"id":"Natura:stair.tiger:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":35},{"machine":"crafting_table","chunk":114,"index":254}],"recipesAsInput":[]}

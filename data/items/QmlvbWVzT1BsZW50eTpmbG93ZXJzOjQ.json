@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers","metadata":4,"displayName":"Blue Hydrangea","unlocalizedName":"tile.flowers.hydrangea","oreDictNames":["flowerLightBlue","flowerHydrangeaBlue"],"id":"BiomesOPlenty:flowers:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":110},{"machine":"gt.recipe.extractor","chunk":0,"index":220}]}

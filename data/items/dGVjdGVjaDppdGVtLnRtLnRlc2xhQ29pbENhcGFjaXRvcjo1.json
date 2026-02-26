@@ -1,0 +1,1 @@
+{"modId":"tectech","itemName":"item.tm.teslaCoilCapacitor","metadata":5,"displayName":"LuV Tesla Capacitor","unlocalizedName":"item.tm.teslaCoilCapacitor.5","id":"tectech:item.tm.teslaCoilCapacitor:5","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":145}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":166}]}

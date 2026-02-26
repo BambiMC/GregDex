@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"misc","metadata":29,"displayName":"Cyanite Grains","unlocalizedName":"item.misc","id":"ExtraBees:misc:29","recipesAsOutput":[{"machine":"forestry_centrifuge","chunk":0,"index":93},{"machine":"gt.recipe.centrifuge","chunk":2,"index":331},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":195}],"recipesAsInput":[]}

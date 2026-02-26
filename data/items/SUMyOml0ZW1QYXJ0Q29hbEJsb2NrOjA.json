@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPartCoalBlock","metadata":0,"displayName":"Compressed Coal Ball","unlocalizedName":"ic2.itemPartCoalBlock","id":"IC2:itemPartCoalBlock:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":274}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":346}]}

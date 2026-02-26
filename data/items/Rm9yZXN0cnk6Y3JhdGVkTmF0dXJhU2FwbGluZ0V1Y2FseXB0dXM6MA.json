@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaSaplingEucalyptus","metadata":0,"displayName":"Crated Eucalyptus Sapling","unlocalizedName":"item.cratedNaturaSaplingEucalyptus","id":"Forestry:cratedNaturaSaplingEucalyptus:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":91}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":65}]}

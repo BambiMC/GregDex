@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ConductiveIronBars","metadata":0,"displayName":"Conductive Iron Bars","unlocalizedName":"item.ConductiveIronBars","oreDictNames":["barsConductiveIron"],"id":"dreamcraft:item.ConductiveIronBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":177}],"recipesAsInput":[]}

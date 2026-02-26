@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31066,"displayName":"Basic Auto-Chisel","unlocalizedName":"gt.blockmachines.chisel.tier.01","id":"gregtech:gt.blockmachines:31066","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":253}],"recipesAsInput":[]}

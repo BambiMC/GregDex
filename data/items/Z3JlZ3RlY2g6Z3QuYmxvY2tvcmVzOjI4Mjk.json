@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":2829,"displayName":"Deep Iron Ore","unlocalizedName":"gt.blockores.2829","oreDictNames":["oreEndstoneDeepIron"],"id":"gregtech:gt.blockores:2829","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":327},{"machine":"gt.recipe.macerator","chunk":7,"index":147}]}

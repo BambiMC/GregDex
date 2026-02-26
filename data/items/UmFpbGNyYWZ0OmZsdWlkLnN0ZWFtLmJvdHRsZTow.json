@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"fluid.steam.bottle","metadata":0,"displayName":"Steam Bottle","unlocalizedName":"item.railcraft.fluid.steam.bottle","id":"Railcraft:fluid.steam.bottle:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":497}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":498}]}

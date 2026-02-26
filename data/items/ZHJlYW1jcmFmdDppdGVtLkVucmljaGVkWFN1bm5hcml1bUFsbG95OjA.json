@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EnrichedXSunnariumAlloy","metadata":0,"displayName":"Enriched X Sunnarium Alloy","unlocalizedName":"item.EnrichedXSunnariumAlloy","id":"dreamcraft:item.EnrichedXSunnariumAlloy:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":91}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":120}]}

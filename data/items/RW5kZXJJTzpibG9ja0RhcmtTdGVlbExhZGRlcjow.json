@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockDarkSteelLadder","metadata":0,"displayName":"Dark Steel Ladder","unlocalizedName":"tile.blockDarkSteelLadder","id":"EnderIO:blockDarkSteelLadder:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":374},{"machine":"gt.recipe.assembler","chunk":26,"index":154}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"DraconicEvolution","itemName":"safetyMatch","metadata":1000,"displayName":"Safety Match","unlocalizedName":"item.draconicevolution:safetyMatch","id":"DraconicEvolution:safetyMatch:1000","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":299}],"recipesAsInput":[{"machine":"gt.recipe.packager","chunk":4,"index":202}]}

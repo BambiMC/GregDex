@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"bookGT","metadata":0,"displayName":"§oThermal Boiler Manual","unlocalizedName":"item.itembookgt","oreDictNames":["bookWritten","craftingBook"],"id":"miscutils:bookGT:0","recipesAsOutput":[{"machine":"crafting_table","chunk":97,"index":329}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockElectric","metadata":6,"displayName":"EV-Transformer","unlocalizedName":"ic2.blockTransformerEV","id":"IC2:blockElectric:6","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":344}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":316}]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemArmorCFPack","metadata":26,"displayName":"CF Backpack","unlocalizedName":"ic2.itemArmorCFPack","id":"IC2:itemArmorCFPack:26","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":444}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":113}]}

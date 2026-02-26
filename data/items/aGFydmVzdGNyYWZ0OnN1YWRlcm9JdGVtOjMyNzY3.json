@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"suaderoItem","metadata":32767,"displayName":"Suadero","unlocalizedName":"item.suaderoItem","id":"harvestcraft:suaderoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":204}]}

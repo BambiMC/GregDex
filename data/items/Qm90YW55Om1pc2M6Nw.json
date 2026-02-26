@@ -1,0 +1,1 @@
+{"modId":"Botany","itemName":"misc","metadata":7,"displayName":"Weedkiller","unlocalizedName":"item.misc","id":"Botany:misc:7","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":211}],"recipesAsInput":[{"machine":"gt.recipe.mixer","chunk":1,"index":355},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":267}]}

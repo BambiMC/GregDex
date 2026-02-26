@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"EnvProcessor","metadata":0,"displayName":"Enviromental Processor","unlocalizedName":"item.gendustry.EnvProcessor","id":"gendustry:EnvProcessor:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":301}],"recipesAsInput":[]}

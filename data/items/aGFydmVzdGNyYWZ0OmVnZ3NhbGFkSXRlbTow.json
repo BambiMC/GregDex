@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"eggsaladItem","metadata":0,"displayName":"Egg Salad","unlocalizedName":"item.eggsaladItem","oreDictNames":["foodEggsalad"],"id":"harvestcraft:eggsaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":127}],"recipesAsInput":[]}

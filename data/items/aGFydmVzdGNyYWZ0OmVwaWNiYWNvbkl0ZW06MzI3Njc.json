@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"epicbaconItem","metadata":32767,"displayName":"Epic Bacon","unlocalizedName":"item.epicbaconItem","id":"harvestcraft:epicbaconItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":128}]}

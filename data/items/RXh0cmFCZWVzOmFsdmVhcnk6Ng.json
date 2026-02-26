@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"alveary","metadata":6,"displayName":"Alveary Transmission","unlocalizedName":"tile.alveary","id":"ExtraBees:alveary:6","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":285},{"machine":"gt.recipe.assembler","chunk":4,"index":325}],"recipesAsInput":[]}

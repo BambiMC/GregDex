@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":56,"displayName":"Molten Indium Cell","unlocalizedName":"gt.metaitem.99.56","oreDictNames":["cellMoltenIndium"],"id":"gregtech:gt.metaitem.99:56","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":305}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":306}]}

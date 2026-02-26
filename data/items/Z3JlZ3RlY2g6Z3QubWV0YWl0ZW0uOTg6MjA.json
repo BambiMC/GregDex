@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":20,"displayName":"Fermented Bacterial Sludge Cell","unlocalizedName":"gt.metaitem.98.20","id":"gregtech:gt.metaitem.98:20","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":401}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":402}]}

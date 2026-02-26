@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":365,"displayName":"Molten Electrical Steel Cell","unlocalizedName":"gt.metaitem.99.365","oreDictNames":["cellMoltenElectricalSteel"],"id":"gregtech:gt.metaitem.99:365","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":155}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":156}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":835,"displayName":"Reactor Fuel Processing Plant","unlocalizedName":"gt.blockmachines.industrialrefinery.controller.tier.single","id":"gregtech:gt.blockmachines:835","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":210}],"recipesAsInput":[]}

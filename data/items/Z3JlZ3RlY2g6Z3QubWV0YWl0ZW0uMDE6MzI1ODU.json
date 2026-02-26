@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32585,"displayName":"Medium Infinity Battery","unlocalizedName":"gt.metaitem.01.32585","oreDictNames":["batteryUMV"],"id":"gregtech:gt.metaitem.01:32585","recipesAsOutput":[{"machine":"gt.recipe.canner","chunk":1,"index":334}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":215}]}

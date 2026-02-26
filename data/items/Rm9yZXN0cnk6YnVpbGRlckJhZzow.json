@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"builderBag","metadata":0,"displayName":"Builder's Backpack","unlocalizedName":"item.for.builderBag","id":"Forestry:builderBag:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":262},{"machine":"crafting_table","chunk":111,"index":263}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":183}]}

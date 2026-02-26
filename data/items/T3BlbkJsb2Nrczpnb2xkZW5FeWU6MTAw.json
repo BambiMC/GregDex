@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"goldenEye","metadata":100,"displayName":"Golden eye","unlocalizedName":"item.openblocks.golden_eye","id":"OpenBlocks:goldenEye:100","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":315}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":212}]}

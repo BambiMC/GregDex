@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":15,"displayName":"Chiseled Granite Brick","unlocalizedName":"tile.stone15","oreDictNames":["stoneGraniteChiseled"],"id":"Botania:stone:15","recipesAsOutput":[{"machine":"crafting_table","chunk":85,"index":16}],"recipesAsInput":[]}

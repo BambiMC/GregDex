@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.fusewood","metadata":0,"displayName":"Fusewood Stairs","unlocalizedName":"tile.stair.fusewood","oreDictNames":["stairWood"],"id":"Natura:stair.fusewood:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":32},{"machine":"crafting_table","chunk":114,"index":309}],"recipesAsInput":[]}

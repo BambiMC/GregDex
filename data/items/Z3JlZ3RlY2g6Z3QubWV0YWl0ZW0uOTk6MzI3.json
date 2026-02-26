@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":327,"displayName":"Molten Naquadria Cell","unlocalizedName":"gt.metaitem.99.327","oreDictNames":["cellMoltenNaquadria"],"id":"gregtech:gt.metaitem.99:327","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":207}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":208}]}

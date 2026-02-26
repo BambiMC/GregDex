@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemMugEmpty","metadata":0,"displayName":"Stone Mug","unlocalizedName":"ic2.itemMugEmpty","id":"IC2:itemMugEmpty:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":430}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":110},{"machine":"gt.recipe.fluidcanner","chunk":8,"index":111}]}

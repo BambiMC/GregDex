@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mangoyogurtItem","metadata":0,"displayName":"Mango Yogurt","unlocalizedName":"item.mangoyogurtItem","oreDictNames":["foodMangoyogurt"],"id":"harvestcraft:mangoyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":343}],"recipesAsInput":[]}

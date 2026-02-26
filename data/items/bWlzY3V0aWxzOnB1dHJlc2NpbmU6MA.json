@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"putrescine","metadata":0,"displayName":"Putrescine Cell","unlocalizedName":"item.putrescine","oreDictNames":["cellPutrescine"],"id":"miscutils:putrescine:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":398}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":399}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"garlicbreadItem","metadata":0,"displayName":"Garlic Bread","unlocalizedName":"item.garlicbreadItem","oreDictNames":["foodGarlicbread"],"id":"harvestcraft:garlicbreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":180}],"recipesAsInput":[]}

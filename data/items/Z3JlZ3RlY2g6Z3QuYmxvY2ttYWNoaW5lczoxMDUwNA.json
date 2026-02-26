@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":10504,"displayName":"LuV Beamline Output Hatch","unlocalizedName":"gt.blockmachines.luv_beamline_output_hatch","id":"gregtech:gt.blockmachines:10504","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":340},{"machine":"gt.recipe.scanner","chunk":0,"index":90}],"recipesAsInput":[]}

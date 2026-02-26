@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"item.giantSword","metadata":0,"displayName":"Giant's Sword","unlocalizedName":"item.giantSword","id":"TwilightForest:item.giantSword:0","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":214}],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":8,"index":451},{"machine":"gt.recipe.macerator","chunk":22,"index":313}]}

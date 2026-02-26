@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"wideGuard","metadata":314,"displayName":"Unstable Induced Wide Guard","unlocalizedName":"toolpart.LargeGuard.unstableIngot","id":"TConstruct:wideGuard:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":246},{"machine":"gt.recipe.extruder","chunk":28,"index":247}],"recipesAsInput":[]}

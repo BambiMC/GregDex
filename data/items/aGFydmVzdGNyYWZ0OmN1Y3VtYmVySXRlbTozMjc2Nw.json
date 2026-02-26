@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cucumberItem","metadata":32767,"displayName":"Cucumber","unlocalizedName":"item.cucumberItem","id":"harvestcraft:cucumberItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":150}]}

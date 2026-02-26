@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockSolarPanel","metadata":1,"displayName":"Advanced Photovoltaic Cell","unlocalizedName":"tile.blockSolarPanel.advanced","id":"EnderIO:blockSolarPanel:1","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":310},{"machine":"crafting_table","chunk":109,"index":311}],"recipesAsInput":[]}

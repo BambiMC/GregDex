@@ -1,0 +1,1 @@
+{"modId":"Genetics","itemName":"misc","metadata":5,"displayName":"Blank Sequence","unlocalizedName":"item.misc","id":"Genetics:misc:5","recipesAsOutput":[{"machine":"furnace","chunk":10,"index":391},{"machine":"gt.recipe.assembler","chunk":26,"index":307}],"recipesAsInput":[]}

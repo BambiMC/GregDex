@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"applejellysandwichItem","metadata":0,"displayName":"Apple Jelly Sandwich","unlocalizedName":"item.applejellysandwichItem","oreDictNames":["foodApplejellysandwich"],"id":"harvestcraft:applejellysandwichItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":415}],"recipesAsInput":[]}

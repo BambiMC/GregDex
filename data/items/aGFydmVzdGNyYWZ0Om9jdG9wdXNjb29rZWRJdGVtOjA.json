@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"octopuscookedItem","metadata":0,"displayName":"Cooked Octopus","unlocalizedName":"item.octopuscookedItem","oreDictNames":["foodOctopuscooked"],"id":"harvestcraft:octopuscookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":10,"index":455}],"recipesAsInput":[]}

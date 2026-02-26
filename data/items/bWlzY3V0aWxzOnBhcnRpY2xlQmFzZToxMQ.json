@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"particleBase","metadata":11,"displayName":"Tau","unlocalizedName":"item.particle.base.Tau","oreDictNames":["particleTau"],"id":"miscutils:particleBase:11","recipesAsOutput":[{"machine":"gtpp.recipe.cyclotron","chunk":0,"index":8}],"recipesAsInput":[]}

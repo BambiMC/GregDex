@@ -1,0 +1,1 @@
+{"modId":"StorageDrawers","itemName":"upgradeLock","metadata":0,"displayName":"Drawer Key","unlocalizedName":"item.storagedrawers.upgradeLock","id":"StorageDrawers:upgradeLock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":107}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":372},{"machine":"gt.recipe.assembler","chunk":0,"index":373}]}

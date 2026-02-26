@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CompressedBioBall","metadata":0,"displayName":"Compressed Bio Ball","unlocalizedName":"item.CompressedBioBall","id":"dreamcraft:item.CompressedBioBall:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":111}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":100}]}

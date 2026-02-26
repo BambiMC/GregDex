@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemNuggetPolonium","metadata":0,"displayName":"Polonium Nugget","unlocalizedName":"item.itemNuggetPolonium","oreDictNames":["nuggetPolonium"],"id":"miscutils:itemNuggetPolonium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":469}],"recipesAsInput":[]}

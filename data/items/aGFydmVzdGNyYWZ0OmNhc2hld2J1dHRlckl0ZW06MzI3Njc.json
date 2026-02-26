@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cashewbutterItem","metadata":32767,"displayName":"Cashew Butter","unlocalizedName":"item.cashewbutterItem","id":"harvestcraft:cashewbutterItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":228}]}

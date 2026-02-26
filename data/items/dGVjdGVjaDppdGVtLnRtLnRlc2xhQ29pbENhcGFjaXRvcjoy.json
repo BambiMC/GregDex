@@ -1,0 +1,1 @@
+{"modId":"tectech","itemName":"item.tm.teslaCoilCapacitor","metadata":2,"displayName":"HV Tesla Capacitor","unlocalizedName":"item.tm.teslaCoilCapacitor.2","id":"tectech:item.tm.teslaCoilCapacitor:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":142}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":163}]}

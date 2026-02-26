@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gardensoupItem","metadata":32767,"displayName":"Garden Soup","unlocalizedName":"item.gardensoupItem","id":"harvestcraft:gardensoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":17}]}

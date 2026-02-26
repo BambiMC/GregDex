@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":301,"displayName":"Molten Brass Cell","unlocalizedName":"gt.metaitem.99.301","oreDictNames":["cellMoltenBrass"],"id":"gregtech:gt.metaitem.99:301","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":311}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":312}]}

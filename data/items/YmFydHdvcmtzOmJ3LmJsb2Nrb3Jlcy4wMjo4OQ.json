@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":89,"displayName":"Small Tiberium Ore","unlocalizedName":"bw.blockores.02.89","oreDictNames":["oreSmallTiberium"],"id":"bartworks:bw.blockores.02:89","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":472},{"machine":"gt.recipe.macerator","chunk":4,"index":386}]}

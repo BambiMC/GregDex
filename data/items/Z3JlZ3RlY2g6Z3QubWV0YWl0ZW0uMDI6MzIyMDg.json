@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32208,"displayName":"Bag of Potato Chips","unlocalizedName":"gt.metaitem.02.32208","id":"gregtech:gt.metaitem.02:32208","recipesAsOutput":[{"machine":"crafting_table","chunk":102,"index":469},{"machine":"gt.recipe.packager","chunk":2,"index":157}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":9}]}

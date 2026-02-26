@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_pickaxe","metadata":0,"displayName":"Stone Pickaxe","unlocalizedName":"item.pickaxeStone","id":"minecraft:stone_pickaxe:0","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":453},{"machine":"gt.recipe.assembler","chunk":8,"index":405}],"recipesAsInput":[]}

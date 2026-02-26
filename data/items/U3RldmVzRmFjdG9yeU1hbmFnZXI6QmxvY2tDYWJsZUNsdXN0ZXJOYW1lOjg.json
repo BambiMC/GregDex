@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableClusterName","metadata":8,"displayName":"Advanced Cable Cluster","unlocalizedName":"tile.sfm.BlockAdvancedCableCluster","id":"StevesFactoryManager:BlockCableClusterName:8","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":3}],"recipesAsInput":[]}

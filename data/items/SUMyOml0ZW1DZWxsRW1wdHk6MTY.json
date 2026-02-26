@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":16,"displayName":"Sulfurous Acid Cell","unlocalizedName":"ic2.SulfurousAcid","oreDictNames":["cellSulfurousAcid"],"id":"IC2:itemCellEmpty:16","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":247}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":248}]}

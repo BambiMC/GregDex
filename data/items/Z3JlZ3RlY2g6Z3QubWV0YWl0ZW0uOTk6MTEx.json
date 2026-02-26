@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":111,"displayName":"Molten Purified Tengam Cell","unlocalizedName":"gt.metaitem.99.111","oreDictNames":["cellMoltenTengamPurified"],"id":"gregtech:gt.metaitem.99:111","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":109}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":110}]}

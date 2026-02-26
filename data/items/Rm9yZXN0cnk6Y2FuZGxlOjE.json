@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"candle","metadata":1,"displayName":"Lit Candle","unlocalizedName":"tile.for.candle.lit","id":"Forestry:candle:1","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":358}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":358}]}

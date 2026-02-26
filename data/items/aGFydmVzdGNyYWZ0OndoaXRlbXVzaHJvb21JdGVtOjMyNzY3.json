@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"whitemushroomItem","metadata":32767,"displayName":"White Mushroom","unlocalizedName":"item.whitemushroomItem","id":"harvestcraft:whitemushroomItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":325},{"machine":"gt.recipe.canner","chunk":0,"index":179}]}

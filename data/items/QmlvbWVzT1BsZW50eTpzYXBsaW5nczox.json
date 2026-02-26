@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"saplings","metadata":1,"displayName":"Yellow Autumn Sapling","unlocalizedName":"tile.saplings.yellowautumnSapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:saplings:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":54}],"recipesAsInput":[]}

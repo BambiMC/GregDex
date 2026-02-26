@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"clay","metadata":32767,"displayName":"Clay","unlocalizedName":"tile.clay","id":"minecraft:clay:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":467},{"machine":"gt.recipe.macerator","chunk":11,"index":180}]}

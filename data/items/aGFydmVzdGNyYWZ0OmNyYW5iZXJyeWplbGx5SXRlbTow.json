@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cranberryjellyItem","metadata":0,"displayName":"Cranberry Jelly","unlocalizedName":"item.cranberryjellyItem","oreDictNames":["foodCranberryjelly"],"id":"harvestcraft:cranberryjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":205}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":419}]}

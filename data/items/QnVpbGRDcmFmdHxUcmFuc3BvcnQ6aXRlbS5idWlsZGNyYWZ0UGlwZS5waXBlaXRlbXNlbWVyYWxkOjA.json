@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Transport","itemName":"item.buildcraftPipe.pipeitemsemerald","metadata":0,"displayName":"Emerald Transport Pipe","unlocalizedName":"item.PipeItemsEmerald","id":"BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":54}],"recipesAsInput":[]}

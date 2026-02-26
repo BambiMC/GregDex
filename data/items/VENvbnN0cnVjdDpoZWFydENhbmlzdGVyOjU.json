@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"heartCanister","metadata":5,"displayName":"Miniature Green Heart","unlocalizedName":"item.tconstruct.canister.miniheart.green","id":"TConstruct:heartCanister:5","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":330}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":375}]}

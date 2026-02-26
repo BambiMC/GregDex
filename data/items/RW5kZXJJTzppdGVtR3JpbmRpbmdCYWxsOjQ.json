@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":4,"displayName":"Conductive Iron Ball","unlocalizedName":"enderio.conductiveIron_ball","id":"EnderIO:itemGrindingBall:4","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":348},{"machine":"gt.recipe.assembler","chunk":26,"index":139}],"recipesAsInput":[]}

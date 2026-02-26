@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crabcookedItem","metadata":0,"displayName":"Cooked Crab","unlocalizedName":"item.crabcookedItem","oreDictNames":["foodCrabcooked"],"id":"harvestcraft:crabcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":13,"index":83}],"recipesAsInput":[]}

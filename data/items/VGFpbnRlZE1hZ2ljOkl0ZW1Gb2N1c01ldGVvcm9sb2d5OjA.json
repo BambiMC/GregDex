@@ -1,0 +1,1 @@
+{"modId":"TaintedMagic","itemName":"ItemFocusMeteorology","metadata":0,"displayName":"Wand Focus: Meteorology","unlocalizedName":"item.ItemFocusMeteorology","id":"TaintedMagic:ItemFocusMeteorology:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":316}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":4,"index":9}]}

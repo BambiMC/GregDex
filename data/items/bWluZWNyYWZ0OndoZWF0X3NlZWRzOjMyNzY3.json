@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wheat_seeds","metadata":32767,"displayName":"Seeds","unlocalizedName":"item.seeds","id":"minecraft:wheat_seeds:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":25,"index":307}]}

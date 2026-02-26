@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"witchwoodslab","metadata":32767,"displayName":"Rowan Slab","unlocalizedName":"tile.witchery:witchwoodslab.rowan","oreDictNames":["slabWood"],"id":"witchery:witchwoodslab:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":180},{"machine":"gt.recipe.macerator","chunk":36,"index":430}]}

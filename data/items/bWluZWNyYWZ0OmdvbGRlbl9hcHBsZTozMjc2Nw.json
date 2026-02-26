@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"golden_apple","metadata":32767,"displayName":"Golden Apple","unlocalizedName":"item.appleGold","id":"minecraft:golden_apple:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":68}]}

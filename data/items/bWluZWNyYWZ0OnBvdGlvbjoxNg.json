@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16,"displayName":"Awkward Potion","unlocalizedName":"item.potion","id":"minecraft:potion:16","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":281}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":282}]}

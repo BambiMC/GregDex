@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemPlateSodium","metadata":0,"displayName":"Sodium Plate","unlocalizedName":"item.itemPlateSodium","oreDictNames":["plateSodium"],"id":"miscutils:itemPlateSodium:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":1,"index":182}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":35,"index":13}]}

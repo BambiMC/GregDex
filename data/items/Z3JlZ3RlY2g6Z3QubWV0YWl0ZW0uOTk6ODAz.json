@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":803,"displayName":"Molten Sugar Cell","unlocalizedName":"gt.metaitem.99.803","oreDictNames":["cellMoltenSugar"],"id":"gregtech:gt.metaitem.99:803","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":139}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":140}]}

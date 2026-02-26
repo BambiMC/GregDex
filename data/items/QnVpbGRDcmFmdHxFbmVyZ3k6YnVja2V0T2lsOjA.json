@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Energy","itemName":"bucketOil","metadata":0,"displayName":"Oil Bucket","unlocalizedName":"item.bucketOil","id":"BuildCraft|Energy:bucketOil:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":435}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":436}]}

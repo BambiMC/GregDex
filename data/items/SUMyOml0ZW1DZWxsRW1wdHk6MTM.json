@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":13,"displayName":"Superheated Steam Cell","unlocalizedName":"ic2.itemCellSuperheatedSteam","id":"IC2:itemCellEmpty:13","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":245}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":246}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":331,"displayName":"Molten Mithril Cell","unlocalizedName":"gt.metaitem.99.331","oreDictNames":["cellMoltenMithril"],"id":"gregtech:gt.metaitem.99:331","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":199}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":200}]}

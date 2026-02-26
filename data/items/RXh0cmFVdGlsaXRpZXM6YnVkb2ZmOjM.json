@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"budoff","metadata":3,"displayName":"Block Update Detector (Advanced)","unlocalizedName":"tile.extrautils:budoff.3","id":"ExtraUtilities:budoff:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":226}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":29,"index":0}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"breadedporkchopItem","metadata":0,"displayName":"Breaded Porkchop","unlocalizedName":"item.breadedporkchopItem","oreDictNames":["foodBreadedporkchop"],"id":"harvestcraft:breadedporkchopItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":123}],"recipesAsInput":[]}

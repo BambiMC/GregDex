@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":884,"displayName":"Molten Desh Cell","unlocalizedName":"gt.metaitem.99.884","oreDictNames":["cellMoltenDesh"],"id":"gregtech:gt.metaitem.99:884","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":359}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":360}]}

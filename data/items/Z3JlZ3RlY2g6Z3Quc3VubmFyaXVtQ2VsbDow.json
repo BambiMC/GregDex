@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.sunnariumCell","metadata":0,"displayName":"Sunnarium Fuel Rod","unlocalizedName":"gt.sunnariumCell","id":"gregtech:gt.sunnariumCell:0","recipesAsOutput":[{"machine":"gt.recipe.ic2nuke","chunk":0,"index":20}],"recipesAsInput":[{"machine":"gt.recipe.thermalcentrifuge","chunk":0,"index":176}]}

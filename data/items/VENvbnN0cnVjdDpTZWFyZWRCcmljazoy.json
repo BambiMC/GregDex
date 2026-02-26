@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"SearedBrick","metadata":2,"displayName":"Ardite Ore","unlocalizedName":"MetalOre.Ardite","oreDictNames":["oreArdite"],"id":"TConstruct:SearedBrick:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":88},{"machine":"thaumcraft_crucible","chunk":2,"index":396}]}

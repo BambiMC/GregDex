@@ -1,0 +1,1 @@
+{"modId":"kubatech","itemName":"defc.casing","metadata":9,"displayName":"Draconium Fusion Casing","unlocalizedName":"defc.casing.9","id":"kubatech:defc.casing:9","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":135}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":136},{"machine":"gt.recipe.researchstation","chunk":0,"index":247}]}

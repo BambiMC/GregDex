@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32130,"displayName":"Notches Brew","unlocalizedName":"gt.metaitem.02.32130","id":"gregtech:gt.metaitem.02:32130","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":72}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":73}]}

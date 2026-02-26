@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemArmorJetpackElectric","metadata":32767,"displayName":"Electric Jetpack","unlocalizedName":"ic2.itemArmorJetpackElectric","id":"IC2:itemArmorJetpackElectric:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":64,"index":474},{"machine":"gt.recipe.assembler","chunk":7,"index":118}]}

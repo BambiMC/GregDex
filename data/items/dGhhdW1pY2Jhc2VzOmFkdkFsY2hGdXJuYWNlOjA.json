@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"advAlchFurnace","metadata":0,"displayName":"Thaumium Alchemical Furnace","unlocalizedName":"tile.advAlchFurnace","id":"thaumicbases:advAlchFurnace:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":399}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":50}]}

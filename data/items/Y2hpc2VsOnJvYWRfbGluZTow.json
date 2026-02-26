@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"road_line","metadata":0,"displayName":"Road Lines","unlocalizedName":"tile.chisel.road_line","id":"chisel:road_line:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":352},{"machine":"gt.recipe.assembler","chunk":2,"index":185}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"snickersbarItem","metadata":0,"displayName":"Snickers Bar","unlocalizedName":"item.snickersbarItem","oreDictNames":["foodSnickersbar"],"id":"harvestcraft:snickersbarItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":459}],"recipesAsInput":[]}

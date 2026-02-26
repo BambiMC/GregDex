@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_button","metadata":32767,"displayName":"Button","unlocalizedName":"tile.button","id":"minecraft:wooden_button:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":13,"index":282},{"machine":"gt.recipe.macerator","chunk":29,"index":26}]}

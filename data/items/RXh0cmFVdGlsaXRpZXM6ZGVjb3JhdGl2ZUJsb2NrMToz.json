@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"decorativeBlock1","metadata":3,"displayName":"Frosted Stone","unlocalizedName":"tile.extrautils:decorativeBlock1.3","oreDictNames":["blockIcestone"],"id":"ExtraUtilities:decorativeBlock1:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":232}],"recipesAsInput":[]}

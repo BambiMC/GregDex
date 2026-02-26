@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30729,"displayName":"Holy Water Cell","unlocalizedName":"gt.metaitem.01.30729","oreDictNames":["cellHolyWater"],"id":"gregtech:gt.metaitem.01:30729","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":439}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":440}]}

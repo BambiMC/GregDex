@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.schematic","metadata":32767,"displayName":"Any Schematic","unlocalizedName":"item.schematic","nbt":"{display:{Name:\"Any Schematic\"}}","id":"GalacticraftMars:item.schematic:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":185}]}

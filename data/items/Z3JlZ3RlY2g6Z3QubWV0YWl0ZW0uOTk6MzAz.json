@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":303,"displayName":"Molten Electrum Cell","unlocalizedName":"gt.metaitem.99.303","oreDictNames":["cellMoltenElectrum"],"id":"gregtech:gt.metaitem.99:303","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":323}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":324}]}

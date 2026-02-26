@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":10,"displayName":"Hot Coolant Cell","unlocalizedName":"ic2.itemCellHotCoolant","id":"IC2:itemCellEmpty:10","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":233}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":234}]}

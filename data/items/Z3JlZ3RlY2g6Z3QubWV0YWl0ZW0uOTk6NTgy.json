@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":582,"displayName":"Molten Enriched Holmium Cell","unlocalizedName":"gt.metaitem.99.582","oreDictNames":["cellMoltenEnrichedHolmium"],"id":"gregtech:gt.metaitem.99:582","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":223}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":224}]}

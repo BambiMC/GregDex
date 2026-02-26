@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"blackberrycobblerItem","metadata":0,"displayName":"Blackberry Cobbler","unlocalizedName":"item.blackberrycobblerItem","oreDictNames":["foodBlackberrycobbler"],"id":"harvestcraft:blackberrycobblerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":402}],"recipesAsInput":[]}

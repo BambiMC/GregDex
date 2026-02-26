@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"phobosblocks","metadata":3,"displayName":"Desh Ore","unlocalizedName":"tile.PhobosDeshOre","oreDictNames":["oreDesh"],"id":"GalaxySpace:phobosblocks:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":245},{"machine":"gt.recipe.macerator","chunk":5,"index":141}]}

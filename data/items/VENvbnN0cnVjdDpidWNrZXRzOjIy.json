@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":22,"displayName":"Molten Electrum Bucket","unlocalizedName":"item.tconstruct.bucket.Electrum","id":"TConstruct:buckets:22","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":360}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":361}]}

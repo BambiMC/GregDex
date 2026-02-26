@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"divinerwater","metadata":0,"displayName":"Water Diviner","unlocalizedName":"item.witchery:divinerwater","id":"witchery:divinerwater:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":176}],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":177},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":154}]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":8,"displayName":"Pink Flower Bud","unlocalizedName":"item.cosmetic8","id":"Botania:cosmetic:8","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":231},{"machine":"gt.recipe.assembler","chunk":0,"index":263}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":98}]}

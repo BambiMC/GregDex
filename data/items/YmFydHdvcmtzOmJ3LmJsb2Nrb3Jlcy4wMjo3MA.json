@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":70,"displayName":"Small Iridium Metal Residue Ore","unlocalizedName":"bw.blockores.02.70","oreDictNames":["oreSmallIridiumMetalResidue"],"id":"bartworks:bw.blockores.02:70","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":308},{"machine":"gt.recipe.macerator","chunk":10,"index":0}]}

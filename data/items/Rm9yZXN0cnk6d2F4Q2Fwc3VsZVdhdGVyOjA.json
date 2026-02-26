@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"waxCapsuleWater","metadata":0,"displayName":"Water Capsule","unlocalizedName":"item.for.waxCapsuleWater","oreDictNames":["capsuleWater"],"id":"Forestry:waxCapsuleWater:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":299}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":300}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"stuffedpepperItem","metadata":0,"displayName":"Stuffed Pepper","unlocalizedName":"item.stuffedpepperItem","oreDictNames":["foodStuffedpepper"],"id":"harvestcraft:stuffedpepperItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":366}],"recipesAsInput":[]}

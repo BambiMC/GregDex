@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"dropper","metadata":32767,"displayName":"Dropper","unlocalizedName":"tile.dropper","id":"minecraft:dropper:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":1,"index":39},{"machine":"gt.recipe.macerator","chunk":11,"index":466}]}

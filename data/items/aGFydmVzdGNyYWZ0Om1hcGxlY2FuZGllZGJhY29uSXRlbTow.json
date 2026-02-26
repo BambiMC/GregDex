@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"maplecandiedbaconItem","metadata":0,"displayName":"Maple Candied Bacon","unlocalizedName":"item.maplecandiedbaconItem","oreDictNames":["foodMaplecandiedbacon"],"id":"harvestcraft:maplecandiedbaconItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":236}],"recipesAsInput":[]}

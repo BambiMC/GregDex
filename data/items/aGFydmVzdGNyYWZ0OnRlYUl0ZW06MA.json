@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"teaItem","metadata":0,"displayName":"Cup of Tea","unlocalizedName":"item.teaItem","oreDictNames":["foodTea"],"id":"harvestcraft:teaItem:0","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":322}],"recipesAsInput":[]}

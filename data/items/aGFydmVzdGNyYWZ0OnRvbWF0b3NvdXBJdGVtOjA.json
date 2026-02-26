@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"tomatosoupItem","metadata":0,"displayName":"Tomato Soup","unlocalizedName":"item.tomatosoupItem","oreDictNames":["foodTomatosoup"],"id":"harvestcraft:tomatosoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":139}],"recipesAsInput":[]}

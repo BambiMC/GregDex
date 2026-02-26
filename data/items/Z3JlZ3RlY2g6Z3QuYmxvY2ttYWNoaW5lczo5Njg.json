@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":968,"displayName":"Pyrotheum Heating Vent","unlocalizedName":"gt.blockmachines.hatch.pyrotheum.input.tier.00","id":"gregtech:gt.blockmachines:968","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":150},{"machine":"gt.recipe.assembler","chunk":6,"index":169}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":687,"displayName":"Industrial Autoclave","unlocalizedName":"gt.blockmachines.multimachine.autoclave","id":"gregtech:gt.blockmachines:687","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":344}],"recipesAsInput":[]}

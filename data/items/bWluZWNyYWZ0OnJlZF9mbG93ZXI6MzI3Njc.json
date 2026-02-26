@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"red_flower","metadata":32767,"displayName":"Poppy","unlocalizedName":"tile.flower2.poppy","id":"minecraft:red_flower:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":10}]}

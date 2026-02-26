@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"SearedBrick","metadata":1,"displayName":"Cobalt Ore","unlocalizedName":"MetalOre.Cobalt","oreDictNames":["oreCobalt"],"id":"TConstruct:SearedBrick:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":87},{"machine":"thaumcraft_crucible","chunk":0,"index":293}]}

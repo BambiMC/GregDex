@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":28889,"displayName":"Sealed Wood Ring","unlocalizedName":"gt.metaitem.01.28889","oreDictNames":["ringWoodSealed"],"id":"gregtech:gt.metaitem.01:28889","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":107}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":31,"index":61}]}

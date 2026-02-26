@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mushrooms","metadata":1,"displayName":"Portobello","unlocalizedName":"tile.mushrooms.portobello","oreDictNames":["listInedibleMushroom"],"id":"BiomesOPlenty:mushrooms:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":159}]}

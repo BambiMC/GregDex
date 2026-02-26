@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"eggplantItem","metadata":32767,"displayName":"Eggplant","unlocalizedName":"item.eggplantItem","id":"harvestcraft:eggplantItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":68},{"machine":"gt.recipe.canner","chunk":0,"index":184}]}

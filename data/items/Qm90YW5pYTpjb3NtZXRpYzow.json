@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":0,"displayName":"Black Bowtie","unlocalizedName":"item.cosmetic0","id":"Botania:cosmetic:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":223},{"machine":"gt.recipe.assembler","chunk":0,"index":255}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":90}]}

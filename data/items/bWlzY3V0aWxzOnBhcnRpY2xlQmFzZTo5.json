@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"particleBase","metadata":9,"displayName":"Muon","unlocalizedName":"item.particle.base.Muon","oreDictNames":["particleMuon"],"id":"miscutils:particleBase:9","recipesAsOutput":[{"machine":"gtpp.recipe.cyclotron","chunk":0,"index":8}],"recipesAsInput":[]}

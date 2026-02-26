@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gooseberrymilkshakeItem","metadata":0,"displayName":"Gooseberry Milkshake","unlocalizedName":"item.gooseberrymilkshakeItem","oreDictNames":["foodGooseberrymilkshake"],"id":"harvestcraft:gooseberrymilkshakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":476}],"recipesAsInput":[]}

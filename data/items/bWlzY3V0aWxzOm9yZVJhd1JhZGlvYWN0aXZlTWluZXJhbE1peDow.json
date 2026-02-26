@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawRadioactiveMineralMix","metadata":0,"displayName":"Raw Strange Ore","unlocalizedName":"item.oreRawRadioactiveMineralMix","oreDictNames":["oreRawRadioactiveMineralMix"],"id":"miscutils:oreRawRadioactiveMineralMix:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":55}]}

@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"BlockJarNodeItem","metadata":0,"displayName":"Node in a Jar","unlocalizedName":"item.BlockJarNodeItem","id":"Thaumcraft:BlockJarNodeItem:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":2,"index":433}],"recipesAsInput":[{"machine":"thaumcraft_crucible","chunk":0,"index":161}]}

@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"WandCasting","metadata":132,"displayName":"Iron Capped Blood Wood Scepter","unlocalizedName":"item.WandCasting","nbt":"{cap:\"iron\",rod:\"blood_wood\",sceptre:1b}","id":"Thaumcraft:WandCasting:132","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":2,"index":314}],"recipesAsInput":[]}

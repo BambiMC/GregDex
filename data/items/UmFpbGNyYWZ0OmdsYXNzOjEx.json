@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"glass","metadata":11,"displayName":"Strengthened Glass","unlocalizedName":"tile.railcraft.glass","oreDictNames":["blockGlassHV"],"id":"Railcraft:glass:11","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":168}],"recipesAsInput":[]}

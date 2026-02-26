@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Core","itemName":"ironGearItem","metadata":0,"displayName":"Iron Gear","unlocalizedName":"item.ironGearItem","oreDictNames":["gearIron"],"id":"BuildCraft|Core:ironGearItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":160}],"recipesAsInput":[]}

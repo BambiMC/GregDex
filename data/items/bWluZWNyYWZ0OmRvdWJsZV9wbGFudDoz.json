@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"double_plant","metadata":3,"displayName":"Large Fern","unlocalizedName":"tile.doublePlant.fern","oreDictNames":["cropGrass"],"id":"minecraft:double_plant:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":451}]}

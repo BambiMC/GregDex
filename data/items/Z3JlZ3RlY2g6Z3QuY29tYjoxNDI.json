@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":142,"displayName":"Seaweed Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combUV","beeComb"],"id":"gregtech:gt.comb:142","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":147},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":421}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockCactusCoke","metadata":4,"displayName":"Quadruple Compressed Cactus Coke","unlocalizedName":"tile.blockCactusCoke.4","id":"miscutils:blockCactusCoke:4","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":161}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":162}]}

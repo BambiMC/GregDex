@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBallEndergy","metadata":5,"displayName":"Energetic Silver Grinding Ball","unlocalizedName":"enderio.energeticSilverGrindingBall","id":"EnderIO:itemGrindingBallEndergy:5","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":358},{"machine":"gt.recipe.assembler","chunk":26,"index":149}],"recipesAsInput":[]}

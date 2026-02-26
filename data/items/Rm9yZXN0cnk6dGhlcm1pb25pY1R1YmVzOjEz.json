@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"thermionicTubes","metadata":13,"displayName":"Uranium238 Electron Tube","unlocalizedName":"item.for.thermionicTubes.ex-13","id":"Forestry:thermionicTubes:13","recipesAsOutput":[{"machine":"forestry_fabricator","chunk":0,"index":57},{"machine":"gt.recipe.circuitassembler","chunk":0,"index":343}],"recipesAsInput":[]}

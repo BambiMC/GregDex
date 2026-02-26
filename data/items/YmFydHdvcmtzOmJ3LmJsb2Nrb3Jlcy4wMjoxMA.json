@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":10,"displayName":"Small Arsenopyrite Ore","unlocalizedName":"bw.blockores.02.10","oreDictNames":["oreSmallArsenopyrite"],"id":"bartworks:bw.blockores.02:10","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":298},{"machine":"gt.recipe.macerator","chunk":9,"index":29}]}

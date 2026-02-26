@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"porkchop","metadata":32767,"displayName":"Raw Porkchop","unlocalizedName":"item.porkchopRaw","id":"minecraft:porkchop:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":2},{"machine":"gt.recipe.canner","chunk":0,"index":66},{"machine":"gt.recipe.macerator","chunk":31,"index":480}]}

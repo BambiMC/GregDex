@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableInputName","metadata":0,"displayName":"Redstone Receiver","unlocalizedName":"tile.sfm.BlockCableInput","id":"StevesFactoryManager:BlockCableInputName:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":494}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bassrawItem","metadata":32767,"displayName":"Raw Bass","unlocalizedName":"item.bassrawItem","id":"harvestcraft:bassrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":310},{"machine":"gt.recipe.canner","chunk":1,"index":156}]}

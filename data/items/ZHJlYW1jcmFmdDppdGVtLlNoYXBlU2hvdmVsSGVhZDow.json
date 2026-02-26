@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeShovelHead","metadata":0,"displayName":"Casting Form (Shovel head Shape)","unlocalizedName":"item.ShapeShovelHead","id":"dreamcraft:item.ShapeShovelHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":44}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":106}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32110,"displayName":"Compressed Fireclay","unlocalizedName":"gt.metaitem.01.32110","id":"gregtech:gt.metaitem.01:32110","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":291}],"recipesAsInput":[{"machine":"furnace","chunk":3,"index":490},{"machine":"gt.recipe.macerator","chunk":13,"index":46}]}

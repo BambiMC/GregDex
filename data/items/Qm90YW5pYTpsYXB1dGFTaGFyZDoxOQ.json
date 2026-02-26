@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"laputaShard","metadata":19,"displayName":"Shard of Laputa","unlocalizedName":"item.laputaShard","id":"Botania:laputaShard:19","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":1},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":2}],"recipesAsInput":[]}

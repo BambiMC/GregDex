@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"RaisinJuice","metadata":0,"displayName":"Raisin Juice Cell","unlocalizedName":"item.RaisinJuice","oreDictNames":["cellRaisinJuice"],"id":"miscutils:RaisinJuice:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":412}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":413}]}

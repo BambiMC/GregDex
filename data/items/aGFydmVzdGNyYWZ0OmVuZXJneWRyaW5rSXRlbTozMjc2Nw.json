@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"energydrinkItem","metadata":32767,"displayName":"Energy Drink","unlocalizedName":"item.energydrinkItem","id":"harvestcraft:energydrinkItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":194}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedAcaciaSapling","metadata":0,"displayName":"Crated Acacia Sapling","unlocalizedName":"item.cratedAcaciaSapling","id":"Forestry:cratedAcaciaSapling:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":432}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":156}]}

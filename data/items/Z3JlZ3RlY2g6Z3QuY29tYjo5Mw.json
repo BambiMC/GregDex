@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":93,"displayName":"Desh Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:93","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":240},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":145}]}

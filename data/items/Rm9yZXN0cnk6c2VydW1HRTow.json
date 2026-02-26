@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"serumGE","metadata":0,"displayName":"Scanned Serum","unlocalizedName":"item.for.serumGE","nbt":"{display:{Name:\"Scanned Serum\"}}","id":"Forestry:serumGE:0","recipesAsOutput":[{"machine":"gt.recipe.scanner","chunk":0,"index":175}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"floraleaves","metadata":1,"displayName":"Eucalyptus Leaves","unlocalizedName":"block.eucalyptus.NLeaves","oreDictNames":["treeLeaves"],"id":"Natura:floraleaves:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":38}],"recipesAsInput":[]}

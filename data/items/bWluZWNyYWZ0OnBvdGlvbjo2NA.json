@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":64,"displayName":"Mundane Potion","unlocalizedName":"item.potion","id":"minecraft:potion:64","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":317}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":318}]}

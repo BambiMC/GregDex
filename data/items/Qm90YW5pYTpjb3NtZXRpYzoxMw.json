@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":13,"displayName":"Devil Tail","unlocalizedName":"item.cosmetic13","id":"Botania:cosmetic:13","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":236},{"machine":"gt.recipe.assembler","chunk":0,"index":268}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":103}]}

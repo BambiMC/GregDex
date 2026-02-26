@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedFertilizer","metadata":0,"displayName":"Crated Fertilizer","unlocalizedName":"item.cratedFertilizer","id":"Forestry:cratedFertilizer:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":325}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":419}]}

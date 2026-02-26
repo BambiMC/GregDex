@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerRefractory","metadata":128,"displayName":"Sap Capsule","unlocalizedName":"item.containerRefractory","id":"BinnieCore:containerRefractory:128","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":486}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":487}]}

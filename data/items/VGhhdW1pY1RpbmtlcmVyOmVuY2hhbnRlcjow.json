@@ -1,0 +1,1 @@
+{"modId":"ThaumicTinkerer","itemName":"enchanter","metadata":0,"displayName":"Osmotic Enchanter","unlocalizedName":"tile.enchanter","id":"ThaumicTinkerer:enchanter:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":472}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":481}]}

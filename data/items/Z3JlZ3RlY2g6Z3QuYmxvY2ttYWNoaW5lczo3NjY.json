@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":766,"displayName":"Biosphere Cleanser","unlocalizedName":"gt.blockmachines.pollutioncleaner.10.tier.single","id":"gregtech:gt.blockmachines:766","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":203}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":231}]}

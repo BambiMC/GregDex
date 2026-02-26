@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":3,"displayName":"Molten Tin Bucket","unlocalizedName":"item.tconstruct.bucket.Tin","id":"TConstruct:buckets:3","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":278}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":279}]}

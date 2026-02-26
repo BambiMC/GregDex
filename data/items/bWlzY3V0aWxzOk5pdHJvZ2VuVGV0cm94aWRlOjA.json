@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"NitrogenTetroxide","metadata":0,"displayName":"Nitrogen Tetroxide Cell","unlocalizedName":"item.NitrogenTetroxide","oreDictNames":["cellNitrogenTetroxide"],"id":"miscutils:NitrogenTetroxide:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":495}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":496}]}

@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"machine.alpha","metadata":12,"displayName":"Advanced Coke Oven Brick","unlocalizedName":"tile.railcraft.machine.alpha.blast.furnace","id":"Railcraft:machine.alpha:12","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":66}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":241}]}

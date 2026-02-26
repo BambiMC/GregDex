@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"explosive.slime","metadata":0,"displayName":"SDX","unlocalizedName":"tile.explosive.slime","id":"TConstruct:explosive.slime:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":461}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":462}]}

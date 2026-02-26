@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemNuggetBeef","metadata":32767,"displayName":"Beef Nugget","unlocalizedName":"item.ItemNuggetBeef","id":"Thaumcraft:ItemNuggetBeef:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":87},{"machine":"gt.recipe.macerator","chunk":31,"index":67}]}

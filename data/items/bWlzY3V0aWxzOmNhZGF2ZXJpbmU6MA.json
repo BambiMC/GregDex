@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"cadaverine","metadata":0,"displayName":"Cadaverine Cell","unlocalizedName":"item.cadaverine","oreDictNames":["cellCadaverine"],"id":"miscutils:cadaverine:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":438}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":439}]}

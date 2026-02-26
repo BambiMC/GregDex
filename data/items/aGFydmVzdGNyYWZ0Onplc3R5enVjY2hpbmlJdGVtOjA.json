@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zestyzucchiniItem","metadata":0,"displayName":"Zesty Zucchini","unlocalizedName":"item.zestyzucchiniItem","oreDictNames":["foodZestyzucchini"],"id":"harvestcraft:zestyzucchiniItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":379}],"recipesAsInput":[]}

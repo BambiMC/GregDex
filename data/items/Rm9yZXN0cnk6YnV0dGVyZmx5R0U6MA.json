@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"butterflyGE","metadata":0,"displayName":"Scanned Butterfly","unlocalizedName":"item.for.butterflyGE","nbt":"{display:{Name:\"Scanned Butterfly\"}}","id":"Forestry:butterflyGE:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":6},{"machine":"gt.recipe.scanner","chunk":0,"index":173}],"recipesAsInput":[]}

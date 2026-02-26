@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCan","metadata":66,"displayName":"Nitrogen Can","unlocalizedName":"item.containerCan","id":"BinnieCore:containerCan:66","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":61}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":62}]}

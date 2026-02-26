@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16449,"displayName":"Splash Potion of Regeneration","unlocalizedName":"item.potion","id":"minecraft:potion:16449","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":309}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":310}]}

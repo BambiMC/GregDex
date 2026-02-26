@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"item.ToolNetworkTool","metadata":0,"displayName":"Network Tool","unlocalizedName":"item.appliedenergistics2.ToolNetworkTool","id":"appliedenergistics2:item.ToolNetworkTool:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":30}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":211}]}

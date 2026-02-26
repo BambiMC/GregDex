@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":400,"displayName":"Molten Alumite Cell","unlocalizedName":"gt.metaitem.99.400","oreDictNames":["cellMoltenAlumite"],"id":"gregtech:gt.metaitem.99:400","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":107}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":108}]}

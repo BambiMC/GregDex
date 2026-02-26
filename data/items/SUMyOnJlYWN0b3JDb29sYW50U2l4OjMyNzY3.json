@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorCoolantSix","metadata":32767,"displayName":"60k Coolant Cell","unlocalizedName":"ic2.reactorCoolantSix","id":"IC2:reactorCoolantSix:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":186},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":208}]}

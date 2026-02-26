@@ -1,0 +1,1 @@
+{"modId":"TravellersGear","itemName":"simpleGear","metadata":5,"displayName":"Vambraces","unlocalizedName":"item.TravellersGear.simpleGear.vambraces","oreDictNames":["travelgearVambraceBase"],"id":"TravellersGear:simpleGear:5","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":200}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":223}]}

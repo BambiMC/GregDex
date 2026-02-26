@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCylinder","metadata":130,"displayName":"Latex Cylinder","unlocalizedName":"item.containerCylinder","id":"BinnieCore:containerCylinder:130","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":300}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":301}]}

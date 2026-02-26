@@ -1,0 +1,1 @@
+[{"machine":"gtpp.recipe.solartower","recipeType":"gt_machine","itemInputs":[],"fluidInputs":[{"id":"molten.solarsaltcold","displayName":"Solar Salt (Cold)","amount":1000}],"itemOutputs":[],"fluidOutputs":[{"id":"molten.solarsalthot","displayName":"Solar Salt (Hot)","amount":1000}]}]

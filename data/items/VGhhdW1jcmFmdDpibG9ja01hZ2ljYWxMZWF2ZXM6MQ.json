@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"blockMagicalLeaves","metadata":1,"displayName":"Silverwood Leaves","unlocalizedName":"tile.blockMagicalLeaves.silverwood","oreDictNames":["treeLeaves"],"id":"Thaumcraft:blockMagicalLeaves:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":27}],"recipesAsInput":[]}

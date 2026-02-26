@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockFarmStation","metadata":0,"displayName":"Farming Station","unlocalizedName":"tile.blockFarmStation","id":"EnderIO:blockFarmStation:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":334}],"recipesAsInput":[{"machine":"crafting_table","chunk":34,"index":86}]}

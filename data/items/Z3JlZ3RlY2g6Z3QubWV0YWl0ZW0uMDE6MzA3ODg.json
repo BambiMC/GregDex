@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30788,"displayName":"Silicon Oil Cell","unlocalizedName":"gt.metaitem.01.30788","oreDictNames":["cellSiliconOil"],"id":"gregtech:gt.metaitem.01:30788","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":45}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":46}]}

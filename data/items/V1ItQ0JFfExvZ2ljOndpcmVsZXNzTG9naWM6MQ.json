@@ -1,0 +1,1 @@
+{"modId":"WR-CBE|Logic","itemName":"wirelessLogic","metadata":1,"displayName":"Wireless Receiver","unlocalizedName":"item.wrcbe_logic:wirelesspart|1","id":"WR-CBE|Logic:wirelessLogic:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":56}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":395}]}

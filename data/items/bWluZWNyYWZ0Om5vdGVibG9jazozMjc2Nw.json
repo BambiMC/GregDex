@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"noteblock","metadata":32767,"displayName":"Note Block","unlocalizedName":"tile.musicBlock","id":"minecraft:noteblock:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":130},{"machine":"gt.recipe.arcfurnace","chunk":1,"index":88},{"machine":"gt.recipe.macerator","chunk":12,"index":32}]}

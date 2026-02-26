@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemBasicCapacitor","metadata":3,"displayName":"Crystalline Capacitor","unlocalizedName":"enderio.crystallineCapacitor","oreDictNames":["capacitorCrystalline"],"id":"EnderIO:itemBasicCapacitor:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":405},{"machine":"gt.recipe.assembler","chunk":0,"index":406}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":13,"displayName":"Chiseled Basalt Brick","unlocalizedName":"tile.stone13","oreDictNames":["stoneBasaltChiseled"],"id":"Botania:stone:13","recipesAsOutput":[{"machine":"crafting_table","chunk":85,"index":12}],"recipesAsInput":[]}

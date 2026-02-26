@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"waxCapsuleSeedOil","metadata":0,"displayName":"Seed Oil Capsule","unlocalizedName":"item.for.waxCapsuleSeedOil","oreDictNames":["capsuleSeedOil"],"id":"Forestry:waxCapsuleSeedOil:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":315}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":316}]}

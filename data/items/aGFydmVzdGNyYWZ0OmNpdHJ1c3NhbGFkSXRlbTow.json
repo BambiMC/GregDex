@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"citrussaladItem","metadata":0,"displayName":"Citrus Salad","unlocalizedName":"item.citrussaladItem","oreDictNames":["foodCitrussalad"],"id":"harvestcraft:citrussaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":228}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"scallionItem","metadata":32767,"displayName":"Scallion","unlocalizedName":"item.scallionItem","id":"harvestcraft:scallionItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":174}]}

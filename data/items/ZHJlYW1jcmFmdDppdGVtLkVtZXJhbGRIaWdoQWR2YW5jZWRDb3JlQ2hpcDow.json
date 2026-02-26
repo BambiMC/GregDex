@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EmeraldHighAdvancedCoreChip","metadata":0,"displayName":"Item Circuit Tier IV","unlocalizedName":"item.EmeraldHighAdvancedCoreChip","id":"dreamcraft:item.EmeraldHighAdvancedCoreChip:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":309}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":110}]}

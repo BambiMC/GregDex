@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemDustGypsum","metadata":0,"displayName":"Calcium Sulfate (Gypsum) Dust","unlocalizedName":"item.itemDustGypsum","oreDictNames":["dustGypsum","dustCalciumSulfate"],"id":"miscutils:itemDustGypsum:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":24,"index":119},{"machine":"crafting_table","chunk":24,"index":121}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16387,"displayName":"Splash Potion of Fire Resistance","unlocalizedName":"item.potion","id":"minecraft:potion:16387","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":405}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":406}]}

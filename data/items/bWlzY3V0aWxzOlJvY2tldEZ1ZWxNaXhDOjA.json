@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"RocketFuelMixC","metadata":0,"displayName":"CN3H7O3 Rocket Fuel Cell","unlocalizedName":"item.RocketFuelMixC","oreDictNames":["cellCN3H7O3RocketFuel"],"id":"miscutils:RocketFuelMixC:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":495}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":496}]}

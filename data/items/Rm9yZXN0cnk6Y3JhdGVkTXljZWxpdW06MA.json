@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedMycelium","metadata":0,"displayName":"Crated Mycelium","unlocalizedName":"item.cratedMycelium","id":"Forestry:cratedMycelium:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":307}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":168}]}

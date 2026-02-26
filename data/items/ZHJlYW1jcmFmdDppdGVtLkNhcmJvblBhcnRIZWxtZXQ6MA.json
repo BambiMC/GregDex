@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CarbonPartHelmet","metadata":0,"displayName":"Carbon Parts \"Helmet\"","unlocalizedName":"item.CarbonPartHelmet","id":"dreamcraft:item.CarbonPartHelmet:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":186}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":269}]}

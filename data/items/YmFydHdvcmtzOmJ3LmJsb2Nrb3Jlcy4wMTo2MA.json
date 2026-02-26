@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":60,"displayName":"Leach Residue Ore","unlocalizedName":"bw.blockores.01.60","oreDictNames":["oreLeachResidue"],"id":"bartworks:bw.blockores.01:60","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":278},{"machine":"gt.recipe.macerator","chunk":5,"index":172}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"saplings","metadata":7,"displayName":"Ethereal Sapling","unlocalizedName":"tile.saplings.etherealSapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:saplings:7","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":60}],"recipesAsInput":[]}

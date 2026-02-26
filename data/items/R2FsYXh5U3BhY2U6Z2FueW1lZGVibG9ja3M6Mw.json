@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"ganymedeblocks","metadata":3,"displayName":"Ilmenite Ore","unlocalizedName":"tile.GanymedeTitanuimOre","oreDictNames":["oreIlmenite"],"id":"GalaxySpace:ganymedeblocks:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":23},{"machine":"gt.recipe.macerator","chunk":6,"index":366}]}

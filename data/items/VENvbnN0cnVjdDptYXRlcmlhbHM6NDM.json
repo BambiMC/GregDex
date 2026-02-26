@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":43,"displayName":"Reinforcement","unlocalizedName":"item.tconstruct.Materials.Reinforcement","id":"TConstruct:materials:43","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":61}],"recipesAsInput":[]}

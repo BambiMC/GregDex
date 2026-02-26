@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"yorkshirepuddingItem","metadata":32767,"displayName":"Yorkshire Pudding","unlocalizedName":"item.yorkshirepuddingItem","id":"harvestcraft:yorkshirepuddingItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":288}]}

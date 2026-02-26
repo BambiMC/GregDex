@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_brick","metadata":9,"displayName":"Colored Bricks (Cyan Frequency)","unlocalizedName":"tile.extrautils:color_brick.9","oreDictNames":["bricksClayPink","bricksClay"],"id":"ExtraUtilities:color_brick:9","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":72}],"recipesAsInput":[]}

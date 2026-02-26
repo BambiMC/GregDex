@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":5326,"displayName":"Enriched Naquadah Ore","unlocalizedName":"gt.blockores.5326","oreDictNames":["oreMarbleNaquadahEnriched"],"id":"gregtech:gt.blockores:5326","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":261},{"machine":"gt.recipe.macerator","chunk":10,"index":149}]}

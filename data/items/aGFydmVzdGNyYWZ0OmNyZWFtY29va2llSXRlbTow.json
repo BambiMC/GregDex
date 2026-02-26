@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"creamcookieItem","metadata":0,"displayName":"Cream Cookie","unlocalizedName":"item.creamcookieItem","oreDictNames":["foodCreamcookie"],"id":"harvestcraft:creamcookieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":395}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":11,"displayName":"Structural MK XII (Osmium Plate)","unlocalizedName":"item.upgrade.structural.12","id":"JABBA:upgradeStructural:11","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":36},{"machine":"gt.recipe.assembler","chunk":1,"index":71}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormAnvil","metadata":0,"displayName":"Casting Form (Anvil Mold)","unlocalizedName":"item.MoldFormAnvil","id":"dreamcraft:item.MoldFormAnvil:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":5}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":64}]}

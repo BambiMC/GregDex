@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32316,"displayName":"Mold (Arrow Head)","unlocalizedName":"gt.metaitem.01.32316","id":"gregtech:gt.metaitem.01:32316","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":65},{"machine":"gt.recipe.press","chunk":0,"index":19}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":19}]}

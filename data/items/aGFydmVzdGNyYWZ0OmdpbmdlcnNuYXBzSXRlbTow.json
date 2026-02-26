@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gingersnapsItem","metadata":0,"displayName":"Ginger Snaps","unlocalizedName":"item.gingersnapsItem","oreDictNames":["foodGingersnaps"],"id":"harvestcraft:gingersnapsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":388}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":34,"displayName":"Hemlock Wood Door","unlocalizedName":"tile.door","nbt":"{meta:34}","id":"ExtraTrees:door:34","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":7},{"machine":"crafting_table","chunk":110,"index":8}],"recipesAsInput":[]}

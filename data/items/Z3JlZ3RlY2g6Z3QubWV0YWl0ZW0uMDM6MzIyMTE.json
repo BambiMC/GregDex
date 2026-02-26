@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32211,"displayName":"Light Upgrade","unlocalizedName":"gt.metaitem.03.32211","oreDictNames":["apiaryUpgrade"],"id":"gregtech:gt.metaitem.03:32211","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":420},{"machine":"crafting_table","chunk":112,"index":365}],"recipesAsInput":[]}

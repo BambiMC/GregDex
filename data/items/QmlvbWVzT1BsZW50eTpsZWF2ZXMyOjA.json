@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"leaves2","metadata":0,"displayName":"Dying Leaves","unlocalizedName":"tile.leaves2.dead","oreDictNames":["treeLeaves"],"id":"BiomesOPlenty:leaves2:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":58}],"recipesAsInput":[]}

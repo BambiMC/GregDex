@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"GTPP.BattPack.09.name","metadata":0,"displayName":"§9Charge Pack [UHV]§7","unlocalizedName":"item.GTPP.BattPack.09.name","id":"miscutils:GTPP.BattPack.09.name:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":363},{"machine":"gt.recipe.scanner","chunk":0,"index":112}],"recipesAsInput":[]}

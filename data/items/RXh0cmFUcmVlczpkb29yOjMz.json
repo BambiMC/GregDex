@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":33,"displayName":"Cedar Wood Door","unlocalizedName":"tile.door","nbt":"{meta:33}","id":"ExtraTrees:door:33","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":2},{"machine":"crafting_table","chunk":110,"index":3}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"vegemiteontoastItem","metadata":0,"displayName":"Vegemite on Toast","unlocalizedName":"item.vegemiteontoastItem","oreDictNames":["foodVegemiteontoast"],"id":"harvestcraft:vegemiteontoastItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":242}],"recipesAsInput":[]}

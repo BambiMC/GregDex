@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"decoration.stoneladder","metadata":0,"displayName":"Ladder","unlocalizedName":"tile.decoration.stoneladder","id":"TConstruct:decoration.stoneladder:0","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":177},{"machine":"gt.recipe.assembler","chunk":29,"index":14}],"recipesAsInput":[]}

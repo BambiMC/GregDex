@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"enderman_head","metadata":0,"displayName":"Enderman Head","unlocalizedName":"tile.endermanHead","id":"HardcoreEnderExpansion:enderman_head:0","recipesAsOutput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":201}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":33}]}

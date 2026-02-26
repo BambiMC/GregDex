@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":811,"displayName":"Molten Glowstone Cell","unlocalizedName":"gt.metaitem.99.811","oreDictNames":["cellMoltenGlowstone"],"id":"gregtech:gt.metaitem.99:811","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":51}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":52}]}

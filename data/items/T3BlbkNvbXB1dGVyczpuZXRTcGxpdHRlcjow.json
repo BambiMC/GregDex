@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"netSplitter","metadata":0,"displayName":"Net Splitter","unlocalizedName":"tile.oc.netSplitter","oreDictNames":["oc:netSplitter"],"id":"OpenComputers:netSplitter:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":7}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"shears","metadata":0,"displayName":"Precision Shears","unlocalizedName":"item.extrautils:shears","oreDictNames":["craftingToolShears"],"id":"ExtraUtilities:shears:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":207}],"recipesAsInput":[]}

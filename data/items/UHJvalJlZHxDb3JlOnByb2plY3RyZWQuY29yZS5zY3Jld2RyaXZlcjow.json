@@ -1,0 +1,1 @@
+{"modId":"ProjRed|Core","itemName":"projectred.core.screwdriver","metadata":0,"displayName":"Screwdriver","unlocalizedName":"item.projectred.core.screwdriver","id":"ProjRed|Core:projectred.core.screwdriver:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":463}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":318}]}

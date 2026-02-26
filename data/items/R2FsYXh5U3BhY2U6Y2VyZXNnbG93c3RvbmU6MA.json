@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"ceresglowstone","metadata":0,"displayName":"Ceres Glowstone","unlocalizedName":"tile.CeresGlowStone","oreDictNames":["glowstone","rockCeres","rockSpace"],"id":"GalaxySpace:ceresglowstone:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":254}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":3,"index":156}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinSmithIV","metadata":0,"displayName":"Coin \"Blacksmith 10K\"","unlocalizedName":"item.CoinSmithIV","id":"dreamcraft:item.CoinSmithIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":306}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":362}]}

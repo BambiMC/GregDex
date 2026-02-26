@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars3","metadata":4,"displayName":"Quadruple Compressed Terra Solar","unlocalizedName":"tile.EMT.Quadruple_Compressed_Terra_Solar","id":"EMT:EMTSolars3:4","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":176}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":120}]}

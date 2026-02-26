@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"kimchiItem","metadata":0,"displayName":"Kimchi","unlocalizedName":"item.kimchiItem","oreDictNames":["foodKimchi"],"id":"harvestcraft:kimchiItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":117}],"recipesAsInput":[]}

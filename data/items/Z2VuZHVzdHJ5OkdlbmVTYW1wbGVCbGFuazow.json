@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"GeneSampleBlank","metadata":0,"displayName":"Blank Gene Sample","unlocalizedName":"item.gendustry.GeneSampleBlank","id":"gendustry:GeneSampleBlank:0","recipesAsOutput":[{"machine":"furnace","chunk":13,"index":273},{"machine":"gt.recipe.assembler","chunk":26,"index":297}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":298}]}

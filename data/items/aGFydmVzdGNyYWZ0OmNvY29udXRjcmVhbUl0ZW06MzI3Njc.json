@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coconutcreamItem","metadata":32767,"displayName":"Coconut Cream","unlocalizedName":"item.coconutcreamItem","id":"harvestcraft:coconutcreamItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":278}]}

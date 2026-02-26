@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lavendershortbreadItem","metadata":0,"displayName":"Lavender Shortbread","unlocalizedName":"item.lavendershortbreadItem","oreDictNames":["foodLavendershortbread"],"id":"harvestcraft:lavendershortbreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":238}],"recipesAsInput":[]}

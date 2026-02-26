@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":103,"displayName":"Accelerated Processing Unit (APU) (Tier 3)","unlocalizedName":"item.oc.APU2","id":"OpenComputers:item:103","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":19},{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":23}]}

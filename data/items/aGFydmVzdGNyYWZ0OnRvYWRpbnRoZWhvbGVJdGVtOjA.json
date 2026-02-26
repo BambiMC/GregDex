@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"toadintheholeItem","metadata":0,"displayName":"Toad in the Hole","unlocalizedName":"item.toadintheholeItem","oreDictNames":["foodToadinthehole"],"id":"harvestcraft:toadintheholeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":272}],"recipesAsInput":[]}

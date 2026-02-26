@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Robotics","itemName":"robotStation","metadata":0,"displayName":"Docking Station","unlocalizedName":"item.PipeRobotStation","id":"BuildCraft|Robotics:robotStation:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":43}],"recipesAsInput":[]}

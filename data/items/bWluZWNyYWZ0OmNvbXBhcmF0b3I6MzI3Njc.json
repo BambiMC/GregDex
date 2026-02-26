@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"comparator","metadata":32767,"displayName":"Redstone Comparator","unlocalizedName":"item.comparator","id":"minecraft:comparator:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":124}]}

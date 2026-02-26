@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"tallgrass","metadata":2,"displayName":"Fern","unlocalizedName":"tile.tallgrass.fern","oreDictNames":["cropGrass"],"id":"minecraft:tallgrass:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":142}]}

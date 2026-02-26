@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pearsmoothieItem","metadata":32767,"displayName":"Pear Smoothie","unlocalizedName":"item.pearsmoothieItem","id":"harvestcraft:pearsmoothieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":267}]}

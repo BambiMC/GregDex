@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"dreamcraft_Pollution_bucket","metadata":0,"displayName":"Bucket of Pollution","unlocalizedName":"item.Pollution_bucket","id":"dreamcraft:dreamcraft_Pollution_bucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":66}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":67}]}

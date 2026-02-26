@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crabrawItem","metadata":32767,"displayName":"Raw Crab","unlocalizedName":"item.crabrawItem","id":"harvestcraft:crabrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":83},{"machine":"gt.recipe.canner","chunk":1,"index":161}]}

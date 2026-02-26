@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sausagerollItem","metadata":0,"displayName":"Sausage Roll","unlocalizedName":"item.sausagerollItem","oreDictNames":["foodSausageroll"],"id":"harvestcraft:sausagerollItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":481}],"recipesAsInput":[]}

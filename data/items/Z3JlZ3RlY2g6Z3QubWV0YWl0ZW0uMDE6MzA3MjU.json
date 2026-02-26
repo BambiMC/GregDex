@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30725,"displayName":"Honey Cell","unlocalizedName":"gt.metaitem.01.30725","oreDictNames":["cellHoney"],"id":"gregtech:gt.metaitem.01:30725","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":433}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":434}]}

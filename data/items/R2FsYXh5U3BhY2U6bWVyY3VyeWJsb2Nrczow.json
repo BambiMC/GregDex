@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"mercuryblocks","metadata":0,"displayName":"Mercury Surface Block","unlocalizedName":"tile.MercuryGrunt","oreDictNames":["rockSpace","rockPlanetMercury"],"id":"GalaxySpace:mercuryblocks:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":191},{"machine":"gt.recipe.macerator","chunk":0,"index":150}]}

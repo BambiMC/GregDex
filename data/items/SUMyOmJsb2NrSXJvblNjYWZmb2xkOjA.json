@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockIronScaffold","metadata":0,"displayName":"Iron Scaffold","unlocalizedName":"ic2.blockIronScaffold","id":"IC2:blockIronScaffold:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":395},{"machine":"gt.recipe.assembler","chunk":26,"index":349}],"recipesAsInput":[]}

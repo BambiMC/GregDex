@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"Naphthalene","metadata":0,"displayName":"Naphthalene Cell","unlocalizedName":"item.Naphthalene","oreDictNames":["cellNaphthalene"],"id":"miscutils:Naphthalene:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":485}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":486}]}

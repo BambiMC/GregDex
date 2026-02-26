@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":2,"displayName":"Vibrant Alloy Ball","unlocalizedName":"enderio.phasedGold_ball","id":"EnderIO:itemGrindingBall:2","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":346},{"machine":"gt.recipe.assembler","chunk":26,"index":137}],"recipesAsInput":[]}

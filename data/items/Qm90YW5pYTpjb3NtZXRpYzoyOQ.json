@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":29,"displayName":"Lusitanic Shield","unlocalizedName":"item.cosmetic29","id":"Botania:cosmetic:29","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":252},{"machine":"gt.recipe.assembler","chunk":0,"index":284}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":119}]}

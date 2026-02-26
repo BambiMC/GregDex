@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":14,"displayName":"Seared Stone Bucket","unlocalizedName":"item.tconstruct.bucket.Stone","id":"TConstruct:buckets:14","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":320}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":321}]}

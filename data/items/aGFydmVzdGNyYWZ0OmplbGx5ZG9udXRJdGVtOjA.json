@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"jellydonutItem","metadata":0,"displayName":"Jelly Donut","unlocalizedName":"item.jellydonutItem","oreDictNames":["foodJellydonut"],"id":"harvestcraft:jellydonutItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":349}],"recipesAsInput":[]}

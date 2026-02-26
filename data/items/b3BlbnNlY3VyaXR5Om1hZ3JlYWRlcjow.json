@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"magreader","metadata":0,"displayName":"Magnetic Card Reader","unlocalizedName":"tile.magreader","id":"opensecurity:magreader:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":36}],"recipesAsInput":[]}

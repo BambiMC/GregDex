@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"ploughmanslunchItem","metadata":32767,"displayName":"Ploughman's Lunch","unlocalizedName":"item.ploughmanslunchItem","id":"harvestcraft:ploughmanslunchItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":251}]}

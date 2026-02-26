@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"foliage","metadata":13,"displayName":"Clover Patch","unlocalizedName":"tile.foliage.cloverpatch","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:foliage:13","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":405}]}

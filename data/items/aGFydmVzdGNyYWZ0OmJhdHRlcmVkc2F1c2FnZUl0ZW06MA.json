@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"batteredsausageItem","metadata":0,"displayName":"Battered Sausage","unlocalizedName":"item.batteredsausageItem","oreDictNames":["foodBatteredsausage"],"id":"harvestcraft:batteredsausageItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":245}],"recipesAsInput":[]}

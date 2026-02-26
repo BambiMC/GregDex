@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolaterollItem","metadata":32767,"displayName":"Chocolate Roll","unlocalizedName":"item.chocolaterollItem","id":"harvestcraft:chocolaterollItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":276}]}

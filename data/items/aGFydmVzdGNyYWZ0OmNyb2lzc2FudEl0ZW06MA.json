@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"croissantItem","metadata":0,"displayName":"Croissant","unlocalizedName":"item.croissantItem","oreDictNames":["foodCroissant"],"id":"harvestcraft:croissantItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":474}],"recipesAsInput":[]}

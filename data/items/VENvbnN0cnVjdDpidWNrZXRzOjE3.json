@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":17,"displayName":"Molten Nickel Bucket","unlocalizedName":"item.tconstruct.bucket.Nickel","id":"TConstruct:buckets:17","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":346}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":347}]}

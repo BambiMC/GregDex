@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"titaniumTank","metadata":0,"displayName":"Titanium Tank","unlocalizedName":"tile.irontank:titaniumTank","id":"irontank:titaniumTank:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":59},{"machine":"gt.recipe.assembler","chunk":2,"index":155}],"recipesAsInput":[]}

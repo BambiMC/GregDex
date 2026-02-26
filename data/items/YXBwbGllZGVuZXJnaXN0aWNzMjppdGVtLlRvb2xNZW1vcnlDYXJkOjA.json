@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"item.ToolMemoryCard","metadata":0,"displayName":"Memory Card","unlocalizedName":"item.appliedenergistics2.ToolMemoryCard","id":"appliedenergistics2:item.ToolMemoryCard:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":468}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":211}]}

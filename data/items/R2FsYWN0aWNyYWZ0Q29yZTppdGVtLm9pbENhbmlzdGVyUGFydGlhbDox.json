@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.oilCanisterPartial","metadata":1,"displayName":"Filled Oil Canister","unlocalizedName":"item.oilCanister","id":"GalacticraftCore:item.oilCanisterPartial:1","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":287}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":288}]}

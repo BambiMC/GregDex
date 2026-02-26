@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockChargepad","metadata":2,"displayName":"Charge Pad (MFE)","unlocalizedName":"ic2.blockChargepadMFE","id":"IC2:blockChargepad:2","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":466}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":1,"index":0}]}

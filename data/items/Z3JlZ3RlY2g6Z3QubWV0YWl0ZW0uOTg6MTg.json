@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":18,"displayName":"Sodium Potassium Cell","unlocalizedName":"gt.metaitem.98.18","id":"gregtech:gt.metaitem.98:18","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":409}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":410}]}

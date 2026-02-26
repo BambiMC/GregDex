@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32261,"displayName":"Cheese Pizza","unlocalizedName":"gt.metaitem.02.32261","id":"gregtech:gt.metaitem.02:32261","recipesAsOutput":[{"machine":"furnace","chunk":7,"index":398}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":35}]}

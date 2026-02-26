@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTMachines","metadata":1,"displayName":"Ethereal Processor","unlocalizedName":"tile.EMT.machine.etheralprocessor","id":"EMT:EMTMachines:1","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":248}],"recipesAsInput":[]}

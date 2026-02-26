@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"filled_map","metadata":32767,"displayName":"Map","unlocalizedName":"item.map","oreDictNames":["paperMap"],"id":"minecraft:filled_map:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":471},{"machine":"crafting_table","chunk":103,"index":37},{"machine":"gt.recipe.scanner","chunk":0,"index":180}]}

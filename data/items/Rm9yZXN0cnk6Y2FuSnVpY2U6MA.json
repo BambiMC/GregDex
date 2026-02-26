@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"canJuice","metadata":0,"displayName":"Juice Can","unlocalizedName":"item.for.canJuice","id":"Forestry:canJuice:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":178}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":179}]}

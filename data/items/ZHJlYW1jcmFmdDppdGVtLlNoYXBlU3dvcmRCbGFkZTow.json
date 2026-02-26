@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeSwordBlade","metadata":0,"displayName":"Casting Form (Sword Blade Shape)","unlocalizedName":"item.ShapeSwordBlade","id":"dreamcraft:item.ShapeSwordBlade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":42}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":110}]}

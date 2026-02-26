@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Transport","itemName":"pipeWire","metadata":2,"displayName":"Green Pipe Wire","unlocalizedName":"item.greenPipeWire","id":"BuildCraft|Transport:pipeWire:2","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":259},{"machine":"gt.recipe.chemicalbath","chunk":0,"index":260}],"recipesAsInput":[]}

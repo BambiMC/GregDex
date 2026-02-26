@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":21,"displayName":"Molten Invar Bucket","unlocalizedName":"item.tconstruct.bucket.Invar","id":"TConstruct:buckets:21","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":364}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":365}]}

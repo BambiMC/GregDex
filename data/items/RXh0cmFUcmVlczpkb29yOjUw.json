@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":50,"displayName":"Rowan Wood Door","unlocalizedName":"tile.door","nbt":"{meta:50}","id":"ExtraTrees:door:50","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":87},{"machine":"crafting_table","chunk":110,"index":88}],"recipesAsInput":[]}

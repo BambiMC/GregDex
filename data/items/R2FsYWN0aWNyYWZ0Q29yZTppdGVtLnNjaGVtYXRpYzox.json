@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.schematic","metadata":1,"displayName":"NASA Workbench Schematic","unlocalizedName":"item.schematic","id":"GalacticraftCore:item.schematic:1","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":51},{"machine":"gt.recipe.laserengraver","chunk":1,"index":270}],"recipesAsInput":[]}

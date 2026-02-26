@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"vegemiteItem","metadata":0,"displayName":"Vegemite","unlocalizedName":"item.vegemiteItem","oreDictNames":["foodVegemite"],"id":"harvestcraft:vegemiteItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":410}],"recipesAsInput":[{"machine":"crafting_table","chunk":95,"index":242}]}

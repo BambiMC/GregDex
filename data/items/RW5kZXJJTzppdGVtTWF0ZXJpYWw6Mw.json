@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMaterial","metadata":3,"displayName":"Pulsating Iron Nugget","unlocalizedName":"enderio.phasedIronNugget","oreDictNames":["itemPhasedIronNugget","nuggetPulsatingIron"],"id":"EnderIO:itemMaterial:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":73,"index":125},{"machine":"crafting_table","chunk":73,"index":125}]}

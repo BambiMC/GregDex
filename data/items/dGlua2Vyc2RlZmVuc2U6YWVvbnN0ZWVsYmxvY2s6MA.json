@@ -1,0 +1,1 @@
+{"modId":"tinkersdefense","itemName":"aeonsteelblock","metadata":0,"displayName":"Aeon Steel Block","unlocalizedName":"tile.AeonSteelBlock","id":"tinkersdefense:aeonsteelblock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":271},{"machine":"gt.recipe.compressor","chunk":0,"index":76}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":183}]}

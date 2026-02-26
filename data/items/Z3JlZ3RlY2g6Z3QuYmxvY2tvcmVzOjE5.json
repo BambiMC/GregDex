@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":19,"displayName":"Aluminium Ore","unlocalizedName":"gt.blockores.19","oreDictNames":["oreAluminium"],"id":"gregtech:gt.blockores:19","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":262},{"machine":"gt.recipe.macerator","chunk":5,"index":156}]}

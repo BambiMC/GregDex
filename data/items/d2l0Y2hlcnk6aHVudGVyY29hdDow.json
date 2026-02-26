@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"huntercoat","metadata":0,"displayName":"Witch Hunter Coat","unlocalizedName":"item.witchery:huntercoat","id":"witchery:huntercoat:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":208}],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":228},{"machine":"crafting_table","chunk":22,"index":362}]}

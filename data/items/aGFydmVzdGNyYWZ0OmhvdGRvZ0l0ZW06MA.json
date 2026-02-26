@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"hotdogItem","metadata":0,"displayName":"Hotdog","unlocalizedName":"item.hotdogItem","oreDictNames":["foodHotdog"],"id":"harvestcraft:hotdogItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":124}],"recipesAsInput":[]}

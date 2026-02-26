@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gingersodaItem","metadata":32767,"displayName":"Ginger Ale","unlocalizedName":"item.gingersodaItem","id":"harvestcraft:gingersodaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":54}]}

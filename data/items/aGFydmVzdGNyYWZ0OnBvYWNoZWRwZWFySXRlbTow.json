@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"poachedpearItem","metadata":0,"displayName":"Poached Pear","unlocalizedName":"item.poachedpearItem","oreDictNames":["foodPoachedpear"],"id":"harvestcraft:poachedpearItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":394}],"recipesAsInput":[]}

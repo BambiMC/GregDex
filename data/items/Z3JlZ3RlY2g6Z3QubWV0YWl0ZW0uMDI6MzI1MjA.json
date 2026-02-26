@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32520,"displayName":"Milk Wart","unlocalizedName":"gt.metaitem.02.32520","id":"gregtech:gt.metaitem.02:32520","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":17},{"machine":"gt.recipe.fluidextractor","chunk":25,"index":289}]}

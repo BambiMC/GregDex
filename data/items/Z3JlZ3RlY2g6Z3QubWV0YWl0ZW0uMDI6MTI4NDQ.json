@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":12844,"displayName":"Basalt Sense Blade","unlocalizedName":"gt.metaitem.02.12844","oreDictNames":["toolHeadSenseBasalt"],"id":"gregtech:gt.metaitem.02:12844","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":100,"index":133},{"machine":"gt.recipe.assembler","chunk":17,"index":338}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"shrimpcookedItem","metadata":0,"displayName":"Cooked Shrimp","unlocalizedName":"item.shrimpcookedItem","oreDictNames":["foodShrimpcooked"],"id":"harvestcraft:shrimpcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":12,"index":409}],"recipesAsInput":[]}

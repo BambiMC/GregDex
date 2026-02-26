@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"devnull","metadata":0,"displayName":"/dev/null","unlocalizedName":"item.openblocks.devnull","id":"OpenBlocks:devnull:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":373},{"machine":"gt.recipe.assembler","chunk":28,"index":241}],"recipesAsInput":[]}

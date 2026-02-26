@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":364,"displayName":"Molten Dark Steel Cell","unlocalizedName":"gt.metaitem.99.364","oreDictNames":["cellMoltenDarkSteel"],"id":"gregtech:gt.metaitem.99:364","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":129}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":130}]}

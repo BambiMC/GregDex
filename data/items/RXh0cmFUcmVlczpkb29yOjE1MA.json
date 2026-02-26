@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":150,"displayName":"Maple Wood Door","unlocalizedName":"tile.door","nbt":"{meta:150}","id":"ExtraTrees:door:150","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":282},{"machine":"crafting_table","chunk":110,"index":283}],"recipesAsInput":[]}

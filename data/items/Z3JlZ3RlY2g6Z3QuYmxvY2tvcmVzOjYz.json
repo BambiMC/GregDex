@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":63,"displayName":"Barium Ore","unlocalizedName":"gt.blockores.63","oreDictNames":["oreBarium"],"id":"gregtech:gt.blockores:63","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":164},{"machine":"gt.recipe.hammer","chunk":8,"index":369},{"machine":"gt.recipe.macerator","chunk":10,"index":57}]}

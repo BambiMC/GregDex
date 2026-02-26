@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketCloud_seed","metadata":0,"displayName":"Cloud Seed Bucket","unlocalizedName":"item.bucketCloud_seed","id":"EnderIO:bucketCloud_seed:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":32}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":33}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatesprinklecakeItem","metadata":0,"displayName":"Chocolate Sprinkles Cake","unlocalizedName":"item.chocolatesprinklecakeItem","oreDictNames":["foodChocolatesprinklecake"],"id":"harvestcraft:chocolatesprinklecakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":300}],"recipesAsInput":[]}

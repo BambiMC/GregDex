@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"jamrollItem","metadata":32767,"displayName":"Jam Roll","unlocalizedName":"item.jamrollItem","id":"harvestcraft:jamrollItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":277}]}

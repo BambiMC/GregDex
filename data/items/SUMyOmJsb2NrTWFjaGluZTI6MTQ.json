@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockMachine2","metadata":14,"displayName":"Fluid Regulator","unlocalizedName":"ic2.blockFluidRegulator","id":"IC2:blockMachine2:14","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":460}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":39}]}

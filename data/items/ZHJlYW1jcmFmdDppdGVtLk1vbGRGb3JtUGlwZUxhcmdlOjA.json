@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormPipeLarge","metadata":0,"displayName":"Casting Form (Large Pipe Mold)","unlocalizedName":"item.MoldFormPipeLarge","id":"dreamcraft:item.MoldFormPipeLarge:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":25}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":92}]}

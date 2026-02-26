@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"gtpp.drop","metadata":0,"displayName":"Dragonblood Drop","unlocalizedName":"item.gtpp.drop","id":"miscutils:gtpp.drop:0","recipesAsOutput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":1}],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":273}]}

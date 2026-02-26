@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15203,"displayName":"UV 4A Dynamo Hatch","unlocalizedName":"gt.blockmachines.hatch.dynamomulti04.tier.08","id":"gregtech:gt.blockmachines:15203","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":493}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":5,"index":3}]}

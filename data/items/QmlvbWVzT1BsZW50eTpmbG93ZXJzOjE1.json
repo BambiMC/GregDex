@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers","metadata":15,"displayName":"Dandelion Puff","unlocalizedName":"tile.flowers.dandelion","oreDictNames":["flowerLightGray","flowerDandelionPuff"],"id":"BiomesOPlenty:flowers:15","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":109},{"machine":"gt.recipe.extractor","chunk":0,"index":231}]}

@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"ioblocks","metadata":1,"displayName":"Io Ash","unlocalizedName":"tile.IOAsh","oreDictNames":["rockSpace","rockIo"],"id":"GalaxySpace:ioblocks:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":190},{"machine":"gt.recipe.macerator","chunk":0,"index":146}]}

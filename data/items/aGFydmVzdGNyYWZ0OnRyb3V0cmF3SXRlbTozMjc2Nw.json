@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"troutrawItem","metadata":32767,"displayName":"Raw Trout","unlocalizedName":"item.troutrawItem","id":"harvestcraft:troutrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":14},{"machine":"gt.recipe.canner","chunk":1,"index":176}]}

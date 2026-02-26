@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableOutputName","metadata":0,"displayName":"Redstone Emitter","unlocalizedName":"tile.sfm.BlockCableOutput","id":"StevesFactoryManager:BlockCableOutputName:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":495}],"recipesAsInput":[]}

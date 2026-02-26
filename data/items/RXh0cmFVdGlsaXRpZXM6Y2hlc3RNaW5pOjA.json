@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"chestMini","metadata":0,"displayName":"Mini-Chest","unlocalizedName":"tile.extrautils:chestMini","id":"ExtraUtilities:chestMini:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":197},{"machine":"gt.recipe.assembler","chunk":26,"index":222}],"recipesAsInput":[{"machine":"gt.recipe.circuitassembler","chunk":0,"index":435}]}

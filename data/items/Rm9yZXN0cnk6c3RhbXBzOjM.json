@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stamps","metadata":3,"displayName":"Stamp (10n)","unlocalizedName":"item.for.stamps.10n","id":"Forestry:stamps:3","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":83},{"machine":"forestry_carpenter","chunk":0,"index":215}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":227}]}

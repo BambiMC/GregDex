@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32580,"displayName":"Large Neutronium Battery","unlocalizedName":"gt.metaitem.01.32580","oreDictNames":["batteryUIV"],"id":"gregtech:gt.metaitem.01:32580","recipesAsOutput":[{"machine":"gt.recipe.canner","chunk":1,"index":333}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":214}]}

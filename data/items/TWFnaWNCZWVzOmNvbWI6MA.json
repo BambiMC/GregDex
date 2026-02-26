@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"comb","metadata":0,"displayName":"Mundane Comb","unlocalizedName":"item.comb","oreDictNames":["beeComb"],"id":"MagicBees:comb:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_centrifuge","chunk":0,"index":67},{"machine":"gt.recipe.centrifuge","chunk":2,"index":310},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":396}]}

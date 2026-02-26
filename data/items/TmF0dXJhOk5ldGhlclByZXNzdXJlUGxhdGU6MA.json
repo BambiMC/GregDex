@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"NetherPressurePlate","metadata":0,"displayName":"Pressure Plate","unlocalizedName":"tile.pressurePlate","id":"Natura:NetherPressurePlate:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":322},{"machine":"gt.recipe.assembler","chunk":28,"index":221},{"machine":"gt.recipe.assembler","chunk":28,"index":222}],"recipesAsInput":[]}

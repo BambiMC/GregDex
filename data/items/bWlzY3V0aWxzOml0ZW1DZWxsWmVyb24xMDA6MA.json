@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellZeron100","metadata":0,"displayName":"Zeron-100 Cell","unlocalizedName":"item.itemCellZeron100","oreDictNames":["cellZeron100"],"id":"miscutils:itemCellZeron100:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":202}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":203}]}

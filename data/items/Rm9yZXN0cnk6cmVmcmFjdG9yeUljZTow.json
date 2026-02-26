@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryIce","metadata":0,"displayName":"Ice Capsule","unlocalizedName":"item.for.refractoryIce","id":"Forestry:refractoryIce:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":408}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":409}]}

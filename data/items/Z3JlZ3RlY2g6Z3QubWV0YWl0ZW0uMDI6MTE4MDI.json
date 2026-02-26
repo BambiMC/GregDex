@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":11802,"displayName":"Flint Universal Spade Head","unlocalizedName":"gt.metaitem.02.11802","oreDictNames":["toolHeadUniversalSpadeFlint"],"id":"gregtech:gt.metaitem.02:11802","recipesAsOutput":[{"machine":"crafting_table","chunk":89,"index":300}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":15,"index":17}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"food","metadata":4,"displayName":"Fruit Salad","unlocalizedName":"item.food.saladfruit","oreDictNames":["foodFruitsalad"],"id":"BiomesOPlenty:food:4","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":158}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":309},{"machine":"crafting_table","chunk":96,"index":314}]}

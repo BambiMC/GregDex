@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemNuggetFish","metadata":32767,"displayName":"Fish Nugget","unlocalizedName":"item.ItemNuggetFish","id":"Thaumcraft:ItemNuggetFish:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":89},{"machine":"gt.recipe.macerator","chunk":14,"index":71}]}

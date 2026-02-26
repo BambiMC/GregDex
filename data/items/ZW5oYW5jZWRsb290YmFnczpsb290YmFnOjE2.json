@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":16,"displayName":"LootBag (BM Novice)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:16","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":419}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":244}]}

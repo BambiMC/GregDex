@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.RocketControlComputer","metadata":101,"displayName":"Cargo Rocket Control Computer","unlocalizedName":"item.computerCargo","id":"GalaxySpace:item.RocketControlComputer:101","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":129}],"recipesAsInput":[]}

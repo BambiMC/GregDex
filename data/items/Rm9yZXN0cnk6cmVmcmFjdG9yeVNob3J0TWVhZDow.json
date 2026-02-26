@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryShortMead","metadata":0,"displayName":"Short Mead Capsule","unlocalizedName":"item.for.refractoryShortMead","id":"Forestry:refractoryShortMead:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":79}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":80}]}

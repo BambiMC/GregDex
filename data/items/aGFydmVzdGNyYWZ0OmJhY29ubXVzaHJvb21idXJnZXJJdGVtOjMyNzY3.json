@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"baconmushroomburgerItem","metadata":32767,"displayName":"Bacon Mushroom Burger","unlocalizedName":"item.baconmushroomburgerItem","id":"harvestcraft:baconmushroomburgerItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":8}]}

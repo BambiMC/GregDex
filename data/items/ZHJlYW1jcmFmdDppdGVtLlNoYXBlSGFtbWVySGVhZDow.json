@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeHammerHead","metadata":0,"displayName":"Casting Form (Hammer Head Shape)","unlocalizedName":"item.ShapeHammerHead","id":"dreamcraft:item.ShapeHammerHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":47}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":118}]}

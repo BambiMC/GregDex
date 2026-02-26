@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grilledeggplantItem","metadata":32767,"displayName":"Grilled Eggplant","unlocalizedName":"item.grilledeggplantItem","id":"harvestcraft:grilledeggplantItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":235}]}

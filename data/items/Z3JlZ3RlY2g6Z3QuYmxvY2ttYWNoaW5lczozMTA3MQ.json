@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31071,"displayName":"Reservoir Hatch","unlocalizedName":"gt.blockmachines.hatch.water.intake.tier.00","id":"gregtech:gt.blockmachines:31071","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":174}],"recipesAsInput":[]}

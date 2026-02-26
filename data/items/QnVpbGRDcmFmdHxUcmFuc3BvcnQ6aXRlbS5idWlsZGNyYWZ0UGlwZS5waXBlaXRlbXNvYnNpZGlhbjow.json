@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Transport","itemName":"item.buildcraftPipe.pipeitemsobsidian","metadata":0,"displayName":"Obsidian Transport Pipe","unlocalizedName":"item.PipeItemsObsidian","id":"BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":53}],"recipesAsInput":[]}

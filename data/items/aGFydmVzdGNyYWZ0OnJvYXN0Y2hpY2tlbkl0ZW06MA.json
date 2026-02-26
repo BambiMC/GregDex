@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"roastchickenItem","metadata":0,"displayName":"Roast Chicken","unlocalizedName":"item.roastchickenItem","oreDictNames":["foodRoastchicken"],"id":"harvestcraft:roastchickenItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":471}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":473}]}

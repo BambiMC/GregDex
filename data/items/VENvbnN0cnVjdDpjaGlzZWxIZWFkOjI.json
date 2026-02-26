@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"chiselHead","metadata":2,"displayName":"Iron Chisel Head","unlocalizedName":"toolpart.ChiselHead.Iron","id":"TConstruct:chiselHead:2","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":349}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":73}]}

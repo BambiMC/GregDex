@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":88,"displayName":"Hydra Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combHV"],"id":"gregtech:gt.comb:88","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":114},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":272}]}

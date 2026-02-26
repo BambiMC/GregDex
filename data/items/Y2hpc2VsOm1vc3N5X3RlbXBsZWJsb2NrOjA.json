@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"mossy_templeblock","metadata":0,"displayName":"Mossy Temple Block","unlocalizedName":"tile.chisel.mossy_templeblock","id":"chisel:mossy_templeblock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":239},{"machine":"gt.recipe.assembler","chunk":2,"index":187}],"recipesAsInput":[]}

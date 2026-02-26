@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"candiedlemonItem","metadata":0,"displayName":"Candied Lemon","unlocalizedName":"item.candiedlemonItem","oreDictNames":["foodCandiedlemon"],"id":"harvestcraft:candiedlemonItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":170}],"recipesAsInput":[]}

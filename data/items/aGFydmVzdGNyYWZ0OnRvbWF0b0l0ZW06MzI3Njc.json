@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"tomatoItem","metadata":32767,"displayName":"Tomato","unlocalizedName":"item.tomatoItem","id":"harvestcraft:tomatoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":187}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":7,"displayName":"Soularium Ball","unlocalizedName":"enderio.soularium_ball","id":"EnderIO:itemGrindingBall:7","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":351},{"machine":"gt.recipe.assembler","chunk":26,"index":142}],"recipesAsInput":[]}

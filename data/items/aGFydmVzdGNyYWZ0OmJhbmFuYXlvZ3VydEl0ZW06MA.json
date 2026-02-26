@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bananayogurtItem","metadata":0,"displayName":"Banana Yogurt","unlocalizedName":"item.bananayogurtItem","oreDictNames":["foodBananayogurt"],"id":"harvestcraft:bananayogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":332}],"recipesAsInput":[]}

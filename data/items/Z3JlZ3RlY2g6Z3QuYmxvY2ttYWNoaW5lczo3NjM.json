@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":763,"displayName":"Advanced Air Recycler","unlocalizedName":"gt.blockmachines.pollutioncleaner.07.tier.single","id":"gregtech:gt.blockmachines:763","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":200}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":228}]}

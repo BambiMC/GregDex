@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"WandCasting","metadata":296,"displayName":"Gold Banded Blood Wood Staff","unlocalizedName":"item.WandCasting","nbt":"{cap:\"gold\",rod:\"blood_wood_staff\",sceptre:1b}","id":"Thaumcraft:WandCasting:296","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":2,"index":356}],"recipesAsInput":[]}

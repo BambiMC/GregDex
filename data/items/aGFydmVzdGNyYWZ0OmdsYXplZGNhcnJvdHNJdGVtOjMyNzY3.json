@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"glazedcarrotsItem","metadata":32767,"displayName":"Glazed Carrots","unlocalizedName":"item.glazedcarrotsItem","id":"harvestcraft:glazedcarrotsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":254}]}

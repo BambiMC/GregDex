@@ -1,0 +1,1 @@
+{"modId":"EnderStorage","itemName":"enderChest","metadata":4096,"displayName":"Ender Tank","unlocalizedName":"tile.enderchest|1","oreDictNames":["transdimBlock","enderChest"],"id":"EnderStorage:enderChest:4096","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":377}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":399}]}

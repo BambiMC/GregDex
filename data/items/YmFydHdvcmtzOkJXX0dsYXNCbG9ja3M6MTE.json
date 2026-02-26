@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"BW_GlasBlocks","metadata":11,"displayName":"Colored Borosilicate Glass Block (Brown)","unlocalizedName":"BW_GlasBlocks.11","oreDictNames":["blockGlassHV"],"id":"bartworks:BW_GlasBlocks:11","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":152},{"machine":"gt.recipe.chemicalbath","chunk":0,"index":158}],"recipesAsInput":[]}

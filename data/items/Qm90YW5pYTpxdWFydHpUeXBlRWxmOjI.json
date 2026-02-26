@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"quartzTypeElf","metadata":2,"displayName":"Pillar Elven Quartz Block","unlocalizedName":"tile.botania:pillarElfQuartz","id":"Botania:quartzTypeElf:2","recipesAsOutput":[{"machine":"crafting_table","chunk":84,"index":442}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":28},{"machine":"gt.recipe.extractor","chunk":0,"index":85}]}

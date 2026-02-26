@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pineappleyogurtItem","metadata":0,"displayName":"Pineapple Yogurt","unlocalizedName":"item.pineappleyogurtItem","oreDictNames":["foodPineappleyogurt"],"id":"harvestcraft:pineappleyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":321}],"recipesAsInput":[]}

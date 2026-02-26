@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemDust","metadata":12,"displayName":"Lapis Lazuli Dust","unlocalizedName":"ic2.itemDustLapi","oreDictNames":["dustLapis","dyeBlue","dye"],"id":"IC2:itemDust:12","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":77,"index":131},{"machine":"crafting_table","chunk":77,"index":132}]}

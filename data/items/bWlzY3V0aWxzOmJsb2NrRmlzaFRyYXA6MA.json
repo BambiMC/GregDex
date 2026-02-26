@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockFishTrap","metadata":0,"displayName":"Fish Catcher","unlocalizedName":"tile.blockFishTrap","id":"miscutils:blockFishTrap:0","recipesAsOutput":[{"machine":"crafting_table","chunk":24,"index":188},{"machine":"gt.recipe.assembler","chunk":4,"index":318}],"recipesAsInput":[{"machine":"crafting_table","chunk":24,"index":255}]}

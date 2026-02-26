@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"clamcookedItem","metadata":32767,"displayName":"Cooked Clam","unlocalizedName":"item.clamcookedItem","id":"harvestcraft:clamcookedItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":180}]}

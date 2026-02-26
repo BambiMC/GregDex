@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30999,"displayName":"Mc Guffium 239 Cell","unlocalizedName":"gt.metaitem.01.30999","oreDictNames":["cellMcGuffium239"],"id":"gregtech:gt.metaitem.01:30999","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":403}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":404}]}

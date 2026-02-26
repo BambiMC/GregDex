@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"sveltstone","metadata":0,"displayName":"Svelstone block","unlocalizedName":"tile.chisel.sveltstone","id":"chisel:sveltstone:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":390},{"machine":"gt.recipe.assembler","chunk":2,"index":218}],"recipesAsInput":[]}

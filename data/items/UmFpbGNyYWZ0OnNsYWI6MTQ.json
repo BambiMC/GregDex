@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":14,"displayName":"Fitted Sandy Stone Slab","unlocalizedName":"tile.railcraft.slab.sandy.fitted","id":"Railcraft:slab:14","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":183}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":465},{"machine":"crafting_table","chunk":84,"index":465}]}

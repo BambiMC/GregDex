@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":8,"displayName":"End Steel Ball","unlocalizedName":"enderio.endSteel_ball","id":"EnderIO:itemGrindingBall:8","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":352},{"machine":"gt.recipe.assembler","chunk":26,"index":143}],"recipesAsInput":[]}

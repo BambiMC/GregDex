@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"alchemyCatalyst","metadata":0,"displayName":"Alchemy Catalyst","unlocalizedName":"tile.alchemyCatalyst","id":"Botania:alchemyCatalyst:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":96}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":97}]}

@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":18,"displayName":"Small Thorianite Ore","unlocalizedName":"bw.blockores.02.18","oreDictNames":["oreSmallThorianite"],"id":"bartworks:bw.blockores.02:18","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":420},{"machine":"gt.recipe.macerator","chunk":4,"index":345}]}

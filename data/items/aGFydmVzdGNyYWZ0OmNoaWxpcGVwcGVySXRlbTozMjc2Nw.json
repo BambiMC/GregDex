@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chilipepperItem","metadata":32767,"displayName":"Chili Pepper","unlocalizedName":"item.chilipepperItem","id":"harvestcraft:chilipepperItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":183}]}

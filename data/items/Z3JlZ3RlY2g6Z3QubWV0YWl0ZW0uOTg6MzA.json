@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":30,"displayName":"Cracked Radox Cell","unlocalizedName":"gt.metaitem.98.30","id":"gregtech:gt.metaitem.98:30","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":395}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":396}]}

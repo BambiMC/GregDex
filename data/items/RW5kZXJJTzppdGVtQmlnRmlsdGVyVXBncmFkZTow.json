@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemBigFilterUpgrade","metadata":0,"displayName":"Big Item Filter","unlocalizedName":"enderio.filterUpgradeBig","id":"EnderIO:itemBigFilterUpgrade:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":193}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":194}]}

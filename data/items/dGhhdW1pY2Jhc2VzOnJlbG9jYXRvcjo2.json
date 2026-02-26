@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"relocator","metadata":6,"displayName":"Thaumic Relocator","unlocalizedName":"tile.thaumicRelocator","id":"thaumicbases:relocator:6","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":457},{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":491}],"recipesAsInput":[]}

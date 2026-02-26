@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreAncientGranite","metadata":0,"displayName":"Ancient Granite Ore","unlocalizedName":"tile.OreAncientGranite","oreDictNames":["oreAncientGranite"],"id":"miscutils:oreAncientGranite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":336},{"machine":"gt.recipe.macerator","chunk":1,"index":138}]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"item.buggymat","metadata":1,"displayName":"Buggy Seat","unlocalizedName":"item.buggymat.seat","id":"GalacticraftCore:item.buggymat:1","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":29}],"recipesAsInput":[{"machine":"crafting_table","chunk":25,"index":267}]}

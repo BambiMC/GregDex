@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"Natura.fence","metadata":6,"displayName":"Maple Fence","unlocalizedName":"tile.fence.maple","oreDictNames":["fenceWood"],"id":"Natura:Natura.fence:6","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":193},{"machine":"crafting_table","chunk":114,"index":194},{"machine":"crafting_table","chunk":114,"index":195}],"recipesAsInput":[]}

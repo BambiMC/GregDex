@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNetherrack","metadata":0,"displayName":"Crated Netherrack","unlocalizedName":"item.cratedNetherrack","id":"Forestry:cratedNetherrack:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":20}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":363}]}

@@ -1,0 +1,1 @@
+{"modId":"adventurebackpack","itemName":"adventureBackpack","metadata":18,"displayName":"Adventure Backpack","unlocalizedName":"item.adventurebackpack:adventureBackpack","nbt":"{wearableData:{type:18b}}","id":"adventurebackpack:adventureBackpack:18","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":287}],"recipesAsInput":[]}

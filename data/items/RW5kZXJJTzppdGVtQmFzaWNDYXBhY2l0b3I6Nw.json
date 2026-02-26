@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemBasicCapacitor","metadata":7,"displayName":"Silver Capacitor","unlocalizedName":"enderio.silverCapacitor","oreDictNames":["capacitorBasic"],"id":"EnderIO:itemBasicCapacitor:7","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":399}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":205}]}

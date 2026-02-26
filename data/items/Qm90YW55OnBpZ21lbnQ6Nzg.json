@@ -1,0 +1,1 @@
+{"modId":"Botany","itemName":"pigment","metadata":78,"displayName":"Pigment","unlocalizedName":"item.pigment","id":"Botany:pigment:78","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":19,"index":385},{"machine":"crafting_table","chunk":93,"index":290},{"machine":"gt.recipe.assembler","chunk":26,"index":46}]}

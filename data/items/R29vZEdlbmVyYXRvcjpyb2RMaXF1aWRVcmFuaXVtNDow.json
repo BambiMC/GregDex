@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodLiquidUranium4","metadata":0,"displayName":"Quad Fuel Rod (Excited Uranium)","unlocalizedName":"item.rodLiquidUranium4","id":"GoodGenerator:rodLiquidUranium4:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":83},{"machine":"gt.recipe.assembler","chunk":6,"index":84}],"recipesAsInput":[]}

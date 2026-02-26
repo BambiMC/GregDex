@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"watering_can","metadata":1,"displayName":"Watering Can (Empty)","unlocalizedName":"item.extrautils:watering_can.empty","id":"ExtraUtilities:watering_can:1","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":173},{"machine":"crafting_table","chunk":111,"index":174}],"recipesAsInput":[]}

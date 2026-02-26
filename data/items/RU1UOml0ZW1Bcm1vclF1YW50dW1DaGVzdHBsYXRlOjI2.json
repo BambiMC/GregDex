@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"itemArmorQuantumChestplate","metadata":26,"displayName":"Infused Quantum Chestplate","unlocalizedName":"item.EMT.chestplates.infusedQuantum","nbt":"{charge:10.0d}","id":"EMT:itemArmorQuantumChestplate:26","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":27}],"recipesAsInput":[]}

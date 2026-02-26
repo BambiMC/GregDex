@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"blockStoneDevice","metadata":9,"displayName":"Node Stabilizer","unlocalizedName":"tile.blockStoneDevice.9","id":"Thaumcraft:blockStoneDevice:9","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":409}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":410}]}

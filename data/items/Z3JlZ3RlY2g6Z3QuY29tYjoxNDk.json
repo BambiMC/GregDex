@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":149,"displayName":"Infused Perditio Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:149","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":1,"index":83},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":350}]}

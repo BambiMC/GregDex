@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"biome_compass","metadata":0,"displayName":"Biome Compass","unlocalizedName":"item.biomeCompass","id":"HardcoreEnderExpansion:biome_compass:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":211},{"machine":"gt.recipe.assembler","chunk":4,"index":389}],"recipesAsInput":[]}

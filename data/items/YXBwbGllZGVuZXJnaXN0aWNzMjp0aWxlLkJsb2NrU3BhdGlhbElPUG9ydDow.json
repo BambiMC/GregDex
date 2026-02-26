@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockSpatialIOPort","metadata":0,"displayName":"Spatial IO Port","unlocalizedName":"tile.appliedenergistics2.BlockSpatialIOPort","id":"appliedenergistics2:tile.BlockSpatialIOPort:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":401},{"machine":"gt.recipe.assembler","chunk":0,"index":427}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Robotics","itemName":"redstone_board","metadata":0,"displayName":"Redstone Board","unlocalizedName":"item.redstone_board","nbt":"{id:\"buildcraft:boardRobotEmpty\"}","id":"BuildCraft|Robotics:redstone_board:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":42}],"recipesAsInput":[]}

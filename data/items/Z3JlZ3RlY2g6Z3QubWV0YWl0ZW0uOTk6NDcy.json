@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":472,"displayName":"Molten Polycaprolactam Cell","unlocalizedName":"gt.metaitem.99.472","oreDictNames":["cellMoltenPolycaprolactam"],"id":"gregtech:gt.metaitem.99:472","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":99}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":100}]}

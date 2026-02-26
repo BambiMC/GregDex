@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedMossyCombs","metadata":0,"displayName":"Crated Mossy Comb","unlocalizedName":"item.cratedMossyCombs","id":"Forestry:cratedMossyCombs:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":415}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":13}]}

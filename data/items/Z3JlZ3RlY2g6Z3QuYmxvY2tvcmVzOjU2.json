@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":56,"displayName":"Indium Ore","unlocalizedName":"gt.blockores.56","oreDictNames":["oreIndium"],"id":"gregtech:gt.blockores:56","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":156},{"machine":"gt.recipe.hammer","chunk":3,"index":287},{"machine":"gt.recipe.macerator","chunk":5,"index":181}]}

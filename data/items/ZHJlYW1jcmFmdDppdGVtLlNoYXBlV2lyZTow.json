@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeWire","metadata":0,"displayName":"Casting Form (Wire Shape)","unlocalizedName":"item.ShapeWire","id":"dreamcraft:item.ShapeWire:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":34}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":116}]}

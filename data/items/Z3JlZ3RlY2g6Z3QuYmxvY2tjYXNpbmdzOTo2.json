@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings9","metadata":6,"displayName":"Slick Sterile Flocculation Casing","unlocalizedName":"gt.blockcasings9.6","id":"gregtech:gt.blockcasings9:6","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":383}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":54}]}

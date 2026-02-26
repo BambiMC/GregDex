@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeBolt","metadata":0,"displayName":"Casting Form (Bolt Shape)","unlocalizedName":"item.ShapeBolt","id":"dreamcraft:item.ShapeBolt:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":30}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":100}]}

@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTItems","metadata":6,"displayName":"Lightning Summoner","unlocalizedName":"item.EMT.lightningSummoner","id":"EMT:EMTItems:6","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":224}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":222},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":222}]}

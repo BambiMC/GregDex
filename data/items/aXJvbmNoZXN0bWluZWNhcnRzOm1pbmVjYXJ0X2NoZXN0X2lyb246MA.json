@@ -1,0 +1,1 @@
+{"modId":"ironchestminecarts","itemName":"minecart_chest_iron","metadata":0,"displayName":"Minecart with Iron Chest","unlocalizedName":"item.ironchestminecarts.minecart_chest_iron","id":"ironchestminecarts:minecart_chest_iron:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":496},{"machine":"gt.recipe.assembler","chunk":27,"index":46}],"recipesAsInput":[]}

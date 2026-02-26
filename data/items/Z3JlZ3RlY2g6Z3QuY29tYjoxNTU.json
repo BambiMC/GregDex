@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":155,"displayName":"Caelestis Green Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:155","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":1,"index":87},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":406}]}

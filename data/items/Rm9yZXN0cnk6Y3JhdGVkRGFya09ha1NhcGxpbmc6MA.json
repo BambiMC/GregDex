@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedDarkOakSapling","metadata":0,"displayName":"Crated Dark Oak Sapling","unlocalizedName":"item.cratedDarkOakSapling","id":"Forestry:cratedDarkOakSapling:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":32}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":169}]}

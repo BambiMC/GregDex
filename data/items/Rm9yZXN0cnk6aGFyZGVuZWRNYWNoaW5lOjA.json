@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"hardenedMachine","metadata":0,"displayName":"Hardened Casing","unlocalizedName":"item.for.hardenedMachine","id":"Forestry:hardenedMachine:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":266}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":311}]}

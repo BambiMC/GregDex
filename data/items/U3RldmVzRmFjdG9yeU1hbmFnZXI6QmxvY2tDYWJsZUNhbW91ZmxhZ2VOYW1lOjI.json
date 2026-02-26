@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableCamouflageName","metadata":2,"displayName":"Transforming Cable Camouflage","unlocalizedName":"tile.sfm.BlockCableShapeCamouflage","id":"StevesFactoryManager:BlockCableCamouflageName:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":7}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.drop","metadata":4,"displayName":"Hydra Blood Drop","unlocalizedName":"item.gt.drop","id":"gregtech:gt.drop:4","recipesAsOutput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":114},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":272}],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":206}]}

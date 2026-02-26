@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockGenerator","metadata":0,"displayName":"RTG POWARZ","unlocalizedName":"ic2.blockGenerator","oreDictNames":["craftingGenerator"],"id":"IC2:blockGenerator:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":10,"index":196}]}

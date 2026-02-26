@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"hotwingsItem","metadata":0,"displayName":"Hot Wings","unlocalizedName":"item.hotwingsItem","oreDictNames":["foodHotwings"],"id":"harvestcraft:hotwingsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":368}],"recipesAsInput":[]}

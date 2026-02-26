@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bbqpulledporkItem","metadata":0,"displayName":"BBQ Pulled Pork","unlocalizedName":"item.bbqpulledporkItem","oreDictNames":["foodBbqpulledpork"],"id":"harvestcraft:bbqpulledporkItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":428}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"beacon","metadata":32767,"displayName":"Beacon","unlocalizedName":"tile.beacon","id":"minecraft:beacon:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":1,"index":473},{"machine":"gt.recipe.hammer","chunk":0,"index":0},{"machine":"gt.recipe.macerator","chunk":13,"index":55}]}

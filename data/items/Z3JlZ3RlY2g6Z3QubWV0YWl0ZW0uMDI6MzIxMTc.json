@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32117,"displayName":"Glen McKenner","unlocalizedName":"gt.metaitem.02.32117","id":"gregtech:gt.metaitem.02:32117","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":44}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":45}]}

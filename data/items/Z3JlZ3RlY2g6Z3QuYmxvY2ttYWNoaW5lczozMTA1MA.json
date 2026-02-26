@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31050,"displayName":"Elemental Duplicator","unlocalizedName":"gt.blockmachines.gtpp.multimachine.replicator","id":"gregtech:gt.blockmachines:31050","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":346},{"machine":"gt.recipe.scanner","chunk":0,"index":95}],"recipesAsInput":[]}

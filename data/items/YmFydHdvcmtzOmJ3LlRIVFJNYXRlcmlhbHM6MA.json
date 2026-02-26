@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.THTRMaterials","metadata":0,"displayName":"BISO pebble compound","unlocalizedName":"item.BISOPelletCompound","id":"bartworks:bw.THTRMaterials:0","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":0,"index":150},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":81}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":90}]}

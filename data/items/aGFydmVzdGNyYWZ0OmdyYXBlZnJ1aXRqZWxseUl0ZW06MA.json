@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grapefruitjellyItem","metadata":0,"displayName":"Grapefruit Jelly","unlocalizedName":"item.grapefruitjellyItem","oreDictNames":["foodGrapefruitjelly"],"id":"harvestcraft:grapefruitjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":226}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":444}]}

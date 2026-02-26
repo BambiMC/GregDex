@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreTitanite","metadata":0,"displayName":"Titanite Ore","unlocalizedName":"tile.OreTitanite","oreDictNames":["oreTitanite"],"id":"miscutils:oreTitanite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":228},{"machine":"gt.recipe.macerator","chunk":0,"index":470}]}

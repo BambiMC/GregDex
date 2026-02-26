@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaSaplingFusewood","metadata":0,"displayName":"Crated Fusewood Sapling","unlocalizedName":"item.cratedNaturaSaplingFusewood","id":"Forestry:cratedNaturaSaplingFusewood:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":259}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":42}]}

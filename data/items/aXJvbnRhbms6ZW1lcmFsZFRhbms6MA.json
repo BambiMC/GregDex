@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"emeraldTank","metadata":0,"displayName":"Aluminium Tank","unlocalizedName":"tile.irontank:emeraldTank","id":"irontank:emeraldTank:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":57},{"machine":"gt.recipe.assembler","chunk":2,"index":153}],"recipesAsInput":[]}

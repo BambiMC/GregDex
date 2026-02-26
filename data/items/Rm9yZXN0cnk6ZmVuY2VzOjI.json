@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":2,"displayName":"Desert Acacia Fence","unlocalizedName":"tile.for.fences.2","oreDictNames":["fenceWood"],"id":"Forestry:fences:2","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":272},{"machine":"crafting_table","chunk":111,"index":273},{"machine":"crafting_table","chunk":111,"index":274}],"recipesAsInput":[]}

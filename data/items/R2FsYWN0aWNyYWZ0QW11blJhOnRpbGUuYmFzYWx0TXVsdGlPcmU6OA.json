@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"tile.basaltMultiOre","metadata":8,"displayName":"Silicon Ore","unlocalizedName":"tile.oreSilicon","oreDictNames":["oreSilicon"],"id":"GalacticraftAmunRa:tile.basaltMultiOre:8","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":242},{"machine":"gt.recipe.macerator","chunk":4,"index":183}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"bucketEthanol","metadata":0,"displayName":"Ethanol Bucket","unlocalizedName":"item.for.bucketEthanol","id":"Forestry:bucketEthanol:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":459}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":460}]}

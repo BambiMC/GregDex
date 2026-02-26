@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32134,"displayName":"Alcopops","unlocalizedName":"gt.metaitem.02.32134","id":"gregtech:gt.metaitem.02:32134","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":82}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":83}]}

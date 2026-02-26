@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"steakandchipsItem","metadata":32767,"displayName":"Steak and Chips","unlocalizedName":"item.steakandchipsItem","id":"harvestcraft:steakandchipsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":222}]}

@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"gt.bwMetaGeneratedrawOre","metadata":89,"displayName":"Raw Tiberium Ore","unlocalizedName":"gt.bwMetaGeneratedrawOre.89","oreDictNames":["rawOreTiberium"],"id":"bartworks:gt.bwMetaGeneratedrawOre:89","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":0,"index":451},{"machine":"gt.recipe.macerator","chunk":0,"index":344}]}

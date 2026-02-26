@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":31,"displayName":"Molten Manganese Cell","unlocalizedName":"gt.metaitem.99.31","oreDictNames":["cellMoltenManganese"],"id":"gregtech:gt.metaitem.99:31","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":391}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":392}]}

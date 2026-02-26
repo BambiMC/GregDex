@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":9,"displayName":"Molten Boron Cell","unlocalizedName":"gt.metaitem.99.9","oreDictNames":["cellMoltenBoron"],"id":"gregtech:gt.metaitem.99:9","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":321}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":322}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellIncoloyMA956","metadata":0,"displayName":"Incoloy-MA956 Cell","unlocalizedName":"item.itemCellIncoloyMA956","oreDictNames":["cellIncoloyMA956"],"id":"miscutils:itemCellIncoloyMA956:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":406}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":407}]}

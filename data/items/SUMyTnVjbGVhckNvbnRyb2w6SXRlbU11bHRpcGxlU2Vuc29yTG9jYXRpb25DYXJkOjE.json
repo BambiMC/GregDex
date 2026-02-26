@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"ItemMultipleSensorLocationCard","metadata":1,"displayName":"Liquid Sensor Location Card","unlocalizedName":"item.ItemLiquidSensorLocationCard","id":"IC2NuclearControl:ItemMultipleSensorLocationCard:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":55}]}

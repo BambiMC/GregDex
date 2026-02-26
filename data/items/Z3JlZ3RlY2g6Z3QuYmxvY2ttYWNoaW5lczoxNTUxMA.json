@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15510,"displayName":"Uncertainty Resolution","unlocalizedName":"gt.blockmachines.debug.tt.certain","id":"gregtech:gt.blockmachines:15510","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":296},{"machine":"gt.recipe.researchstation","chunk":0,"index":252}],"recipesAsInput":[]}

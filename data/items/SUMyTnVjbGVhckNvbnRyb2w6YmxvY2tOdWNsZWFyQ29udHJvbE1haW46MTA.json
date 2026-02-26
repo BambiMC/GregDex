@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"blockNuclearControlMain","metadata":10,"displayName":"Advanced Panel Extender","unlocalizedName":"tile.blockAdvancedInfoPanelExtender","id":"IC2NuclearControl:blockNuclearControlMain:10","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":365},{"machine":"gt.recipe.assembler","chunk":28,"index":238}],"recipesAsInput":[]}

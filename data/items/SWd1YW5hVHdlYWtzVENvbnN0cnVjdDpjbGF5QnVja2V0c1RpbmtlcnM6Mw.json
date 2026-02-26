@@ -1,0 +1,1 @@
+{"modId":"IguanaTweaksTConstruct","itemName":"clayBucketsTinkers","metadata":3,"displayName":"Molten Tin Clay Bucket","unlocalizedName":"item.iguana.tcon.clayBucket.Tin","id":"IguanaTweaksTConstruct:clayBucketsTinkers:3","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":244}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":245}]}

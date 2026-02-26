@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"custardItem","metadata":32767,"displayName":"Custard","unlocalizedName":"item.custardItem","id":"harvestcraft:custardItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":15}]}

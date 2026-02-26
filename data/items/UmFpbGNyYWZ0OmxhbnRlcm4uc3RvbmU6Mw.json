@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"lantern.stone","metadata":3,"displayName":"Frostbound Stone Lantern","unlocalizedName":"tile.railcraft.lantern.stone.frostbound","id":"Railcraft:lantern.stone:3","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":247},{"machine":"gt.recipe.assembler","chunk":28,"index":364}],"recipesAsInput":[]}

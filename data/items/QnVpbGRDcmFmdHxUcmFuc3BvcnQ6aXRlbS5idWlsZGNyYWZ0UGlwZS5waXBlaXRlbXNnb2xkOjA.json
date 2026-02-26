@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Transport","itemName":"item.buildcraftPipe.pipeitemsgold","metadata":0,"displayName":"Golden Transport Pipe","unlocalizedName":"item.PipeItemsGold","id":"BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":51}],"recipesAsInput":[]}

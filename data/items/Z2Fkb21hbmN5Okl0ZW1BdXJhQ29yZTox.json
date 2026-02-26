@@ -1,0 +1,1 @@
+{"modId":"gadomancy","itemName":"ItemAuraCore","metadata":1,"displayName":"Aura Core","unlocalizedName":"item.ItemAuraCore","id":"gadomancy:ItemAuraCore:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":324},{"machine":"thaumcraft_crucible","chunk":0,"index":11}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreLafossaite","metadata":0,"displayName":"Lafossaite Ore","unlocalizedName":"tile.OreLafossaite","oreDictNames":["oreLafossaite"],"id":"miscutils:oreLafossaite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":219},{"machine":"gt.recipe.macerator","chunk":0,"index":455}]}

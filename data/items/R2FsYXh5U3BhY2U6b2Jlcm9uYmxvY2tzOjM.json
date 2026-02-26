@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"oberonblocks","metadata":3,"displayName":"Adamantite Ore","unlocalizedName":"tile.OberonAdamantiteOre","oreDictNames":["oreAdamantium","oreAdamantite"],"id":"GalaxySpace:oberonblocks:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":460},{"machine":"gt.recipe.macerator","chunk":6,"index":306}]}

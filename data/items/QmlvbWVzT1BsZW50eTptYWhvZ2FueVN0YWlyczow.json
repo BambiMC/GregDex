@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mahoganyStairs","metadata":0,"displayName":"Mahogany Wood Stairs","unlocalizedName":"tile.mahoganyStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:mahoganyStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":26},{"machine":"crafting_table","chunk":0,"index":27}],"recipesAsInput":[]}

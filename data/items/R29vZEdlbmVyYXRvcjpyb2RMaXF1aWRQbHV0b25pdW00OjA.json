@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodLiquidPlutonium4","metadata":0,"displayName":"Quad Fuel Rod (Excited Plutonium)","unlocalizedName":"item.rodLiquidPlutonium4","id":"GoodGenerator:rodLiquidPlutonium4:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":80},{"machine":"gt.recipe.assembler","chunk":6,"index":81}],"recipesAsInput":[]}

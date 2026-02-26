@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":23,"displayName":"Nickel sulfate water solution Cell","unlocalizedName":"gt.metaitem.98.23","id":"gregtech:gt.metaitem.98:23","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":421}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":422}]}

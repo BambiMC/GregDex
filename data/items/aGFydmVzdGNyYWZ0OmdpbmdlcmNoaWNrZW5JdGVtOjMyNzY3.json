@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gingerchickenItem","metadata":32767,"displayName":"Ginger Chicken","unlocalizedName":"item.gingerchickenItem","id":"harvestcraft:gingerchickenItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":64}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":31850,"displayName":"Red Granite Gear","unlocalizedName":"gt.metaitem.02.31850","oreDictNames":["gearGtGraniteRed","gearGraniteRed"],"id":"gregtech:gt.metaitem.02:31850","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":17,"index":440}]}

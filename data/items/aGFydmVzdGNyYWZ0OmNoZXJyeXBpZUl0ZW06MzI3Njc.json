@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cherrypieItem","metadata":32767,"displayName":"Cherry Pie","unlocalizedName":"item.cherrypieItem","id":"harvestcraft:cherrypieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":366}]}

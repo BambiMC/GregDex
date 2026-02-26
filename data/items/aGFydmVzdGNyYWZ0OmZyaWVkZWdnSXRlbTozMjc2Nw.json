@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"friedeggItem","metadata":32767,"displayName":"Fried Egg","unlocalizedName":"item.friedeggItem","id":"harvestcraft:friedeggItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":276}]}

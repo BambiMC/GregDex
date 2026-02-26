@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"biscuitItem","metadata":0,"displayName":"Biscuit","unlocalizedName":"item.biscuitItem","oreDictNames":["foodBiscuit"],"id":"harvestcraft:biscuitItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":192}],"recipesAsInput":[]}

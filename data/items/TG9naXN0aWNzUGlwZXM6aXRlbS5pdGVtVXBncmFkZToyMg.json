@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemUpgrade","metadata":22,"displayName":"Fluid Crafting Upgrade","unlocalizedName":"item.FluidCraftingUpgrade","id":"LogisticsPipes:item.itemUpgrade:22","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":139}],"recipesAsInput":[]}

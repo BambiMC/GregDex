@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8195,"displayName":"Potion of Fire Resistance","unlocalizedName":"item.potion","id":"minecraft:potion:8195","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":403}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":404}]}

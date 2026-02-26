@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"blockNuclearControlLight","metadata":0,"displayName":"White Lamp","unlocalizedName":"tile.nclight0","id":"IC2NuclearControl:blockNuclearControlLight:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":366},{"machine":"gt.recipe.assembler","chunk":28,"index":239}],"recipesAsInput":[]}

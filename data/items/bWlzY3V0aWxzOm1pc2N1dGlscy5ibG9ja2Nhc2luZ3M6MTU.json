@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"miscutils.blockcasings","metadata":15,"displayName":"Blast Smelter Casing Block","unlocalizedName":"miscutils.blockcasings.15","id":"miscutils:miscutils.blockcasings:15","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":181},{"machine":"gt.recipe.assembler","chunk":6,"index":140}],"recipesAsInput":[]}

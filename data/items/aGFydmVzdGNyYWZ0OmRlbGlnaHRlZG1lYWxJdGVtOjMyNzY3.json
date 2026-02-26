@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"delightedmealItem","metadata":32767,"displayName":"Delighted Meal","unlocalizedName":"item.delightedmealItem","id":"harvestcraft:delightedmealItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":302}]}

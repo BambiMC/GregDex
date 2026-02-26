@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"spawn_egg","metadata":32767,"displayName":"Spawn","unlocalizedName":"item.monsterPlacer","id":"minecraft:spawn_egg:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":289},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":211}]}

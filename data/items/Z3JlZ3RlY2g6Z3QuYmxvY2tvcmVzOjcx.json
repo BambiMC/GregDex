@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":71,"displayName":"Gadolinium Ore","unlocalizedName":"gt.blockores.71","oreDictNames":["oreGadolinium"],"id":"gregtech:gt.blockores:71","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":360},{"machine":"gt.recipe.macerator","chunk":8,"index":135}]}

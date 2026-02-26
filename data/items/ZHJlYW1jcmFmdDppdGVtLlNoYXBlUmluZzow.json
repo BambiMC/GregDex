@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeRing","metadata":0,"displayName":"Casting Form (Ring Shape)","unlocalizedName":"item.ShapeRing","id":"dreamcraft:item.ShapeRing:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":32}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":102}]}

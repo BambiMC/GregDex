@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32131,"displayName":"Lemon Juice","unlocalizedName":"gt.metaitem.02.32131","id":"gregtech:gt.metaitem.02:32131","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":70}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":71}]}

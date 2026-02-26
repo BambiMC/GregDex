@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"food","metadata":47,"displayName":"Juniper","unlocalizedName":"item.food","oreDictNames":["cropJuniper"],"id":"ExtraTrees:food:47","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":233}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":234}]}

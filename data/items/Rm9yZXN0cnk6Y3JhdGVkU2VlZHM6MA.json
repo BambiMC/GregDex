@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedSeeds","metadata":0,"displayName":"Crated Seeds","unlocalizedName":"item.cratedSeeds","id":"Forestry:cratedSeeds:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":252}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":238}]}

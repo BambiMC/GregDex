@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fruitbaitItem","metadata":0,"displayName":"Fruit Bait","unlocalizedName":"item.fruitbaitItem","oreDictNames":["fruitBait"],"id":"harvestcraft:fruitbaitItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":493}],"recipesAsInput":[]}

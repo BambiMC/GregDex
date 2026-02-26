@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreGadoliniteCe","metadata":0,"displayName":"Gadolinite (Ce) Ore","unlocalizedName":"tile.OreGadoliniteCe","oreDictNames":["oreGadoliniteCe"],"id":"miscutils:oreGadoliniteCe:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":210},{"machine":"gt.recipe.macerator","chunk":0,"index":446}]}

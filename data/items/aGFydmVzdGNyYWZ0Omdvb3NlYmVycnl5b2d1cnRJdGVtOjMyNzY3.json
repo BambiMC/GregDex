@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gooseberryyogurtItem","metadata":32767,"displayName":"Gooseberry Yogurt","unlocalizedName":"item.gooseberryyogurtItem","id":"harvestcraft:gooseberryyogurtItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":240}]}

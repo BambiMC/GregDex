@@ -1,0 +1,1 @@
+{"modId":"WitchingGadgets","itemName":"item.WG_Cluster","metadata":66,"displayName":"Native Steel Cluster","unlocalizedName":"item.WG_Cluster","oreDictNames":["clusterSteel"],"id":"WitchingGadgets:item.WG_Cluster:66","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":1,"index":258}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":3,"index":234}]}

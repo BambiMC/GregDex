@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"pipes.1","metadata":0,"displayName":"Hyper-Rationing Pipe","unlocalizedName":"tile.extrautils:pipes.1.0","id":"ExtraUtilities:pipes.1:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":183},{"machine":"gt.recipe.assembler","chunk":26,"index":246},{"machine":"gt.recipe.assembler","chunk":26,"index":247}],"recipesAsInput":[]}

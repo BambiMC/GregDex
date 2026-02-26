@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":357,"displayName":"Molten Vanadium-Gallium Cell","unlocalizedName":"gt.metaitem.99.357","oreDictNames":["cellMoltenVanadiumGallium"],"id":"gregtech:gt.metaitem.99:357","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":133}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":134}]}

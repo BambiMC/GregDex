@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4978,"displayName":"Ichorium Ore","unlocalizedName":"gt.blockores.4978","oreDictNames":["oreRedgraniteIchorium"],"id":"gregtech:gt.blockores:4978","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":48},{"machine":"gt.recipe.macerator","chunk":9,"index":259}]}

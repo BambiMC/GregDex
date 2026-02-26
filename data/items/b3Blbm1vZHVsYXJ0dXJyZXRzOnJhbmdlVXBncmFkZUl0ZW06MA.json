@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"rangeUpgradeItem","metadata":0,"displayName":"Upgrade - Range","unlocalizedName":"item.upgRan","id":"openmodularturrets:rangeUpgradeItem:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":298}],"recipesAsInput":[]}

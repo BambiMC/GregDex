@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"brick.quarried","metadata":4,"displayName":"Etched Quarried Stone","unlocalizedName":"tile.railcraft.brick.quarried.etched","oreDictNames":["stoneMarble"],"id":"Railcraft:brick.quarried:4","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":137}],"recipesAsInput":[]}

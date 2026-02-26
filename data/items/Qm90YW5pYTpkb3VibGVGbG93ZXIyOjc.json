@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower2","metadata":7,"displayName":"Tall Mystical Black Flower","unlocalizedName":"tile.doubleFlower27","oreDictNames":["mysticFlowerBlackDouble"],"id":"Botania:doubleFlower2:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":357},{"machine":"gt.recipe.extractor","chunk":0,"index":67}]}

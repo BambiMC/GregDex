@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":16537,"displayName":"Jade Turbine Blade","unlocalizedName":"gt.metaitem.02.16537","oreDictNames":["turbineBladeJade"],"id":"gregtech:gt.metaitem.02:16537","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":24,"index":286}]}

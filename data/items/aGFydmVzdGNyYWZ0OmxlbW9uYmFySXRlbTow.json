@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonbarItem","metadata":0,"displayName":"Lemon Bar","unlocalizedName":"item.lemonbarItem","oreDictNames":["foodLemonbar"],"id":"harvestcraft:lemonbarItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":370}],"recipesAsInput":[]}

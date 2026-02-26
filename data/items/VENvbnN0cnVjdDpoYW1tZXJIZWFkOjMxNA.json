@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"hammerHead","metadata":314,"displayName":"Unstable Induced Hammer Head","unlocalizedName":"toolpart.HammerHead.unstableIngot","id":"TConstruct:hammerHead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":486},{"machine":"gt.recipe.extruder","chunk":28,"index":487}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"newBopDirt","metadata":3,"displayName":"Coarse Sandy Dirt","unlocalizedName":"tile.newBopDirt.coarse_dirt_sandy","id":"BiomesOPlenty:newBopDirt:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":181},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":480}]}

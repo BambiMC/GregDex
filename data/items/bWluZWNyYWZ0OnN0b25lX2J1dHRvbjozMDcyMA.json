@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_button","metadata":30720,"displayName":"Button","unlocalizedName":"tile.button","id":"minecraft:stone_button:30720","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":365},{"machine":"gt.recipe.assembler","chunk":3,"index":437},{"machine":"gt.recipe.assembler","chunk":4,"index":9}]}

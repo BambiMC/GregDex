@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"yottaFluidTankCells","metadata":0,"displayName":"Fluid Cell Block T1","unlocalizedName":"yottaFluidTankCell.0","id":"GoodGenerator:yottaFluidTankCells:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":73}],"recipesAsInput":[{"machine":"gt.recipe.unpackager","chunk":0,"index":0}]}

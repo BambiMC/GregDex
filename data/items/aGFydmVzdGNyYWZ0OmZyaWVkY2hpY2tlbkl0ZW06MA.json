@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"friedchickenItem","metadata":0,"displayName":"Fried Chicken","unlocalizedName":"item.friedchickenItem","oreDictNames":["foodFriedchicken"],"id":"harvestcraft:friedchickenItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":390}],"recipesAsInput":[]}

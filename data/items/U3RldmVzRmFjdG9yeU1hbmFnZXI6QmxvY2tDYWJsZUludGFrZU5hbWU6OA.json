@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableIntakeName","metadata":8,"displayName":"Rapid Item Valve","unlocalizedName":"tile.sfm.BlockInstantCableIntake","id":"StevesFactoryManager:BlockCableIntakeName:8","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":499}],"recipesAsInput":[]}

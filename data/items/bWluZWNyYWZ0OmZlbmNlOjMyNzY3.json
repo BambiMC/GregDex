@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"fence","metadata":32767,"displayName":"Fence","unlocalizedName":"tile.fence","id":"minecraft:fence:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":15,"index":117},{"machine":"gt.recipe.macerator","chunk":31,"index":175}]}

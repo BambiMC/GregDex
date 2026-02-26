@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorPlatingExplosive","metadata":0,"displayName":"Containment Reactor Plating","unlocalizedName":"ic2.reactorPlatingExplosive","id":"IC2:reactorPlatingExplosive:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":399},{"machine":"gt.recipe.assembler","chunk":4,"index":298}],"recipesAsInput":[]}

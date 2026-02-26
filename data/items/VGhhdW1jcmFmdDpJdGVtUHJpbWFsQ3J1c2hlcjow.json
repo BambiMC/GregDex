@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemPrimalCrusher","metadata":0,"displayName":"Primal Crusher","unlocalizedName":"item.ItemPrimalCrusher","id":"Thaumcraft:ItemPrimalCrusher:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":397}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":317}]}

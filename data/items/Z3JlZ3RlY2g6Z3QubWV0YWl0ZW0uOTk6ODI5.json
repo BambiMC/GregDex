@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":829,"displayName":"Molten Deep Iron Cell","unlocalizedName":"gt.metaitem.99.829","oreDictNames":["cellMoltenDeepIron"],"id":"gregtech:gt.metaitem.99:829","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":79}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":80}]}

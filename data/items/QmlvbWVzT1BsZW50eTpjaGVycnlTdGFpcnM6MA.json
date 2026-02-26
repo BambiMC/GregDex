@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"cherryStairs","metadata":0,"displayName":"Cherry Wood Stairs","unlocalizedName":"tile.cherryStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:cherryStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":8},{"machine":"crafting_table","chunk":0,"index":9}],"recipesAsInput":[]}

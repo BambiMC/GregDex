@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"honeysandwichItem","metadata":32767,"displayName":"Honey Sandwich","unlocalizedName":"item.honeysandwichItem","id":"harvestcraft:honeysandwichItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":273}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gummybearsItem","metadata":0,"displayName":"Gummy Bears","unlocalizedName":"item.gummybearsItem","oreDictNames":["foodGummybears"],"id":"harvestcraft:gummybearsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":405}],"recipesAsInput":[]}

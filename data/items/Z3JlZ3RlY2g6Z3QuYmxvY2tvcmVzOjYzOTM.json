@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":6393,"displayName":"Oriharukon Ore","unlocalizedName":"gt.blockores.6393","oreDictNames":["oreBasaltOriharukon"],"id":"gregtech:gt.blockores:6393","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":98},{"machine":"gt.recipe.macerator","chunk":6,"index":433}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":6884,"displayName":"Desh Ore","unlocalizedName":"gt.blockores.6884","oreDictNames":["oreBasaltDesh"],"id":"gregtech:gt.blockores:6884","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":288},{"machine":"gt.recipe.macerator","chunk":9,"index":20}]}

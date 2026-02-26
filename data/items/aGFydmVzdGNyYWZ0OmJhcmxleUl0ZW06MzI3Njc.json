@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"barleyItem","metadata":32767,"displayName":"Barley","unlocalizedName":"item.barleyItem","id":"harvestcraft:barleyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":144}]}

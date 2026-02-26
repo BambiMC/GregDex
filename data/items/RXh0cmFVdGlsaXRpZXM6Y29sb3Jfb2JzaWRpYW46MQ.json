@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_obsidian","metadata":1,"displayName":"Colored Obsidian (Orange Frequency)","unlocalizedName":"tile.extrautils:color_obsidian.1","oreDictNames":["obsidian","obsidianRed"],"id":"ExtraUtilities:color_obsidian:1","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":128}],"recipesAsInput":[]}

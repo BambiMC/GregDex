@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellTumbaga","metadata":0,"displayName":"Tumbaga Cell","unlocalizedName":"item.itemCellTumbaga","oreDictNames":["cellTumbaga"],"id":"miscutils:itemCellTumbaga:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":356}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":357}]}

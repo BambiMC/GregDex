@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":1157,"displayName":"Oil/Gas/Fluid Drilling Rig","unlocalizedName":"gt.blockmachines.multimachine.oildrill1","id":"gregtech:gt.blockmachines:1157","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":227}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":228}]}

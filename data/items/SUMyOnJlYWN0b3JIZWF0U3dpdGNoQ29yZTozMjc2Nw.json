@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorHeatSwitchCore","metadata":32767,"displayName":"Reactor Heat Exchanger","unlocalizedName":"ic2.reactorHeatSwitchCore","id":"IC2:reactorHeatSwitchCore:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":176},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":223}]}

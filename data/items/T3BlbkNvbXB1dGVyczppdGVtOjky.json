@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":92,"displayName":"Tablet Case (Tier 2)","unlocalizedName":"item.oc.TabletCase1","oreDictNames":["oc:tabletCase2"],"id":"OpenComputers:item:92","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":26}],"recipesAsInput":[]}

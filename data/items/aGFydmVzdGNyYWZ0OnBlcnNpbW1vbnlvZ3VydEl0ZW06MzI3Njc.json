@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"persimmonyogurtItem","metadata":32767,"displayName":"Persimmon Yogurt","unlocalizedName":"item.persimmonyogurtItem","id":"harvestcraft:persimmonyogurtItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":107}]}

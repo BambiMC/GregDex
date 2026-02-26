@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellRuthenium","metadata":0,"displayName":"Ruthenium Cell","unlocalizedName":"item.itemCellRuthenium","oreDictNames":["cellRuthenium"],"id":"miscutils:itemCellRuthenium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":193}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":14,"displayName":"Combustion Promoter Cell","unlocalizedName":"gt.metaitem.98.14","id":"gregtech:gt.metaitem.98:14","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":343}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":344}]}

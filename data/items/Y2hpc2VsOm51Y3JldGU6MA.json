@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"nucrete","metadata":0,"displayName":"Structural Concrete","unlocalizedName":"tile.chisel.nucrete","id":"chisel:nucrete:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":389},{"machine":"gt.recipe.assembler","chunk":2,"index":216}],"recipesAsInput":[]}

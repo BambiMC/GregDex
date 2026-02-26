@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFThorns","metadata":1,"displayName":"Green Thorns","unlocalizedName":"tile.TFThorns.green","id":"TwilightForest:tile.TFThorns:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":21}],"recipesAsInput":[{"machine":"thaumcraft_crucible","chunk":0,"index":204}]}

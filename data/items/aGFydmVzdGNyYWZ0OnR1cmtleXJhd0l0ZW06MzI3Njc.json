@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"turkeyrawItem","metadata":32767,"displayName":"Raw Turkey","unlocalizedName":"item.turkeyrawItem","id":"harvestcraft:turkeyrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":206},{"machine":"gt.recipe.macerator","chunk":31,"index":7}]}

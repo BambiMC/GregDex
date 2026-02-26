@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"plutoblocks","metadata":5,"displayName":"Pluto Stone","unlocalizedName":"tile.PlutoStone","oreDictNames":["rockPluto","rockSpace"],"id":"GalaxySpace:plutoblocks:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.laserengraver","chunk":3,"index":194},{"machine":"gt.recipe.macerator","chunk":0,"index":176}]}

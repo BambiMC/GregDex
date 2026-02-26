@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"chestFull","metadata":0,"displayName":"Slightly Larger Chest","unlocalizedName":"tile.extrautils:chestFull","id":"ExtraUtilities:chestFull:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":196},{"machine":"gt.recipe.assembler","chunk":26,"index":221}],"recipesAsInput":[]}

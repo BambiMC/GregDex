@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawKoboldite","metadata":0,"displayName":"Raw Koboldite Ore","unlocalizedName":"item.oreRawKoboldite","oreDictNames":["oreRawKoboldite"],"id":"miscutils:oreRawKoboldite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":15}]}

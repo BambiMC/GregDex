@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":3,"displayName":"Structural MK IV (Bronze Plate)","unlocalizedName":"item.upgrade.structural.4","id":"JABBA:upgradeStructural:3","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":28},{"machine":"gt.recipe.assembler","chunk":1,"index":63}],"recipesAsInput":[]}

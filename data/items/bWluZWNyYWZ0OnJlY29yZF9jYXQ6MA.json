@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"record_cat","metadata":0,"displayName":"Music Disc","unlocalizedName":"item.record","oreDictNames":["record"],"id":"minecraft:record_cat:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":25,"index":330},{"machine":"gt.recipe.macerator","chunk":0,"index":107}]}

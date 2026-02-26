@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32221,"displayName":"Lifespan Upgrade","unlocalizedName":"gt.metaitem.03.32221","oreDictNames":["apiaryUpgrade"],"id":"gregtech:gt.metaitem.03:32221","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":430},{"machine":"crafting_table","chunk":112,"index":376}],"recipesAsInput":[]}

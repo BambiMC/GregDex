@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.transfer","metadata":20,"displayName":"AE2 Network Transfer Chip","unlocalizedName":"item.chip.transfer.network_ae","id":"RIO:item.chip.transfer:20","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":403}],"recipesAsInput":[]}

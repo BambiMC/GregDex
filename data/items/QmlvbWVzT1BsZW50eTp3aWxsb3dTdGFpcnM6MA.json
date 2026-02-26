@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"willowStairs","metadata":0,"displayName":"Willow Wood Stairs","unlocalizedName":"tile.willowStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:willowStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":2},{"machine":"crafting_table","chunk":0,"index":3}],"recipesAsInput":[]}

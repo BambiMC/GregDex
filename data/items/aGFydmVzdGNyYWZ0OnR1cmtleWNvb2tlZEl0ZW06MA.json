@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"turkeycookedItem","metadata":0,"displayName":"Cooked Turkey","unlocalizedName":"item.turkeycookedItem","oreDictNames":["foodTurkeycooked","listAllmeatcooked","listAllturkeycooked"],"id":"harvestcraft:turkeycookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":12,"index":475}],"recipesAsInput":[]}

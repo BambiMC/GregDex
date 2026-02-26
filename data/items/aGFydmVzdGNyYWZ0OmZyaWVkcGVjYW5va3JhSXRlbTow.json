@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"friedpecanokraItem","metadata":0,"displayName":"Fried Pecan Okra","unlocalizedName":"item.friedpecanokraItem","oreDictNames":["foodFriedpecanokra"],"id":"harvestcraft:friedpecanokraItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":430}],"recipesAsInput":[]}

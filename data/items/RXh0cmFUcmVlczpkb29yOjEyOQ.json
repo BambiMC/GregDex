@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":129,"displayName":"Teak Wood Door","unlocalizedName":"tile.door","nbt":"{meta:129}","id":"ExtraTrees:door:129","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":177},{"machine":"crafting_table","chunk":110,"index":178}],"recipesAsInput":[]}

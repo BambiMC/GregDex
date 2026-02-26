@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":95,"displayName":"Brew of Sleeping","unlocalizedName":"item.witchery:ingredient.brewSleep","id":"witchery:ingredient:95","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":0,"index":185},{"machine":"crafting_table","chunk":0,"index":203}]}

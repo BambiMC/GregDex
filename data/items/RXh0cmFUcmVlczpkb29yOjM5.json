@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":39,"displayName":"Hazel Wood Door","unlocalizedName":"tile.door","nbt":"{meta:39}","id":"ExtraTrees:door:39","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":32},{"machine":"crafting_table","chunk":110,"index":33}],"recipesAsInput":[]}

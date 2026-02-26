@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"kiwiItem","metadata":32767,"displayName":"Kiwi","unlocalizedName":"item.kiwiItem","id":"harvestcraft:kiwiItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":189}]}

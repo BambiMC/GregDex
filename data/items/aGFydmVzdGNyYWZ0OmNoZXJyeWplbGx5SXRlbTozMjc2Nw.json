@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cherryjellyItem","metadata":32767,"displayName":"Cherry Jelly","unlocalizedName":"item.cherryjellyItem","id":"harvestcraft:cherryjellyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":24}]}

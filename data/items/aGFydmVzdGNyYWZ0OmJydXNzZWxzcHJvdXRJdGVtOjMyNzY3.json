@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"brusselsproutItem","metadata":32767,"displayName":"Brussel Sprout","unlocalizedName":"item.brusselsproutItem","id":"harvestcraft:brusselsproutItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":176}]}

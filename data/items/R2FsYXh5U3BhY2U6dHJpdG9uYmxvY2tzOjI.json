@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"tritonblocks","metadata":2,"displayName":"Triton Stone","unlocalizedName":"tile.TritonStone","oreDictNames":["rockTriton","rockSpace"],"id":"GalaxySpace:tritonblocks:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":204},{"machine":"gt.recipe.macerator","chunk":0,"index":170}]}

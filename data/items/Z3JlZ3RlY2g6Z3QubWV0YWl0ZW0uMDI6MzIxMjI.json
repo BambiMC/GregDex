@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32122,"displayName":"Diabolo Sauce","unlocalizedName":"gt.metaitem.02.32122","id":"gregtech:gt.metaitem.02:32122","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":52}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":53}]}

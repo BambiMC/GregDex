@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":2,"displayName":"Bismuthinite Ore","unlocalizedName":"bw.blockores.01.2","oreDictNames":["oreBismuthinite"],"id":"bartworks:bw.blockores.01:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":269},{"machine":"gt.recipe.macerator","chunk":4,"index":206}]}

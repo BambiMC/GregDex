@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"okraItem","metadata":32767,"displayName":"Okra","unlocalizedName":"item.okraItem","id":"harvestcraft:okraItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":185}]}

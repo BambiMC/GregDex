@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CrossbowBodyPart","metadata":7,"displayName":"Netherrack Crossbow Body","unlocalizedName":"toolpart.CrossbowBody.Netherrack","id":"TConstruct:CrossbowBodyPart:7","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":59}],"recipesAsInput":[]}

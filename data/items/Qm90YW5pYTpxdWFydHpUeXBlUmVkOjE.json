@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"quartzTypeRed","metadata":1,"displayName":"Chiseled Redquartz Block","unlocalizedName":"tile.botania:chiseledRedQuartz","id":"Botania:quartzTypeRed:1","recipesAsOutput":[{"machine":"crafting_table","chunk":69,"index":307}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":25},{"machine":"gt.recipe.extractor","chunk":0,"index":81}]}

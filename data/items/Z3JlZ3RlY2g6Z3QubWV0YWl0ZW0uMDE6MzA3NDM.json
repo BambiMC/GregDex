@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30743,"displayName":"Red Mud Cell","unlocalizedName":"gt.metaitem.01.30743","oreDictNames":["cellRedMud"],"id":"gregtech:gt.metaitem.01:30743","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":475}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":476}]}

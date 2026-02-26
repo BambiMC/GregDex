@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.blank_plate","metadata":0,"displayName":"Blank Plate","unlocalizedName":"item.blank_plate","id":"RIO:item.blank_plate:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":396}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":103}]}

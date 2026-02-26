@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"componentAssemblylineCasing","metadata":3,"displayName":"Component Assembly Line Casing (EV)","unlocalizedName":"componentAssemblyLineCasing.3","id":"GoodGenerator:componentAssemblylineCasing:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":73}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":287}]}

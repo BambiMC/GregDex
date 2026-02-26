@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":34,"displayName":"Certus Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:34","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":186},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":91}]}

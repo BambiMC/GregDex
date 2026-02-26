@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"transposer","metadata":0,"displayName":"Transposer","unlocalizedName":"tile.oc.transposer","oreDictNames":["oc:transposer"],"id":"OpenComputers:transposer:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":14}],"recipesAsInput":[]}

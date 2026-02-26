@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellPikyonium64B","metadata":0,"displayName":"Pikyonium 64B Cell","unlocalizedName":"item.itemCellPikyonium64B","oreDictNames":["cellPikyonium64B"],"id":"miscutils:itemCellPikyonium64B:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":117}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":118}]}

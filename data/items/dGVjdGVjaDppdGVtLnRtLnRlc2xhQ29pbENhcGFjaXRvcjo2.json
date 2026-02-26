@@ -1,0 +1,1 @@
+{"modId":"tectech","itemName":"item.tm.teslaCoilCapacitor","metadata":6,"displayName":"ZPM Tesla Capacitor","unlocalizedName":"item.tm.teslaCoilCapacitor.6","id":"tectech:item.tm.teslaCoilCapacitor:6","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":146}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":167}]}

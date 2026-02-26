@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":7,"displayName":"LootBag (Tier 4 EV)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:7","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":410},{"machine":"gt.recipe.assembler","chunk":2,"index":239}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":240}]}

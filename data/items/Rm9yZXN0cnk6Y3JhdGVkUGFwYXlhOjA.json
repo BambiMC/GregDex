@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedPapaya","metadata":0,"displayName":"Crated Papaya","unlocalizedName":"item.cratedPapaya","id":"Forestry:cratedPapaya:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":340}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":127}]}

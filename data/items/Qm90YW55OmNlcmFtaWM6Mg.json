@@ -1,0 +1,1 @@
+{"modId":"Botany","itemName":"ceramic","metadata":2,"displayName":"Ceramic Block","unlocalizedName":"tile.ceramic","nbt":"{meta:2}","id":"Botany:ceramic:2","recipesAsOutput":[{"machine":"furnace","chunk":13,"index":4}],"recipesAsInput":[]}

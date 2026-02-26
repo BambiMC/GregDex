@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"map","metadata":32767,"displayName":"Empty Map","unlocalizedName":"item.emptyMap","oreDictNames":["paperMap"],"id":"minecraft:map:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.printer","chunk":0,"index":3}]}

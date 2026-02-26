@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodLiquidPlutonium2","metadata":0,"displayName":"Dual Fuel Rod (Excited Plutonium)","unlocalizedName":"item.rodLiquidPlutonium2","id":"GoodGenerator:rodLiquidPlutonium2:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":79}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":80}]}

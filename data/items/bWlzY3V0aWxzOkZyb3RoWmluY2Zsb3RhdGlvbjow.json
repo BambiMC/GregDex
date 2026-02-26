@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"FrothZincflotation","metadata":0,"displayName":"Sphalerite Froth Cell","unlocalizedName":"item.FrothZincflotation","oreDictNames":["cellSphaleriteFroth"],"id":"miscutils:FrothZincflotation:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":361}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":362}]}

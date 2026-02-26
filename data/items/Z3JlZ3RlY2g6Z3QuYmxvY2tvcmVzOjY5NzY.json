@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":6976,"displayName":"Awakened Draconium Ore","unlocalizedName":"gt.blockores.6976","oreDictNames":["oreBasaltDraconiumAwakened"],"id":"gregtech:gt.blockores:6976","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":155},{"machine":"gt.recipe.macerator","chunk":5,"index":55}]}

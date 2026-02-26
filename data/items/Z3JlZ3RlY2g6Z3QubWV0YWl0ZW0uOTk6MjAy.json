@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":202,"displayName":"Molten Terrasteel Cell","unlocalizedName":"gt.metaitem.99.202","oreDictNames":["cellMoltenTerrasteel"],"id":"gregtech:gt.metaitem.99:202","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":11}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":12}]}

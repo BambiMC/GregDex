@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":310,"displayName":"Molten Cupronickel Cell","unlocalizedName":"gt.metaitem.99.310","oreDictNames":["cellMoltenCupronickel"],"id":"gregtech:gt.metaitem.99:310","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":351}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":352}]}

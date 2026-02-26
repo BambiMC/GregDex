@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCylinder","metadata":772,"displayName":"Bacteria Vector Cylinder","unlocalizedName":"item.containerCylinder","id":"BinnieCore:containerCylinder:772","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":372}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":373}]}

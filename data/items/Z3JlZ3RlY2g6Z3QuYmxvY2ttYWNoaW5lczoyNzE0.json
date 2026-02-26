@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":2714,"displayName":"Crafting Input Buffer (ME)","unlocalizedName":"gt.blockmachines.hatch.crafting_input.me","id":"gregtech:gt.blockmachines:2714","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":8},{"machine":"gt.recipe.researchstation","chunk":0,"index":0}],"recipesAsInput":[]}

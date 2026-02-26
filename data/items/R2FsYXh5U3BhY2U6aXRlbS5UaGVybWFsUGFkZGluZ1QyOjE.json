@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.ThermalPaddingT2","metadata":1,"displayName":"Thermal Chestplate","unlocalizedName":"item.thermalChestplateT2","id":"GalaxySpace:item.ThermalPaddingT2:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":114}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":109}]}

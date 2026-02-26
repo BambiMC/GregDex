@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemModule","metadata":11,"displayName":"Drone Terminus module","unlocalizedName":"item.ModuleApiaristTerminus","id":"LogisticsPipes:item.itemModule:11","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":72},{"machine":"gt.recipe.press","chunk":0,"index":339}],"recipesAsInput":[]}

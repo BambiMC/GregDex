@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatemilkshakeItem","metadata":32767,"displayName":"Chocolate Milkshake","unlocalizedName":"item.chocolatemilkshakeItem","id":"harvestcraft:chocolatemilkshakeItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":213}]}

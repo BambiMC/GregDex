@@ -1,0 +1,1 @@
+{"modId":"computronics","itemName":"computronics.detector","metadata":0,"displayName":"Detector - Digital","unlocalizedName":"tile.computronics.detector","id":"computronics:computronics.detector:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":142}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":497}]}

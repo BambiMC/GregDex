@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":368,"displayName":"Shadow Metal Ore","unlocalizedName":"gt.blockores.368","oreDictNames":["oreShadow"],"id":"gregtech:gt.blockores:368","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":202},{"machine":"gt.recipe.macerator","chunk":9,"index":398}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormCoinage","metadata":0,"displayName":"Casting Form (Coinage Mold)","unlocalizedName":"item.MoldFormCoinage","id":"dreamcraft:item.MoldFormCoinage:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":296}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":74}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"RocketFuelMixB","metadata":0,"displayName":"Rp-1 Rocket Fuel Cell","unlocalizedName":"item.RocketFuelMixB","oreDictNames":["cellRp1RocketFuel"],"id":"miscutils:RocketFuelMixB:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":87}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":88}]}

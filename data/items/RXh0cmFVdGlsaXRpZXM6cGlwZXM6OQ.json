@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"pipes","metadata":9,"displayName":"Filter Pipe","unlocalizedName":"tile.extrautils:pipes.9","id":"ExtraUtilities:pipes:9","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":181},{"machine":"gt.recipe.assembler","chunk":26,"index":243}],"recipesAsInput":[]}

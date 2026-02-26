@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaLogHopseed","metadata":0,"displayName":"Crated Hopseed Wood","unlocalizedName":"item.cratedNaturaLogHopseed","id":"Forestry:cratedNaturaLogHopseed:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":293}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":199}]}

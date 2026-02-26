@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pickledonionsItem","metadata":32767,"displayName":"Pickled Onions","unlocalizedName":"item.pickledonionsItem","id":"harvestcraft:pickledonionsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":200}]}

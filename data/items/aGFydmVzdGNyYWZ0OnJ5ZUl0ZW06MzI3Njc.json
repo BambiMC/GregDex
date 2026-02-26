@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"ryeItem","metadata":32767,"displayName":"Rye","unlocalizedName":"item.ryeItem","id":"harvestcraft:ryeItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":146}]}

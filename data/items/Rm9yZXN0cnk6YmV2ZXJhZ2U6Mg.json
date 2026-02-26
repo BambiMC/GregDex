@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"beverage","metadata":2,"displayName":"Mead","unlocalizedName":"item.for.beverage.mead","id":"Forestry:beverage:2","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":91}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":92}]}

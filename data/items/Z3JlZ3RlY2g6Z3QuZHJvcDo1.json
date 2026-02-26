@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.drop","metadata":5,"displayName":"Snow Queen Blood Drop","unlocalizedName":"item.gt.drop","id":"gregtech:gt.drop:5","recipesAsOutput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":116},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":358}],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":205}]}

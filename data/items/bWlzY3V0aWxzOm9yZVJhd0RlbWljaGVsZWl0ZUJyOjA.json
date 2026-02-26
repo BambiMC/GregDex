@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawDemicheleiteBr","metadata":0,"displayName":"Raw Demicheleite (Br) Ore","unlocalizedName":"item.oreRawDemicheleiteBr","oreDictNames":["oreRawDemicheleiteBr"],"id":"miscutils:oreRawDemicheleiteBr:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":40}]}

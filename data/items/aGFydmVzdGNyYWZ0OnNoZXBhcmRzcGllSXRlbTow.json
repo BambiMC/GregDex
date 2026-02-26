@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"shepardspieItem","metadata":0,"displayName":"Shepherd's Pie","unlocalizedName":"item.shepardspieItem","oreDictNames":["foodShepherdspie"],"id":"harvestcraft:shepardspieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":21,"index":79}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.360k_Helium_Coolantcell","metadata":32767,"displayName":"360k He Coolant Cell","unlocalizedName":"gt.360k_Helium_Coolantcell","id":"gregtech:gt.360k_Helium_Coolantcell:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":189},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":123}]}

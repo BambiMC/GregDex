@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"garage_door","metadata":0,"displayName":"Garage Door","unlocalizedName":"tile.garage_door","id":"malisisdoors:garage_door:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":143},{"machine":"gt.recipe.assembler","chunk":27,"index":249}],"recipesAsInput":[]}

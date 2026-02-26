@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.itemUpgrade","metadata":25,"displayName":"Fuzzy Upgrade","unlocalizedName":"item.FuzzyUpgrade","id":"LogisticsPipes:item.itemUpgrade:25","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":142}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":351}]}

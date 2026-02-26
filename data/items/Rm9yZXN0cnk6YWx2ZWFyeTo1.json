@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"alveary","metadata":5,"displayName":"Alveary Hygroregulator","unlocalizedName":"tile.for.alveary.5","id":"Forestry:alveary:5","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":427},{"machine":"gt.recipe.assembler","chunk":0,"index":474}],"recipesAsInput":[]}

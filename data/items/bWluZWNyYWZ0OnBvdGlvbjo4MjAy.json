@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8202,"displayName":"Potion of Slowness","unlocalizedName":"item.potion","id":"minecraft:potion:8202","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":251}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":39},{"machine":"gt.recipe.fluidcanner","chunk":0,"index":252}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"liquidresin","metadata":0,"displayName":"Liquid Resin Cell","unlocalizedName":"item.liquidresin","oreDictNames":["cellLiquidResin"],"id":"miscutils:liquidresin:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":184}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":185}]}

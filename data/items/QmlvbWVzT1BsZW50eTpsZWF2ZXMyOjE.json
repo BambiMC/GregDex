@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"leaves2","metadata":1,"displayName":"Fir Leaves","unlocalizedName":"tile.leaves2.fir","oreDictNames":["treeLeaves"],"id":"BiomesOPlenty:leaves2:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":59}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"GlassBlock.StainedClear","metadata":10,"displayName":"Purple Stained Glass","unlocalizedName":"block.stainedglass.purple","oreDictNames":["glassPurple"],"id":"TConstruct:GlassBlock.StainedClear:10","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":110},{"machine":"crafting_table","chunk":116,"index":111}],"recipesAsInput":[]}

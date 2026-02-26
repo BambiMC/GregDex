@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower1","metadata":5,"displayName":"Tall Mystical Lime Flower","unlocalizedName":"tile.doubleFlower15","oreDictNames":["mysticFlowerLimeDouble"],"id":"Botania:doubleFlower1:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":347},{"machine":"gt.recipe.extractor","chunk":0,"index":47}]}

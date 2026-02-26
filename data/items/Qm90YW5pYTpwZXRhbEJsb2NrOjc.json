@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"petalBlock","metadata":7,"displayName":"Gray Petal Block","unlocalizedName":"tile.petalBlock7","id":"Botania:petalBlock:7","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":19}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":129},{"machine":"gt.recipe.extractor","chunk":0,"index":27}]}

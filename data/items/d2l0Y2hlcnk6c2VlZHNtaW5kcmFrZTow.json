@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"seedsmindrake","metadata":0,"displayName":"Minedrake Bulb","unlocalizedName":"item.witchery:seedsmindrake","id":"witchery:seedsmindrake:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_squeezer","chunk":0,"index":2},{"machine":"gt.recipe.fluidextractor","chunk":26,"index":237}]}

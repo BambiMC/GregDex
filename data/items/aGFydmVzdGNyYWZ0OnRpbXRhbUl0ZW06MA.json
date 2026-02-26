@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"timtamItem","metadata":0,"displayName":"Tim Tam","unlocalizedName":"item.timtamItem","oreDictNames":["foodTimtam"],"id":"harvestcraft:timtamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":411}],"recipesAsInput":[]}

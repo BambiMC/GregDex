@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"BW_ItemBlocks","metadata":0,"displayName":"Etched Lapis Cell","unlocalizedName":"BW_ItemBlocks.0","id":"bartworks:BW_ItemBlocks:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":130}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":5,"index":221}]}

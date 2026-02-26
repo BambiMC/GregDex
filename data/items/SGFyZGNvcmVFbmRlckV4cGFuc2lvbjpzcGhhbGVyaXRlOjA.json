@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"sphalerite","metadata":0,"displayName":"Sphalerite","unlocalizedName":"tile.sphalerite","id":"HardcoreEnderExpansion:sphalerite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":4,"index":355},{"machine":"gt.recipe.hammer","chunk":8,"index":414},{"machine":"gt.recipe.macerator","chunk":10,"index":127}]}

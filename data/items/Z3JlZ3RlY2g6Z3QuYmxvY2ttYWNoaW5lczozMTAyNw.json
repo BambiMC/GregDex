@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31027,"displayName":"IsaMill Grinding Machine","unlocalizedName":"gt.blockmachines.gtpp.multimachine.isamill","id":"gregtech:gt.blockmachines:31027","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":342},{"machine":"gt.recipe.scanner","chunk":0,"index":91}],"recipesAsInput":[]}

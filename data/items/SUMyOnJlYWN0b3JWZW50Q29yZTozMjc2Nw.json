@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorVentCore","metadata":32767,"displayName":"Reactor Heat Vent","unlocalizedName":"ic2.reactorVentCore","id":"IC2:reactorVentCore:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":180},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":90}]}

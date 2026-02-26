@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":31299,"displayName":"Stone Gear","unlocalizedName":"gt.metaitem.02.31299","oreDictNames":["gearStone","gearGtStone"],"id":"gregtech:gt.metaitem.02:31299","recipesAsOutput":[{"machine":"crafting_table","chunk":43,"index":345}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":21,"index":186}]}

@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"powerDistributor","metadata":0,"displayName":"Power Distributor","unlocalizedName":"tile.oc.powerDistributor","oreDictNames":["oc:powerDistributor"],"id":"OpenComputers:powerDistributor:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":10}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":495}]}

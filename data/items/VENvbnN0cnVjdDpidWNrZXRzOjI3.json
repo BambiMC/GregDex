@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":27,"displayName":"Molten Lumium Bucket","unlocalizedName":"item.tconstruct.bucket.Lumium","id":"TConstruct:buckets:27","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":196}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":197}]}

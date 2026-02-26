@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chorizoItem","metadata":32767,"displayName":"Chorizo","unlocalizedName":"item.chorizoItem","id":"harvestcraft:chorizoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":192}]}

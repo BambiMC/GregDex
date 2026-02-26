@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"Anthracene","metadata":0,"displayName":"Anthracene Cell","unlocalizedName":"item.Anthracene","oreDictNames":["cellAnthracene"],"id":"miscutils:Anthracene:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":94}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":95}]}

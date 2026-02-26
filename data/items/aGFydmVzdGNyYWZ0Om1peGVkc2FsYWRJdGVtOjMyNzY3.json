@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mixedsaladItem","metadata":32767,"displayName":"Mixed Salad","unlocalizedName":"item.mixedsaladItem","id":"harvestcraft:mixedsaladItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":11}]}

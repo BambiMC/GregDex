@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"walnutraisinbreadItem","metadata":0,"displayName":"Walnut Raisin Bread","unlocalizedName":"item.walnutraisinbreadItem","oreDictNames":["foodWalnutraisinbread"],"id":"harvestcraft:walnutraisinbreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":386}],"recipesAsInput":[]}

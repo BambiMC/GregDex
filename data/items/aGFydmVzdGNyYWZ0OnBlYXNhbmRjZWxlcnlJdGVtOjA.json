@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"peasandceleryItem","metadata":0,"displayName":"Peas and Celery","unlocalizedName":"item.peasandceleryItem","oreDictNames":["foodPeasandcelery"],"id":"harvestcraft:peasandceleryItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":380}],"recipesAsInput":[]}

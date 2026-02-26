@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"rune","metadata":15,"displayName":"Rune of Pride","unlocalizedName":"item.rune15","oreDictNames":["runePrideB"],"id":"Botania:rune:15","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":459},{"machine":"crafting_table","chunk":21,"index":463},{"machine":"thaumcraft_infusion_altar","chunk":2,"index":457}]}

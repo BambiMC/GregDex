@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatemilkItem","metadata":0,"displayName":"Chocolate Milk","unlocalizedName":"item.chocolatemilkItem","oreDictNames":["foodChocolatemilk"],"id":"harvestcraft:chocolatemilkItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":358}],"recipesAsInput":[{"machine":"crafting_table","chunk":92,"index":345}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gooseberryjellyItem","metadata":0,"displayName":"Gooseberry Jelly","unlocalizedName":"item.gooseberryjellyItem","oreDictNames":["foodGooseberryjelly"],"id":"harvestcraft:gooseberryjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":257}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":475}]}

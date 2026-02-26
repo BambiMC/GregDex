@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mudfishrawItem","metadata":32767,"displayName":"Raw Mudfish","unlocalizedName":"item.mudfishrawItem","id":"harvestcraft:mudfishrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":75},{"machine":"gt.recipe.canner","chunk":1,"index":168}]}

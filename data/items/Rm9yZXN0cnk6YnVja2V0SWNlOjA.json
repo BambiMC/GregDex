@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"bucketIce","metadata":0,"displayName":"Crushed Ice Bucket","unlocalizedName":"item.for.bucketIce","id":"Forestry:bucketIce:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":23}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":24}]}

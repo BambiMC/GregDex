@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonlimesodaItem","metadata":32767,"displayName":"Lemon-Lime Soda","unlocalizedName":"item.lemonlimesodaItem","id":"harvestcraft:lemonlimesodaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":56}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"asparagusItem","metadata":32767,"displayName":"Asparagus","unlocalizedName":"item.asparagusItem","id":"harvestcraft:asparagusItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":20},{"machine":"gt.recipe.canner","chunk":0,"index":143}]}

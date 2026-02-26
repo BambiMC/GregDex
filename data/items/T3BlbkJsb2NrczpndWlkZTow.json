@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"guide","metadata":0,"displayName":"Building Guide","unlocalizedName":"tile.openblocks.guide","id":"OpenBlocks:guide:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":385}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":263}]}

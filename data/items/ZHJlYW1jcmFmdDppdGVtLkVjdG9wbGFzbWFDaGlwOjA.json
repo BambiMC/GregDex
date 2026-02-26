@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.EctoplasmaChip","metadata":0,"displayName":"Ectoplasma Chip","unlocalizedName":"item.EctoplasmaChip","id":"dreamcraft:item.EctoplasmaChip:0","recipesAsOutput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":198}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":212}]}

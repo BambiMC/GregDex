@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":31,"displayName":"Molten Nether Quartz Bucket","unlocalizedName":"item.tconstruct.bucket.Quartz","id":"TConstruct:buckets:31","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":202}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":203}]}

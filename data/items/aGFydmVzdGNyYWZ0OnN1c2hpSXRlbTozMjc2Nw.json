@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sushiItem","metadata":32767,"displayName":"Sushi","unlocalizedName":"item.sushiItem","id":"harvestcraft:sushiItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":16}]}

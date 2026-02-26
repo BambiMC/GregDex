@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"beetburgerItem","metadata":0,"displayName":"Beet Burger","unlocalizedName":"item.beetburgerItem","oreDictNames":["foodBeetburger"],"id":"harvestcraft:beetburgerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":303}],"recipesAsInput":[]}

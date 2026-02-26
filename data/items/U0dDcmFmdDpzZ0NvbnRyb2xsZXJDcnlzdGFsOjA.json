@@ -1,0 +1,1 @@
+{"modId":"SGCraft","itemName":"sgControllerCrystal","metadata":0,"displayName":"Stargate Controller Crystal","unlocalizedName":"item.gcewing_sg:sgControllerCrystal","id":"SGCraft:sgControllerCrystal:0","recipesAsOutput":[{"machine":"gt.recipe.blastfurnace","chunk":0,"index":91},{"machine":"gt.recipe.fog_molten","chunk":0,"index":91}],"recipesAsInput":[]}

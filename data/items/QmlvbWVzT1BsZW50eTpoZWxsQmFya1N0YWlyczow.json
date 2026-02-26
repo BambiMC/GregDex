@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"hellBarkStairs","metadata":0,"displayName":"Hellbark Wood Stairs","unlocalizedName":"tile.hellBarkStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:hellBarkStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":22},{"machine":"crafting_table","chunk":0,"index":23}],"recipesAsInput":[]}

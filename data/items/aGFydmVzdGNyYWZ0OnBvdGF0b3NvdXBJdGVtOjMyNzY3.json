@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"potatosoupItem","metadata":32767,"displayName":"Potato Soup","unlocalizedName":"item.potatosoupItem","id":"harvestcraft:potatosoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":259}]}

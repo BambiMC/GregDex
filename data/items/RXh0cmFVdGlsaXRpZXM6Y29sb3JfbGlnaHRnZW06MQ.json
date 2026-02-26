@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_lightgem","metadata":1,"displayName":"Colored Glowstone (Orange Frequency)","unlocalizedName":"tile.extrautils:color_lightgem.1","oreDictNames":["glowstoneRed","glowstone"],"id":"ExtraUtilities:color_lightgem:1","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":0}],"recipesAsInput":[]}

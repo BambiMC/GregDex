@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":361,"displayName":"Molten Chromium Dioxide Cell","unlocalizedName":"gt.metaitem.99.361","oreDictNames":["cellMoltenChromiumDioxide"],"id":"gregtech:gt.metaitem.99:361","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":123}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":124}]}

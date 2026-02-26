@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"magicStairs","metadata":0,"displayName":"Magic Wood Stairs","unlocalizedName":"tile.magicStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:magicStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":12},{"machine":"crafting_table","chunk":0,"index":13}],"recipesAsInput":[]}

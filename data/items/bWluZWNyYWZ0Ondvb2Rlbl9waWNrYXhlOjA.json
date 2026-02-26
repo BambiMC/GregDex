@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_pickaxe","metadata":0,"displayName":"Wooden Pickaxe","unlocalizedName":"item.pickaxeWood","id":"minecraft:wooden_pickaxe:0","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":452},{"machine":"gt.recipe.assembler","chunk":8,"index":404}],"recipesAsInput":[]}

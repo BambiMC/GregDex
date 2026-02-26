@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"tile.walkway","metadata":0,"displayName":"Walkway","unlocalizedName":"tile.walkway","id":"GalacticraftMars:tile.walkway:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":32}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":293},{"machine":"gt.recipe.assembler","chunk":26,"index":294}]}

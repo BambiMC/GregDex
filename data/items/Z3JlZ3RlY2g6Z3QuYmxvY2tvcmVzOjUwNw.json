@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":507,"displayName":"Topaz Ore","unlocalizedName":"gt.blockores.507","oreDictNames":["oreTopaz"],"id":"gregtech:gt.blockores:507","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":492},{"machine":"gt.recipe.hammer","chunk":5,"index":5},{"machine":"gt.recipe.macerator","chunk":6,"index":347}]}

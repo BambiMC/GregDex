@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"cryotheum","metadata":0,"displayName":"Gelid Cryotheum Cell","unlocalizedName":"item.cryotheum","oreDictNames":["cellGelidCryotheum"],"id":"miscutils:cryotheum:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":316}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":317}]}

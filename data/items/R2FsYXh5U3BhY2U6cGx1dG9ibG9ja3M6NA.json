@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"plutoblocks","metadata":4,"displayName":"Pluto Subsurface Ice","unlocalizedName":"tile.PlutoSubGrunt","oreDictNames":["rockPluto","rockSpace"],"id":"GalaxySpace:plutoblocks:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":213},{"machine":"gt.recipe.macerator","chunk":0,"index":175}]}

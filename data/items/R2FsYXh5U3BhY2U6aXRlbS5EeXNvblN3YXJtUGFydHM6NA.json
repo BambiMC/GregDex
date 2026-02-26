@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.DysonSwarmParts","metadata":4,"displayName":"Tantalum Hafnium Carbide Nanoparticles","unlocalizedName":"item.TaHfNanoparticles","id":"GalaxySpace:item.DysonSwarmParts:4","recipesAsOutput":[{"machine":"gt.recipe.macerator","chunk":3,"index":161}],"recipesAsInput":[{"machine":"gt.recipe.autoclave","chunk":0,"index":112}]}

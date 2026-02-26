@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":6073,"displayName":"Dysprosium Ore","unlocalizedName":"gt.blockores.6073","oreDictNames":["oreBasaltDysprosium"],"id":"gregtech:gt.blockores:6073","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":5,"index":212},{"machine":"gt.recipe.macerator","chunk":7,"index":36}]}

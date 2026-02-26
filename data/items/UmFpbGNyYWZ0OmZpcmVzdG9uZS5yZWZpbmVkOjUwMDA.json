@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"firestone.refined","metadata":5000,"displayName":"Refined Firestone","unlocalizedName":"item.railcraft.firestone.refined","id":"Railcraft:firestone.refined:5000","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":371},{"machine":"gt.recipe.assembler","chunk":28,"index":372}],"recipesAsInput":[]}

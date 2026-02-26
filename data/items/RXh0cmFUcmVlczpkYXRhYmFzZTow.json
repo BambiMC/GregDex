@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"database","metadata":0,"displayName":"Arborist Database","unlocalizedName":"item.database","id":"ExtraTrees:database:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":463},{"machine":"forestry_carpenter","chunk":0,"index":112}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":164}]}

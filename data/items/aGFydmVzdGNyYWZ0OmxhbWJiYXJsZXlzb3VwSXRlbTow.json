@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lambbarleysoupItem","metadata":0,"displayName":"Lamb Barley Soup","unlocalizedName":"item.lambbarleysoupItem","oreDictNames":["foodLambbarleysoup"],"id":"harvestcraft:lambbarleysoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":401}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lambkebabItem","metadata":0,"displayName":"Lamb Kebab","unlocalizedName":"item.lambkebabItem","oreDictNames":["foodLambkebab"],"id":"harvestcraft:lambkebabItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":418}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":366,"displayName":"Molten Energetic Alloy Cell","unlocalizedName":"gt.metaitem.99.366","oreDictNames":["cellMoltenEnergeticAlloy"],"id":"gregtech:gt.metaitem.99:366","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":157}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":158}]}

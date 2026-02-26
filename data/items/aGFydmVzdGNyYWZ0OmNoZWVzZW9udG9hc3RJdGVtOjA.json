@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cheeseontoastItem","metadata":0,"displayName":"Cheese on Toast","unlocalizedName":"item.cheeseontoastItem","oreDictNames":["foodCheeseontoast"],"id":"harvestcraft:cheeseontoastItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":262}],"recipesAsInput":[]}

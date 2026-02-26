@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mushrooms","metadata":3,"displayName":"Glowshroom","unlocalizedName":"tile.mushrooms.glowshroom","oreDictNames":["listInedibleMushroom"],"id":"BiomesOPlenty:mushrooms:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":112},{"machine":"gt.recipe.extractor","chunk":0,"index":135}]}

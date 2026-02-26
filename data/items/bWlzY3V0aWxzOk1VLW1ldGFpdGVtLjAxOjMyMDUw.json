@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"MU-metaitem.01","metadata":32050,"displayName":"Quad Cell Sodium Battery","unlocalizedName":"MU-metaitem.01.32050","id":"miscutils:MU-metaitem.01:32050","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":220}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":175}]}

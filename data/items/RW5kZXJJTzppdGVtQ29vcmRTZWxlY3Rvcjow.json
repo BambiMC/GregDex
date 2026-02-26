@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemCoordSelector","metadata":0,"displayName":"Coordinate Selector","unlocalizedName":"item.itemCoordSelector","nbt":"{bc:\"z:0\",default:1b}","id":"EnderIO:itemCoordSelector:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":379}],"recipesAsInput":[]}

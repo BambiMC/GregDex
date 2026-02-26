@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":43,"displayName":"Molten Rubidium Cell","unlocalizedName":"gt.metaitem.99.43","oreDictNames":["cellMoltenRubidium"],"id":"gregtech:gt.metaitem.99:43","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":263}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":264}]}

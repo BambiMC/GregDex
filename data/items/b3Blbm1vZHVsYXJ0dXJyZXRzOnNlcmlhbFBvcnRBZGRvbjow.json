@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"serialPortAddon","metadata":0,"displayName":"Addon - Serial Port","unlocalizedName":"item.addonSerialPort","id":"openmodularturrets:serialPortAddon:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":303}],"recipesAsInput":[]}

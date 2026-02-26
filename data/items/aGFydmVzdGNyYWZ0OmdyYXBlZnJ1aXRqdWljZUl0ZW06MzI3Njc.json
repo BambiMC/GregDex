@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grapefruitjuiceItem","metadata":32767,"displayName":"Grapefruit Juice","unlocalizedName":"item.grapefruitjuiceItem","id":"harvestcraft:grapefruitjuiceItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":97}]}

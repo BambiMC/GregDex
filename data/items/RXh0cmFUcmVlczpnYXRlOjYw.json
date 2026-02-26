@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"gate","metadata":60,"displayName":"Ash Gate","unlocalizedName":"tile.null","nbt":"{meta:60}","id":"ExtraTrees:gate:60","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":406},{"machine":"crafting_table","chunk":110,"index":407},{"machine":"crafting_table","chunk":110,"index":408}],"recipesAsInput":[]}

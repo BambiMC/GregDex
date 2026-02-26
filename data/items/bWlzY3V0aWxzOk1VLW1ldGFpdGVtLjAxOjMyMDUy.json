@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"MU-metaitem.01","metadata":32052,"displayName":"Quad Cell Cadmium Battery","unlocalizedName":"MU-metaitem.01.32052","id":"miscutils:MU-metaitem.01:32052","recipesAsOutput":[{"machine":"crafting_table","chunk":25,"index":221}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":176}]}

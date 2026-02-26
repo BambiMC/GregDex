@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":82,"displayName":"Microcontroller Case (Tier 1)","unlocalizedName":"item.oc.MicrocontrollerCase0","oreDictNames":["oc:microcontrollerCase1"],"id":"OpenComputers:item:82","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":485}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":487}]}

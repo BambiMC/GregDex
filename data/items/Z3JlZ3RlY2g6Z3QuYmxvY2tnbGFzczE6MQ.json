@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockglass1","metadata":1,"displayName":"Electron-Permeable Neutronium Coated Glass","unlocalizedName":"gt.blockglass1.1","id":"gregtech:gt.blockglass1:1","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":55}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":56}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.itemRodPolonium","metadata":0,"displayName":"Polonium Rod","unlocalizedName":"item.itemRodPolonium","oreDictNames":["stickPolonium"],"id":"miscutils:item.itemRodPolonium:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"bw.recipe.radhatch","chunk":0,"index":96}]}

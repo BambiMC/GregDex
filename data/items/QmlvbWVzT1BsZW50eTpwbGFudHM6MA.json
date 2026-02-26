@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"plants","metadata":0,"displayName":"Dead Grass","unlocalizedName":"tile.plants.deadgrass","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:plants:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":2,"index":116}]}

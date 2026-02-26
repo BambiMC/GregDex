@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerGlass","metadata":131,"displayName":"Turpentine Glass","unlocalizedName":"item.containerGlass","id":"BinnieCore:containerGlass:131","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":209}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":210}]}

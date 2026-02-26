@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"spidereyesoupItem","metadata":0,"displayName":"Spider Eye Soup","unlocalizedName":"item.spidereyesoupItem","oreDictNames":["foodSpidereyesoup"],"id":"harvestcraft:spidereyesoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":128}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":129,"displayName":"Rune Type 2 Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:129","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":125},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":67}]}

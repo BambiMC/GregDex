@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreZimbabweite","metadata":0,"displayName":"Zimbabweite Ore","unlocalizedName":"tile.OreZimbabweite","oreDictNames":["oreZimbabweite"],"id":"miscutils:oreZimbabweite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":339},{"machine":"gt.recipe.macerator","chunk":1,"index":143}]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":12,"displayName":"Witch Pin","unlocalizedName":"item.cosmetic12","id":"Botania:cosmetic:12","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":235},{"machine":"gt.recipe.assembler","chunk":0,"index":267}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":102}]}

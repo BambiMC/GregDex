@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"logs3","metadata":3,"displayName":"Giant Flower Stem","unlocalizedName":"tile.logs3.bigflowerstemWood","oreDictNames":["logWood"],"id":"BiomesOPlenty:logs3:3","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":77},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":78}],"recipesAsInput":[]}

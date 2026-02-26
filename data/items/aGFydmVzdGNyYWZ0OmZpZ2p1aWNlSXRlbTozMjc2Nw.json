@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"figjuiceItem","metadata":32767,"displayName":"Fig Juice","unlocalizedName":"item.figjuiceItem","id":"harvestcraft:figjuiceItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":96}]}

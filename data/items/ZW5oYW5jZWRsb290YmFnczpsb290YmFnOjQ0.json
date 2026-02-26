@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":44,"displayName":"LootBag (Tier 9 UHV)","unlocalizedName":"item.null","nbt":"{ench:[0:{lvl:3s,id:35s}],RepairCost:2}","id":"enhancedlootbags:lootbag:44","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":447}],"recipesAsInput":[]}

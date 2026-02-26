@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"oreBerries","metadata":1,"displayName":"Gold Oreberry","unlocalizedName":"item.oreberry.gold","oreDictNames":["nuggetGold","oreberryGold"],"id":"TConstruct:oreBerries:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":25,"index":316},{"machine":"gt.recipe.macerator","chunk":0,"index":101}]}

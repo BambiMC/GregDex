@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeSide","metadata":1,"displayName":"Hopper facade","unlocalizedName":"item.upgrade.side.hopper","id":"JABBA:upgradeSide:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":74}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"TaintedMagic","itemName":"ItemFocusTime","metadata":0,"displayName":"Wand Focus: Time","unlocalizedName":"item.ItemFocusTime","id":"TaintedMagic:ItemFocusTime:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":315}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":4,"index":9}]}

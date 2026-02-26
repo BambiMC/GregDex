@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":87,"displayName":"Drone Case (Tier 2)","unlocalizedName":"item.oc.DroneCase1","oreDictNames":["oc:droneCase2"],"id":"OpenComputers:item:87","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":488}],"recipesAsInput":[]}

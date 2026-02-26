@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinWitchIV","metadata":0,"displayName":"Coin \"Spirit 10K\"","unlocalizedName":"item.CoinWitchIV","id":"dreamcraft:item.CoinWitchIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":310}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":366}]}

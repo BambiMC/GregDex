@@ -1,0 +1,1 @@
+{"modId":"WitchingGadgets","itemName":"item.WG_MagicFood","metadata":2,"displayName":"Brain Jerky","unlocalizedName":"item.WG_MagicFood.brainjerky","id":"WitchingGadgets:item.WG_MagicFood:2","recipesAsOutput":[{"machine":"gtpp.recipe.chemicaldehydrator","chunk":0,"index":76},{"machine":"gtpp.recipe.multidehydrator","chunk":0,"index":35}],"recipesAsInput":[]}

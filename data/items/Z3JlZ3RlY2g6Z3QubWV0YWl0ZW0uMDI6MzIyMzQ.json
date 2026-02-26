@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32234,"displayName":"Steak Sandwich","unlocalizedName":"gt.metaitem.02.32234","id":"gregtech:gt.metaitem.02:32234","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":472},{"machine":"crafting_table","chunk":102,"index":488}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":25}]}

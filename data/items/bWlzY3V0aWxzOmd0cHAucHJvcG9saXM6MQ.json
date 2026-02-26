@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"gtpp.propolis","metadata":1,"displayName":"Force Propolis","unlocalizedName":"item.gtpp.propolis","id":"miscutils:gtpp.propolis:1","recipesAsOutput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":2}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":174}]}

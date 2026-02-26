@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30601,"displayName":"Enriched Naquadria Cell","unlocalizedName":"gt.metaitem.01.30601","oreDictNames":["cellEnrichedNaquadria"],"id":"gregtech:gt.metaitem.01:30601","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":166}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":167}]}

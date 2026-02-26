@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemMOX","metadata":0,"displayName":"MOX Nuclear Fuel","unlocalizedName":"ic2.itemMOX","id":"IC2:itemMOX:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":375}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":339},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":48}]}

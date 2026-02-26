@@ -1,0 +1,1 @@
+{"modId":"Avaritia","itemName":"Triple_Craft","metadata":0,"displayName":"Double Compressed Crafting Table","unlocalizedName":"tile.very_compressed_workbench","id":"Avaritia:Triple_Craft:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":41}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":345}]}

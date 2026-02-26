@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.SoulariumBars","metadata":0,"displayName":"Soularium Bars","unlocalizedName":"item.SoulariumBars","oreDictNames":["barsSoularium"],"id":"dreamcraft:item.SoulariumBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":181}],"recipesAsInput":[]}

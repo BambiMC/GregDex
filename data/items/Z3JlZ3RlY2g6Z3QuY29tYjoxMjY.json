@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":126,"displayName":"Silverfish Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combEV","beeComb"],"id":"gregtech:gt.comb:126","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":123},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":44}]}

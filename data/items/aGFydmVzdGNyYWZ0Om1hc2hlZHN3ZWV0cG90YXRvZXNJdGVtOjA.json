@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mashedsweetpotatoesItem","metadata":0,"displayName":"Mashed Sweet Potatoes","unlocalizedName":"item.mashedsweetpotatoesItem","oreDictNames":["foodMashedsweetpotatoes"],"id":"harvestcraft:mashedsweetpotatoesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":178}],"recipesAsInput":[]}

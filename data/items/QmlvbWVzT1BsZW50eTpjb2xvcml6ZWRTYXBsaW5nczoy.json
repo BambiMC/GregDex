@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"colorizedSaplings","metadata":2,"displayName":"Palm Sapling","unlocalizedName":"tile.colorizedSaplings.palmSapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:colorizedSaplings:2","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":71}],"recipesAsInput":[]}

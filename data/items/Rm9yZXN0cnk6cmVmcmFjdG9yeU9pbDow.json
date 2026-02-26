@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryOil","metadata":0,"displayName":"Oil Capsule","unlocalizedName":"item.for.refractoryOil","id":"Forestry:refractoryOil:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":237}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":238}]}

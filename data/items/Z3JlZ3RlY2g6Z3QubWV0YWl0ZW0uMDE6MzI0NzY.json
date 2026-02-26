@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32476,"displayName":"Lighter (Full)","unlocalizedName":"gt.metaitem.01.32476","id":"gregtech:gt.metaitem.01:32476","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":439}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":440}]}

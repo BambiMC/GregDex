@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"blockStoneDevice","metadata":12,"displayName":"Arcane Spa","unlocalizedName":"tile.blockStoneDevice.12","id":"Thaumcraft:blockStoneDevice:12","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":351}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":499}]}

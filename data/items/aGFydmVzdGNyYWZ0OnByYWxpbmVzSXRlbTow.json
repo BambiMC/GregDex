@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pralinesItem","metadata":0,"displayName":"Pralines","unlocalizedName":"item.pralinesItem","oreDictNames":["foodPralines"],"id":"harvestcraft:pralinesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":229}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mcpamItem","metadata":0,"displayName":"McPam","unlocalizedName":"item.mcpamItem","oreDictNames":["foodMcpam"],"id":"harvestcraft:mcpamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":304},{"machine":"crafting_table","chunk":91,"index":305}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"IguanaTweaksTConstruct","itemName":"clayBucketsTinkers","metadata":13,"displayName":"Molten Glass Clay Bucket","unlocalizedName":"item.iguana.tcon.clayBucket.Glass","id":"IguanaTweaksTConstruct:clayBucketsTinkers:13","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":204}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":205}]}

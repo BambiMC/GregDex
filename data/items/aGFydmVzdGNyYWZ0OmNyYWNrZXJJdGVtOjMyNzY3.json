@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crackerItem","metadata":32767,"displayName":"Cracker","unlocalizedName":"item.crackerItem","id":"harvestcraft:crackerItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":279}]}

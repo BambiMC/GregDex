@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":2,"displayName":"Bottled Doppelkorn","unlocalizedName":"potion.DKorn.bottled","id":"berriespp:BppPotions:2","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":18}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":17}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":28,"displayName":"Astral Silver Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combHV"],"id":"gregtech:gt.comb:28","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":92},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":317}]}

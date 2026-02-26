@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8197,"displayName":"Potion of Healing","unlocalizedName":"item.potion","id":"minecraft:potion:8197","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":263}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":264}]}

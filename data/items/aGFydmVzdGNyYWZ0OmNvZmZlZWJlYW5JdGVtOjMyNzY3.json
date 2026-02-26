@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coffeebeanItem","metadata":32767,"displayName":"Coffee Beans","unlocalizedName":"item.coffeebeanItem","id":"harvestcraft:coffeebeanItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":321},{"machine":"gt.recipe.canner","chunk":0,"index":168}]}

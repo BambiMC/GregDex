@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"tungstensteelTank","metadata":0,"displayName":"Tungstensteel Tank","unlocalizedName":"tile.irontank:tungstensteelTank","id":"irontank:tungstensteelTank:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":60},{"machine":"gt.recipe.assembler","chunk":2,"index":156}],"recipesAsInput":[]}

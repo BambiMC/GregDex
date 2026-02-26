@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"peaandhamsoupItem","metadata":0,"displayName":"Pea and Ham Soup","unlocalizedName":"item.peaandhamsoupItem","oreDictNames":["foodPeaandhamsoup"],"id":"harvestcraft:peaandhamsoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":308}],"recipesAsInput":[]}

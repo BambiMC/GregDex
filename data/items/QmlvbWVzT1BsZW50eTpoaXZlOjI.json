@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"hive","metadata":2,"displayName":"Empty Honeycomb Block","unlocalizedName":"tile.hive.honeycombempty","id":"BiomesOPlenty:hive:2","recipesAsOutput":[{"machine":"gtpp.recipe.chemicaldehydrator","chunk":0,"index":70},{"machine":"gtpp.recipe.multidehydrator","chunk":0,"index":2}],"recipesAsInput":[]}

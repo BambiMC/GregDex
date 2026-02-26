@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.transfer","metadata":12,"displayName":"RF Energy Transfer Chip","unlocalizedName":"item.chip.transfer.energy_rf","id":"RIO:item.chip.transfer:12","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":402}],"recipesAsInput":[]}

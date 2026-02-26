@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"goldDiamondUpgrade","metadata":0,"displayName":"Gold to Diamond Tank Upgrade","unlocalizedName":"item.irontank:goldDiamondUpgrade","id":"irontank:goldDiamondUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":39},{"machine":"gt.recipe.assembler","chunk":4,"index":258}],"recipesAsInput":[]}

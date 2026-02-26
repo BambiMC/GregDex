@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"signHead","metadata":251,"displayName":"Blood Infused Iron Sign Head","unlocalizedName":"toolpart.SignHead.BloodInfusedIron","id":"TConstruct:signHead:251","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":330}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zeppoleItem","metadata":32767,"displayName":"Zeppole","unlocalizedName":"item.zeppoleItem","id":"harvestcraft:zeppoleItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":123}]}

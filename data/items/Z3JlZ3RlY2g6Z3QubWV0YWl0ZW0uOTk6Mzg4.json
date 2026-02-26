@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":388,"displayName":"Molten Black Plutonium Cell","unlocalizedName":"gt.metaitem.99.388","oreDictNames":["cellMoltenBlackPlutonium"],"id":"gregtech:gt.metaitem.99:388","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":183}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":184}]}

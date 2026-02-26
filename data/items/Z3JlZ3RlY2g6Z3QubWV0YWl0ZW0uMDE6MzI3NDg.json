@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32748,"displayName":"Needs Maintenance Cover","unlocalizedName":"gt.metaitem.01.32748","id":"gregtech:gt.metaitem.01:32748","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":99}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":0,"index":4}]}

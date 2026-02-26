@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemZirconiumPellet","metadata":0,"displayName":"Zirconium Pellet [ZrCl₄]","unlocalizedName":"item.itemZirconiumPellet","oreDictNames":["pelletZirconium"],"id":"miscutils:itemZirconiumPellet:0","recipesAsOutput":[{"machine":"gt.recipe.autoclave","chunk":0,"index":109}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":445}]}

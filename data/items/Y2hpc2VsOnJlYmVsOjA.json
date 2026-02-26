@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"rebel","metadata":0,"displayName":"Rebellious Block","unlocalizedName":"tile.chisel.rebel","id":"chisel:rebel:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":350},{"machine":"gt.recipe.assembler","chunk":2,"index":215}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"refriedbeansItem","metadata":0,"displayName":"Refried Beans","unlocalizedName":"item.refriedbeansItem","oreDictNames":["foodRefriedbeans"],"id":"harvestcraft:refriedbeansItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":361}],"recipesAsInput":[]}

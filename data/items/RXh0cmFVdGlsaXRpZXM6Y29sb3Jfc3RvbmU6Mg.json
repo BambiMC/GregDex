@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_stone","metadata":2,"displayName":"Colored Stone (Magenta Frequency)","unlocalizedName":"tile.extrautils:color_stone.2","oreDictNames":["stoneSmooth","stoneGreen","stone"],"id":"ExtraUtilities:color_stone:2","recipesAsOutput":[{"machine":"crafting_table","chunk":20,"index":15}],"recipesAsInput":[]}

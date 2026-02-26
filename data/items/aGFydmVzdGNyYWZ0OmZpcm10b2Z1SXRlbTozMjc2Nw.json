@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"firmtofuItem","metadata":32767,"displayName":"Firm Tofu","unlocalizedName":"item.firmtofuItem","id":"harvestcraft:firmtofuItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":79}]}

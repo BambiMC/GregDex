@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"item.ItemMultiPart","metadata":320,"displayName":"ME Formation Plane","unlocalizedName":"item.appliedenergistics2.ItemPart.FormationPlane","id":"appliedenergistics2:item.ItemMultiPart:320","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":462},{"machine":"gt.recipe.assembler","chunk":25,"index":475}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":29,"displayName":"Heavy Radox Cell","unlocalizedName":"gt.metaitem.98.29","id":"gregtech:gt.metaitem.98:29","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":389}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":390}]}

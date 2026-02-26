@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":38,"displayName":"Alder Wood Door","unlocalizedName":"tile.door","nbt":"{meta:38}","id":"ExtraTrees:door:38","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":27},{"machine":"crafting_table","chunk":110,"index":28}],"recipesAsInput":[]}

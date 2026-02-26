@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":956,"displayName":"Molten Tartarite Cell","unlocalizedName":"gt.metaitem.99.956","oreDictNames":["cellMoltenTartarite"],"id":"gregtech:gt.metaitem.99:956","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":249}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":250}]}

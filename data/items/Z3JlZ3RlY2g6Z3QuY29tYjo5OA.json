@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":98,"displayName":"Oriharukon Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:98","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":245},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":150}]}

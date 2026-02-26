@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":25,"displayName":"Indium Concentrate Cell","unlocalizedName":"gt.metaitem.98.25","id":"gregtech:gt.metaitem.98:25","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":415}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":416}]}

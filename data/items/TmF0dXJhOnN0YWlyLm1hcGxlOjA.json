@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.maple","metadata":0,"displayName":"Maple Stairs","unlocalizedName":"tile.stair.maple","oreDictNames":["stairWood"],"id":"Natura:stair.maple:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":38},{"machine":"crafting_table","chunk":114,"index":200}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":2812,"displayName":"Electrotine Dust","unlocalizedName":"gt.metaitem.01.2812","oreDictNames":["dustElectrotine"],"id":"gregtech:gt.metaitem.01:2812","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":77,"index":325},{"machine":"crafting_table","chunk":77,"index":326}]}

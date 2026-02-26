@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinFarmerIV","metadata":0,"displayName":"Coin \"The Farmer 10K\"","unlocalizedName":"item.CoinFarmerIV","id":"dreamcraft:item.CoinFarmerIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":286}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":342}]}

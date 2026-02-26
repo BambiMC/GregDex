@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockSoulariumBars","metadata":0,"displayName":"Soularium Bars","unlocalizedName":"tile.blockSoulariumBars","oreDictNames":["barsIron","barsSoularium"],"id":"EnderIO:blockSoulariumBars:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":372}],"recipesAsInput":[]}

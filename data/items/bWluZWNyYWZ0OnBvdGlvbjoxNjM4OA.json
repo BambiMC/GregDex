@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16388,"displayName":"Splash Potion of Poison","unlocalizedName":"item.potion","id":"minecraft:potion:16388","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":411}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":412}]}

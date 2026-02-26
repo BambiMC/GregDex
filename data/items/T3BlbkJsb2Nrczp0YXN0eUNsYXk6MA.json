@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"tastyClay","metadata":0,"displayName":"Tasty Clay","unlocalizedName":"item.openblocks.tasty_clay","id":"OpenBlocks:tastyClay:0","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":442},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":32}],"recipesAsInput":[]}

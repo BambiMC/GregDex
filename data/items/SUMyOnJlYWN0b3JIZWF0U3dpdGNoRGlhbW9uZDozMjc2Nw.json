@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"reactorHeatSwitchDiamond","metadata":32767,"displayName":"Advanced Heat Exchanger","unlocalizedName":"ic2.reactorHeatSwitchDiamond","id":"IC2:reactorHeatSwitchDiamond:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":178},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":98}]}

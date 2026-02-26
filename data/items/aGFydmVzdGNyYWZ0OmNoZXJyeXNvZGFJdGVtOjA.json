@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cherrysodaItem","metadata":0,"displayName":"Cherry Soda","unlocalizedName":"item.cherrysodaItem","oreDictNames":["foodCherrysoda"],"id":"harvestcraft:cherrysodaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":432}],"recipesAsInput":[]}

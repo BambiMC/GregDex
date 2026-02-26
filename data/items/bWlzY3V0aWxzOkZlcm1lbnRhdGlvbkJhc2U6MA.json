@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"FermentationBase","metadata":0,"displayName":"Fermentation Base Cell","unlocalizedName":"item.FermentationBase","oreDictNames":["cellFermentationBase"],"id":"miscutils:FermentationBase:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":485}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":486}]}

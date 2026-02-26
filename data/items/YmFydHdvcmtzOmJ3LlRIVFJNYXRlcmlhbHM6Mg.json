@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.THTRMaterials","metadata":2,"displayName":"TRISO pebble compound","unlocalizedName":"item.TRISOPelletCompound","id":"bartworks:bw.THTRMaterials:2","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":91}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":92}]}

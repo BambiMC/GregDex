@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":30035,"displayName":"Super Bus (O) (EV)","unlocalizedName":"gt.blockmachines.hatch.superbus.output.tier.04","id":"gregtech:gt.blockmachines:30035","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":236}],"recipesAsInput":[]}

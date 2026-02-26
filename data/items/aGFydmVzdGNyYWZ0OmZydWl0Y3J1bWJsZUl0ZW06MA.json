@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fruitcrumbleItem","metadata":0,"displayName":"Fruit Crumble","unlocalizedName":"item.fruitcrumbleItem","oreDictNames":["foodFruitcrumble"],"id":"harvestcraft:fruitcrumbleItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":390}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"lit_furnace","metadata":32767,"displayName":"Furnace","unlocalizedName":"tile.furnace","oreDictNames":["craftingFurnace"],"id":"minecraft:lit_furnace:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":21,"index":471}]}

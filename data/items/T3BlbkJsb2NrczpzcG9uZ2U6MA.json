@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"sponge","metadata":0,"displayName":"Sponge","unlocalizedName":"tile.openblocks.sponge","id":"OpenBlocks:sponge:0","recipesAsOutput":[{"machine":"gt.recipe.chemicalreactor","chunk":2,"index":292},{"machine":"gt.recipe.largechemicalreactor","chunk":2,"index":217}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"alveary","metadata":6,"displayName":"Alveary Stabiliser","unlocalizedName":"tile.for.alveary.6","id":"Forestry:alveary:6","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":345},{"machine":"gt.recipe.assembler","chunk":0,"index":475}],"recipesAsInput":[]}

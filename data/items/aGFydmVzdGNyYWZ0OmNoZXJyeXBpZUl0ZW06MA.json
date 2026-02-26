@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cherrypieItem","metadata":0,"displayName":"Cherry Pie","unlocalizedName":"item.cherrypieItem","oreDictNames":["foodCherrypie"],"id":"harvestcraft:cherrypieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":375}],"recipesAsInput":[]}

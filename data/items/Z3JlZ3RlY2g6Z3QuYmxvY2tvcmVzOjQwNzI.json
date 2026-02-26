@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4072,"displayName":"Terbium Ore","unlocalizedName":"gt.blockores.4072","oreDictNames":["oreRedgraniteTerbium"],"id":"gregtech:gt.blockores:4072","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":285},{"machine":"gt.recipe.macerator","chunk":8,"index":66}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32241,"displayName":"Large Veggie Sandwich","unlocalizedName":"gt.metaitem.02.32241","id":"gregtech:gt.metaitem.02:32241","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":123},{"machine":"crafting_table","chunk":91,"index":261}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":27}]}

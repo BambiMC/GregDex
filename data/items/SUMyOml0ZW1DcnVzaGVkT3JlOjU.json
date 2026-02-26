@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCrushedOre","metadata":5,"displayName":"Crushed Silver Ore","unlocalizedName":"ic2.itemCrushedSilverOre","oreDictNames":["crushedSilver"],"id":"IC2:itemCrushedOre:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":453},{"machine":"furnace","chunk":8,"index":434}]}

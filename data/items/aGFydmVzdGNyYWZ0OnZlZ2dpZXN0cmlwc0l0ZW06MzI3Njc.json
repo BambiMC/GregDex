@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"veggiestripsItem","metadata":32767,"displayName":"Veggie Strips","unlocalizedName":"item.veggiestripsItem","id":"harvestcraft:veggiestripsItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":260}]}

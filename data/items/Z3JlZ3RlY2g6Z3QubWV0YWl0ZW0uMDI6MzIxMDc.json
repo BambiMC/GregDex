@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32107,"displayName":"Mineral Water","unlocalizedName":"gt.metaitem.02.32107","id":"gregtech:gt.metaitem.02:32107","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":474}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":475}]}

@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"blazingClayCraftable","metadata":0,"displayName":"Ammo - Blazing Clay","unlocalizedName":"item.blazingClayCraftable","id":"openmodularturrets:blazingClayCraftable:0","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":443},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":290}],"recipesAsInput":[]}

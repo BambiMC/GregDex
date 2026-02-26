@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":61,"displayName":"Arsenic Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:61","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":209},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":114}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemBasicCapacitor","metadata":1,"displayName":"Double-Layer Capacitor","unlocalizedName":"enderio.activatedCapacitor","oreDictNames":["capacitorAdvanced"],"id":"EnderIO:itemBasicCapacitor:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":401}],"recipesAsInput":[]}

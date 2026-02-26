@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"yellow_flower","metadata":32767,"displayName":"Dandelion","unlocalizedName":"tile.flower1.dandelion","id":"minecraft:yellow_flower:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":11}]}

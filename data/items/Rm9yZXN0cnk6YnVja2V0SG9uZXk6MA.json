@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"bucketHoney","metadata":0,"displayName":"Honey Bucket","unlocalizedName":"item.for.bucketHoney","id":"Forestry:bucketHoney:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":200}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":201}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"paneertikkamasalaItem","metadata":32767,"displayName":"Paneer Tikka Masala","unlocalizedName":"item.paneertikkamasalaItem","id":"harvestcraft:paneertikkamasalaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":285}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"potatoandleeksoupItem","metadata":32767,"displayName":"Potato and Leek Soup","unlocalizedName":"item.potatoandleeksoupItem","id":"harvestcraft:potatoandleeksoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":287}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"beeLarvaeGE","metadata":0,"displayName":"Scanned Larvae","unlocalizedName":"item.for.beeLarvaeGE","nbt":"{display:{Name:\"Scanned Larvae\"}}","id":"Forestry:beeLarvaeGE:0","recipesAsOutput":[{"machine":"gt.recipe.scanner","chunk":0,"index":174}],"recipesAsInput":[]}

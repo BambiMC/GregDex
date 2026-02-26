@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"hoverBoots","metadata":32767,"displayName":"Hover Boots","unlocalizedName":"item.oc.hoverBoots","id":"OpenComputers:hoverBoots:32767","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":3,"index":347},{"machine":"gt.recipe.assembler","chunk":3,"index":419},{"machine":"gt.recipe.assembler","chunk":3,"index":491}],"recipesAsInput":[]}

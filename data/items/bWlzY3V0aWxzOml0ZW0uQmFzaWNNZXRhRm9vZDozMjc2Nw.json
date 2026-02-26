@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicMetaFood","metadata":32767,"displayName":"item.BasicMetaFood.32767.name","unlocalizedName":"item.BasicMetaFood.32767","id":"miscutils:item.BasicMetaFood:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":298}]}

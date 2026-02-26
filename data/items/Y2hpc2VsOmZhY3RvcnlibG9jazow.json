@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"factoryblock","metadata":0,"displayName":"Factory Block","unlocalizedName":"tile.chisel.factoryblock","id":"chisel:factoryblock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":381},{"machine":"gt.recipe.assembler","chunk":2,"index":173}],"recipesAsInput":[]}

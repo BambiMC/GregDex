@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"veggiestirfryItem","metadata":32767,"displayName":"Veggie Stirfry","unlocalizedName":"item.veggiestirfryItem","id":"harvestcraft:veggiestirfryItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":344}]}

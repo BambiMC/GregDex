@@ -1,0 +1,1 @@
+{"modId":"Automagy","itemName":"tallyLens","metadata":0,"displayName":"Tally Box Lens: Clear","unlocalizedName":"item.tallyLens.0","id":"Automagy:tallyLens:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":2}],"recipesAsInput":[{"machine":"thaumcraft_crucible","chunk":0,"index":7},{"machine":"thaumcraft_crucible","chunk":0,"index":8}]}

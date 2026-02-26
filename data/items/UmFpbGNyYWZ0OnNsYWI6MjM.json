@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":23,"displayName":"Infernal Block Slab","unlocalizedName":"tile.railcraft.slab.infernal.block","id":"Railcraft:slab:23","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":192}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":365}]}

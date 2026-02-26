@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":7,"displayName":"Polished Granite","unlocalizedName":"tile.stone7","oreDictNames":["stoneGranitePolished"],"id":"Botania:stone:7","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":130}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"picklesItem","metadata":32767,"displayName":"Pickles","unlocalizedName":"item.picklesItem","id":"harvestcraft:picklesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":328}]}

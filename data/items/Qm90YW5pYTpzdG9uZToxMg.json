@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"stone","metadata":12,"displayName":"Chiseled Andesite Brick","unlocalizedName":"tile.stone12","oreDictNames":["stoneAndesiteChiseled"],"id":"Botania:stone:12","recipesAsOutput":[{"machine":"crafting_table","chunk":85,"index":10}],"recipesAsInput":[]}

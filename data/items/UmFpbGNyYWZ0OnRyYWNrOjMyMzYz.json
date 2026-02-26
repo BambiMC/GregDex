@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"track","metadata":32363,"displayName":"Buffer Stop Track","unlocalizedName":"tile.railcraft.track.buffer.stop","nbt":"{track:\"railcraft:track.buffer.stop\"}","id":"Railcraft:track:32363","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":165}],"recipesAsInput":[]}

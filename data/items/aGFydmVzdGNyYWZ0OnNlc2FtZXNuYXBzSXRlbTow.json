@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sesamesnapsItem","metadata":0,"displayName":"Sesame Snaps","unlocalizedName":"item.sesamesnapsItem","oreDictNames":["foodSesamesnaps"],"id":"harvestcraft:sesamesnapsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":260}],"recipesAsInput":[]}

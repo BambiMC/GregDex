@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"wafflesItem","metadata":32767,"displayName":"Waffles","unlocalizedName":"item.wafflesItem","id":"harvestcraft:wafflesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":466}]}

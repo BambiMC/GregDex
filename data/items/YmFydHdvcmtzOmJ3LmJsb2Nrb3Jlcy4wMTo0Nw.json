@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":47,"displayName":"Platinum Metallic Powder Ore","unlocalizedName":"bw.blockores.01.47","oreDictNames":["orePlatinumMetallicPowder"],"id":"bartworks:bw.blockores.01:47","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":3,"index":255},{"machine":"gt.recipe.macerator","chunk":5,"index":149}]}

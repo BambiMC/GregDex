@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coffeeconlecheItem","metadata":0,"displayName":"Coffee con Leche","unlocalizedName":"item.coffeeconlecheItem","oreDictNames":["foodCoffeeconleche"],"id":"harvestcraft:coffeeconlecheItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":177}],"recipesAsInput":[]}

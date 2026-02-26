@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockBlackGate","metadata":0,"displayName":"Wither Cage","unlocalizedName":"tile.blockBlackGate","id":"miscutils:blockBlackGate:0","recipesAsOutput":[{"machine":"crafting_table","chunk":24,"index":194},{"machine":"gt.recipe.assembler","chunk":6,"index":302}],"recipesAsInput":[]}

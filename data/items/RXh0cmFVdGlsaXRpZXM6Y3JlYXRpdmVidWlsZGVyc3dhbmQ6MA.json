@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"creativebuilderswand","metadata":0,"displayName":"Super Builder's Wand","unlocalizedName":"item.extrautils:creativebuilderswand","id":"ExtraUtilities:creativebuilderswand:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":206}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":25,"index":488}]}

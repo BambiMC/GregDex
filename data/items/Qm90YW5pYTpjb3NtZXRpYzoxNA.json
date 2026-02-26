@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":14,"displayName":"Kamui Eye","unlocalizedName":"item.cosmetic14","id":"Botania:cosmetic:14","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":237},{"machine":"gt.recipe.assembler","chunk":0,"index":269}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":104}]}

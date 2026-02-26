@@ -1,0 +1,1 @@
+{"modId":"Genetics","itemName":"misc","metadata":7,"displayName":"Empty Serum Array","unlocalizedName":"item.misc","id":"Genetics:misc:7","recipesAsOutput":[{"machine":"furnace","chunk":13,"index":106},{"machine":"gt.recipe.assembler","chunk":26,"index":309}],"recipesAsInput":[]}

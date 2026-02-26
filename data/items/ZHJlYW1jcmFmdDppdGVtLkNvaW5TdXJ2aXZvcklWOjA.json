@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinSurvivorIV","metadata":0,"displayName":"Coin \"The Survivor 10K\"","unlocalizedName":"item.CoinSurvivorIV","id":"dreamcraft:item.CoinSurvivorIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":298}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":354}]}

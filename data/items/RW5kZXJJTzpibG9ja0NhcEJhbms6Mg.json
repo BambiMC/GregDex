@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockCapBank","metadata":2,"displayName":"Capacitor Bank","unlocalizedName":"tile.blockCapBank.activated","nbt":"{type:\"ACTIVATED\",storedEnergyRF:0}","id":"EnderIO:blockCapBank:2","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":318},{"machine":"crafting_table","chunk":109,"index":319}],"recipesAsInput":[]}

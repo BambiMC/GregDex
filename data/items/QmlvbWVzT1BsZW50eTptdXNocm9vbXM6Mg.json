@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"mushrooms","metadata":2,"displayName":"Blue Milk Cap","unlocalizedName":"tile.mushrooms.bluemilk","oreDictNames":["listInedibleMushroom"],"id":"BiomesOPlenty:mushrooms:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":159},{"machine":"gt.recipe.extractor","chunk":0,"index":234}]}

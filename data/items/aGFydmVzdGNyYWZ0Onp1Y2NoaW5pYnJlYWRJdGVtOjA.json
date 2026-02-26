@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zucchinibreadItem","metadata":0,"displayName":"Zucchini Bread","unlocalizedName":"item.zucchinibreadItem","oreDictNames":["foodZucchinibread"],"id":"harvestcraft:zucchinibreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":382}],"recipesAsInput":[]}

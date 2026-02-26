@@ -1,0 +1,1 @@
+{"modId":"JABBA","itemName":"upgradeStructural","metadata":10,"displayName":"Structural MK XI (Iridium Plate)","unlocalizedName":"item.upgrade.structural.11","id":"JABBA:upgradeStructural:10","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":35},{"machine":"gt.recipe.assembler","chunk":1,"index":70}],"recipesAsInput":[]}

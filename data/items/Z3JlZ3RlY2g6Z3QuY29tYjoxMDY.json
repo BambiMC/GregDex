@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":106,"displayName":"Jupiter Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combMV","beeComb"],"id":"gregtech:gt.comb:106","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":134},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":31}]}

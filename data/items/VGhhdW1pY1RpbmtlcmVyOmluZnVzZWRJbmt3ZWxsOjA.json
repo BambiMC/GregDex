@@ -1,0 +1,1 @@
+{"modId":"ThaumicTinkerer","itemName":"infusedInkwell","metadata":0,"displayName":"Infused Scribing Tools (NYI)","unlocalizedName":"item.infusedInkwell","id":"ThaumicTinkerer:infusedInkwell:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":402},{"machine":"thaumcraft_infusion_altar","chunk":0,"index":20}],"recipesAsInput":[]}

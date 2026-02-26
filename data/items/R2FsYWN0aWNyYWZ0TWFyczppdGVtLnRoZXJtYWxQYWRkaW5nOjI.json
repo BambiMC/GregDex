@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.thermalPadding","metadata":2,"displayName":"Thermal Padding Leggings","unlocalizedName":"item.thermalLeggings","id":"GalacticraftMars:item.thermalPadding:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":283}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":284}]}

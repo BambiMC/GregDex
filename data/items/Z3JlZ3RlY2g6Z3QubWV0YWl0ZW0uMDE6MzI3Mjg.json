@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32728,"displayName":"Lock Upgrade","unlocalizedName":"gt.metaitem.01.32728","id":"gregtech:gt.metaitem.01:32728","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":82},{"machine":"gt.recipe.assembler","chunk":8,"index":83},{"machine":"gt.recipe.assembler","chunk":8,"index":84}],"recipesAsInput":[]}

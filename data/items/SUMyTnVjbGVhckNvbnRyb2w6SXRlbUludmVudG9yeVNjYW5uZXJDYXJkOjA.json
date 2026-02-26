@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"ItemInventoryScannerCard","metadata":0,"displayName":"Inventory Tracking Card","unlocalizedName":"item.ItemInventoryScannerCard","id":"IC2NuclearControl:ItemInventoryScannerCard:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":51}]}

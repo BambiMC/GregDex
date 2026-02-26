@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":27,"displayName":"Cocobolo Fence","unlocalizedName":"tile.for.fences.27","oreDictNames":["fenceWood"],"id":"Forestry:fences:27","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":347},{"machine":"crafting_table","chunk":111,"index":348},{"machine":"crafting_table","chunk":111,"index":349}],"recipesAsInput":[]}

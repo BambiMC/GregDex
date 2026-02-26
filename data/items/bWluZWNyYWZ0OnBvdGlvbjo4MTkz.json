@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8193,"displayName":"Potion of Regeneration","unlocalizedName":"item.potion","id":"minecraft:potion:8193","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":413}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":42},{"machine":"gt.recipe.fluidcanner","chunk":0,"index":414}]}

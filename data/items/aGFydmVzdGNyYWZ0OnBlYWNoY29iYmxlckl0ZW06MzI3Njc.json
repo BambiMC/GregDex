@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"peachcobblerItem","metadata":32767,"displayName":"Peach Cobbler","unlocalizedName":"item.peachcobblerItem","id":"harvestcraft:peachcobblerItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":443}]}

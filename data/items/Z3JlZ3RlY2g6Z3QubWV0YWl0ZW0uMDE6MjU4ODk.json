@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":25889,"displayName":"Sealed Wood Round","unlocalizedName":"gt.metaitem.01.25889","oreDictNames":["roundWoodSealed"],"id":"gregtech:gt.metaitem.01:25889","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":129}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":21,"index":447}]}

@@ -1,0 +1,1 @@
+{"modId":"adventurebackpack","itemName":"backpackComponent","metadata":1,"displayName":"Sleeping Bag","unlocalizedName":"item.adventurebackpack:sleepingBag","id":"adventurebackpack:backpackComponent:1","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":94},{"machine":"crafting_table","chunk":115,"index":313}],"recipesAsInput":[]}

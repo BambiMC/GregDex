@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":863,"displayName":"Solar Tower","unlocalizedName":"gt.blockmachines.solartower.controller.tier.single","id":"gregtech:gt.blockmachines:863","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":284}],"recipesAsInput":[]}

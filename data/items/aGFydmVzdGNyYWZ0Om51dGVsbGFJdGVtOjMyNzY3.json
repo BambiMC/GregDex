@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"nutellaItem","metadata":32767,"displayName":"Nutella","unlocalizedName":"item.nutellaItem","id":"harvestcraft:nutellaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":150}]}

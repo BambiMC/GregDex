@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"bloodwood","metadata":32767,"displayName":"Bloodwood","unlocalizedName":"tile.bloodwood","id":"Natura:bloodwood:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":333},{"machine":"gt.recipe.macerator","chunk":10,"index":131}]}

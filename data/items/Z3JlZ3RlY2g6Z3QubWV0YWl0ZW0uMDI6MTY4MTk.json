@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":16819,"displayName":"Graphene Turbine Blade","unlocalizedName":"gt.metaitem.02.16819","oreDictNames":["turbineBladeGraphene"],"id":"gregtech:gt.metaitem.02:16819","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":12,"index":375}]}

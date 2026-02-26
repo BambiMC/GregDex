@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pinacoladaItem","metadata":0,"displayName":"Pinacolada","unlocalizedName":"item.pinacoladaItem","oreDictNames":["foodPinacolada"],"id":"harvestcraft:pinacoladaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":200}],"recipesAsInput":[]}

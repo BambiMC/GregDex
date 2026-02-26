@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"saplings","metadata":5,"displayName":"Dying Sapling","unlocalizedName":"tile.saplings.deadSapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:saplings:5","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":58}],"recipesAsInput":[]}

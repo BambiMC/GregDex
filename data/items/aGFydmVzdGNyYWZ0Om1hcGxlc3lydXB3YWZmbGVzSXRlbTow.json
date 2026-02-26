@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"maplesyrupwafflesItem","metadata":0,"displayName":"Maple Syrup Waffles","unlocalizedName":"item.maplesyrupwafflesItem","oreDictNames":["foodMaplesyrupwaffles"],"id":"harvestcraft:maplesyrupwafflesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":396}],"recipesAsInput":[]}

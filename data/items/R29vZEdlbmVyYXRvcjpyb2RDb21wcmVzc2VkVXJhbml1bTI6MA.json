@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"rodCompressedUranium2","metadata":0,"displayName":"Dual Fuel Rod (High Density Uranium)","unlocalizedName":"item.rodCompressedUranium2","id":"GoodGenerator:rodCompressedUranium2:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":59}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":60}]}

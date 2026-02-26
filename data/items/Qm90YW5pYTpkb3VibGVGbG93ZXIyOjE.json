@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower2","metadata":1,"displayName":"Tall Mystical Cyan Flower","unlocalizedName":"tile.doubleFlower21","oreDictNames":["mysticFlowerCyanDouble"],"id":"Botania:doubleFlower2:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":351},{"machine":"gt.recipe.extractor","chunk":0,"index":55}]}

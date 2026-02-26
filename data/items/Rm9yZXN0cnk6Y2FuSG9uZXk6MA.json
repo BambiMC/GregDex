@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"canHoney","metadata":0,"displayName":"Honey Can","unlocalizedName":"item.for.canHoney","id":"Forestry:canHoney:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":207}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":208}]}

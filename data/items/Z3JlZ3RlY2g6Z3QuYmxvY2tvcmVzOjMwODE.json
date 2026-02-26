@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":3081,"displayName":"Tungsten Ore","unlocalizedName":"gt.blockores.3081","oreDictNames":["oreBlackgraniteTungsten"],"id":"gregtech:gt.blockores:3081","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":226},{"machine":"gt.recipe.macerator","chunk":8,"index":461}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31028,"displayName":"Flotation Cell Regulator","unlocalizedName":"gt.blockmachines.gtpp.multimachine.flotationcell","id":"gregtech:gt.blockmachines:31028","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":343},{"machine":"gt.recipe.scanner","chunk":0,"index":92}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"drop","metadata":0,"displayName":"Enchanting Drop","unlocalizedName":"item.drop","id":"MagicBees:drop:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":0},{"machine":"forestry_carpenter","chunk":0,"index":68}]}

@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"mercuryblocks","metadata":3,"displayName":"Lead Ore","unlocalizedName":"tile.MercuryLeadOre","oreDictNames":["oreLead"],"id":"GalaxySpace:mercuryblocks:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":0,"index":20},{"machine":"gt.recipe.hammer","chunk":2,"index":171},{"machine":"gt.recipe.macerator","chunk":4,"index":117}]}

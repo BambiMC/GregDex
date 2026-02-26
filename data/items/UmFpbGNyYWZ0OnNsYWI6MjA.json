@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":20,"displayName":"Fitted Abyssal Stone Slab","unlocalizedName":"tile.railcraft.slab.abyssal.fitted","id":"Railcraft:slab:20","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":189}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":471},{"machine":"crafting_table","chunk":84,"index":471}]}

@@ -1,0 +1,1 @@
+{"modId":"Avaritia","itemName":"Crystal_Matrix","metadata":0,"displayName":"Crystal Matrix","unlocalizedName":"tile.block_crystal_matrix","oreDictNames":["blockCrystalMatrix"],"id":"Avaritia:Crystal_Matrix:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":42}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":346}]}

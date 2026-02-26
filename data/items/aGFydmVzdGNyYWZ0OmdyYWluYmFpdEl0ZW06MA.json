@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grainbaitItem","metadata":0,"displayName":"Grain Bait","unlocalizedName":"item.grainbaitItem","oreDictNames":["grainBait"],"id":"harvestcraft:grainbaitItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":491}],"recipesAsInput":[]}

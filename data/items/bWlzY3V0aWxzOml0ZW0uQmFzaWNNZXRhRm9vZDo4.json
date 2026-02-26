@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicMetaFood","metadata":8,"displayName":"Blaze Flesh","unlocalizedName":"item.BasicMetaFood.8","oreDictNames":["listAllmeatcooked"],"id":"miscutils:item.BasicMetaFood:8","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":19,"index":129}]}

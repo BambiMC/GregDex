@@ -1,0 +1,1 @@
+{"modId":"StevesCarts","itemName":"ModuleComponents","metadata":5,"displayName":"Glass o'Magic","unlocalizedName":"item.SC2:glass_o'magic","id":"StevesCarts:ModuleComponents:5","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":488}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":489}]}

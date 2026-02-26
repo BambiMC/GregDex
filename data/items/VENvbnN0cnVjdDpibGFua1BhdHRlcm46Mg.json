@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"blankPattern","metadata":2,"displayName":"Blank Cast","unlocalizedName":"item.tconstruct.Pattern.blank_cast","id":"TConstruct:blankPattern:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.extruder","chunk":28,"index":125}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"redstone_ore","metadata":32767,"displayName":"Redstone Ore","unlocalizedName":"tile.oreRedstone","id":"minecraft:redstone_ore:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":412}]}

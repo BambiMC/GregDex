@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"track","metadata":10192,"displayName":"Electric Track","unlocalizedName":"tile.railcraft.track.electric","nbt":"{track:\"railcraft:track.electric\"}","id":"Railcraft:track:10192","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":177}],"recipesAsInput":[]}

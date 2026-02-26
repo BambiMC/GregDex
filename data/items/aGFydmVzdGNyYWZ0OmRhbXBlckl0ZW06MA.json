@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"damperItem","metadata":0,"displayName":"Damper","unlocalizedName":"item.damperItem","oreDictNames":["foodDamper"],"id":"harvestcraft:damperItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":412},{"machine":"crafting_table","chunk":92,"index":413},{"machine":"crafting_table","chunk":92,"index":414}],"recipesAsInput":[]}

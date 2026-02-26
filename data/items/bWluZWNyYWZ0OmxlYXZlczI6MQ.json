@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"leaves2","metadata":1,"displayName":"Dark Oak Leaves","unlocalizedName":"tile.leaves.big_oak","oreDictNames":["treeLeaves"],"id":"minecraft:leaves2:1","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":5}],"recipesAsInput":[]}

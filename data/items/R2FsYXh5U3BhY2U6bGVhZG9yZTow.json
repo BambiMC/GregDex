@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"leadore","metadata":0,"displayName":"Lead Ore","unlocalizedName":"tile.LeadOre","oreDictNames":["oreLead"],"id":"GalaxySpace:leadore:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":4,"index":381},{"machine":"gt.recipe.hammer","chunk":3,"index":276},{"machine":"gt.recipe.macerator","chunk":5,"index":170}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":3070,"displayName":"Europium Ore","unlocalizedName":"gt.blockores.3070","oreDictNames":["oreBlackgraniteEuropium"],"id":"gregtech:gt.blockores:3070","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":20},{"machine":"gt.recipe.macerator","chunk":7,"index":324}]}

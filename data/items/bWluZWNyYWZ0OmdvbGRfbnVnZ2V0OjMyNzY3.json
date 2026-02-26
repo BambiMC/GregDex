@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"gold_nugget","metadata":32767,"displayName":"Gold Nugget","unlocalizedName":"item.goldNugget","id":"minecraft:gold_nugget:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":420}]}

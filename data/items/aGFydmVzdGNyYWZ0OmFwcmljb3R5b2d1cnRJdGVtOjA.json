@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"apricotyogurtItem","metadata":0,"displayName":"Apricot Yogurt","unlocalizedName":"item.apricotyogurtItem","oreDictNames":["foodApricotyogurt"],"id":"harvestcraft:apricotyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":387}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":19,"displayName":"Molten Aluminium Cell","unlocalizedName":"gt.metaitem.99.19","oreDictNames":["cellMoltenAluminium"],"id":"gregtech:gt.metaitem.99:19","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":345}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":346}]}

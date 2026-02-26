@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"string","metadata":32767,"displayName":"String","unlocalizedName":"item.string","id":"minecraft:string:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":243},{"machine":"gt.recipe.assembler","chunk":8,"index":324},{"machine":"gt.recipe.assembler","chunk":8,"index":385}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"applejellyItem","metadata":0,"displayName":"Apple Jelly","unlocalizedName":"item.applejellyItem","oreDictNames":["foodApplejelly"],"id":"harvestcraft:applejellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":201}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":415}]}

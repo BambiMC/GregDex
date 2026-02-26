@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockElectricLight","metadata":2,"displayName":"Light","unlocalizedName":"item.itemLight","id":"EnderIO:blockElectricLight:2","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":377}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":158}]}

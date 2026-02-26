@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":66,"displayName":"Titanium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:66","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":214},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":119}]}

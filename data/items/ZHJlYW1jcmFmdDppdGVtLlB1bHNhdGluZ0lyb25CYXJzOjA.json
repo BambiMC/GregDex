@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.PulsatingIronBars","metadata":0,"displayName":"Pulsating Iron Bars","unlocalizedName":"item.PulsatingIronBars","oreDictNames":["barsPulsatingIron"],"id":"dreamcraft:item.PulsatingIronBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":180}],"recipesAsInput":[]}

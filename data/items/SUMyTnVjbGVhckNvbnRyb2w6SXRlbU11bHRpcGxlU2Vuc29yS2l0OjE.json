@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"ItemMultipleSensorKit","metadata":1,"displayName":"Liquid Sensor Kit","unlocalizedName":"item.ItemLiquidSensorKit","id":"IC2NuclearControl:ItemMultipleSensorKit:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":227}],"recipesAsInput":[]}

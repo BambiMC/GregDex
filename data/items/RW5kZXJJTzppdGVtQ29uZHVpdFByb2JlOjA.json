@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemConduitProbe","metadata":0,"displayName":"Conduit Probe","unlocalizedName":"item.enderio.itemConduitProbe","id":"EnderIO:itemConduitProbe:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":383}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":197}]}

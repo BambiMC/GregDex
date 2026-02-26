@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"foliage","metadata":7,"displayName":"Poison Ivy","unlocalizedName":"tile.foliage.poisonivy","oreDictNames":["cropGrass"],"id":"BiomesOPlenty:foliage:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":12},{"machine":"gt.recipe.compressor","chunk":0,"index":395}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":5,"displayName":"Pulsating Iron Ball","unlocalizedName":"enderio.phasedIron_ball","id":"EnderIO:itemGrindingBall:5","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":349},{"machine":"gt.recipe.assembler","chunk":26,"index":140}],"recipesAsInput":[]}

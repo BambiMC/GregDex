@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":384,"displayName":"Molten Galgadorian Cell","unlocalizedName":"gt.metaitem.99.384","oreDictNames":["cellMoltenGalgadorian"],"id":"gregtech:gt.metaitem.99:384","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":191}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":192}]}

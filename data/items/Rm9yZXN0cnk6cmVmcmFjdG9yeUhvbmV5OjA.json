@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"refractoryHoney","metadata":0,"displayName":"Honey Capsule","unlocalizedName":"item.for.refractoryHoney","id":"Forestry:refractoryHoney:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":99}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":100}]}

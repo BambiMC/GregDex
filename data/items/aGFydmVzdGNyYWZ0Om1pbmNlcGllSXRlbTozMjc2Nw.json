@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mincepieItem","metadata":32767,"displayName":"Mince Pie","unlocalizedName":"item.mincepieItem","id":"harvestcraft:mincepieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":197}]}

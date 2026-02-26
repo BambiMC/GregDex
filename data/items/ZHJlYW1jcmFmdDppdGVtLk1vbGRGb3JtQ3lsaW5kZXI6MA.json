@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormCylinder","metadata":0,"displayName":"Casting Form (Cylinder Mold)","unlocalizedName":"item.MoldFormCylinder","id":"dreamcraft:item.MoldFormCylinder:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":4}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":75}]}

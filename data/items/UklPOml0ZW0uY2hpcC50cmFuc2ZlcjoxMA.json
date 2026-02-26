@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"item.chip.transfer","metadata":10,"displayName":"EU Energy Transfer Chip","unlocalizedName":"item.chip.transfer.energy_ic2","id":"RIO:item.chip.transfer:10","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":401}],"recipesAsInput":[]}

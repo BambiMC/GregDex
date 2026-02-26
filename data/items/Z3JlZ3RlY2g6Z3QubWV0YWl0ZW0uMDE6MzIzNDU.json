@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32345,"displayName":"Iron Electromagnet","unlocalizedName":"gt.metaitem.01.32345","id":"gregtech:gt.metaitem.01:32345","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":411}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":11}]}

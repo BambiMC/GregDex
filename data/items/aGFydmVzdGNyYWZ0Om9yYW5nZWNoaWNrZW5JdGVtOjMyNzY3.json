@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"orangechickenItem","metadata":32767,"displayName":"Orange Chicken","unlocalizedName":"item.orangechickenItem","id":"harvestcraft:orangechickenItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":439}]}

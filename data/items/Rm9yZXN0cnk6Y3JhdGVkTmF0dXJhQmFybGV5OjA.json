@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaBarley","metadata":0,"displayName":"Crated Barley","unlocalizedName":"item.cratedNaturaBarley","id":"Forestry:cratedNaturaBarley:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":245}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":379}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"spiceleafItem","metadata":32767,"displayName":"Spice Leaf","unlocalizedName":"item.spiceleafItem","id":"harvestcraft:spiceleafItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":165}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemNuggetRadium","metadata":0,"displayName":"Radium Nugget","unlocalizedName":"item.itemNuggetRadium","oreDictNames":["nuggetRadium"],"id":"miscutils:itemNuggetRadium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":96}],"recipesAsInput":[]}

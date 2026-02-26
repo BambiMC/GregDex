@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":9,"displayName":"Frost Bound Brick Slab","unlocalizedName":"tile.railcraft.slab.frostbound.brick","id":"Railcraft:slab:9","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":178}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":460},{"machine":"crafting_table","chunk":84,"index":460}]}

@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Builders","itemName":"templateItem","metadata":0,"displayName":"Template","unlocalizedName":"item.templateItem","nbt":"{}","id":"BuildCraft|Builders:templateItem:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":38}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gendustry","itemName":"LiquidDNACan","metadata":0,"displayName":"Liquid DNA Can","unlocalizedName":"item.gendustry.liquiddna.can","id":"gendustry:LiquidDNACan:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":309}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":310}]}

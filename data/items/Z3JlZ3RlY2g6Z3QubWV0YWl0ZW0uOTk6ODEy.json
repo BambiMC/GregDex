@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":812,"displayName":"Molten Electrotine Cell","unlocalizedName":"gt.metaitem.99.812","oreDictNames":["cellMoltenElectrotine"],"id":"gregtech:gt.metaitem.99:812","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":55}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":56}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cheeseburgerItem","metadata":32767,"displayName":"Cheeseburger","unlocalizedName":"item.cheeseburgerItem","id":"harvestcraft:cheeseburgerItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":270}]}

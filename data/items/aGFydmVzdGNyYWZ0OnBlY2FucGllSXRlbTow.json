@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pecanpieItem","metadata":0,"displayName":"Pecan Pie","unlocalizedName":"item.pecanpieItem","oreDictNames":["foodPecanpie"],"id":"harvestcraft:pecanpieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":409}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":22,"displayName":"Ancient Mask","unlocalizedName":"item.cosmetic22","id":"Botania:cosmetic:22","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":245},{"machine":"gt.recipe.assembler","chunk":0,"index":277}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":112}]}

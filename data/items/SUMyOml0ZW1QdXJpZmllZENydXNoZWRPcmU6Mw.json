@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPurifiedCrushedOre","metadata":3,"displayName":"Purified Crushed Tin Ore","unlocalizedName":"ic2.itemPurifiedCrushedTinOre","oreDictNames":["crushedPurifiedTin"],"id":"IC2:itemPurifiedCrushedOre:3","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":476},{"machine":"furnace","chunk":13,"index":138}]}

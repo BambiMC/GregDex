@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.propolis","metadata":3,"displayName":"Stardust Propolis","unlocalizedName":"item.gt.propolis","id":"gregtech:gt.propolis:3","recipesAsOutput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":118},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":222}],"recipesAsInput":[{"machine":"gt.recipe.fluidextractor","chunk":23,"index":197}]}

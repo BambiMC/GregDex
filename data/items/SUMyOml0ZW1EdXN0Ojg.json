@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemDust","metadata":8,"displayName":"Hydrated Coal Dust","unlocalizedName":"ic2.itemFuelCoalDust","oreDictNames":["dustHydratedCoal"],"id":"IC2:itemDust:8","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":77,"index":151},{"machine":"crafting_table","chunk":77,"index":152}]}

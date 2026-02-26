@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"scytheBlade","metadata":2,"displayName":"Iron Scythe Head","unlocalizedName":"toolpart.ScytheHead.Iron","id":"TConstruct:scytheBlade:2","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":429}],"recipesAsInput":[]}

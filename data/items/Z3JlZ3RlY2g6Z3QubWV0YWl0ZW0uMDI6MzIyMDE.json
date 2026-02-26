@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32201,"displayName":"Roasted Potato on a Stick","unlocalizedName":"gt.metaitem.02.32201","id":"gregtech:gt.metaitem.02:32201","recipesAsOutput":[{"machine":"crafting_table","chunk":102,"index":474},{"machine":"furnace","chunk":7,"index":362}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":2}]}

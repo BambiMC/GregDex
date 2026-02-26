@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":772,"displayName":"Molten Nickel Aluminide Cell","unlocalizedName":"gt.metaitem.99.772","oreDictNames":["cellMoltenNickelAluminide"],"id":"gregtech:gt.metaitem.99:772","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":179}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":180}]}

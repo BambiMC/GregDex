@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"terraSword","metadata":0,"displayName":"Terra Blade","unlocalizedName":"item.terraSword","id":"Botania:terraSword:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":2,"index":461}],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":490},{"machine":"crafting_table","chunk":21,"index":492}]}

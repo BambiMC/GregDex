@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"hotchocolateItem","metadata":0,"displayName":"Hot Chocolate","unlocalizedName":"item.hotchocolateItem","oreDictNames":["foodHotchocolate"],"id":"harvestcraft:hotchocolateItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":135}],"recipesAsInput":[]}

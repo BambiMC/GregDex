@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockCraftingUnit","metadata":1,"displayName":"Crafting Co-Processing Unit","unlocalizedName":"tile.appliedenergistics2.BlockCraftingAccelerator","id":"appliedenergistics2:tile.BlockCraftingUnit:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":25,"index":449}],"recipesAsInput":[]}

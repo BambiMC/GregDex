@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":135,"displayName":"Sequoia Wood Door","unlocalizedName":"tile.door","nbt":"{meta:135}","id":"ExtraTrees:door:135","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":207},{"machine":"crafting_table","chunk":110,"index":208}],"recipesAsInput":[]}

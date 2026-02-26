@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinChemist","metadata":0,"displayName":"Coin \"The Chemist 1\"","unlocalizedName":"item.CoinChemist","id":"dreamcraft:item.CoinChemist:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":327}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":271}]}

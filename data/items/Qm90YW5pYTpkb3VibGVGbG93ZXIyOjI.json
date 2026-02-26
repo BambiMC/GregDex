@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower2","metadata":2,"displayName":"Tall Mystical Purple Flower","unlocalizedName":"tile.doubleFlower22","oreDictNames":["mysticFlowerPurpleDouble"],"id":"Botania:doubleFlower2:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":352},{"machine":"gt.recipe.extractor","chunk":0,"index":57}]}

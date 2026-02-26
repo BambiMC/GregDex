@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"oliveItem","metadata":32767,"displayName":"Olive","unlocalizedName":"item.oliveItem","id":"harvestcraft:oliveItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":215}]}

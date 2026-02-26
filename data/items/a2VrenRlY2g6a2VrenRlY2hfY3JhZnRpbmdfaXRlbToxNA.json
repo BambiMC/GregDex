@@ -1,0 +1,1 @@
+{"modId":"kekztech","itemName":"kekztech_crafting_item","metadata":14,"displayName":"YSZ Ceramic Plate","unlocalizedName":"item.kekztech_crafting_item.14","id":"kekztech:kekztech_crafting_item:14","recipesAsOutput":[{"machine":"gt.recipe.alloysmelter","chunk":0,"index":318}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":7,"index":156}]}

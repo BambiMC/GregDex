@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32483,"displayName":"Enchanted Page","unlocalizedName":"gt.metaitem.01.32483","id":"gregtech:gt.metaitem.01:32483","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":4,"index":188},{"machine":"gt.recipe.macerator","chunk":16,"index":180}]}

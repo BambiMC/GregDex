@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemRecipePart","metadata":12,"displayName":"Shaft (Steel)","unlocalizedName":"ic2.itemsteelshaft","id":"IC2:itemRecipePart:12","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":0,"index":15},{"machine":"gt.recipe.extruder","chunk":0,"index":16}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":439}]}

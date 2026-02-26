@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"GravelOre","metadata":0,"displayName":"Iron Gravel Ore","unlocalizedName":"block.ore.gravel.iron","oreDictNames":["oreIron"],"id":"TConstruct:GravelOre:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":403},{"machine":"gt.recipe.macerator","chunk":0,"index":90}]}

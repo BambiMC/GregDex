@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellHafnium","metadata":0,"displayName":"Hafnium Cell","unlocalizedName":"item.itemCellHafnium","oreDictNames":["cellHafnium"],"id":"miscutils:itemCellHafnium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":120}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":121}]}

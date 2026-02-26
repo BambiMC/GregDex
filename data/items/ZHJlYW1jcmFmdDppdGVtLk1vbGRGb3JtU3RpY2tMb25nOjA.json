@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormStickLong","metadata":0,"displayName":"Casting Form (Long Stick Mold)","unlocalizedName":"item.MoldFormStickLong","id":"dreamcraft:item.MoldFormStickLong:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":14}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":88}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"beef","metadata":32767,"displayName":"Raw Beef","unlocalizedName":"item.beefRaw","id":"minecraft:beef:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":453},{"machine":"gt.recipe.canner","chunk":0,"index":73},{"machine":"gt.recipe.macerator","chunk":16,"index":256}]}

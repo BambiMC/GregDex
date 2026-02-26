@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"NetherGlass","metadata":0,"displayName":"Soul Glass","unlocalizedName":"tile.glass.soul","oreDictNames":["glassSoul","glass"],"id":"Natura:NetherGlass:0","recipesAsOutput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":176}],"recipesAsInput":[]}

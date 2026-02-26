@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pomegranateyogurtItem","metadata":0,"displayName":"Pomegranate Yogurt","unlocalizedName":"item.pomegranateyogurtItem","oreDictNames":["foodPomegranateyogurt"],"id":"harvestcraft:pomegranateyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":345}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30781,"displayName":"Acetylene Cell","unlocalizedName":"gt.metaitem.01.30781","oreDictNames":["cellAcetylene"],"id":"gregtech:gt.metaitem.01:30781","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":23}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":24}]}

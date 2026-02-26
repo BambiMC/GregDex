@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"blockStoneDevice","metadata":5,"displayName":"Wand Recharge Pedestal","unlocalizedName":"tile.blockStoneDevice.5","id":"Thaumcraft:blockStoneDevice:5","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":347}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":302}]}

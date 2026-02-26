@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellStaballoy","metadata":0,"displayName":"Staballoy Cell","unlocalizedName":"item.itemCellStaballoy","oreDictNames":["cellStaballoy"],"id":"miscutils:itemCellStaballoy:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":410}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":411}]}

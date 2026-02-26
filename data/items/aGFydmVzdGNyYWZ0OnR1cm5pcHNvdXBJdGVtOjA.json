@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"turnipsoupItem","metadata":0,"displayName":"Turnip Soup","unlocalizedName":"item.turnipsoupItem","oreDictNames":["foodTurnipsoup"],"id":"harvestcraft:turnipsoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":369}],"recipesAsInput":[]}

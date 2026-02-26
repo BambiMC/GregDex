@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30603,"displayName":"Raw Bio Catalyst Medium Cell","unlocalizedName":"gt.metaitem.01.30603","oreDictNames":["cellBioMediumRaw"],"id":"gregtech:gt.metaitem.01:30603","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":174}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":175}]}

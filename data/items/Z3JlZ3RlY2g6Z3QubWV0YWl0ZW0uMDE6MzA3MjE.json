@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30721,"displayName":"UU-Amplifier Cell","unlocalizedName":"gt.metaitem.01.30721","oreDictNames":["cellUUAmplifier"],"id":"gregtech:gt.metaitem.01:30721","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":425}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":426}]}

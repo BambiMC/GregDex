@@ -1,0 +1,1 @@
+{"modId":"MagicBees","itemName":"miscResources","metadata":4,"displayName":"Wither Skeleton Skull Fragment","unlocalizedName":"item.miscResources","id":"MagicBees:miscResources:4","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":222}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":315}]}

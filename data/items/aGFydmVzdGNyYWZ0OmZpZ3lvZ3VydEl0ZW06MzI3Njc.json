@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"figyogurtItem","metadata":32767,"displayName":"Fig Yogurt","unlocalizedName":"item.figyogurtItem","id":"harvestcraft:figyogurtItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":95}]}

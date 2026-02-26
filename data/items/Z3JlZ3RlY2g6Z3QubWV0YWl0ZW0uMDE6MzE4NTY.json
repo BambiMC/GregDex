@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":31856,"displayName":"Silicon Solar Grade (Poly SI) Plasma Cell","unlocalizedName":"gt.metaitem.01.31856","oreDictNames":["cellPlasmaSiliconSolarGrade"],"id":"gregtech:gt.metaitem.01:31856","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.plasmageneratorfuels","chunk":0,"index":29}]}

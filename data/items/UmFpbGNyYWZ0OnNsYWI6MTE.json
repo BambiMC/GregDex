@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":11,"displayName":"Bleached Bone Brick Slab","unlocalizedName":"tile.railcraft.slab.bleachedbone.brick","id":"Railcraft:slab:11","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":180}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":462},{"machine":"crafting_table","chunk":84,"index":462}]}

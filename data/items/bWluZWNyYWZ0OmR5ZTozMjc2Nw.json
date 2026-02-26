@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"dye","metadata":32767,"displayName":"Bone Meal","unlocalizedName":"item.dyePowder.white","oreDictNames":["dye"],"id":"minecraft:dye:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":29,"index":403},{"machine":"crafting_table","chunk":91,"index":310},{"machine":"gt.recipe.assembler","chunk":1,"index":77}]}

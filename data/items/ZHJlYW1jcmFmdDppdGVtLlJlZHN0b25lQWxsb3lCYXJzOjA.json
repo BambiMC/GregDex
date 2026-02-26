@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.RedstoneAlloyBars","metadata":0,"displayName":"Redstone Alloy Bars","unlocalizedName":"item.RedstoneAlloyBars","oreDictNames":["barsRedstoneAlloy"],"id":"dreamcraft:item.RedstoneAlloyBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":175}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_shovel","metadata":0,"displayName":"Stone Shovel","unlocalizedName":"item.shovelStone","id":"minecraft:stone_shovel:0","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":221},{"machine":"gt.recipe.assembler","chunk":8,"index":412}],"recipesAsInput":[]}

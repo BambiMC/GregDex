@@ -1,0 +1,1 @@
+{"modId":"thaumicenergistics","itemName":"part.base","metadata":0,"displayName":"Essentia Import Bus","unlocalizedName":"thaumicenergistics.aeparts.essentia.ImportBus","id":"thaumicenergistics:part.base:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":4,"index":20}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":430}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"etherealStairs","metadata":0,"displayName":"Ethereal Wood Stairs","unlocalizedName":"tile.etherealStairs","oreDictNames":["stairWood"],"id":"BiomesOPlenty:etherealStairs:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":18},{"machine":"crafting_table","chunk":0,"index":19}],"recipesAsInput":[]}

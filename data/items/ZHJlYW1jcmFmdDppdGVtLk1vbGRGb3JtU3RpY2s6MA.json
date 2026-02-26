@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormStick","metadata":0,"displayName":"Casting Form (Stick Mold)","unlocalizedName":"item.MoldFormStick","id":"dreamcraft:item.MoldFormStick:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":9}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":87}]}

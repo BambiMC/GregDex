@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemNuggetProtactinium","metadata":0,"displayName":"Protactinium Nugget","unlocalizedName":"item.itemNuggetProtactinium","oreDictNames":["nuggetProtactinium"],"id":"miscutils:itemNuggetProtactinium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":78}],"recipesAsInput":[]}

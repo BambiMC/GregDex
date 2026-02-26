@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"WandCasting","metadata":15,"displayName":"Silver Bossed Wooden Wand","unlocalizedName":"item.WandCasting","nbt":"{cap:\"silver\",rod:\"wood\"}","id":"Thaumcraft:WandCasting:15","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":137},{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":147}],"recipesAsInput":[]}

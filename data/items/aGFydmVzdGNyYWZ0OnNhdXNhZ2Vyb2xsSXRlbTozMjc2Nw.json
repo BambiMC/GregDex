@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"sausagerollItem","metadata":32767,"displayName":"Sausage Roll","unlocalizedName":"item.sausagerollItem","id":"harvestcraft:sausagerollItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":255}]}

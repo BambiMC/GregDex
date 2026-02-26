@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.QuantumPartChestplate","metadata":0,"displayName":"Quantum Parts \"Chestplate\"","unlocalizedName":"item.QuantumPartChestplate","id":"dreamcraft:item.QuantumPartChestplate:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":192}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":338}]}

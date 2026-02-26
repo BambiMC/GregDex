@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockRainforestOakLeaves","metadata":0,"displayName":"Oak Leaves","unlocalizedName":"tile.blockRainforestOakLeaves","oreDictNames":["treeLeaves"],"id":"miscutils:blockRainforestOakLeaves:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":10}],"recipesAsInput":[]}

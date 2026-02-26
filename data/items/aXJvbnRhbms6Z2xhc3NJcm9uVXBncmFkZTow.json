@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"glassIronUpgrade","metadata":0,"displayName":"Glass to Iron Tank Upgrade","unlocalizedName":"item.irontank:glassIronUpgrade","id":"irontank:glassIronUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":43},{"machine":"gt.recipe.assembler","chunk":2,"index":158}],"recipesAsInput":[]}

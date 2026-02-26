@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"color_lightgem","metadata":12,"displayName":"Colored Glowstone (Brown Frequency)","unlocalizedName":"tile.extrautils:color_lightgem.12","oreDictNames":["glowstoneLightBlue","glowstone"],"id":"ExtraUtilities:color_lightgem:12","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":489}],"recipesAsInput":[]}

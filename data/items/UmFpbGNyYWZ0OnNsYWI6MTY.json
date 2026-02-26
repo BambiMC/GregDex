@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":16,"displayName":"Fitted Frost Bound Stone Slab","unlocalizedName":"tile.railcraft.slab.frostbound.fitted","id":"Railcraft:slab:16","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":185}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":467},{"machine":"crafting_table","chunk":84,"index":467}]}

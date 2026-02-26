@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_sword","metadata":0,"displayName":"Wooden Sword","unlocalizedName":"item.swordWood","id":"minecraft:wooden_sword:0","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":222},{"machine":"gt.recipe.assembler","chunk":8,"index":397}],"recipesAsInput":[]}

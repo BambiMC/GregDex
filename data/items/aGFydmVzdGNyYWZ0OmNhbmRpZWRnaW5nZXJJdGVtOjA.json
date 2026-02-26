@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"candiedgingerItem","metadata":0,"displayName":"Candied Ginger","unlocalizedName":"item.candiedgingerItem","oreDictNames":["foodCandiedginger"],"id":"harvestcraft:candiedgingerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":179}],"recipesAsInput":[]}

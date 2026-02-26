@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":19,"displayName":"Enriched Bacterial Sludge Cell","unlocalizedName":"gt.metaitem.98.19","id":"gregtech:gt.metaitem.98:19","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":411}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":412}]}

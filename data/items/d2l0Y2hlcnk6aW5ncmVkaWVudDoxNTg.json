@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":158,"displayName":"Raw Lambchop","unlocalizedName":"item.witchery:ingredient.muttonraw","id":"witchery:ingredient:158","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":423},{"machine":"furnace","chunk":9,"index":278}]}

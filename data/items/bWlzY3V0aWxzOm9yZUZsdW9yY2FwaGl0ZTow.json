@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreFluorcaphite","metadata":0,"displayName":"Fluorcaphite Ore","unlocalizedName":"tile.OreFluorcaphite","oreDictNames":["oreFluorcaphite"],"id":"miscutils:oreFluorcaphite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":333},{"machine":"gt.recipe.macerator","chunk":1,"index":133}]}

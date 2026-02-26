@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"toadintheholeItem","metadata":32767,"displayName":"Toad in the Hole","unlocalizedName":"item.toadintheholeItem","id":"harvestcraft:toadintheholeItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":289}]}

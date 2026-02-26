@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerBucket","metadata":131,"displayName":"Turpentine Bucket","unlocalizedName":"item.containerBucket","id":"BinnieCore:containerBucket:131","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":22}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":23}]}

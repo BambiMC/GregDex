@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"alveary","metadata":3,"displayName":"Alveary Fan","unlocalizedName":"tile.for.alveary.3","id":"Forestry:alveary:3","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":368},{"machine":"gt.recipe.assembler","chunk":0,"index":472}],"recipesAsInput":[]}

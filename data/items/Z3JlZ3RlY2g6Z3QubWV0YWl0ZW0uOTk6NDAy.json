@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":402,"displayName":"Molten Clay Compound Cell","unlocalizedName":"gt.metaitem.99.402","oreDictNames":["cellMoltenCrudeSteel"],"id":"gregtech:gt.metaitem.99:402","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":95}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":96}]}

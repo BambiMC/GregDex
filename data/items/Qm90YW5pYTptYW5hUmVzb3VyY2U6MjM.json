@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"manaResource","metadata":23,"displayName":"Mana Powder","unlocalizedName":"item.manaPowder","oreDictNames":["powderMana"],"id":"Botania:manaResource:23","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":19,"index":389},{"machine":"crafting_table","chunk":19,"index":389}]}

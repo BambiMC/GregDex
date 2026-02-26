@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":42,"displayName":"Butternut Wood Door","unlocalizedName":"tile.door","nbt":"{meta:42}","id":"ExtraTrees:door:42","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":47},{"machine":"crafting_table","chunk":110,"index":48}],"recipesAsInput":[]}

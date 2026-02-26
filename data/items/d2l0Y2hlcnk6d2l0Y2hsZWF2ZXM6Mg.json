@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"witchleaves","metadata":2,"displayName":"Hawthorn Leaves","unlocalizedName":"tile.witchery:witchleaves.hawthorn","oreDictNames":["treeLeaves"],"id":"witchery:witchleaves:2","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":36}],"recipesAsInput":[]}

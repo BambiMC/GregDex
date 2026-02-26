@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":6,"displayName":"Wicked Eyepatch","unlocalizedName":"item.cosmetic6","id":"Botania:cosmetic:6","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":229},{"machine":"gt.recipe.assembler","chunk":0,"index":261}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":96}]}

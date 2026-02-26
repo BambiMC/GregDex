@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"friedriceItem","metadata":0,"displayName":"Fried Rice","unlocalizedName":"item.friedriceItem","oreDictNames":["foodFriedrice"],"id":"harvestcraft:friedriceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":351}],"recipesAsInput":[]}

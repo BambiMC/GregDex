@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":380,"displayName":"Molten Enderium Base Cell","unlocalizedName":"gt.metaitem.99.380","oreDictNames":["cellMoltenEnderiumBase"],"id":"gregtech:gt.metaitem.99:380","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":169}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":170}]}

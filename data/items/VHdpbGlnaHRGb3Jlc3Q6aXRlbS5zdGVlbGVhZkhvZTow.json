@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"item.steeleafHoe","metadata":0,"displayName":"Steeleaf Hoe","unlocalizedName":"item.steeleafHoe","id":"TwilightForest:item.steeleafHoe:0","recipesAsOutput":[{"machine":"crafting_table","chunk":64,"index":443}],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":21,"index":207},{"machine":"gt.recipe.macerator","chunk":38,"index":288}]}

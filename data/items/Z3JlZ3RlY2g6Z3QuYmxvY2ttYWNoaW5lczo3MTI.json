@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":712,"displayName":"Quadruple Input Hatch (ZPM)","unlocalizedName":"gt.blockmachines.hatch.multi.input.tier.04","id":"gregtech:gt.blockmachines:712","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":8,"index":202}],"recipesAsInput":[]}

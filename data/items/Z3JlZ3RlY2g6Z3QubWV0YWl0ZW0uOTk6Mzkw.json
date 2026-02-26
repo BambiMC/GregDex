@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":390,"displayName":"Molten Ledox Cell","unlocalizedName":"gt.metaitem.99.390","oreDictNames":["cellMoltenLedox"],"id":"gregtech:gt.metaitem.99:390","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":85}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":86}]}

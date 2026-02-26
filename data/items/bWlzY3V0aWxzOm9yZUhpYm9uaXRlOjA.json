@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreHibonite","metadata":0,"displayName":"Hibonite Ore","unlocalizedName":"tile.OreHibonite","oreDictNames":["oreHibonite"],"id":"miscutils:oreHibonite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":330},{"machine":"gt.recipe.macerator","chunk":1,"index":128}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"vindalooItem","metadata":0,"displayName":"Vindaloo","unlocalizedName":"item.vindalooItem","oreDictNames":["foodVindaloo"],"id":"harvestcraft:vindalooItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":416}],"recipesAsInput":[]}

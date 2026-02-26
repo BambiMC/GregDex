@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":5844,"displayName":"Basalt Hammer Head","unlocalizedName":"gt.metaitem.02.5844","oreDictNames":["toolHeadHammerBasalt"],"id":"gregtech:gt.metaitem.02:5844","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":98,"index":356},{"machine":"gt.recipe.assembler","chunk":12,"index":380}]}

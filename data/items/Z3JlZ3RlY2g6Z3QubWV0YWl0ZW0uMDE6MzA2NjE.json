@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30661,"displayName":"Wood Vinegar Cell","unlocalizedName":"gt.metaitem.01.30661","oreDictNames":["cellWoodVinegar"],"id":"gregtech:gt.metaitem.01:30661","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":276}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":277}]}

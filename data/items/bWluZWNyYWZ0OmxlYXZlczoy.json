@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"leaves","metadata":2,"displayName":"Birch Leaves","unlocalizedName":"tile.leaves.birch","oreDictNames":["treeLeaves"],"id":"minecraft:leaves:2","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":2}],"recipesAsInput":[]}

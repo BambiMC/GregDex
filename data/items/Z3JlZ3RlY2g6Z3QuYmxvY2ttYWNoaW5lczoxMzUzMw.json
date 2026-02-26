@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":13533,"displayName":"Linked Input Bus","unlocalizedName":"gt.blockmachines.ggfab.machine.linked_input_bus","id":"gregtech:gt.blockmachines:13533","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":211}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":3020,"displayName":"Raw Silicon Ore","unlocalizedName":"gt.blockores.3020","oreDictNames":["oreBlackgraniteSilicon"],"id":"gregtech:gt.blockores:3020","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":13},{"machine":"gt.recipe.macerator","chunk":3,"index":478}]}

@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"blockNuclearControlMain","metadata":9,"displayName":"Advanced Information Panel","unlocalizedName":"tile.blockAdvancedInfoPanel","id":"IC2NuclearControl:blockNuclearControlMain:9","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":364},{"machine":"gt.recipe.assembler","chunk":28,"index":237}],"recipesAsInput":[]}

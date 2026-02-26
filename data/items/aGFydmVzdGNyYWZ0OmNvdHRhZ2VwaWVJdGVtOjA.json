@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cottagepieItem","metadata":0,"displayName":"Cottage Pie","unlocalizedName":"item.cottagepieItem","oreDictNames":["foodCottagepie"],"id":"harvestcraft:cottagepieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":21,"index":80}],"recipesAsInput":[]}

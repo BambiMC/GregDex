@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"scattershotUpgradeItem","metadata":0,"displayName":"Upgrade - Scattershot","unlocalizedName":"item.upgScatter","id":"openmodularturrets:scattershotUpgradeItem:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":299}],"recipesAsInput":[]}

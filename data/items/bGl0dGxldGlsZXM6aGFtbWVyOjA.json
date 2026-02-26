@@ -1,0 +1,1 @@
+{"modId":"littletiles","itemName":"hammer","metadata":0,"displayName":"Little Hammer","unlocalizedName":"item.LTHammer","id":"littletiles:hammer:0","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":221}],"recipesAsInput":[{"machine":"crafting_table","chunk":19,"index":222}]}

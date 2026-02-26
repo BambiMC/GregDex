@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"RP1Fuel","metadata":0,"displayName":"RP-1 Cell","unlocalizedName":"item.RP1Fuel","oreDictNames":["cellRP1"],"id":"miscutils:RP1Fuel:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":323}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":324}]}

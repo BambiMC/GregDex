@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"personalCloakingDevice-0.0","metadata":0,"displayName":"§9Personal Cloaking Device§7","unlocalizedName":"item.personalCloakingDevice","id":"miscutils:personalCloakingDevice-0.0:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":364},{"machine":"gt.recipe.scanner","chunk":0,"index":113}],"recipesAsInput":[]}

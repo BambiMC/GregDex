@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_door","metadata":32767,"displayName":"Wooden Door","unlocalizedName":"item.doorWood","id":"minecraft:wooden_door:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":20,"index":274},{"machine":"gt.recipe.macerator","chunk":37,"index":82}]}

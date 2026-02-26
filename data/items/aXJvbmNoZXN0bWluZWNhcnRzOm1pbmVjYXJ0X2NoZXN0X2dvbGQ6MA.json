@@ -1,0 +1,1 @@
+{"modId":"ironchestminecarts","itemName":"minecart_chest_gold","metadata":0,"displayName":"Minecart with Gold Chest","unlocalizedName":"item.ironchestminecarts.minecart_chest_gold","id":"ironchestminecarts:minecart_chest_gold:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":498},{"machine":"gt.recipe.assembler","chunk":27,"index":48}],"recipesAsInput":[]}

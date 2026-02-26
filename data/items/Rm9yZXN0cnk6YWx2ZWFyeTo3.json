@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"alveary","metadata":7,"displayName":"Alveary Sieve","unlocalizedName":"tile.for.alveary.7","id":"Forestry:alveary:7","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":374},{"machine":"gt.recipe.assembler","chunk":0,"index":476}],"recipesAsInput":[]}

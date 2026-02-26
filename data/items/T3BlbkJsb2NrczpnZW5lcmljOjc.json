@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"generic","metadata":7,"displayName":"Map Memory Module","unlocalizedName":"item.openblocks.map_memory","id":"OpenBlocks:generic:7","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":255}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":256}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.BedrockiumIronPlate","metadata":0,"displayName":"Bedrockium-Iron Plate","unlocalizedName":"item.BedrockiumIronPlate","id":"dreamcraft:item.BedrockiumIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":320}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":150}]}

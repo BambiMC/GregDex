@@ -1,0 +1,1 @@
+{"modId":"LogisticsPipes","itemName":"item.ItemPipeSignCreator","metadata":0,"displayName":"Crafting Sign Creator","unlocalizedName":"item.ItemPipeSignCreator","id":"LogisticsPipes:item.ItemPipeSignCreator:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":216}],"recipesAsInput":[]}

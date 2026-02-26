@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":21,"displayName":"LootBag (Forest Ranger Expert)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:21","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":424},{"machine":"gt.recipe.assembler","chunk":2,"index":243}],"recipesAsInput":[]}

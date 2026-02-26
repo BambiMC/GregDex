@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.NanoScubaHelmet","metadata":0,"displayName":"Nano Scuba Helmet","unlocalizedName":"item.NanoScubaHelmet","id":"dreamcraft:item.NanoScubaHelmet:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":190}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":193}]}

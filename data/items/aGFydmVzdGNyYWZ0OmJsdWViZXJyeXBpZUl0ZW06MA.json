@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"blueberrypieItem","metadata":0,"displayName":"Blueberry Pie","unlocalizedName":"item.blueberrypieItem","oreDictNames":["foodBlueberrypie"],"id":"harvestcraft:blueberrypieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":372}],"recipesAsInput":[]}

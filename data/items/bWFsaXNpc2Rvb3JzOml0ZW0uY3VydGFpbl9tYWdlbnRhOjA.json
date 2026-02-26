@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"item.curtain_magenta","metadata":0,"displayName":"Magenta Curtain","unlocalizedName":"item.curtain_magenta","id":"malisisdoors:item.curtain_magenta:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":194},{"machine":"gt.recipe.assembler","chunk":27,"index":272}],"recipesAsInput":[]}

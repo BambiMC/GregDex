@@ -1,0 +1,1 @@
+{"modId":"gtnhlanth","itemName":"casing.coolant_delivery","metadata":0,"displayName":"Coolant Delivery Casing","unlocalizedName":"casing.coolant_delivery","id":"gtnhlanth:casing.coolant_delivery:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":334},{"machine":"gt.recipe.scanner","chunk":0,"index":84}],"recipesAsInput":[]}

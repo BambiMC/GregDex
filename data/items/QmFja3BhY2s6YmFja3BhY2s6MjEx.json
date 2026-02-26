@@ -1,0 +1,1 @@
+{"modId":"Backpack","itemName":"backpack","metadata":211,"displayName":"Big Lime Backpack","unlocalizedName":"item.backpack.big_lime","oreDictNames":["BigBackpacks"],"id":"Backpack:backpack:211","recipesAsOutput":[{"machine":"crafting_table","chunk":106,"index":58},{"machine":"crafting_table","chunk":106,"index":97}],"recipesAsInput":[]}

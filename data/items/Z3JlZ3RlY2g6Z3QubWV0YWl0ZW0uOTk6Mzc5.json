@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":379,"displayName":"Molten Soularium Cell","unlocalizedName":"gt.metaitem.99.379","oreDictNames":["cellMoltenSoularium"],"id":"gregtech:gt.metaitem.99:379","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":167}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":168}]}

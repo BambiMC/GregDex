@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"red_flower","metadata":1,"displayName":"Blue Orchid","unlocalizedName":"tile.flower2.blueOrchid","oreDictNames":["flowerLightBlue","flowerBlueOrchid"],"id":"minecraft:red_flower:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":92},{"machine":"gt.recipe.extractor","chunk":0,"index":1}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellPotin","metadata":0,"displayName":"Potin Cell","unlocalizedName":"item.itemCellPotin","oreDictNames":["cellPotin"],"id":"miscutils:itemCellPotin:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":418}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":419}]}

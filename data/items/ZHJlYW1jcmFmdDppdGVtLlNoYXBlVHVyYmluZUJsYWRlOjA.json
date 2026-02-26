@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeTurbineBlade","metadata":0,"displayName":"Casting Form (Turbine Blade Shape)","unlocalizedName":"item.ShapeTurbineBlade","id":"dreamcraft:item.ShapeTurbineBlade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":54}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":103}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormScrew","metadata":0,"displayName":"Casting Form (Screw Mold)","unlocalizedName":"item.MoldFormScrew","id":"dreamcraft:item.MoldFormScrew:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":12}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":85}]}

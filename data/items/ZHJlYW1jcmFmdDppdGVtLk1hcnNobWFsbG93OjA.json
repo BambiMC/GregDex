@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.Marshmallow","metadata":0,"displayName":"Semi-stable Marshmallow","unlocalizedName":"item.Marshmallow","id":"dreamcraft:item.Marshmallow:0","recipesAsOutput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":47},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":106}],"recipesAsInput":[]}

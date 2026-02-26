@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4066,"displayName":"Praseodymium Ore","unlocalizedName":"gt.blockores.4066","oreDictNames":["oreRedgranitePraseodymium"],"id":"gregtech:gt.blockores:4066","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":4,"index":127},{"machine":"gt.recipe.macerator","chunk":5,"index":490}]}

@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormDrillHead","metadata":0,"displayName":"Casting Form (Drill Head Mold)","unlocalizedName":"item.MoldFormDrillHead","id":"dreamcraft:item.MoldFormDrillHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":27}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":99}]}

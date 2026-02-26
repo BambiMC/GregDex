@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreCerite","metadata":0,"displayName":"Cerite Ore","unlocalizedName":"tile.OreCerite","oreDictNames":["oreCerite"],"id":"miscutils:oreCerite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":345},{"machine":"gt.recipe.macerator","chunk":1,"index":153}]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"quartzTypeRed","metadata":2,"displayName":"Pillar Redquartz Block","unlocalizedName":"tile.botania:pillarRedQuartz","id":"Botania:quartzTypeRed:2","recipesAsOutput":[{"machine":"crafting_table","chunk":84,"index":441}],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":26},{"machine":"gt.recipe.extractor","chunk":0,"index":82}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":2,"displayName":"Desert Acacia Stairs","unlocalizedName":"tile.for.stairs.2","oreDictNames":["stairWood"],"id":"Forestry:stairs:2","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":447}],"recipesAsInput":[]}

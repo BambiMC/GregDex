@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"figbarItem","metadata":0,"displayName":"Fig Bar","unlocalizedName":"item.figbarItem","oreDictNames":["foodFigbar"],"id":"harvestcraft:figbarItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":442}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Avaritia","itemName":"Resource","metadata":8,"displayName":"Star Fuel","unlocalizedName":"item.avaritia_resource.starfuel","id":"Avaritia:Resource:8","recipesAsOutput":[{"machine":"gtpp.recipe.multimixer","chunk":0,"index":0}],"recipesAsInput":[{"machine":"gt.recipe.plasmaforge","chunk":0,"index":57}]}

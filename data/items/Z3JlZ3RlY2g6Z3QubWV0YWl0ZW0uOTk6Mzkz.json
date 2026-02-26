@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":393,"displayName":"Molten Oriharukon Cell","unlocalizedName":"gt.metaitem.99.393","oreDictNames":["cellMoltenOriharukon"],"id":"gregtech:gt.metaitem.99:393","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":73}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":74}]}

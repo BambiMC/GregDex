@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":0,"displayName":"Larch Fence","unlocalizedName":"tile.for.fences.0","oreDictNames":["fenceWood"],"id":"Forestry:fences:0","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":266},{"machine":"crafting_table","chunk":111,"index":267},{"machine":"crafting_table","chunk":111,"index":268}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30675,"displayName":"Charcoal Byproducts Cell","unlocalizedName":"gt.metaitem.01.30675","oreDictNames":["cellCharcoalByproducts"],"id":"gregtech:gt.metaitem.01:30675","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":362}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":363}]}

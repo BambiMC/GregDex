@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fishtacoItem","metadata":0,"displayName":"Fish Taco","unlocalizedName":"item.fishtacoItem","oreDictNames":["foodFishtaco"],"id":"harvestcraft:fishtacoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":347}],"recipesAsInput":[]}

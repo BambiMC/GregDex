@@ -1,0 +1,1 @@
+{"modId":"DraconicEvolution","itemName":"particleGenerator","metadata":0,"displayName":"Particle Generator","unlocalizedName":"tile.draconicevolution:particleGenerator","id":"DraconicEvolution:particleGenerator:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":122},{"machine":"gt.recipe.assembler","chunk":26,"index":123}]}

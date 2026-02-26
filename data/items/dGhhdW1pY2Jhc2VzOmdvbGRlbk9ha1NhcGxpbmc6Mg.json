@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"goldenOakSapling","metadata":2,"displayName":"Nether Sapling","unlocalizedName":"tile.netherTreeSapling","id":"thaumicbases:goldenOakSapling:2","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":30},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":7}],"recipesAsInput":[]}

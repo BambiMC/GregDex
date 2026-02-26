@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":313,"displayName":"Molten Magnalium Cell","unlocalizedName":"gt.metaitem.99.313","oreDictNames":["cellMoltenMagnalium"],"id":"gregtech:gt.metaitem.99:313","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":329}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":330}]}

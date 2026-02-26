@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"ItemAmuletVis","metadata":1,"displayName":"Amulet of Vis Storage","unlocalizedName":"item.ItemAmuletVis.1","id":"Thaumcraft:ItemAmuletVis:1","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":348}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":270}]}

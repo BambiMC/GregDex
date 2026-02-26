@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"crayfishrawItem","metadata":32767,"displayName":"Raw Crayfish","unlocalizedName":"item.crayfishrawItem","id":"harvestcraft:crayfishrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":324},{"machine":"gt.recipe.canner","chunk":1,"index":162}]}

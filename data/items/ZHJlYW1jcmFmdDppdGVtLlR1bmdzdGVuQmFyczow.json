@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.TungstenBars","metadata":0,"displayName":"Tungsten Bars","unlocalizedName":"item.TungstenBars","oreDictNames":["barsTungsten"],"id":"dreamcraft:item.TungstenBars:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":169}],"recipesAsInput":[]}

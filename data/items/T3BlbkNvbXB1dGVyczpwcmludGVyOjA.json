@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"printer","metadata":0,"displayName":"3D Printer","unlocalizedName":"tile.oc.printer","oreDictNames":["oc:printer"],"id":"OpenComputers:printer:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":8}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"trapped_chest","metadata":0,"displayName":"Trapped Chest","unlocalizedName":"tile.chestTrap","oreDictNames":["chestTrapped","craftingChest","chest"],"id":"minecraft:trapped_chest:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":229},{"machine":"gt.recipe.assembler","chunk":8,"index":336}],"recipesAsInput":[]}

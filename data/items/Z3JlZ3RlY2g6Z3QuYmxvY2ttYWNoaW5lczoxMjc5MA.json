@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":12790,"displayName":"ZPM 128A Low Power Laser Source Hatch","unlocalizedName":"gt.blockmachines.zpm_lplaser_dynamo_128","id":"gregtech:gt.blockmachines:12790","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":279}],"recipesAsInput":[]}

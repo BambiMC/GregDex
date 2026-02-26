@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockGenerator","metadata":8,"displayName":"Stirling Generator","unlocalizedName":"ic2.blockStirlingGenerator","id":"IC2:blockGenerator:8","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":387},{"machine":"gt.recipe.assembler","chunk":26,"index":385}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":340}]}

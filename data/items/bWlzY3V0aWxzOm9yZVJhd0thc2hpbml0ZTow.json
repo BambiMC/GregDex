@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreRawKashinite","metadata":0,"displayName":"Raw Kashinite Ore","unlocalizedName":"item.oreRawKashinite","oreDictNames":["oreRawKashinite"],"id":"miscutils:oreRawKashinite:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":1,"index":30}]}

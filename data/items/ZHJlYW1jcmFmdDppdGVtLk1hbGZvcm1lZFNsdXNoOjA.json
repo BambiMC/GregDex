@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MalformedSlush","metadata":0,"displayName":"Malformed Slush","unlocalizedName":"item.MalformedSlush","id":"dreamcraft:item.MalformedSlush:0","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":0,"index":122},{"machine":"gtpp.recipe.multimixer","chunk":1,"index":37}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":0}]}

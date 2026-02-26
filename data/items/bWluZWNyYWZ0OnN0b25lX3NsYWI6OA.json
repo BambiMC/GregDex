@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"stone_slab","metadata":8,"displayName":"Stone Slab","unlocalizedName":"tile.stoneSlab.stone","id":"minecraft:stone_slab:8","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":25},{"machine":"crafting_table","chunk":91,"index":25},{"machine":"gt.recipe.macerator","chunk":31,"index":126}]}

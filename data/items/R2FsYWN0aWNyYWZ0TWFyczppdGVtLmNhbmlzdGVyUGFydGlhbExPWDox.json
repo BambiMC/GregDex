@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.canisterPartialLOX","metadata":1,"displayName":"Filled Canister of Liquid Oxygen","unlocalizedName":"item.canister.LOX.full","id":"GalacticraftMars:item.canisterPartialLOX:1","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":460}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":461}]}

@@ -1,0 +1,1 @@
+{"modId":"WitchingGadgets","itemName":"item.WG_Cloak","metadata":1,"displayName":"Spectral Mantle","unlocalizedName":"item.WG_Cloak.spectral","id":"WitchingGadgets:item.WG_Cloak:1","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":107}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":209}]}

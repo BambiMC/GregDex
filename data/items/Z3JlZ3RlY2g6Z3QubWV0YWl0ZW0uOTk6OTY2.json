@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":966,"displayName":"Molten Orichalcum Cell","unlocalizedName":"gt.metaitem.99.966","oreDictNames":["cellMoltenOrichalcum"],"id":"gregtech:gt.metaitem.99:966","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":79}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":80}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32521,"displayName":"Medium Mercury Battery","unlocalizedName":"gt.metaitem.01.32521","oreDictNames":["batteryMV"],"id":"gregtech:gt.metaitem.01:32521","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":37}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":195}]}

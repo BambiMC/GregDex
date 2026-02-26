@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mapleoatmealItem","metadata":32767,"displayName":"Maple Oatmeal","unlocalizedName":"item.mapleoatmealItem","id":"harvestcraft:mapleoatmealItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":117}]}

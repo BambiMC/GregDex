@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"barleyBag","metadata":0,"displayName":"Barley Seed Bag","unlocalizedName":"item.barleyBag","id":"Natura:barleyBag:0","recipesAsOutput":[{"machine":"crafting_table","chunk":21,"index":66}],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":57}]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftMars","itemName":"item.null","metadata":0,"displayName":"Unrefined Desh","unlocalizedName":"item.rawDesh","id":"GalacticraftMars:item.null:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":264},{"machine":"gt.recipe.macerator","chunk":10,"index":113}]}

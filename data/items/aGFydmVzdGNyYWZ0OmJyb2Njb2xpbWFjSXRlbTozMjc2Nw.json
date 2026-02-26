@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"broccolimacItem","metadata":32767,"displayName":"Broccoli Mac","unlocalizedName":"item.broccolimacItem","id":"harvestcraft:broccolimacItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":380}]}

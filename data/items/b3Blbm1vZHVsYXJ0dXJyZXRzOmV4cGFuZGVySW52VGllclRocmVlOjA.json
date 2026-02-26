@@ -1,0 +1,1 @@
+{"modId":"openmodularturrets","itemName":"expanderInvTierThree","metadata":0,"displayName":"Base Inventory Expander (Tier 3)","unlocalizedName":"tile.expanderInvTierThree","id":"openmodularturrets:expanderInvTierThree:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":278}],"recipesAsInput":[]}

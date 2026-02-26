@@ -1,0 +1,1 @@
+{"modId":"ToxicEverglades","itemName":"everglades.trigger","metadata":0,"displayName":"§6Alkalus Disk [§cActivated§6]","unlocalizedName":"item.everglades.trigger","id":"ToxicEverglades:everglades.trigger:0","recipesAsOutput":[{"machine":"gt.recipe.laserengraver","chunk":2,"index":66},{"machine":"gt.recipe.laserengraver","chunk":2,"index":286}],"recipesAsInput":[]}

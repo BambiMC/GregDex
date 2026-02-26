@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":5299,"displayName":"Stone Hammer Head","unlocalizedName":"gt.metaitem.02.5299","oreDictNames":["toolHeadHammerStone"],"id":"gregtech:gt.metaitem.02:5299","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":17,"index":439},{"machine":"gt.recipe.macerator","chunk":22,"index":448}]}

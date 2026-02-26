@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"spumoniicecreamItem","metadata":0,"displayName":"Spumoni Ice Cream","unlocalizedName":"item.spumoniicecreamItem","oreDictNames":["foodSpumoniicecream"],"id":"harvestcraft:spumoniicecreamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":256}],"recipesAsInput":[]}

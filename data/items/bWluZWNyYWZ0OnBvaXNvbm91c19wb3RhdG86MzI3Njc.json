@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"poisonous_potato","metadata":32767,"displayName":"Poisonous Potato","unlocalizedName":"item.potatoPoisonous","id":"minecraft:poisonous_potato:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":82}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.itemRodRadium","metadata":0,"displayName":"Radium Rod","unlocalizedName":"item.itemRodRadium","oreDictNames":["stickRadium"],"id":"miscutils:item.itemRodRadium:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"bw.recipe.radhatch","chunk":0,"index":90}]}

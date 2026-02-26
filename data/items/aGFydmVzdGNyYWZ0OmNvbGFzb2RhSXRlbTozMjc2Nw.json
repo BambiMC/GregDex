@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"colasodaItem","metadata":32767,"displayName":"Cola Soda","unlocalizedName":"item.colasodaItem","id":"harvestcraft:colasodaItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":53}]}

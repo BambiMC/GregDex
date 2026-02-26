@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":92,"displayName":"Meteoric Iron Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combEV","beeComb"],"id":"gregtech:gt.comb:92","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":239},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":144}]}

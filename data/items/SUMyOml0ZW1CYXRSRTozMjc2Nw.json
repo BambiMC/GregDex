@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemBatRE","metadata":32767,"displayName":"RE-Battery","unlocalizedName":"ic2.itemBatRE","oreDictNames":["batteryBasic"],"id":"IC2:itemBatRE:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":29,"index":327},{"machine":"crafting_table","chunk":29,"index":328},{"machine":"gt.recipe.press","chunk":0,"index":338}]}

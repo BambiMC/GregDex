@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockMiningExplosives","metadata":0,"displayName":"Mining Explosives","unlocalizedName":"tile.blockMiningExplosives","id":"miscutils:blockMiningExplosives:0","recipesAsOutput":[{"machine":"crafting_table","chunk":24,"index":192},{"machine":"gt.recipe.assembler","chunk":6,"index":301}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTMachines","metadata":0,"displayName":"Industrial Wand Charging Station","unlocalizedName":"tile.EMT.machine.wandrecharge","id":"EMT:EMTMachines:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":247}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":244}]}

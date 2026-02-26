@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":371,"displayName":"Molten Vanadiumsteel Cell","unlocalizedName":"gt.metaitem.99.371","oreDictNames":["cellMoltenVanadiumSteel"],"id":"gregtech:gt.metaitem.99:371","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":149}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":150}]}

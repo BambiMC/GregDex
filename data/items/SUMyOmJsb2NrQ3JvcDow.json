@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockCrop","metadata":0,"displayName":"Crop","unlocalizedName":"ic2.blockCrop","id":"IC2:blockCrop:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":440},{"machine":"gt.recipe.assembler","chunk":26,"index":384}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":5}]}

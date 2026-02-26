@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"orangesmoothieItem","metadata":32767,"displayName":"Orange Smoothie","unlocalizedName":"item.orangesmoothieItem","id":"harvestcraft:orangesmoothieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":440}]}

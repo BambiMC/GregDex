@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemTinCanFilled","metadata":1,"displayName":"(Filled) Tin Can","unlocalizedName":"ic2.itemTinCanFilled","id":"IC2:itemTinCanFilled:1","recipesAsOutput":[{"machine":"gt.recipe.canner","chunk":0,"index":11},{"machine":"gt.recipe.canner","chunk":0,"index":12},{"machine":"gt.recipe.canner","chunk":0,"index":20}],"recipesAsInput":[]}

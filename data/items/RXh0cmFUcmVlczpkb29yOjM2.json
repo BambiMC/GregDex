@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"door","metadata":36,"displayName":"Fig Wood Door","unlocalizedName":"tile.door","nbt":"{meta:36}","id":"ExtraTrees:door:36","recipesAsOutput":[{"machine":"crafting_table","chunk":110,"index":17},{"machine":"crafting_table","chunk":110,"index":18}],"recipesAsInput":[]}

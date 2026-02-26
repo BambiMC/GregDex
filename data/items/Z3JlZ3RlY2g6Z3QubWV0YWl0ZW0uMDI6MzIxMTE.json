@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32111,"displayName":"Pirate Brew","unlocalizedName":"gt.metaitem.02.32111","id":"gregtech:gt.metaitem.02:32111","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":8}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":9}]}

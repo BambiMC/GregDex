@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"preciseUnitCasing","metadata":2,"displayName":"Precise Electronic Unit Casing MK-III","unlocalizedName":"preciseUnitCasing.2","id":"GoodGenerator:preciseUnitCasing:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":92}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":93}]}

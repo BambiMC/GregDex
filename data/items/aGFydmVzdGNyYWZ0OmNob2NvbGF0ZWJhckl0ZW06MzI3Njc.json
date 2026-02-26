@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chocolatebarItem","metadata":32767,"displayName":"Chocolate Bar","unlocalizedName":"item.chocolatebarItem","id":"harvestcraft:chocolatebarItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":284}]}

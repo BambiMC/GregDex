@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"tunarawItem","metadata":32767,"displayName":"Raw Tuna","unlocalizedName":"item.tunarawItem","id":"harvestcraft:tunarawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":152},{"machine":"gt.recipe.canner","chunk":1,"index":177}]}

@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCylinder","metadata":770,"displayName":"Polymerized Bacteria Cylinder","unlocalizedName":"item.containerCylinder","id":"BinnieCore:containerCylinder:770","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":368}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":369}]}

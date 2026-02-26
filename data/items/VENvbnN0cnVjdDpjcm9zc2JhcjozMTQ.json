@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"crossbar","metadata":314,"displayName":"Unstable Induced Crossbar","unlocalizedName":"toolpart.Crossbar.unstableIngot","id":"TConstruct:crossbar:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":278},{"machine":"gt.recipe.extruder","chunk":28,"index":279}],"recipesAsInput":[]}

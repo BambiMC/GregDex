@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"dysonswarmparts","metadata":6,"displayName":"Dyson Swarm Control Center Primary Windings","unlocalizedName":"tile.DysonSwarmControlPrimary","id":"GalaxySpace:dysonswarmparts:6","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":20},{"machine":"gt.recipe.researchstation","chunk":0,"index":12}],"recipesAsInput":[]}

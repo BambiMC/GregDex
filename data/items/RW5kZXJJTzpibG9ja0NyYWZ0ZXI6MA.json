@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockCrafter","metadata":0,"displayName":"Crafter","unlocalizedName":"tile.blockCrafter","id":"EnderIO:blockCrafter:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":325},{"machine":"gt.recipe.assembler","chunk":26,"index":203}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"Automagy","itemName":"blockRemoteComparator","metadata":0,"displayName":"Remote Comparator","unlocalizedName":"tile.blockRemoteComparator","id":"Automagy:blockRemoteComparator:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":245}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":0,"index":11}]}

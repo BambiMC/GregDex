@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"scalloprawItem","metadata":32767,"displayName":"Raw Scallop","unlocalizedName":"item.scalloprawItem","id":"harvestcraft:scalloprawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":51},{"machine":"gt.recipe.canner","chunk":1,"index":171}]}

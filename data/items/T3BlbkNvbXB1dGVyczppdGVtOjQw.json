@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":40,"displayName":"Server (Tier 3)","unlocalizedName":"item.oc.Server2","oreDictNames":["oc:server3"],"id":"OpenComputers:item:40","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":24}],"recipesAsInput":[]}

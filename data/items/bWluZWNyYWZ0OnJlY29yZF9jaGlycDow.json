@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"record_chirp","metadata":0,"displayName":"Music Disc","unlocalizedName":"item.record","oreDictNames":["record"],"id":"minecraft:record_chirp:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":109}]}

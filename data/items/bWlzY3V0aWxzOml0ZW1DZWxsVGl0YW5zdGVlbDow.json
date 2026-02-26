@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellTitansteel","metadata":0,"displayName":"Titansteel Cell","unlocalizedName":"item.itemCellTitansteel","oreDictNames":["cellTitansteel"],"id":"miscutils:itemCellTitansteel:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":206}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":207}]}

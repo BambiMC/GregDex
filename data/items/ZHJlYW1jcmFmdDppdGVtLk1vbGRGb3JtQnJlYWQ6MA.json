@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormBread","metadata":0,"displayName":"Casting Form (Bread Mold)","unlocalizedName":"item.MoldFormBread","id":"dreamcraft:item.MoldFormBread:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":2}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":71}]}

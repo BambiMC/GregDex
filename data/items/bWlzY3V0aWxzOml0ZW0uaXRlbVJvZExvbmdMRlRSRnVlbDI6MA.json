@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.itemRodLongLFTRFuel2","metadata":0,"displayName":"Long LFTR Fuel 2 Rod","unlocalizedName":"item.itemRodLongLFTRFuel2","oreDictNames":["stickLongLFTRFuel2"],"id":"miscutils:item.itemRodLongLFTRFuel2:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"bw.recipe.radhatch","chunk":0,"index":85}]}

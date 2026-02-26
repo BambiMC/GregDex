@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"grimstone","metadata":0,"displayName":"Grimstone","unlocalizedName":"tile.chisel.grimstone","id":"chisel:grimstone:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":384},{"machine":"gt.recipe.assembler","chunk":2,"index":178}],"recipesAsInput":[]}

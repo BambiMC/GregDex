@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":109,"displayName":"Disk Drive","unlocalizedName":"item.oc.DiskDriveMountable","oreDictNames":["oc:diskDriveMountable"],"id":"OpenComputers:item:109","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":2}],"recipesAsInput":[]}

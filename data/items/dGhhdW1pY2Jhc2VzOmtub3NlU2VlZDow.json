@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"knoseSeed","metadata":0,"displayName":"Rosa Mysteria Sprout","unlocalizedName":"item.knoseSeed","id":"thaumicbases:knoseSeed:0","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":0,"index":125}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":403}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"honeycombchocolatebarItem","metadata":0,"displayName":"Honeycomb Chocolate Bar","unlocalizedName":"item.honeycombchocolatebarItem","oreDictNames":["foodHoneycombchocolatebar"],"id":"harvestcraft:honeycombchocolatebarItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":332}],"recipesAsInput":[]}

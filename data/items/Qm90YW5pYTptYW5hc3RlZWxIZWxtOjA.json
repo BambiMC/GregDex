@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"manasteelHelm","metadata":0,"displayName":"Manasteel Helmet","unlocalizedName":"item.manasteelHelm","id":"Botania:manasteelHelm:0","recipesAsOutput":[{"machine":"crafting_table","chunk":65,"index":259}],"recipesAsInput":[{"machine":"crafting_table","chunk":21,"index":441},{"machine":"crafting_table","chunk":96,"index":83}]}

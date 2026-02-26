@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30787,"displayName":"Ethylene Glycol Cell","unlocalizedName":"gt.metaitem.01.30787","oreDictNames":["cellEthyleneGlycol"],"id":"gregtech:gt.metaitem.01:30787","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":43}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":44}]}

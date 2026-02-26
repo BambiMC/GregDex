@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCasing","metadata":6,"displayName":"Lead Item Casing","unlocalizedName":"ic2.itemCasingLead","oreDictNames":["itemCasingLead"],"id":"IC2:itemCasing:6","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":29,"index":325},{"machine":"furnace","chunk":13,"index":150}]}

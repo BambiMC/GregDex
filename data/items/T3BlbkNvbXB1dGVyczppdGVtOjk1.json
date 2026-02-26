@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":95,"displayName":"Ink Cartridge","unlocalizedName":"item.oc.InkCartridge","oreDictNames":["oc:inkCartridge"],"id":"OpenComputers:item:95","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":17}],"recipesAsInput":[]}

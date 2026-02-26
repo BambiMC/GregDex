@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"food","metadata":10,"displayName":"Ambrosia","unlocalizedName":"item.food.ambrosia","oreDictNames":["foodAmbrosia"],"id":"BiomesOPlenty:food:10","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":78}],"recipesAsInput":[{"machine":"gtpp.recipe.multimixer","chunk":0,"index":1}]}

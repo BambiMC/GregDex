@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":980,"displayName":"Molten Gallium Arsenide Cell","unlocalizedName":"gt.metaitem.99.980","oreDictNames":["cellMoltenGalliumArsenide"],"id":"gregtech:gt.metaitem.99:980","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":93}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":94}]}

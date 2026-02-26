@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30784,"displayName":"Polyurethane Resin Cell","unlocalizedName":"gt.metaitem.01.30784","oreDictNames":["cellPolyurethaneResin"],"id":"gregtech:gt.metaitem.01:30784","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":33}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":34}]}

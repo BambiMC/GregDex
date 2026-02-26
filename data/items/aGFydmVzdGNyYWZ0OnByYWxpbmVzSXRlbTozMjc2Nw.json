@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pralinesItem","metadata":32767,"displayName":"Pralines","unlocalizedName":"item.pralinesItem","id":"harvestcraft:pralinesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":105}]}

@@ -1,0 +1,1 @@
+{"modId":"WR-CBE|Core","itemName":"recieverDish","metadata":0,"displayName":"Receiver Dish","unlocalizedName":"item.wrcbe_core:recieverDish","id":"WR-CBE|Core:recieverDish:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":53}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":29,"index":56}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellTantalloy61","metadata":0,"displayName":"Tantalloy-61 Cell","unlocalizedName":"item.itemCellTantalloy61","oreDictNames":["cellTantalloy61"],"id":"miscutils:itemCellTantalloy61:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":341}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":342}]}

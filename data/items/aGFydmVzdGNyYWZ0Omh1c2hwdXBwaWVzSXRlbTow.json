@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"hushpuppiesItem","metadata":0,"displayName":"Hushpuppies","unlocalizedName":"item.hushpuppiesItem","oreDictNames":["foodHushpuppies"],"id":"harvestcraft:hushpuppiesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":432}],"recipesAsInput":[]}

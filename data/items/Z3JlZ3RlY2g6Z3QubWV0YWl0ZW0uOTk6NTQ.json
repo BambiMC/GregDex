@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":54,"displayName":"Molten Silver Cell","unlocalizedName":"gt.metaitem.99.54","oreDictNames":["cellMoltenSilver"],"id":"gregtech:gt.metaitem.99:54","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":301}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":302}]}

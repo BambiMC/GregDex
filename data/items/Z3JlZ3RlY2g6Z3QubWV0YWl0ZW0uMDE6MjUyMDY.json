@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":25206,"displayName":"Livingwood Round","unlocalizedName":"gt.metaitem.01.25206","oreDictNames":["roundLivingwood"],"id":"gregtech:gt.metaitem.01:25206","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":27,"index":90}]}

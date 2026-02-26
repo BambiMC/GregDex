@@ -1,0 +1,1 @@
+{"modId":"CarpentersBlocks","itemName":"blockCarpentersFlowerPot","metadata":0,"displayName":"Carpenter's Flower Pot","unlocalizedName":"tile.blockCarpentersFlowerPot","id":"CarpentersBlocks:blockCarpentersFlowerPot:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":213},{"machine":"gt.recipe.assembler","chunk":26,"index":64}],"recipesAsInput":[]}

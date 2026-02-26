@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"beanburritoItem","metadata":0,"displayName":"Bean Burrito","unlocalizedName":"item.beanburritoItem","oreDictNames":["foodBeanburrito"],"id":"harvestcraft:beanburritoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":356}],"recipesAsInput":[]}

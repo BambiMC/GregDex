@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormBaguette","metadata":0,"displayName":"Casting Form (Baguette Mold)","unlocalizedName":"item.MoldFormBaguette","id":"dreamcraft:item.MoldFormBaguette:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":3}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":66}]}

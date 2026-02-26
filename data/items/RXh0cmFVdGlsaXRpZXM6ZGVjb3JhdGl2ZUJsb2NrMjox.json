@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"decorativeBlock2","metadata":1,"displayName":"Edged Glass","unlocalizedName":"tile.extrautils:decorativeBlock2.1","oreDictNames":["blockGlass"],"id":"ExtraUtilities:decorativeBlock2:1","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":215}],"recipesAsInput":[]}

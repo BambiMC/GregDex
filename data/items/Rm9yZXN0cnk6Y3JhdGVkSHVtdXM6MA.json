@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedHumus","metadata":0,"displayName":"Crated Humus","unlocalizedName":"item.cratedHumus","id":"Forestry:cratedHumus:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":381}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":354}]}

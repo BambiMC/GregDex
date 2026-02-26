@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"shinyFlower","metadata":8,"displayName":"Glimmering Light Gray Flower","unlocalizedName":"tile.shinyFlower8","id":"Botania:shinyFlower:8","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":292}],"recipesAsInput":[{"machine":"crafting_table","chunk":74,"index":160},{"machine":"thaumcraft_crucible","chunk":0,"index":88}]}

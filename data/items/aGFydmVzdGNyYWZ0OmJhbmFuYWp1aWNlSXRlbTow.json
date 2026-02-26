@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"bananajuiceItem","metadata":0,"displayName":"Banana Juice","unlocalizedName":"item.bananajuiceItem","oreDictNames":["foodBananajuice","listAlljuice"],"id":"harvestcraft:bananajuiceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":333}],"recipesAsInput":[]}

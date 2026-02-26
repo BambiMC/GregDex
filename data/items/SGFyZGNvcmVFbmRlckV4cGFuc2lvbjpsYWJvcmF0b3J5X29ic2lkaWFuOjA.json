@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"laboratory_obsidian","metadata":0,"displayName":"Laboratory Obsidian","unlocalizedName":"tile.laboratoryObsidian","id":"HardcoreEnderExpansion:laboratory_obsidian:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":248},{"machine":"gt.recipe.assembler","chunk":26,"index":328}],"recipesAsInput":[]}

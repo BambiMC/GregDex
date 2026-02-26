@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"materials","metadata":41,"displayName":"Manyullyn Dust","unlocalizedName":"item.tconstruct.Materials.ManyullynDust","oreDictNames":["dustManyullyn"],"id":"TConstruct:materials:41","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":77,"index":157},{"machine":"crafting_table","chunk":77,"index":158}]}

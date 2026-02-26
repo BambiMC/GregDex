@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":357,"displayName":"Nano Forge","unlocalizedName":"gt.blockmachines.multimachine.nanoforge","id":"gregtech:gt.blockmachines:357","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":462},{"machine":"gt.recipe.scanner","chunk":0,"index":165}],"recipesAsInput":[]}

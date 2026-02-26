@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":4,"displayName":"Bottled Sugar Whine","unlocalizedName":"potion.SWhine.bottled","id":"berriespp:BppPotions:4","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":22}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":21}]}

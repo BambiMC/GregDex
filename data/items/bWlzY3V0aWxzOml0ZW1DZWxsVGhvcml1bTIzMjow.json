@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellThorium232","metadata":0,"displayName":"Thorium 232 Cell","unlocalizedName":"item.itemCellThorium232","oreDictNames":["cellThorium232"],"id":"miscutils:itemCellThorium232:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":358}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":359}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":20,"displayName":"Molten Raw Silicon Cell","unlocalizedName":"gt.metaitem.99.20","oreDictNames":["cellMoltenSilicon"],"id":"gregtech:gt.metaitem.99:20","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":347}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":348}]}

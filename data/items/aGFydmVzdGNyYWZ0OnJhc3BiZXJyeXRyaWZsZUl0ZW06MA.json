@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"raspberrytrifleItem","metadata":0,"displayName":"Raspberry Trifle","unlocalizedName":"item.raspberrytrifleItem","oreDictNames":["foodRaspberrytrifle"],"id":"harvestcraft:raspberrytrifleItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":427}],"recipesAsInput":[]}

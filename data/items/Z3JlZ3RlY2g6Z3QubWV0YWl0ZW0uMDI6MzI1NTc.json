@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32557,"displayName":"Rape","unlocalizedName":"gt.metaitem.02.32557","id":"gregtech:gt.metaitem.02:32557","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":9},{"machine":"gt.recipe.fluidextractor","chunk":25,"index":310}]}

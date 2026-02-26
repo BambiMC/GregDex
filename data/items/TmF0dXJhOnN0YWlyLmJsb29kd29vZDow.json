@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.bloodwood","metadata":0,"displayName":"Blood Stairs","unlocalizedName":"tile.stair.bloodwood","oreDictNames":["stairWood"],"id":"Natura:stair.bloodwood:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":40},{"machine":"crafting_table","chunk":114,"index":163}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"maplesyrupwafflesItem","metadata":32767,"displayName":"Maple Syrup Waffles","unlocalizedName":"item.maplesyrupwafflesItem","id":"harvestcraft:maplesyrupwafflesItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":115}]}

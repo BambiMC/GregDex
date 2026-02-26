@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":11,"displayName":"Molten Obsidian Bucket","unlocalizedName":"item.tconstruct.bucket.Obsidian","id":"TConstruct:buckets:11","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":314}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":315}]}

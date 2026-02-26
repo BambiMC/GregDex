@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"naquadahMass","metadata":0,"displayName":"Naquadah Mass","unlocalizedName":"item.naquadahMass","id":"GoodGenerator:naquadahMass:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":34}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":42}]}

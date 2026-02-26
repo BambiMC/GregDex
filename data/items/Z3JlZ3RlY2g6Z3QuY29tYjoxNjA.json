@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":160,"displayName":"Blizz Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combMV","beeComb"],"id":"gregtech:gt.comb:160","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":77},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":136}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"jarFilled","metadata":0,"displayName":"Honey Jar","unlocalizedName":"item.jarFilled.jarhoney","id":"BiomesOPlenty:jarFilled:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":108}],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":78}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":12750,"displayName":"ZPM 64A Low Power Laser Converter","unlocalizedName":"gt.blockmachines.zpm_lplaser_converter_64","id":"gregtech:gt.blockmachines:12750","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":253}],"recipesAsInput":[]}

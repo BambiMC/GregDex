@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.itemRodFermium","metadata":0,"displayName":"Fermium Rod","unlocalizedName":"item.itemRodFermium","oreDictNames":["stickFermium"],"id":"miscutils:item.itemRodFermium:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"bw.recipe.radhatch","chunk":0,"index":100}]}

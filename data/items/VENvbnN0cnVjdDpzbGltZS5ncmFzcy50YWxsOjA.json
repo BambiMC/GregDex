@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"slime.grass.tall","metadata":0,"displayName":"Slimy Grass","unlocalizedName":"block.slime.tallgrass","oreDictNames":["cropGrass"],"id":"TConstruct:slime.grass.tall:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":0,"index":418}]}

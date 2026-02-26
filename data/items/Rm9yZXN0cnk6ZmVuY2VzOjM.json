@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":3,"displayName":"Lime Fence","unlocalizedName":"tile.for.fences.3","oreDictNames":["fenceWood"],"id":"Forestry:fences:3","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":275},{"machine":"crafting_table","chunk":111,"index":276},{"machine":"crafting_table","chunk":111,"index":277}],"recipesAsInput":[]}

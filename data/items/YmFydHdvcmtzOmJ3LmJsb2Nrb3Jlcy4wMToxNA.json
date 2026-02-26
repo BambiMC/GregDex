@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":14,"displayName":"Bornite Ore","unlocalizedName":"bw.blockores.01.14","oreDictNames":["oreBornite"],"id":"bartworks:bw.blockores.01:14","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":2,"index":368},{"machine":"gt.recipe.macerator","chunk":4,"index":294}]}

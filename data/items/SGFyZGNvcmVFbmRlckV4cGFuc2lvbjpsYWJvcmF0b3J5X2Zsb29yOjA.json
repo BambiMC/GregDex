@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"laboratory_floor","metadata":0,"displayName":"Laboratory Floor","unlocalizedName":"tile.laboratoryFloor","id":"HardcoreEnderExpansion:laboratory_floor:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":247},{"machine":"gt.recipe.assembler","chunk":26,"index":327}],"recipesAsInput":[]}

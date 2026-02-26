@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"particleBase","metadata":16,"displayName":"W Boson","unlocalizedName":"item.particle.base.W Boson","oreDictNames":["particleWBoson"],"id":"miscutils:particleBase:16","recipesAsOutput":[{"machine":"gtpp.recipe.cyclotron","chunk":0,"index":9},{"machine":"gtpp.recipe.quantumforcesmelter","chunk":0,"index":24}],"recipesAsInput":[]}

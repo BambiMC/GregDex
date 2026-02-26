@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pumpkinyogurtItem","metadata":32767,"displayName":"Pumpkin Yogurt","unlocalizedName":"item.pumpkinyogurtItem","id":"harvestcraft:pumpkinyogurtItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":486}]}

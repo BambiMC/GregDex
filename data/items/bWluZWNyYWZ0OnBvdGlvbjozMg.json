@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":32,"displayName":"Thick Potion","unlocalizedName":"item.potion","id":"minecraft:potion:32","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":237}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":238}]}

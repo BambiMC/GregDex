@@ -1,0 +1,1 @@
+{"modId":"GoodGenerator","itemName":"quartzWafer","metadata":0,"displayName":"Quartz Wafer","unlocalizedName":"item.quartzWafer","id":"GoodGenerator:quartzWafer:0","recipesAsOutput":[{"machine":"gt.recipe.autoclave","chunk":0,"index":94},{"machine":"gt.recipe.autoclave","chunk":0,"index":95}],"recipesAsInput":[{"machine":"gg.recipe.precise_assembler","chunk":0,"index":1}]}

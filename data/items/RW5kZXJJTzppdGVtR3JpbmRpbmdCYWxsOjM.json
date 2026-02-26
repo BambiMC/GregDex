@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBall","metadata":3,"displayName":"Redstone Alloy Ball","unlocalizedName":"enderio.redstoneAlloy_ball","id":"EnderIO:itemGrindingBall:3","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":347},{"machine":"gt.recipe.assembler","chunk":26,"index":138}],"recipesAsInput":[]}

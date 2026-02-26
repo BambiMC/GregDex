@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32575,"displayName":"Medium Neutronium Battery","unlocalizedName":"gt.metaitem.01.32575","oreDictNames":["batteryUEV"],"id":"gregtech:gt.metaitem.01:32575","recipesAsOutput":[{"machine":"gt.recipe.canner","chunk":1,"index":332}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":213}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32315,"displayName":"Mold (Name)","unlocalizedName":"gt.metaitem.01.32315","id":"gregtech:gt.metaitem.01:32315","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":79},{"machine":"gt.recipe.press","chunk":0,"index":18}],"recipesAsInput":[{"machine":"gt.recipe.press","chunk":0,"index":18}]}

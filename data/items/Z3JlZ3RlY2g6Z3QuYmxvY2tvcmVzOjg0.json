@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":84,"displayName":"Iridium Ore","unlocalizedName":"gt.blockores.84","oreDictNames":["oreIridium"],"id":"gregtech:gt.blockores:84","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":11,"index":173},{"machine":"gt.recipe.hammer","chunk":8,"index":67},{"machine":"gt.recipe.macerator","chunk":9,"index":275}]}

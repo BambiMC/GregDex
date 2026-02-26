@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"food","metadata":5,"displayName":"Veggie Salad","unlocalizedName":"item.food.saladveggie","oreDictNames":["foodVeggiesalad"],"id":"BiomesOPlenty:food:5","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":320}],"recipesAsInput":[]}

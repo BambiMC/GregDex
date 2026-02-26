@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPurifiedCrushedOre","metadata":2,"displayName":"Purified Crushed Gold Ore","unlocalizedName":"ic2.itemPurifiedCrushedGoldOre","oreDictNames":["crushedPurifiedGold"],"id":"IC2:itemPurifiedCrushedOre:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":85,"index":370},{"machine":"furnace","chunk":13,"index":137}]}

@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"saplings","metadata":12,"displayName":"White Cherry Sapling","unlocalizedName":"tile.saplings.whitecherrySapling","oreDictNames":["treeSapling"],"id":"BiomesOPlenty:saplings:12","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":65}],"recipesAsInput":[]}

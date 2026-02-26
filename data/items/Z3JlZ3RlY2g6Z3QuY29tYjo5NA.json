@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":94,"displayName":"Ledox Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:94","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":241},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":146}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"beefjerkyItem","metadata":32767,"displayName":"Beef Jerky","unlocalizedName":"item.beefjerkyItem","id":"harvestcraft:beefjerkyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":71}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"octopusrawItem","metadata":32767,"displayName":"Raw Octopus","unlocalizedName":"item.octopusrawItem","id":"harvestcraft:octopusrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":455},{"machine":"gt.recipe.canner","chunk":1,"index":169}]}

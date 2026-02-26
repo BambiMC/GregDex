@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"energyTurretBlock","metadata":0,"displayName":"Energy Turret","unlocalizedName":"tile.energyTurret","id":"opensecurity:energyTurretBlock:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":45}],"recipesAsInput":[]}

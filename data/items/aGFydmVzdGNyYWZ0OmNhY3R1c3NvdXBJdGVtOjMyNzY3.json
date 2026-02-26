@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cactussoupItem","metadata":32767,"displayName":"Cactus Soup","unlocalizedName":"item.cactussoupItem","id":"harvestcraft:cactussoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":465}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"toastedcoconutItem","metadata":32767,"displayName":"Toasted Coconut","unlocalizedName":"item.toastedcoconutItem","id":"harvestcraft:toastedcoconutItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":238}]}

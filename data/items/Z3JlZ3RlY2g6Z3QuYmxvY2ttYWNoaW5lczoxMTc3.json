@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":1177,"displayName":"Ore Drilling Plant II","unlocalizedName":"gt.blockmachines.multimachine.oredrill2","id":"gregtech:gt.blockmachines:1177","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":232}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":233}]}

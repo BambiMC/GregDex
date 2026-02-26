@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerBucket","metadata":129,"displayName":"Resin Bucket","unlocalizedName":"item.containerBucket","id":"BinnieCore:containerBucket:129","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":16}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":17}]}

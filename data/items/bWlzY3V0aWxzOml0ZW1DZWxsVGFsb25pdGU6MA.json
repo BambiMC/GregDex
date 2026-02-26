@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellTalonite","metadata":0,"displayName":"Talonite Cell","unlocalizedName":"item.itemCellTalonite","oreDictNames":["cellTalonite"],"id":"miscutils:itemCellTalonite:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":218}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":219}]}

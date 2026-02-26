@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":308,"displayName":"Molten Red Alloy Cell","unlocalizedName":"gt.metaitem.99.308","oreDictNames":["cellMoltenRedAlloy"],"id":"gregtech:gt.metaitem.99:308","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":309}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":310}]}

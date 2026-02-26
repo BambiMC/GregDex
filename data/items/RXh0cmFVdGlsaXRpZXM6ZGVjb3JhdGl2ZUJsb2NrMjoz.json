@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"decorativeBlock2","metadata":3,"displayName":"Carved Glass","unlocalizedName":"tile.extrautils:decorativeBlock2.3","oreDictNames":["blockGlass"],"id":"ExtraUtilities:decorativeBlock2:3","recipesAsOutput":[{"machine":"gt.recipe.alloysmelter","chunk":1,"index":140}],"recipesAsInput":[]}

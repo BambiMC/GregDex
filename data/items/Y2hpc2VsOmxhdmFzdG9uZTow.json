@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"lavastone","metadata":0,"displayName":"Lavastone","unlocalizedName":"tile.chisel.lavastone","oreDictNames":["lavastone"],"id":"chisel:lavastone:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":387},{"machine":"gt.recipe.assembler","chunk":2,"index":182}],"recipesAsInput":[]}

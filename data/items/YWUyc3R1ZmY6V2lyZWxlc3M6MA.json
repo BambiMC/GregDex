@@ -1,0 +1,1 @@
+{"modId":"ae2stuff","itemName":"Wireless","metadata":0,"displayName":"Wireless Connector","unlocalizedName":"tile.ae2stuff.Wireless","id":"ae2stuff:Wireless:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":235},{"machine":"gt.recipe.assembler","chunk":0,"index":449}],"recipesAsInput":[]}

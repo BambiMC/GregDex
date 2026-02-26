@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":7,"displayName":"Molten Bronze Bucket","unlocalizedName":"item.tconstruct.bucket.Bronze","id":"TConstruct:buckets:7","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":292}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":293}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNaturaSaplingTiger","metadata":0,"displayName":"Crated Tigerwood Sapling","unlocalizedName":"item.cratedNaturaSaplingTiger","id":"Forestry:cratedNaturaSaplingTiger:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":195}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":128}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"fairybreadItem","metadata":0,"displayName":"Fairy Bread","unlocalizedName":"item.fairybreadItem","oreDictNames":["foodFairybread"],"id":"harvestcraft:fairybreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":403}],"recipesAsInput":[]}

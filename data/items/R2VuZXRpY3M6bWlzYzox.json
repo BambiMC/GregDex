@@ -1,0 +1,1 @@
+{"modId":"Genetics","itemName":"misc","metadata":1,"displayName":"DNA Dye","unlocalizedName":"item.misc","id":"Genetics:misc:1","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":1,"index":361},{"machine":"gtpp.recipe.multimixer","chunk":0,"index":247}],"recipesAsInput":[]}

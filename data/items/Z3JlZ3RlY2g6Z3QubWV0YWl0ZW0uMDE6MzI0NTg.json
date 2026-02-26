@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32458,"displayName":"Spray Can (Orange)","unlocalizedName":"gt.metaitem.01.32458","id":"gregtech:gt.metaitem.01:32458","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":427}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":428}]}

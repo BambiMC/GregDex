@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32129,"displayName":"Idun's Apple Juice","unlocalizedName":"gt.metaitem.02.32129","id":"gregtech:gt.metaitem.02:32129","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":74}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":75}]}

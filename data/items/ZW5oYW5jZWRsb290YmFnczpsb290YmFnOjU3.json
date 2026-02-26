@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":57,"displayName":"LootBag (HEE-Basic)","unlocalizedName":"item.null","nbt":"{ench:[0:{lvl:3s,id:35s}],RepairCost:2}","id":"enhancedlootbags:lootbag:57","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":460}],"recipesAsInput":[]}

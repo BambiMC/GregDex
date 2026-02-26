@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":11299,"displayName":"Stone Universal Spade Head","unlocalizedName":"gt.metaitem.02.11299","oreDictNames":["toolHeadUniversalSpadeStone"],"id":"gregtech:gt.metaitem.02:11299","recipesAsOutput":[{"machine":"crafting_table","chunk":90,"index":334}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":16,"index":344}]}

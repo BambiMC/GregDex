@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellBabbitAlloy","metadata":0,"displayName":"Babbit Alloy Cell","unlocalizedName":"item.itemCellBabbitAlloy","oreDictNames":["cellBabbitAlloy"],"id":"miscutils:itemCellBabbitAlloy:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":400}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":401}]}

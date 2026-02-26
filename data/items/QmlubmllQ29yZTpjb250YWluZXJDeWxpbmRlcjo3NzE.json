@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerCylinder","metadata":771,"displayName":"Raw DNA Cylinder","unlocalizedName":"item.containerCylinder","id":"BinnieCore:containerCylinder:771","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":374}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":375}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"ricecakeItem","metadata":0,"displayName":"Rice Cake","unlocalizedName":"item.ricecakeItem","oreDictNames":["foodRicecake"],"id":"harvestcraft:ricecakeItem:0","recipesAsOutput":[{"machine":"furnace","chunk":10,"index":272}],"recipesAsInput":[]}

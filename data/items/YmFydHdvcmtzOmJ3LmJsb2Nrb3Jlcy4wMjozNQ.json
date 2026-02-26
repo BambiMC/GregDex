@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":35,"displayName":"Small Prasiolite Ore","unlocalizedName":"bw.blockores.02.35","oreDictNames":["oreSmallPrasiolite"],"id":"bartworks:bw.blockores.02:35","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":40},{"machine":"gt.recipe.macerator","chunk":9,"index":252}]}

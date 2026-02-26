@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"canSeedOil","metadata":0,"displayName":"Seed Oil Can","unlocalizedName":"item.for.canSeedOil","id":"Forestry:canSeedOil:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":92}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":93}]}

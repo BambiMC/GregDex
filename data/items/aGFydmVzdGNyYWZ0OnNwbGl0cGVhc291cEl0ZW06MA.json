@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"splitpeasoupItem","metadata":0,"displayName":"Split Pea Soup","unlocalizedName":"item.splitpeasoupItem","oreDictNames":["foodSplitpeasoup"],"id":"harvestcraft:splitpeasoupItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":366}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"loadedbakedpotatoItem","metadata":0,"displayName":"Loaded Baked Potato","unlocalizedName":"item.loadedbakedpotatoItem","oreDictNames":["foodLoadedbakedpotato"],"id":"harvestcraft:loadedbakedpotatoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":115}],"recipesAsInput":[]}

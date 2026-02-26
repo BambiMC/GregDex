@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerGlass","metadata":65,"displayName":"Poison Glass","unlocalizedName":"item.containerGlass","id":"BinnieCore:containerGlass:65","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":139}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":140}]}

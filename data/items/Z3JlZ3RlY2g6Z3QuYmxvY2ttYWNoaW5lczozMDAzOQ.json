@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":30039,"displayName":"Super Bus (O) (UV)","unlocalizedName":"gt.blockmachines.hatch.superbus.output.tier.08","id":"gregtech:gt.blockmachines:30039","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":240}],"recipesAsInput":[]}

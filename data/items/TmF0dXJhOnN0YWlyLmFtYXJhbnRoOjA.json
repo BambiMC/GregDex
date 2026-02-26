@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.amaranth","metadata":0,"displayName":"Amaranth Stairs","unlocalizedName":"tile.stair.amaranth","oreDictNames":["stairWood"],"id":"Natura:stair.amaranth:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":36},{"machine":"crafting_table","chunk":114,"index":236}],"recipesAsInput":[]}

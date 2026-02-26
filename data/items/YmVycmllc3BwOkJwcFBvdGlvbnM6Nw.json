@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":7,"displayName":"Bottled Generic High Proof","unlocalizedName":"potion.GHP.bottled","id":"berriespp:BppPotions:7","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":28}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":27}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemGrindingBallEndergy","metadata":4,"displayName":"Crystalline Pink Slime Grinding Ball","unlocalizedName":"enderio.crystallinePinkSlimeGrindingBall","id":"EnderIO:itemGrindingBallEndergy:4","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":357},{"machine":"gt.recipe.assembler","chunk":26,"index":148}],"recipesAsInput":[]}

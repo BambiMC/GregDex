@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32136,"displayName":"Milk","unlocalizedName":"gt.metaitem.02.32136","oreDictNames":["bottleMilk"],"id":"gregtech:gt.metaitem.02:32136","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":76}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":77}]}

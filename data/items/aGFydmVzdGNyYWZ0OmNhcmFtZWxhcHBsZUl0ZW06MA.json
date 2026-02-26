@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"caramelappleItem","metadata":0,"displayName":"Caramel Apple","unlocalizedName":"item.caramelappleItem","oreDictNames":["foodCaramelapple"],"id":"harvestcraft:caramelappleItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":113}],"recipesAsInput":[]}

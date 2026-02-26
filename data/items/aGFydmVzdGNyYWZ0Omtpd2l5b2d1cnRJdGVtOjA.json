@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"kiwiyogurtItem","metadata":0,"displayName":"Kiwi Yogurt","unlocalizedName":"item.kiwiyogurtItem","oreDictNames":["foodKiwiyogurt"],"id":"harvestcraft:kiwiyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":364}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"melonyogurtItem","metadata":0,"displayName":"Melon Yogurt","unlocalizedName":"item.melonyogurtItem","oreDictNames":["foodMelonyogurt"],"id":"harvestcraft:melonyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":362}],"recipesAsInput":[]}

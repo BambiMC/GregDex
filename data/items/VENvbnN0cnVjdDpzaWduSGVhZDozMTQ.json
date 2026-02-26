@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"signHead","metadata":314,"displayName":"Unstable Induced Sign Head","unlocalizedName":"toolpart.SignHead.unstableIngot","id":"TConstruct:signHead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":326},{"machine":"gt.recipe.extruder","chunk":28,"index":327}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"tile.baseBlockRock","metadata":0,"displayName":"Basalt Cobblestone","unlocalizedName":"tile.basaltcobble","id":"GalacticraftAmunRa:tile.baseBlockRock:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":214},{"machine":"gt.recipe.assembler","chunk":25,"index":405}]}

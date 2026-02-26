@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coffeeItem","metadata":0,"displayName":"Cup of Coffee","unlocalizedName":"item.coffeeItem","oreDictNames":["foodCoffee"],"id":"harvestcraft:coffeeItem:0","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":321}],"recipesAsInput":[]}

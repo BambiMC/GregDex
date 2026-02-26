@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"item.ToolPortableCell","metadata":0,"displayName":"Portable Cell","unlocalizedName":"item.appliedenergistics2.ToolPortableCell","id":"appliedenergistics2:item.ToolPortableCell:0","recipesAsOutput":[{"machine":"crafting_table","chunk":106,"index":10},{"machine":"gt.recipe.assembler","chunk":25,"index":481}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32008,"displayName":"Sweet Tea","unlocalizedName":"gt.metaitem.02.32008","id":"gregtech:gt.metaitem.02:32008","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":150}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":151}]}

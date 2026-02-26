@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"bucketLiquid_sunshine","metadata":0,"displayName":"Liquid Sunshine Bucket","unlocalizedName":"item.bucketLiquid_sunshine","id":"EnderIO:bucketLiquid_sunshine:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":100}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":101}]}

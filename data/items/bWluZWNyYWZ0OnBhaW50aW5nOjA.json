@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"painting","metadata":0,"displayName":"Painting","unlocalizedName":"item.painting","id":"minecraft:painting:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":64}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":162}]}

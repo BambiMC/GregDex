@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"greenheartfishItem","metadata":32767,"displayName":"Green Heart Fish","unlocalizedName":"item.greenheartfishItem","id":"harvestcraft:greenheartfishItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":241}]}

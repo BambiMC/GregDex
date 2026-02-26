@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":306,"displayName":"Molten Stainless Steel Cell","unlocalizedName":"gt.metaitem.99.306","oreDictNames":["cellMoltenStainlessSteel"],"id":"gregtech:gt.metaitem.99:306","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":299}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":300}]}

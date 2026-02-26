@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":18,"displayName":"Unicorn Horn","unlocalizedName":"item.cosmetic18","id":"Botania:cosmetic:18","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":241},{"machine":"gt.recipe.assembler","chunk":0,"index":273}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":108}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":48,"displayName":"Molten Molybdenum Cell","unlocalizedName":"gt.metaitem.99.48","oreDictNames":["cellMoltenMolybdenum"],"id":"gregtech:gt.metaitem.99:48","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":289}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":290}]}

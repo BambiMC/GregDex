@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":23,"displayName":"LootBag (Space Invaders Mars)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:23","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":426},{"machine":"gt.recipe.assembler","chunk":2,"index":248}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":249}]}

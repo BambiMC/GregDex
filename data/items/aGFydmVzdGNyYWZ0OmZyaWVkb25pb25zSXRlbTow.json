@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"friedonionsItem","metadata":0,"displayName":"Fried Onions","unlocalizedName":"item.friedonionsItem","oreDictNames":["foodFriedonions"],"id":"harvestcraft:friedonionsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":247}],"recipesAsInput":[{"machine":"crafting_table","chunk":95,"index":248}]}

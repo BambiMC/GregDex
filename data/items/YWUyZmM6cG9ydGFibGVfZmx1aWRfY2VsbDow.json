@@ -1,0 +1,1 @@
+{"modId":"ae2fc","itemName":"portable_fluid_cell","metadata":0,"displayName":"Portable Fluid Cell","unlocalizedName":"item.portable_fluid_cell","id":"ae2fc:portable_fluid_cell:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":226},{"machine":"gt.recipe.assembler","chunk":25,"index":394}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"StevesCarts","itemName":"ModuleComponents","metadata":20,"displayName":"Hardened Mesh","unlocalizedName":"item.SC2:hardened_mesh","id":"StevesCarts:ModuleComponents:20","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":416}],"recipesAsInput":[{"machine":"crafting_table","chunk":19,"index":218}]}

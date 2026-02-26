@@ -1,0 +1,1 @@
+{"modId":"StevesFactoryManager","itemName":"BlockCableBreakerName","metadata":0,"displayName":"Block Gate","unlocalizedName":"tile.sfm.BlockCableBreaker","id":"StevesFactoryManager:BlockCableBreakerName:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":29,"index":1}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":29,"index":2}]}

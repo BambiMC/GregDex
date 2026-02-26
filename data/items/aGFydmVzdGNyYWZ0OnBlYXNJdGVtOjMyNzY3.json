@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"peasItem","metadata":32767,"displayName":"Peas","unlocalizedName":"item.peasItem","id":"harvestcraft:peasItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":186}]}

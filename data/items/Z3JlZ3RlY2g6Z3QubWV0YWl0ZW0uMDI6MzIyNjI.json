@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32262,"displayName":"Mince Meat Pizza","unlocalizedName":"gt.metaitem.02.32262","id":"gregtech:gt.metaitem.02:32262","recipesAsOutput":[{"machine":"furnace","chunk":7,"index":399}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":36}]}

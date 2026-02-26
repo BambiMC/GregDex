@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"knifeBlade","metadata":314,"displayName":"Unstable Induced Knife Blade","unlocalizedName":"toolpart.KnifeBlade.unstableIngot","id":"TConstruct:knifeBlade:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":342},{"machine":"gt.recipe.extruder","chunk":28,"index":343}],"recipesAsInput":[]}

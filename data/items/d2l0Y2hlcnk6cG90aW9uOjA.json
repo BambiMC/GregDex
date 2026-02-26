@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"potion","metadata":0,"displayName":"Universal Antidote","unlocalizedName":"item.witchery:potion.antidote","id":"witchery:potion:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":37}],"recipesAsInput":[{"machine":"gtpp.recipe.multimixer","chunk":0,"index":1}]}

@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"noteblock","metadata":0,"displayName":"Note Block","unlocalizedName":"tile.musicBlock","id":"minecraft:noteblock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":238}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":1,"index":39},{"machine":"thaumcraft_infusion_altar","chunk":3,"index":90}]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":0,"displayName":"Steam Cell","unlocalizedName":"gt.metaitem.98.0","oreDictNames":["cellMoltenWater"],"id":"gregtech:gt.metaitem.98:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":371}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":372}]}

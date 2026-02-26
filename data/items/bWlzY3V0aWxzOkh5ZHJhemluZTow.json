@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"Hydrazine","metadata":0,"displayName":"Hydrazine Cell","unlocalizedName":"item.Hydrazine","oreDictNames":["cellHydrazine"],"id":"miscutils:Hydrazine:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":96}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":97}]}

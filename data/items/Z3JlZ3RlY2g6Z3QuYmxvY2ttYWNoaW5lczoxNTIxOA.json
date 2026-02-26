@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":15218,"displayName":"UXV 16A Dynamo Hatch","unlocalizedName":"gt.blockmachines.hatch.dynamomulti16.tier.13","id":"gregtech:gt.blockmachines:15218","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":5,"index":8}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":5,"index":18}]}

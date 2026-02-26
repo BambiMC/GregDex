@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":13,"displayName":"Conductive Iron Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combMV","beeComb"],"id":"gregtech:gt.comb:13","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":81},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":411}]}

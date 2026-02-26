@@ -1,0 +1,1 @@
+{"modId":"HardcoreEnderExpansion","itemName":"laboratory_glass","metadata":0,"displayName":"Laboratory Glass","unlocalizedName":"tile.laboratoryGlass","id":"HardcoreEnderExpansion:laboratory_glass:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":395},{"machine":"gt.recipe.assembler","chunk":26,"index":329}],"recipesAsInput":[]}

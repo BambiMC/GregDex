@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"marzipanItem","metadata":0,"displayName":"Marzipan","unlocalizedName":"item.marzipanItem","oreDictNames":["foodMarzipan"],"id":"harvestcraft:marzipanItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":266},{"machine":"crafting_table","chunk":95,"index":267}],"recipesAsInput":[]}

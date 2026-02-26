@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.StargateFramePart","metadata":0,"displayName":"Stargate Frame Part","unlocalizedName":"item.StargateFramePart","id":"dreamcraft:item.StargateFramePart:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":272},{"machine":"gt.recipe.researchstation","chunk":0,"index":228}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"brownieItem","metadata":0,"displayName":"Brownie","unlocalizedName":"item.brownieItem","oreDictNames":["foodBrownie"],"id":"harvestcraft:brownieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":166}],"recipesAsInput":[]}

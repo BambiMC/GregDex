@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coleslawburgerItem","metadata":32767,"displayName":"Coleslaw Burger","unlocalizedName":"item.coleslawburgerItem","id":"harvestcraft:coleslawburgerItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":216}]}

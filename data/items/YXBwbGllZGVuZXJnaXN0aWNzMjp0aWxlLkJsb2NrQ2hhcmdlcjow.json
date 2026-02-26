@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockCharger","metadata":0,"displayName":"Charger","unlocalizedName":"tile.appliedenergistics2.BlockCharger","id":"appliedenergistics2:tile.BlockCharger:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":397}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":4,"index":25}]}

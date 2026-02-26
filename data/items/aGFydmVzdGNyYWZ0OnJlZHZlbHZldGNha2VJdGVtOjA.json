@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"redvelvetcakeItem","metadata":0,"displayName":"Red Velvet Cake","unlocalizedName":"item.redvelvetcakeItem","oreDictNames":["foodRedvelvetcake"],"id":"harvestcraft:redvelvetcakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":167}],"recipesAsInput":[]}

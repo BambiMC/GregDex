@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Transport","itemName":"item.buildcraftPipe.pipeitemsiron","metadata":0,"displayName":"Iron-Covered Pipe","unlocalizedName":"item.PipeItemsIron","id":"BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":50}],"recipesAsInput":[]}

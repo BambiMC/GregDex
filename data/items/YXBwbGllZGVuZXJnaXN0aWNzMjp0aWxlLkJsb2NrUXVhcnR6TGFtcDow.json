@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockQuartzLamp","metadata":0,"displayName":"Vibrant Quartz Glass","unlocalizedName":"tile.appliedenergistics2.BlockQuartzLamp","id":"appliedenergistics2:tile.BlockQuartzLamp:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":25,"index":445},{"machine":"gt.recipe.assembler","chunk":25,"index":446}],"recipesAsInput":[]}

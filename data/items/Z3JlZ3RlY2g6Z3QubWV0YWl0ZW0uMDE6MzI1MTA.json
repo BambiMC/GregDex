@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32510,"displayName":"Small Acid Battery","unlocalizedName":"gt.metaitem.01.32510","oreDictNames":["batteryLV"],"id":"gregtech:gt.metaitem.01:32510","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":39}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":192}]}

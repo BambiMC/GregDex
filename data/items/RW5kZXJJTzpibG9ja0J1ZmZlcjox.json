@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockBuffer","metadata":1,"displayName":"Power Buffer","unlocalizedName":"tile.blockBuffer.power","id":"EnderIO:blockBuffer:1","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":342}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":132}]}

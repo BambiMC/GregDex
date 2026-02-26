@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonaideItem","metadata":32767,"displayName":"Lemonade","unlocalizedName":"item.lemonaideItem","id":"harvestcraft:lemonaideItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":352}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreDemicheleiteBr","metadata":0,"displayName":"Demicheleite (Br) Ore","unlocalizedName":"tile.OreDemicheleiteBr","oreDictNames":["oreDemicheleiteBr"],"id":"miscutils:oreDemicheleiteBr:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":273},{"machine":"gt.recipe.macerator","chunk":1,"index":39}]}

@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"lightRelay","metadata":0,"displayName":"Luminizer","unlocalizedName":"tile.lightRelay0","id":"Botania:lightRelay:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":496}],"recipesAsInput":[{"machine":"crafting_table","chunk":65,"index":285},{"machine":"crafting_table","chunk":96,"index":447}]}

@@ -1,0 +1,1 @@
+{"modId":"ThaumicTinkerer","itemName":"dislocator","metadata":0,"displayName":"Transvector Dislocator","unlocalizedName":"tile.dislocator","id":"ThaumicTinkerer:dislocator:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":4,"index":108}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":486}]}

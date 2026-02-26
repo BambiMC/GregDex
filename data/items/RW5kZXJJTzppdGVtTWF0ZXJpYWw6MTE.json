@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMaterial","metadata":11,"displayName":"End Steel Nugget","unlocalizedName":"enderio.endSteelNugget","oreDictNames":["itemEndSteelNugget","nuggetEndSteel"],"id":"EnderIO:itemMaterial:11","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":73,"index":389},{"machine":"crafting_table","chunk":73,"index":389}]}

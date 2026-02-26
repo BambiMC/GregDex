@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"beansontoastItem","metadata":0,"displayName":"Beans on Toast","unlocalizedName":"item.beansontoastItem","oreDictNames":["foodBeansontoast"],"id":"harvestcraft:beansontoastItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":455}],"recipesAsInput":[]}

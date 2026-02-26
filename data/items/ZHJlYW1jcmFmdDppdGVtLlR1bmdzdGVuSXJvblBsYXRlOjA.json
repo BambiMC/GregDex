@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.TungstenIronPlate","metadata":0,"displayName":"Tungsten-Iron Plate","unlocalizedName":"item.TungstenIronPlate","id":"dreamcraft:item.TungstenIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":314}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":144}]}

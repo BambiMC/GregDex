@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":148,"displayName":"Infused Ordo Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:148","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":1,"index":82},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":178}]}

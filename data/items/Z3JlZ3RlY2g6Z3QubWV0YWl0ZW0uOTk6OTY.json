@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":96,"displayName":"Molten Thorium Cell","unlocalizedName":"gt.metaitem.99.96","oreDictNames":["cellMoltenThorium"],"id":"gregtech:gt.metaitem.99:96","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":186}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":187}]}

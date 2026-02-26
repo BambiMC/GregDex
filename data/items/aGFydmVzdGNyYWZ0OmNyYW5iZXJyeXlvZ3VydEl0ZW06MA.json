@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cranberryyogurtItem","metadata":0,"displayName":"Cranberry Yogurt","unlocalizedName":"item.cranberryyogurtItem","oreDictNames":["foodCranberryyogurt"],"id":"harvestcraft:cranberryyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":408}],"recipesAsInput":[]}

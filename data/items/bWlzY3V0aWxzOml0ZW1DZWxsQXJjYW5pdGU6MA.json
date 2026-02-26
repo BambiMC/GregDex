@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellArcanite","metadata":0,"displayName":"Arcanite Cell","unlocalizedName":"item.itemCellArcanite","oreDictNames":["cellArcanite"],"id":"miscutils:itemCellArcanite:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":35}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":36}]}

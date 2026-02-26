@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":373,"displayName":"Molten HSS-E Cell","unlocalizedName":"gt.metaitem.99.373","oreDictNames":["cellMoltenHSSE"],"id":"gregtech:gt.metaitem.99:373","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":171}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":172}]}

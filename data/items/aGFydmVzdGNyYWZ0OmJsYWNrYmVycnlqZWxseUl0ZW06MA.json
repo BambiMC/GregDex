@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"blackberryjellyItem","metadata":0,"displayName":"Blackberry Jelly","unlocalizedName":"item.blackberryjellyItem","oreDictNames":["foodBlackberryjelly"],"id":"harvestcraft:blackberryjellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":202}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":416}]}

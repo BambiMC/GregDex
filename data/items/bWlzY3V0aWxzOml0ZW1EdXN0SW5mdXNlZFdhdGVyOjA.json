@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemDustInfusedWater","metadata":0,"displayName":"Infused Water Dust","unlocalizedName":"item.itemDustInfusedWater","oreDictNames":["dustInfusedWater"],"id":"miscutils:itemDustInfusedWater:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":24,"index":91},{"machine":"crafting_table","chunk":24,"index":93}]}

@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockLightDetector","metadata":0,"displayName":"Light Detecting Fixture","unlocalizedName":"tile.appliedenergistics2.BlockLightDetector","id":"appliedenergistics2:tile.BlockLightDetector:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":25,"index":456}],"recipesAsInput":[]}

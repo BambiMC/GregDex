@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"gtpp.propolis","metadata":0,"displayName":"Dragonblood Propolis","unlocalizedName":"item.gtpp.propolis","id":"miscutils:gtpp.propolis:0","recipesAsOutput":[{"machine":"gtpp.recipe.fluidchemicaleactor","chunk":0,"index":1}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":173}]}

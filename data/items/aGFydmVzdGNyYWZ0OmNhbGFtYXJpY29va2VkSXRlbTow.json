@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"calamaricookedItem","metadata":0,"displayName":"Cooked Calamari","unlocalizedName":"item.calamaricookedItem","oreDictNames":["listAllfishcooked","foodCalamaricooked"],"id":"harvestcraft:calamaricookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":10,"index":273}],"recipesAsInput":[]}

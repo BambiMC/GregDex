@@ -1,0 +1,1 @@
+{"modId":"ExtraUtilities","itemName":"trashcan","metadata":2,"displayName":"Trash Can (Energy)","unlocalizedName":"tile.extrautils:trashcan.2","id":"ExtraUtilities:trashcan:2","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":250}],"recipesAsInput":[]}

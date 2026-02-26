@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"caramelicecreamItem","metadata":0,"displayName":"Caramel Ice Cream","unlocalizedName":"item.caramelicecreamItem","oreDictNames":["foodCaramelicecream"],"id":"harvestcraft:caramelicecreamItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":217}],"recipesAsInput":[]}

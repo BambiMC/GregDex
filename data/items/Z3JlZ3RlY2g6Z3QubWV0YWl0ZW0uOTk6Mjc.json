@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":27,"displayName":"Molten Scandium Cell","unlocalizedName":"gt.metaitem.99.27","oreDictNames":["cellMoltenScandium"],"id":"gregtech:gt.metaitem.99:27","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":359}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":360}]}

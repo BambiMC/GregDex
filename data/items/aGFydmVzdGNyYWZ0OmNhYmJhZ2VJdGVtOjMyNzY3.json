@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cabbageItem","metadata":32767,"displayName":"Cabbage","unlocalizedName":"item.cabbageItem","id":"harvestcraft:cabbageItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":177}]}

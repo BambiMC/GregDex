@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":31069,"displayName":"Industrial 3D Copying Machine","unlocalizedName":"gt.blockmachines.multimachine.adv.chisel","id":"gregtech:gt.blockmachines:31069","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":256}],"recipesAsInput":[]}

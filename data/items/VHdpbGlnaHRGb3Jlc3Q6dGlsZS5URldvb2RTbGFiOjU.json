@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFWoodSlab","metadata":5,"displayName":"Transwood Slab","unlocalizedName":"tile.TFWoodSlab.5","id":"TwilightForest:tile.TFWoodSlab:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":29,"index":37},{"machine":"gt.recipe.assembler","chunk":29,"index":38}]}

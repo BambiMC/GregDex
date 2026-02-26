@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32530,"displayName":"Large Acid Battery","unlocalizedName":"gt.metaitem.01.32530","oreDictNames":["batteryHV"],"id":"gregtech:gt.metaitem.01:32530","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":41}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":196}]}

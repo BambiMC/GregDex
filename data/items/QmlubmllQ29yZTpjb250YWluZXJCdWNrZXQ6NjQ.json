@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerBucket","metadata":64,"displayName":"Acid Bucket","unlocalizedName":"item.containerBucket","id":"BinnieCore:containerBucket:64","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":114}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":115}]}

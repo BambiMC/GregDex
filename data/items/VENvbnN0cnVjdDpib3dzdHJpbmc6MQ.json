@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"bowstring","metadata":1,"displayName":"Enchanted Bowstring","unlocalizedName":"item.tconstruct.Bowstring.enchantedfabric","id":"TConstruct:bowstring:1","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":11,"index":297}],"recipesAsInput":[]}

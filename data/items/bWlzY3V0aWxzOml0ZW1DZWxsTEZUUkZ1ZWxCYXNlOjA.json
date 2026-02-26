@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellLFTRFuelBase","metadata":0,"displayName":"LFTR Fuel Base Cell","unlocalizedName":"item.itemCellLFTRFuelBase","oreDictNames":["cellLFTRFuelBase"],"id":"miscutils:itemCellLFTRFuelBase:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":456}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":457}]}

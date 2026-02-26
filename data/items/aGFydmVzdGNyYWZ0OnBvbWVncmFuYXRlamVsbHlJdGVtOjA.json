@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pomegranatejellyItem","metadata":0,"displayName":"Pomegranate Jelly","unlocalizedName":"item.pomegranatejellyItem","oreDictNames":["foodPomegranatejelly"],"id":"harvestcraft:pomegranatejellyItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":213}],"recipesAsInput":[{"machine":"crafting_table","chunk":93,"index":427}]}

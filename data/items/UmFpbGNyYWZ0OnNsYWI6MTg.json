@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"slab","metadata":18,"displayName":"Fitted Bleached Bone Stone Slab","unlocalizedName":"tile.railcraft.slab.bleachedbone.fitted","id":"Railcraft:slab:18","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":187}],"recipesAsInput":[{"machine":"crafting_table","chunk":84,"index":469},{"machine":"crafting_table","chunk":84,"index":469}]}

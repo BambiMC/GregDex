@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":2,"displayName":"Red Glasses","unlocalizedName":"item.cosmetic2","id":"Botania:cosmetic:2","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":225},{"machine":"gt.recipe.assembler","chunk":0,"index":257}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":92}]}

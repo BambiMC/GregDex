@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grapefruitjellysandwichItem","metadata":32767,"displayName":"Grapefruit Jelly Sandwich","unlocalizedName":"item.grapefruitjellysandwichItem","id":"harvestcraft:grapefruitjellysandwichItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":99}]}

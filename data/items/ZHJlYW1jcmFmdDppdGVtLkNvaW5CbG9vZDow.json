@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinBlood","metadata":0,"displayName":"Coin \"The Vampire 1\"","unlocalizedName":"item.CoinBlood","id":"dreamcraft:item.CoinBlood:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":323}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":267}]}

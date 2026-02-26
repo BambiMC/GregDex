@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"frypanHead","metadata":314,"displayName":"Unstable Induced Pan","unlocalizedName":"toolpart.FrypanHead.unstableIngot","id":"TConstruct:frypanHead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":310},{"machine":"gt.recipe.extruder","chunk":28,"index":311}],"recipesAsInput":[]}

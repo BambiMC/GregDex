@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"blueberrymuffinItem","metadata":0,"displayName":"Blueberry Muffin","unlocalizedName":"item.blueberrymuffinItem","oreDictNames":["foodBlueberrymuffin"],"id":"harvestcraft:blueberrymuffinItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":373}],"recipesAsInput":[]}

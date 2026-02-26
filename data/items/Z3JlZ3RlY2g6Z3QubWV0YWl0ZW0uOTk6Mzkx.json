@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":391,"displayName":"Molten Quantium Cell","unlocalizedName":"gt.metaitem.99.391","oreDictNames":["cellMoltenQuantium"],"id":"gregtech:gt.metaitem.99:391","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":87}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":88}]}

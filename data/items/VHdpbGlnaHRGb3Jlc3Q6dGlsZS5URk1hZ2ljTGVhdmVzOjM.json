@@ -1,0 +1,1 @@
+{"modId":"TwilightForest","itemName":"tile.TFMagicLeaves","metadata":3,"displayName":"Sorting Leaves","unlocalizedName":"tile.TFMagicLeaves.3","oreDictNames":["treeLeaves"],"id":"TwilightForest:tile.TFMagicLeaves:3","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":19}],"recipesAsInput":[]}

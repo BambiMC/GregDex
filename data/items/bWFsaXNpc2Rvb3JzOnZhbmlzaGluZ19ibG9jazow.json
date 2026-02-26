@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"vanishing_block","metadata":0,"displayName":"Wooden Vanishing Frame","unlocalizedName":"tile.vanishing_block_wood","id":"malisisdoors:vanishing_block:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":136},{"machine":"gt.recipe.assembler","chunk":27,"index":244}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32232,"displayName":"Cheese Sandwich","unlocalizedName":"gt.metaitem.02.32232","id":"gregtech:gt.metaitem.02:32232","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":312},{"machine":"crafting_table","chunk":92,"index":136}],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":23}]}

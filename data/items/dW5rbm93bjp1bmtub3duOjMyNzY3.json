@@ -1,0 +1,1 @@
+{"modId":"unknown","itemName":"unknown","metadata":32767,"displayName":"Wooden Door","unlocalizedName":"item.doorWood","id":"unknown:unknown:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":2,"index":408},{"machine":"gt.recipe.macerator","chunk":14,"index":144}]}

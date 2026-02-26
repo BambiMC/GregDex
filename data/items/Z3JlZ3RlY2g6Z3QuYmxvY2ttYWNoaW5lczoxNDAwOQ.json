@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":14009,"displayName":"Space Mining Module MK-III","unlocalizedName":"gt.blockmachines.projectmoduleminert3","id":"gregtech:gt.blockmachines:14009","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":412},{"machine":"gt.recipe.researchstation","chunk":0,"index":291}],"recipesAsInput":[]}

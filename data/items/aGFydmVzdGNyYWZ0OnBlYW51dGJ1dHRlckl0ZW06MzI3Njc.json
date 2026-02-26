@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"peanutbutterItem","metadata":32767,"displayName":"Peanut Butter","unlocalizedName":"item.peanutbutterItem","id":"harvestcraft:peanutbutterItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":320}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellHS188A","metadata":0,"displayName":"HS188-A Cell","unlocalizedName":"item.itemCellHS188A","oreDictNames":["cellHS188A"],"id":"miscutils:itemCellHS188A:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":453}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":454}]}

@@ -1,0 +1,1 @@
+{"modId":"witchery","itemName":"ingredient","metadata":153,"displayName":"Anointing Paste","unlocalizedName":"item.witchery:ingredient.annointingPaste","id":"witchery:ingredient:153","recipesAsOutput":[{"machine":"gt.recipe.mixer","chunk":2,"index":52},{"machine":"gtpp.recipe.multimixer","chunk":0,"index":438}],"recipesAsInput":[]}

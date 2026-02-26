@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"wooden_shovel","metadata":0,"displayName":"Wooden Shovel","unlocalizedName":"item.shovelWood","id":"minecraft:wooden_shovel:0","recipesAsOutput":[{"machine":"crafting_table","chunk":74,"index":220},{"machine":"gt.recipe.assembler","chunk":8,"index":411}],"recipesAsInput":[]}

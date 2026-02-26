@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockVacuumChest","metadata":0,"displayName":"Vacuum Chest","unlocalizedName":"tile.blockVacuumChest","id":"EnderIO:blockVacuumChest:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":131}],"recipesAsInput":[]}

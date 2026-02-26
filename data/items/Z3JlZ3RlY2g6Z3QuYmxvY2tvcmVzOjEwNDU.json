@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":1045,"displayName":"Yttrium Ore","unlocalizedName":"gt.blockores.1045","oreDictNames":["oreNetherrackYttrium"],"id":"gregtech:gt.blockores:1045","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":6,"index":381},{"machine":"gt.recipe.macerator","chunk":8,"index":154}]}

@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars","metadata":10,"displayName":"Order Infused Double Compressed Solar Panel","unlocalizedName":"tile.EMT.solar.doubleorder","id":"EMT:EMTSolars:10","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":150}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":106}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"persimmonjuiceItem","metadata":32767,"displayName":"Persimmon Juice","unlocalizedName":"item.persimmonjuiceItem","id":"harvestcraft:persimmonjuiceItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":106}]}

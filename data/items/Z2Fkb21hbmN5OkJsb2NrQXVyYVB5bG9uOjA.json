@@ -1,0 +1,1 @@
+{"modId":"gadomancy","itemName":"BlockAuraPylon","metadata":0,"displayName":"Aura Pylon","unlocalizedName":"tile.BlockAuraPylon.0","id":"gadomancy:BlockAuraPylon:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":325}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":326}]}

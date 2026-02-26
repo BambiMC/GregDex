@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedNetherbrick","metadata":0,"displayName":"Crated Nether Brick","unlocalizedName":"item.cratedNetherbrick","id":"Forestry:cratedNetherbrick:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":17}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":347}]}

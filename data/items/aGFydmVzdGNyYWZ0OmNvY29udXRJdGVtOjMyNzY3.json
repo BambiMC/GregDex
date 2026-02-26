@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coconutItem","metadata":32767,"displayName":"Coconut","unlocalizedName":"item.coconutItem","id":"harvestcraft:coconutItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":12,"index":474},{"machine":"gt.recipe.canner","chunk":0,"index":204}]}

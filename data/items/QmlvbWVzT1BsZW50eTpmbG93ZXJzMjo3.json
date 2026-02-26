@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"flowers2","metadata":7,"displayName":"Icy Iris","unlocalizedName":"tile.flowers2.icyiris","oreDictNames":["flowerLightBlue","flowerIcyIris"],"id":"BiomesOPlenty:flowers2:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":114},{"machine":"gt.recipe.extractor","chunk":0,"index":221}]}

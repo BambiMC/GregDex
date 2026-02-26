@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTSolars3","metadata":1,"displayName":"Quadruple Compressed Ordo Solar","unlocalizedName":"tile.EMT.Quadruple_Compressed_Ordo_Solar","id":"EMT:EMTSolars3:1","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":152}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":117}]}

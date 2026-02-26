@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":18,"displayName":"LootBag (BM Master)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:18","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":421},{"machine":"gt.recipe.assembler","chunk":2,"index":245}],"recipesAsInput":[]}

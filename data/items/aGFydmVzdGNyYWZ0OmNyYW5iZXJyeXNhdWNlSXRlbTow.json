@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cranberrysauceItem","metadata":0,"displayName":"Cranberry Sauce","unlocalizedName":"item.cranberrysauceItem","oreDictNames":["foodCranberrysauce"],"id":"harvestcraft:cranberrysauceItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":197}],"recipesAsInput":[]}

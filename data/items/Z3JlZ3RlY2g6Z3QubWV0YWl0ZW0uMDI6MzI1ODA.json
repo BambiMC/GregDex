@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32580,"displayName":"Advanced Redstone Receiver (Internal)","unlocalizedName":"gt.metaitem.02.32580","id":"gregtech:gt.metaitem.02:32580","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":402}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":401}]}

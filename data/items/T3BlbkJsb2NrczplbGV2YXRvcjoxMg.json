@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"elevator","metadata":12,"displayName":"Elevator","unlocalizedName":"tile.openblocks.elevator","id":"OpenBlocks:elevator:12","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":270}],"recipesAsInput":[]}

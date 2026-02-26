@@ -1,0 +1,1 @@
+{"modId":"BinnieCore","itemName":"containerGlass","metadata":66,"displayName":"Nitrogen Glass","unlocalizedName":"item.containerGlass","id":"BinnieCore:containerGlass:66","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":141}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":142}]}

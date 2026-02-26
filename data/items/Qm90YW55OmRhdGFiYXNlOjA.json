@@ -1,0 +1,1 @@
+{"modId":"Botany","itemName":"database","metadata":0,"displayName":"Botanist Database","unlocalizedName":"item.database","id":"Botany:database:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":146},{"machine":"forestry_carpenter","chunk":0,"index":422}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":164}]}

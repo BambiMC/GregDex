@@ -1,0 +1,1 @@
+{"modId":"AdvancedSolarPanel","itemName":"asp_crafting_items","metadata":7,"displayName":"Reinforced Iridium-Iron Plate","unlocalizedName":"itemReinforcedIridiumIronPlate","id":"AdvancedSolarPanel:asp_crafting_items:7","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":3,"index":147}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":117}]}

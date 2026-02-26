@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"nether_wart","metadata":32767,"displayName":"Nether Wart","unlocalizedName":"item.netherStalkSeeds","id":"minecraft:nether_wart:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":1,"index":43},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":384}]}

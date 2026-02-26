@@ -1,0 +1,1 @@
+{"modId":"BuildCraft|Core","itemName":"wrenchItem","metadata":0,"displayName":"Wrench","unlocalizedName":"item.wrenchItem","id":"BuildCraft|Core:wrenchItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":194}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":161},{"machine":"gt.recipe.assembler","chunk":26,"index":48}]}

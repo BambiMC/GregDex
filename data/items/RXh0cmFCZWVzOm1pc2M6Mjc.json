@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"misc","metadata":27,"displayName":"Yellorium Grains","unlocalizedName":"item.misc","id":"ExtraBees:misc:27","recipesAsOutput":[{"machine":"forestry_centrifuge","chunk":0,"index":138},{"machine":"gt.recipe.centrifuge","chunk":2,"index":369},{"machine":"gtpp.recipe.multicentrifuge","chunk":2,"index":120}],"recipesAsInput":[]}

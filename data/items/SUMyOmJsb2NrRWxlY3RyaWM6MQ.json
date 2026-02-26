@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"blockElectric","metadata":1,"displayName":"MFE","unlocalizedName":"ic2.blockMFE","id":"IC2:blockElectric:1","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":391}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":379}]}

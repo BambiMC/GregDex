@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":122,"displayName":"Arcane Shard Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combEV","beeComb"],"id":"gregtech:gt.comb:122","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":120},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":452}]}

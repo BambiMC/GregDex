@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32212,"displayName":"Flowering Upgrade","unlocalizedName":"gt.metaitem.03.32212","oreDictNames":["apiaryUpgrade"],"id":"gregtech:gt.metaitem.03:32212","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":421},{"machine":"crafting_table","chunk":112,"index":367}],"recipesAsInput":[]}

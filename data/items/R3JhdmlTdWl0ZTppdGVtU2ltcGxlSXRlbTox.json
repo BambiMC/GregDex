@@ -1,0 +1,1 @@
+{"modId":"GraviSuite","itemName":"itemSimpleItem","metadata":1,"displayName":"Superconductor","unlocalizedName":"item.itemSuperConductor","oreDictNames":["itemSuperconductor"],"id":"GraviSuite:itemSimpleItem:1","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":98}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":43}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"radishItem","metadata":32767,"displayName":"Radish","unlocalizedName":"item.radishItem","id":"harvestcraft:radishItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":157}]}

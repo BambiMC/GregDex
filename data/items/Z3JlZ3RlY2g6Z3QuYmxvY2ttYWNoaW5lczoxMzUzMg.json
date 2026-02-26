@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":13532,"displayName":"Advanced Assembly Line","unlocalizedName":"gt.blockmachines.ggfab.machine.adv_assline","id":"gregtech:gt.blockmachines:13532","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":423},{"machine":"gt.recipe.scanner","chunk":0,"index":126}],"recipesAsInput":[]}

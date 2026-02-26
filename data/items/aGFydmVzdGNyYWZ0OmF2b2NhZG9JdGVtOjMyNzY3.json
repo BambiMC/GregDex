@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"avocadoItem","metadata":32767,"displayName":"Avocado","unlocalizedName":"item.avocadoItem","id":"harvestcraft:avocadoItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":198}]}

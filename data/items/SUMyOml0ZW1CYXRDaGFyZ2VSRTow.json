@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemBatChargeRE","metadata":0,"displayName":"Charging RE Battery","unlocalizedName":"ic2.itemBatChargeRE","id":"IC2:itemBatChargeRE:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":438},{"machine":"gt.recipe.assembler","chunk":4,"index":222}],"recipesAsInput":[]}

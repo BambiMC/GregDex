@@ -1,0 +1,1 @@
+{"modId":"appliedenergistics2","itemName":"tile.BlockQuantumRing","metadata":0,"displayName":"ME Quantum Ring","unlocalizedName":"tile.appliedenergistics2.BlockQuantumRing","id":"appliedenergistics2:tile.BlockQuantumRing:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":398},{"machine":"gt.recipe.assembler","chunk":0,"index":424}],"recipesAsInput":[]}

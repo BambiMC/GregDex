@@ -1,0 +1,1 @@
+{"modId":"IronChest","itemName":"BlockIronChest","metadata":7,"displayName":"DirtChest 9000!","unlocalizedName":"tile.ironchest:DIRTCHEST9000","oreDictNames":["chestDirt"],"id":"IronChest:BlockIronChest:7","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":1},{"machine":"gt.recipe.assembler","chunk":26,"index":390}],"recipesAsInput":[]}

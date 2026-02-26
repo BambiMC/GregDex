@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCellEmpty","metadata":20,"displayName":"Lithium Hydroxide Cell","unlocalizedName":"ic2.LithiumHydroxide","oreDictNames":["cellLithiumHydroxide"],"id":"IC2:itemCellEmpty:20","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":257}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":258}]}

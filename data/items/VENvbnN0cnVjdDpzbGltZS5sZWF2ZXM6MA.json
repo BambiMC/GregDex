@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"slime.leaves","metadata":0,"displayName":"Slimy Leaves","unlocalizedName":"block.slime.leaves.blue","id":"TConstruct:slime.leaves:0","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":9}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":133},{"machine":"gt.recipe.extruder","chunk":11,"index":294}]}

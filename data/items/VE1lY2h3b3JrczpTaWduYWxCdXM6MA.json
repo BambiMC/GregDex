@@ -1,0 +1,1 @@
+{"modId":"TMechworks","itemName":"SignalBus","metadata":0,"displayName":"Signal Bus","unlocalizedName":"tile.signalbus","id":"TMechworks:SignalBus:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":27,"index":310}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":27,"index":311}]}

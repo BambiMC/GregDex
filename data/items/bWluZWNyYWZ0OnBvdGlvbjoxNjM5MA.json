@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":16390,"displayName":"Splash Potion of Night Vision","unlocalizedName":"item.potion","id":"minecraft:potion:16390","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":271}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":272}]}

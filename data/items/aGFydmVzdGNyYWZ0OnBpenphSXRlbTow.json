@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pizzaItem","metadata":0,"displayName":"Pizza","unlocalizedName":"item.pizzaItem","oreDictNames":["foodPizza"],"id":"harvestcraft:pizzaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":341}],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":408},{"machine":"crafting_table","chunk":92,"index":358}]}

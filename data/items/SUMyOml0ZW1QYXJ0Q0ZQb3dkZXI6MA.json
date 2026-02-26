@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemPartCFPowder","metadata":0,"displayName":"CF Powder","unlocalizedName":"ic2.itemPartCFPowder","id":"IC2:itemPartCFPowder:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":490}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":10,"index":107}]}

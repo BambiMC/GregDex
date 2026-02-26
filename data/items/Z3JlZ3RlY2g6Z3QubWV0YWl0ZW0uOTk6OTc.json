@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":97,"displayName":"Molten Uranium 235 Cell","unlocalizedName":"gt.metaitem.99.97","oreDictNames":["cellMoltenUranium235"],"id":"gregtech:gt.metaitem.99:97","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":172}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":5,"index":173}]}

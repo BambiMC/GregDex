@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"futomakiItem","metadata":0,"displayName":"Futo Maki","unlocalizedName":"item.futomakiItem","oreDictNames":["foodFutomaki"],"id":"harvestcraft:futomakiItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":170}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pavlovaItem","metadata":0,"displayName":"Pavlova","unlocalizedName":"item.pavlovaItem","oreDictNames":["foodPavlova"],"id":"harvestcraft:pavlovaItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":404},{"machine":"crafting_table","chunk":91,"index":405}],"recipesAsInput":[]}

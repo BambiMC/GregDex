@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"rack","metadata":0,"displayName":"Rack","unlocalizedName":"tile.oc.rack","oreDictNames":["oc:rack","oc:serverRack"],"id":"OpenComputers:rack:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":495}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":9,"displayName":"Molten Manyullyn Bucket","unlocalizedName":"item.tconstruct.bucket.Manyullyn","id":"TConstruct:buckets:9","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":304}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":305}]}

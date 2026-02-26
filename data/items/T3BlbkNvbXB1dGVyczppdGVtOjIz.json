@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"item","metadata":23,"displayName":"Transistor","unlocalizedName":"item.oc.Transistor","oreDictNames":["oc:materialTransistor"],"id":"OpenComputers:item:23","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":403}],"recipesAsInput":[]}

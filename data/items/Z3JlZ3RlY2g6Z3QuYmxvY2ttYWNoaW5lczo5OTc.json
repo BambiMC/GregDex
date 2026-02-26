@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":997,"displayName":"Algae Farm","unlocalizedName":"gt.blockmachines.algaefarm.controller.tier.single","id":"gregtech:gt.blockmachines:997","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":242}],"recipesAsInput":[]}

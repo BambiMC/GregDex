@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedRubber","metadata":0,"displayName":"Crated Rubber","unlocalizedName":"item.cratedRubber","id":"Forestry:cratedRubber:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":240}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":110}]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":5,"displayName":"Molten Cobalt Bucket","unlocalizedName":"item.tconstruct.bucket.Cobalt","id":"TConstruct:buckets:5","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":286}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":287}]}

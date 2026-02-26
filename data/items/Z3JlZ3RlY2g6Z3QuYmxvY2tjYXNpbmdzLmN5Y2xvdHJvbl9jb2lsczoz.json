@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings.cyclotron_coils","metadata":3,"displayName":"IV Solenoid Superconductor Coil","unlocalizedName":"gt.blockcasings.cyclotron_coils.3","id":"gregtech:gt.blockcasings.cyclotron_coils:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":424}],"recipesAsInput":[{"machine":"gt.recipe.scanner","chunk":0,"index":29}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zucchinifriesItem","metadata":0,"displayName":"Zucchini Fries","unlocalizedName":"item.zucchinifriesItem","oreDictNames":["foodZucchinifries"],"id":"harvestcraft:zucchinifriesItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":383}],"recipesAsInput":[{"machine":"crafting_table","chunk":95,"index":158}]}

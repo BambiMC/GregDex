@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"figyogurtItem","metadata":0,"displayName":"Fig Yogurt","unlocalizedName":"item.figyogurtItem","oreDictNames":["foodFigyogurt"],"id":"harvestcraft:figyogurtItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":389}],"recipesAsInput":[]}

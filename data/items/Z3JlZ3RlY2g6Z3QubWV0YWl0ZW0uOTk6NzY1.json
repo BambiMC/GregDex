@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":765,"displayName":"Molten Kevlar Cell","unlocalizedName":"gt.metaitem.99.765","oreDictNames":["cellMoltenKevlar"],"id":"gregtech:gt.metaitem.99:765","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":181}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":182}]}

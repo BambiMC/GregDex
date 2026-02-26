@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"assembler","metadata":0,"displayName":"Electronics Assembler","unlocalizedName":"tile.oc.assembler","oreDictNames":["oc:assembler"],"id":"OpenComputers:assembler:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":497}],"recipesAsInput":[]}

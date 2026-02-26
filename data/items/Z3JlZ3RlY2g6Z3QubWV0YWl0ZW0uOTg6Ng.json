@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":6,"displayName":"Squid Ink Cell","unlocalizedName":"gt.metaitem.98.6","id":"gregtech:gt.metaitem.98:6","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":367}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":368}]}

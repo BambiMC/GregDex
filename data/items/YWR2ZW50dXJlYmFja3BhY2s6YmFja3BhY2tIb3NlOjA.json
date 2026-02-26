@@ -1,0 +1,1 @@
+{"modId":"adventurebackpack","itemName":"backpackHose","metadata":0,"displayName":"Hose: Useless / No Backpack","unlocalizedName":"item.adventurebackpack:hoseUseless","nbt":"{mode:-1L,amount:0,fluid:\"None\",tank:-1L}","id":"adventurebackpack:backpackHose:0","recipesAsOutput":[{"machine":"crafting_table","chunk":105,"index":99}],"recipesAsInput":[]}

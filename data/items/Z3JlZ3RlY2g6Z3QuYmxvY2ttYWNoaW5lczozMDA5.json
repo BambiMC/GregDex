@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":3009,"displayName":"Heat Sensor Hatch","unlocalizedName":"gt.blockmachines.hatch.heatsensor","id":"gregtech:gt.blockmachines:3009","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":408}],"recipesAsInput":[]}

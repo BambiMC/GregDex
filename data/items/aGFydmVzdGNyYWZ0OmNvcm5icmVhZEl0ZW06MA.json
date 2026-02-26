@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cornbreadItem","metadata":0,"displayName":"Cornbread","unlocalizedName":"item.cornbreadItem","oreDictNames":["foodCornbread"],"id":"harvestcraft:cornbreadItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":351}],"recipesAsInput":[]}

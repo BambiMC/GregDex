@@ -1,0 +1,1 @@
+{"modId":"EnderZoo","itemName":"blockConfusingCharge","metadata":0,"displayName":"Confusing Charge","unlocalizedName":"tile.blockConfusingCharge","id":"EnderZoo:blockConfusingCharge:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":26,"index":211}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":213}]}

@@ -1,0 +1,1 @@
+{"modId":"ExtraBees","itemName":"alveary","metadata":2,"displayName":"Rain Shield","unlocalizedName":"tile.alveary","id":"ExtraBees:alveary:2","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":120},{"machine":"gt.recipe.assembler","chunk":4,"index":321}],"recipesAsInput":[]}

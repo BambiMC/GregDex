@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"floraleavesnocolor","metadata":2,"displayName":"Bloodleaves","unlocalizedName":"block.leaves.blood","oreDictNames":["treeLeaves"],"id":"Natura:floraleavesnocolor:2","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":42}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":141}]}

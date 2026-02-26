@@ -1,0 +1,1 @@
+{"modId":"ProjRed|Exploration","itemName":"projectred.exploration.ore","metadata":2,"displayName":"Peridot Ore","unlocalizedName":"tile.projectred.exploration.ore|2","oreDictNames":["orePeridot"],"id":"ProjRed|Exploration:projectred.exploration.ore:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":0,"index":31}]}

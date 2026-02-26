@@ -1,0 +1,1 @@
+{"modId":"GraviSuite","itemName":"relocator","metadata":26,"displayName":"Relocator","unlocalizedName":"item.relocator","id":"GraviSuite:relocator:26","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":44},{"machine":"gt.recipe.scanner","chunk":0,"index":10}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemCropSeed","metadata":0,"displayName":"Scanned Seeds","unlocalizedName":"ic2.crop.unknown","nbt":"{display:{Name:\"Scanned Seeds\"}}","id":"IC2:itemCropSeed:0","recipesAsOutput":[{"machine":"gt.recipe.scanner","chunk":0,"index":178}],"recipesAsInput":[]}

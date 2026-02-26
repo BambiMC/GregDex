@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"orangejuiceItem","metadata":32767,"displayName":"Orange Juice","unlocalizedName":"item.orangejuiceItem","id":"harvestcraft:orangejuiceItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":438}]}

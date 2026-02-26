@@ -1,0 +1,1 @@
+{"modId":"ThaumicTinkerer","itemName":"gaseousLightItem","metadata":0,"displayName":"Gaseous Illuminae","unlocalizedName":"item.gaseousLightItem","id":"ThaumicTinkerer:gaseousLightItem:0","recipesAsOutput":[{"machine":"thaumcraft_crucible","chunk":3,"index":247}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":4,"index":109}]}

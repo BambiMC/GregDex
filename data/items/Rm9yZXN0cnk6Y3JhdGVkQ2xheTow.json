@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedClay","metadata":0,"displayName":"Crated Clay","unlocalizedName":"item.cratedClay","id":"Forestry:cratedClay:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":137}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":218}]}

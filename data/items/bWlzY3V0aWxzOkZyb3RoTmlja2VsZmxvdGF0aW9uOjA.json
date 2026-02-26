@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"FrothNickelflotation","metadata":0,"displayName":"Nickel Froth Cell","unlocalizedName":"item.FrothNickelflotation","oreDictNames":["cellNickelFroth"],"id":"miscutils:FrothNickelflotation:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":15}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":16}]}

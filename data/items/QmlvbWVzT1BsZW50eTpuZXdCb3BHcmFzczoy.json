@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"newBopGrass","metadata":2,"displayName":"Silty Grass Block","unlocalizedName":"tile.newBopGrass.silty","id":"BiomesOPlenty:newBopGrass:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":182},{"machine":"gtpp.recipe.multicentrifuge","chunk":0,"index":346}]}

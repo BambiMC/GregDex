@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.60k_NaK_Coolantcell","metadata":32767,"displayName":"60k NaK Coolant Cell","unlocalizedName":"gt.60k_NaK_Coolantcell","id":"gregtech:gt.60k_NaK_Coolantcell:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.vacuumfreezer","chunk":0,"index":190},{"machine":"gtpp.recipe.cryogenicfreezer","chunk":0,"index":4}]}

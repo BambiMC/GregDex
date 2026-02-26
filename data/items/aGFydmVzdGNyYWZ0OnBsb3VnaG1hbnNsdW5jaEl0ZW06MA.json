@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"ploughmanslunchItem","metadata":0,"displayName":"Ploughman's Lunch","unlocalizedName":"item.ploughmanslunchItem","oreDictNames":["foodPloughmanslunch"],"id":"harvestcraft:ploughmanslunchItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":173}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"hatchetHead","metadata":314,"displayName":"Unstable Induced Axe Head","unlocalizedName":"toolpart.AxeHead.unstableIngot","id":"TConstruct:hatchetHead:314","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":214},{"machine":"gt.recipe.extruder","chunk":28,"index":215}],"recipesAsInput":[]}

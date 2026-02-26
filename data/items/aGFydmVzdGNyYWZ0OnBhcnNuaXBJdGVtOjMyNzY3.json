@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"parsnipItem","metadata":32767,"displayName":"Parsnip","unlocalizedName":"item.parsnipItem","id":"harvestcraft:parsnipItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":155}]}

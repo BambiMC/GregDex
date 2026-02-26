@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32486,"displayName":"Punched Card","unlocalizedName":"gt.metaitem.01.32486","id":"gregtech:gt.metaitem.01:32486","recipesAsOutput":[{"machine":"gt.recipe.printer","chunk":0,"index":1}],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":5,"index":167},{"machine":"gt.recipe.macerator","chunk":17,"index":349}]}

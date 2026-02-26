@@ -1,0 +1,1 @@
+{"modId":"berriespp","itemName":"BppPotions","metadata":9,"displayName":"Bottled Fake Jägermeister","unlocalizedName":"potion.njagi.bottled","id":"berriespp:BppPotions:9","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":32}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":31}]}

@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"buckets","metadata":4,"displayName":"Molten Aluminum Bucket","unlocalizedName":"item.tconstruct.bucket.Aluminum","id":"TConstruct:buckets:4","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":274}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":6,"index":275}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"freshwaterItem","metadata":0,"displayName":"Fresh Water","unlocalizedName":"item.freshwaterItem","oreDictNames":["listAllwater"],"id":"harvestcraft:freshwaterItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":314},{"machine":"crafting_table","chunk":112,"index":315}],"recipesAsInput":[]}

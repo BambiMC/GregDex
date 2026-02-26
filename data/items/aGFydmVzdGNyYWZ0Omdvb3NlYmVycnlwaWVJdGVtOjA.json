@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"gooseberrypieItem","metadata":0,"displayName":"Gooseberry Pie","unlocalizedName":"item.gooseberrypieItem","oreDictNames":["foodGooseberrypie"],"id":"harvestcraft:gooseberrypieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":477}],"recipesAsInput":[]}

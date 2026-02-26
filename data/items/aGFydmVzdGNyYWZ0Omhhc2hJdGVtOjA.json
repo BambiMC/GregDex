@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"hashItem","metadata":0,"displayName":"Hash","unlocalizedName":"item.hashItem","oreDictNames":["foodHash"],"id":"harvestcraft:hashItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":343}],"recipesAsInput":[]}

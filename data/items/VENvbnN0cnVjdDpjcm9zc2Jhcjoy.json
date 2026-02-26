@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"crossbar","metadata":2,"displayName":"Iron Crossbar","unlocalizedName":"toolpart.Crossbar.Iron","id":"TConstruct:crossbar:2","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":269}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":489,"displayName":"Molten Vulcanite Cell","unlocalizedName":"gt.metaitem.99.489","oreDictNames":["cellMoltenVulcanite"],"id":"gregtech:gt.metaitem.99:489","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":461}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":462}]}

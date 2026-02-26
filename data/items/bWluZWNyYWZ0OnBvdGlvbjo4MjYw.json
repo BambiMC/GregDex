@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"potion","metadata":8260,"displayName":"Potion of Poison","unlocalizedName":"item.potion","id":"minecraft:potion:8260","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":303}],"recipesAsInput":[{"machine":"crafting_table","chunk":96,"index":59},{"machine":"gt.recipe.fluidcanner","chunk":0,"index":304}]}

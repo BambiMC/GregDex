@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"toolShard","metadata":6,"displayName":"Obsidian Shard","unlocalizedName":"toolpart.ToolShard.Obsidian","id":"TConstruct:toolShard:6","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.extruder","chunk":28,"index":124},{"machine":"gt.recipe.extruder","chunk":28,"index":125},{"machine":"gt.recipe.extruder","chunk":28,"index":126}]}

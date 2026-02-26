@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonmeringueItem","metadata":0,"displayName":"Lemon Meringue","unlocalizedName":"item.lemonmeringueItem","oreDictNames":["foodLemonmeringue"],"id":"harvestcraft:lemonmeringueItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":360}],"recipesAsInput":[]}

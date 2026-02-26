@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"handGuard","metadata":2,"displayName":"Iron Hand Guard","unlocalizedName":"toolpart.MediumGuard.Iron","id":"TConstruct:handGuard:2","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":253}],"recipesAsInput":[]}

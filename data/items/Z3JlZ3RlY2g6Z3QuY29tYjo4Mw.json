@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":83,"displayName":"Lutetium Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combIV","beeComb"],"id":"gregtech:gt.comb:83","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":235},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":140}]}

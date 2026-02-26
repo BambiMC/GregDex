@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"tool.electric.meter","metadata":0,"displayName":"Electric Meter","unlocalizedName":"item.railcraft.tool.electric.meter","id":"Railcraft:tool.electric.meter:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":380}],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":138}]}

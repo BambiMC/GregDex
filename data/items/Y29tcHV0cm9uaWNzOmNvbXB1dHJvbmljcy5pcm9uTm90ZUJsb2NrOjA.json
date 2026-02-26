@@ -1,0 +1,1 @@
+{"modId":"computronics","itemName":"computronics.ironNoteBlock","metadata":0,"displayName":"Iron Note Block","unlocalizedName":"tile.computronics.ironNoteBlock","id":"computronics:computronics.ironNoteBlock:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":130}],"recipesAsInput":[{"machine":"gt.recipe.circuitassembler","chunk":0,"index":434}]}

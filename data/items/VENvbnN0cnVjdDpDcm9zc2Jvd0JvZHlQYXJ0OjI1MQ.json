@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CrossbowBodyPart","metadata":251,"displayName":"Blood Infused Iron Crossbow Body","unlocalizedName":"toolpart.CrossbowBody.BloodInfusedIron","id":"TConstruct:CrossbowBodyPart:251","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":70}],"recipesAsInput":[]}

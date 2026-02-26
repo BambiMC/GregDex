@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"beetsaladItem","metadata":0,"displayName":"Beet Salad","unlocalizedName":"item.beetsaladItem","oreDictNames":["foodBeetsalad"],"id":"harvestcraft:beetsaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":363}],"recipesAsInput":[]}

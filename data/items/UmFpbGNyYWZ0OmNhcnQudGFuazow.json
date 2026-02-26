@@ -1,0 +1,1 @@
+{"modId":"Railcraft","itemName":"cart.tank","metadata":0,"displayName":"Tank Cart","unlocalizedName":"item.railcraft.cart.tank","id":"Railcraft:cart.tank:0","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":235},{"machine":"gt.recipe.assembler","chunk":28,"index":376}],"recipesAsInput":[]}

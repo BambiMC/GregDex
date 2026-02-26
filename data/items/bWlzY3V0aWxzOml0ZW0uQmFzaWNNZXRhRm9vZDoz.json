@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"item.BasicMetaFood","metadata":3,"displayName":"Cooked Horse Meat","unlocalizedName":"item.BasicMetaFood.3","oreDictNames":["listAllmeatcooked"],"id":"miscutils:item.BasicMetaFood:3","recipesAsOutput":[{"machine":"furnace","chunk":8,"index":314}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":31,"index":65}]}

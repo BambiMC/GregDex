@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"spicebunItem","metadata":0,"displayName":"Spice Bun","unlocalizedName":"item.spicebunItem","oreDictNames":["foodSpicebun"],"id":"harvestcraft:spicebunItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":399}],"recipesAsInput":[]}

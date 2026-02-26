@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower1","metadata":2,"displayName":"Tall Mystical Magenta Flower","unlocalizedName":"tile.doubleFlower12","oreDictNames":["mysticFlowerMagentaDouble"],"id":"Botania:doubleFlower1:2","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":344},{"machine":"gt.recipe.extractor","chunk":0,"index":41}]}

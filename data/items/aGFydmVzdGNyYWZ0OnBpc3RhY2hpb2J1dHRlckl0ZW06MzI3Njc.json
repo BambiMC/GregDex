@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pistachiobutterItem","metadata":32767,"displayName":"Pistachio Butter","unlocalizedName":"item.pistachiobutterItem","id":"harvestcraft:pistachiobutterItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":250}]}

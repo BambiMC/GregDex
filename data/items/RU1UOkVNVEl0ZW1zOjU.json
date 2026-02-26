@@ -1,0 +1,1 @@
+{"modId":"EMT","itemName":"EMTItems","metadata":5,"displayName":"Thaumium Plate","unlocalizedName":"item.EMT.thaumiumPlate","oreDictNames":["plateThaumium"],"id":"EMT:EMTItems:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":332}]}

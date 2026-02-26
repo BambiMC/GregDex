@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"generic","metadata":11,"displayName":"Sketching Pencil","unlocalizedName":"item.openblocks.sketching_pencil","id":"OpenBlocks:generic:11","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":252}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":253},{"machine":"gt.recipe.assembler","chunk":29,"index":2}]}

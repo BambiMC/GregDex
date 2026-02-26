@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"chicken","metadata":32767,"displayName":"Raw Chicken","unlocalizedName":"item.chickenRaw","id":"minecraft:chicken:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":13,"index":245},{"machine":"gt.recipe.canner","chunk":0,"index":75},{"machine":"gt.recipe.macerator","chunk":24,"index":486}]}

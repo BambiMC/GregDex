@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"grouperrawItem","metadata":32767,"displayName":"Raw Grouper","unlocalizedName":"item.grouperrawItem","id":"harvestcraft:grouperrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":8,"index":463},{"machine":"gt.recipe.canner","chunk":1,"index":165}]}

@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.01","metadata":28,"displayName":"Green Fuchsite Ore","unlocalizedName":"bw.blockores.01.28","oreDictNames":["oreGreenFuchsite"],"id":"bartworks:bw.blockores.01:28","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":348},{"machine":"gt.recipe.macerator","chunk":9,"index":74}]}

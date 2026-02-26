@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockgem1","metadata":5,"displayName":"Block of Certus Quartz","unlocalizedName":"gt.blockgem1.5","oreDictNames":["blockCertusQuartz"],"id":"gregtech:gt.blockgem1:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":24,"index":91}]}

@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"holystone","metadata":0,"displayName":"Holystone","unlocalizedName":"tile.chisel.holystone","oreDictNames":["holystone"],"id":"chisel:holystone:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":385},{"machine":"gt.recipe.assembler","chunk":2,"index":180}],"recipesAsInput":[]}

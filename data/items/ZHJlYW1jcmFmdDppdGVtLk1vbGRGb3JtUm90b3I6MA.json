@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.MoldFormRotor","metadata":0,"displayName":"Casting Form (Rotor Mold)","unlocalizedName":"item.MoldFormRotor","id":"dreamcraft:item.MoldFormRotor:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":15}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":84}]}

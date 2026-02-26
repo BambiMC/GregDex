@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemMaterial","metadata":2,"displayName":"Binder Composite","unlocalizedName":"enderio.binderComposite","oreDictNames":["itemBinderComposite"],"id":"EnderIO:itemMaterial:2","recipesAsOutput":[{"machine":"gt.recipe.macerator","chunk":10,"index":107}],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":0,"index":40}]}

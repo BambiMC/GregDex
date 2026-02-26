@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":7,"displayName":"Unknown Nutrient Agar Cell","unlocalizedName":"gt.metaitem.98.7","id":"gregtech:gt.metaitem.98:7","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":369}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":370}]}

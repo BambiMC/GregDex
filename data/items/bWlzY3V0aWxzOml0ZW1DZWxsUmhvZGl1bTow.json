@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellRhodium","metadata":0,"displayName":"Rhodium Cell","unlocalizedName":"item.itemCellRhodium","oreDictNames":["cellRhodium"],"id":"miscutils:itemCellRhodium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":222}],"recipesAsInput":[]}

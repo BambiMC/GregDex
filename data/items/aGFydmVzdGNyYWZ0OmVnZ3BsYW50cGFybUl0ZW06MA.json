@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"eggplantparmItem","metadata":0,"displayName":"Eggplant Parm","unlocalizedName":"item.eggplantparmItem","oreDictNames":["foodEggplantparm"],"id":"harvestcraft:eggplantparmItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":362}],"recipesAsInput":[]}

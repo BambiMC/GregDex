@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":2,"displayName":"LootBag (Steam Age)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:2","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":406},{"machine":"gt.recipe.assembler","chunk":2,"index":235}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":236}]}

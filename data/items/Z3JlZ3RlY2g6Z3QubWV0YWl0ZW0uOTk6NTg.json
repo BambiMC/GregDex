@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":58,"displayName":"Molten Antimony Cell","unlocalizedName":"gt.metaitem.99.58","oreDictNames":["cellMoltenAntimony"],"id":"gregtech:gt.metaitem.99:58","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":295}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":296}]}

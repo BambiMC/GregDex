@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":46,"displayName":"Pyrope Comb","unlocalizedName":"item.gt.comb","oreDictNames":["beeComb","combLV"],"id":"gregtech:gt.comb:46","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalreactor","chunk":0,"index":197},{"machine":"gt.recipe.largechemicalreactor","chunk":0,"index":102}]}

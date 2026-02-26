@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"stuffedeggplantItem","metadata":0,"displayName":"Stuffed Eggplant","unlocalizedName":"item.stuffedeggplantItem","oreDictNames":["foodStuffedeggplant"],"id":"harvestcraft:stuffedeggplantItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":371},{"machine":"crafting_table","chunk":95,"index":174}],"recipesAsInput":[]}

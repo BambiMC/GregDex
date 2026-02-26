@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coleslawburgerItem","metadata":0,"displayName":"Coleslaw Burger","unlocalizedName":"item.coleslawburgerItem","oreDictNames":["foodColeslawburger"],"id":"harvestcraft:coleslawburgerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":251}],"recipesAsInput":[]}

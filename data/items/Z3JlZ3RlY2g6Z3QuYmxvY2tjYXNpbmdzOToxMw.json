@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings9","metadata":13,"displayName":"High Energy Ultraviolet Emitter Casing","unlocalizedName":"gt.blockcasings9.13","id":"gregtech:gt.blockcasings9:13","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":375}],"recipesAsInput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":57}]}

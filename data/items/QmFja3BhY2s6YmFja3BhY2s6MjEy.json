@@ -1,0 +1,1 @@
+{"modId":"Backpack","itemName":"backpack","metadata":212,"displayName":"Big Yellow Backpack","unlocalizedName":"item.backpack.big_yellow","oreDictNames":["BigBackpacks"],"id":"Backpack:backpack:212","recipesAsOutput":[{"machine":"crafting_table","chunk":106,"index":61},{"machine":"crafting_table","chunk":106,"index":99}],"recipesAsInput":[]}

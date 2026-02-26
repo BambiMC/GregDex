@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":14001,"displayName":"Dyson Swarm Ground Unit","unlocalizedName":"gt.blockmachines.dysonswarm","id":"gregtech:gt.blockmachines:14001","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":23},{"machine":"gt.recipe.researchstation","chunk":0,"index":15}],"recipesAsInput":[]}

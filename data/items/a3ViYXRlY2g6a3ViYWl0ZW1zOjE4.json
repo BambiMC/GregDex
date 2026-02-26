@@ -1,0 +1,1 @@
+{"modId":"kubatech","itemName":"kubaitems","metadata":18,"displayName":"Oolong Tea","unlocalizedName":"kubaitem.tea.oolong_tea","id":"kubatech:kubaitems:18","recipesAsOutput":[{"machine":"furnace","chunk":12,"index":470}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":53}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pampistachioSapling","metadata":0,"displayName":"Pistachio Sapling","unlocalizedName":"tile.pampistachioSapling","id":"harvestcraft:pampistachioSapling:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":272},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":108}],"recipesAsInput":[]}

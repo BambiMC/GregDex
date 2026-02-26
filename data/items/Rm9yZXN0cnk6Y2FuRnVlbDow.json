@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"canFuel","metadata":0,"displayName":"Fuel Can","unlocalizedName":"item.for.canFuel","id":"Forestry:canFuel:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":181}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":3,"index":182}]}

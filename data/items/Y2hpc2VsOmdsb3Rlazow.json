@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"glotek","metadata":0,"displayName":"GloTek","unlocalizedName":"tile.chisel.glotek","oreDictNames":["glotek"],"id":"chisel:glotek:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":383},{"machine":"gt.recipe.assembler","chunk":2,"index":214}],"recipesAsInput":[]}

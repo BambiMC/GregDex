@@ -1,0 +1,1 @@
+{"modId":"BiomesOPlenty","itemName":"rocks","metadata":0,"displayName":"Limestone","unlocalizedName":"tile.rocks.limestone","id":"BiomesOPlenty:rocks:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":64},{"machine":"gt.recipe.assembler","chunk":25,"index":493}],"recipesAsInput":[]}

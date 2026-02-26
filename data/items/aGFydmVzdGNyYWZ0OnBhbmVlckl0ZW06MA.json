@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"paneerItem","metadata":0,"displayName":"Paneer","unlocalizedName":"item.paneerItem","oreDictNames":["foodPaneer"],"id":"harvestcraft:paneerItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":487}],"recipesAsInput":[{"machine":"crafting_table","chunk":91,"index":118}]}

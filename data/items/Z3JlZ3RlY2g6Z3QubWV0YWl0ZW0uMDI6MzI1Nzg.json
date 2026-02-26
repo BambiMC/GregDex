@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32578,"displayName":"Advanced Redstone Transmitter (Internal)","unlocalizedName":"gt.metaitem.02.32578","id":"gregtech:gt.metaitem.02:32578","recipesAsOutput":[{"machine":"crafting_table","chunk":103,"index":404}],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":403}]}

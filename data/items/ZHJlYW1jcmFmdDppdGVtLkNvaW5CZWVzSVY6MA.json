@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CoinBeesIV","metadata":0,"displayName":"Coin \"The Beekeeper 10K\"","unlocalizedName":"item.CoinBeesIV","id":"dreamcraft:item.CoinBeesIV:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":2,"index":266}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":322}]}

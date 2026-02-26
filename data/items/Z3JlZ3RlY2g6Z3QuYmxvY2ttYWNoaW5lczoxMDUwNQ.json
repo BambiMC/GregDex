@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockmachines","metadata":10505,"displayName":"Linear Accelerator","unlocalizedName":"gt.blockmachines.linear_accelerator","id":"gregtech:gt.blockmachines:10505","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":101}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"tile.woodSlab","metadata":1,"displayName":"Virilig Slab","unlocalizedName":"tile.methanePlanks.slab","oreDictNames":["slabWood"],"id":"GalacticraftAmunRa:tile.woodSlab:1","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":111},{"machine":"gt.recipe.macerator","chunk":31,"index":144}]}

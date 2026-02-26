@@ -1,0 +1,1 @@
+{"modId":"minecraft","itemName":"red_flower","metadata":5,"displayName":"Orange Tulip","unlocalizedName":"tile.flower2.tulipOrange","oreDictNames":["flowerOrange","flowerTulipOrange"],"id":"minecraft:red_flower:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":96},{"machine":"gt.recipe.extractor","chunk":0,"index":5}]}

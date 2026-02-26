@@ -1,0 +1,1 @@
+{"modId":"IC2NuclearControl","itemName":"ItemRemoteSensorKit","metadata":0,"displayName":"Remote Sensor Kit","unlocalizedName":"item.ItemRemoteSensorKit","id":"IC2NuclearControl:ItemRemoteSensorKit:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":28,"index":224}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":223}]}

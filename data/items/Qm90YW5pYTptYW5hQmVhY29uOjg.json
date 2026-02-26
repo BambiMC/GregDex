@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"manaBeacon","metadata":8,"displayName":"Light Gray Unstable Beacon","unlocalizedName":"tile.manaBeacon8","id":"Botania:manaBeacon:8","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":20}],"recipesAsInput":[{"machine":"crafting_table","chunk":65,"index":273}]}

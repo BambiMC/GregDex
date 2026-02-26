@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.MethaneBucket","metadata":0,"displayName":"Methane Bucket","unlocalizedName":"item.MethaneBucket","id":"GalaxySpace:item.MethaneBucket:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":151}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":2,"index":152}]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"cranberrybarItem","metadata":0,"displayName":"Cranberry Bar","unlocalizedName":"item.cranberrybarItem","oreDictNames":["foodCranberrybar"],"id":"harvestcraft:cranberrybarItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":404}],"recipesAsInput":[]}

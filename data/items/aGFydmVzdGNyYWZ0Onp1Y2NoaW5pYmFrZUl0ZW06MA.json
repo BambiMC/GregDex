@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zucchinibakeItem","metadata":0,"displayName":"Zucchini Bake","unlocalizedName":"item.zucchinibakeItem","oreDictNames":["foodZucchinibake"],"id":"harvestcraft:zucchinibakeItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":380}],"recipesAsInput":[]}

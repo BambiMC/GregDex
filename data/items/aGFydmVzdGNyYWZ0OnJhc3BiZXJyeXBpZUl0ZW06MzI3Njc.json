@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"raspberrypieItem","metadata":32767,"displayName":"Raspberry Pie","unlocalizedName":"item.raspberrypieItem","id":"harvestcraft:raspberrypieItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":488}]}

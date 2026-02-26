@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chickengumboItem","metadata":32767,"displayName":"Chicken Gumbo","unlocalizedName":"item.chickengumboItem","id":"harvestcraft:chickengumboItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":130}]}

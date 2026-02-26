@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"waterstone","metadata":0,"displayName":"Waterstone","unlocalizedName":"tile.chisel.waterstone","oreDictNames":["blockWaterstone"],"id":"chisel:waterstone:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":393},{"machine":"gt.recipe.assembler","chunk":2,"index":192}],"recipesAsInput":[]}

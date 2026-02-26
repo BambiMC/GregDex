@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"arrowhead","metadata":2,"displayName":"Iron Arrowhead","unlocalizedName":"toolpart.ArrowHead.Iron","id":"TConstruct:arrowhead:2","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":9}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"GalacticraftAmunRa","itemName":"tile.msBoosters1","metadata":1,"displayName":"Ion Thruster Base","unlocalizedName":"tile.mothershipEngineRocketBoosterIon","id":"GalacticraftAmunRa:tile.msBoosters1:1","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":470},{"machine":"gt.recipe.researchstation","chunk":0,"index":306}],"recipesAsInput":[]}

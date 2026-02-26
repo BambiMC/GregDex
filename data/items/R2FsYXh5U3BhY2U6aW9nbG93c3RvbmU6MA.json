@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"ioglowstone","metadata":0,"displayName":"Io Glowstone","unlocalizedName":"tile.IOGlowStone","oreDictNames":["glowstone","rockSpace","rockIo"],"id":"GalaxySpace:ioglowstone:0","recipesAsOutput":[{"machine":"gt.recipe.compressor","chunk":0,"index":255}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":3,"index":157}]}

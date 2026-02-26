@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"frosteddonutItem","metadata":0,"displayName":"Frosted Donut","unlocalizedName":"item.frosteddonutItem","oreDictNames":["foodFrosteddonut"],"id":"harvestcraft:frosteddonutItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":393}],"recipesAsInput":[]}

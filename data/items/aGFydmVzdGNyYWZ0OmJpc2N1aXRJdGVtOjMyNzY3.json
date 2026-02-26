@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"biscuitItem","metadata":32767,"displayName":"Biscuit","unlocalizedName":"item.biscuitItem","id":"harvestcraft:biscuitItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":470}]}

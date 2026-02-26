@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"blockSolarPanel","metadata":0,"displayName":"Photovoltaic Cell","unlocalizedName":"tile.blockSolarPanel","id":"EnderIO:blockSolarPanel:0","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":308},{"machine":"crafting_table","chunk":109,"index":309}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":302}]}

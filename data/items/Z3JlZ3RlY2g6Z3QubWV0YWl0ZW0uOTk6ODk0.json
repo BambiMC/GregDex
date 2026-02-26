@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":894,"displayName":"Molten Cheese Cell","unlocalizedName":"gt.metaitem.99.894","oreDictNames":["cellMoltenCheese"],"id":"gregtech:gt.metaitem.99:894","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":381}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":382}]}

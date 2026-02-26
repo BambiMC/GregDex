@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"applejellyItem","metadata":32767,"displayName":"Apple Jelly","unlocalizedName":"item.applejellyItem","id":"harvestcraft:applejellyItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":1,"index":18}]}

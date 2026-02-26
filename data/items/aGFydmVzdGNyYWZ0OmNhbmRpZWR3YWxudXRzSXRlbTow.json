@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"candiedwalnutsItem","metadata":0,"displayName":"Candied Walnuts","unlocalizedName":"item.candiedwalnutsItem","oreDictNames":["foodCandiedwalnuts"],"id":"harvestcraft:candiedwalnutsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":387}],"recipesAsInput":[]}

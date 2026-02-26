@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockcasings10","metadata":3,"displayName":"Pressure Containment Casing","unlocalizedName":"gt.blockcasings10.3","id":"gregtech:gt.blockcasings10:3","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":346}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":344}]}

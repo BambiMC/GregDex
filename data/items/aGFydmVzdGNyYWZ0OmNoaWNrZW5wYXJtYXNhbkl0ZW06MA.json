@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"chickenparmasanItem","metadata":0,"displayName":"Chicken Parmesan","unlocalizedName":"item.chickenparmasanItem","oreDictNames":["foodChickenparmasan"],"id":"harvestcraft:chickenparmasanItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":348}],"recipesAsInput":[]}

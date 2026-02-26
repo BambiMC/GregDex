@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"potroastItem","metadata":0,"displayName":"Pot Roast","unlocalizedName":"item.potroastItem","oreDictNames":["foodPotroast"],"id":"harvestcraft:potroastItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":92,"index":337}],"recipesAsInput":[]}

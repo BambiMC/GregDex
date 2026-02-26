@@ -1,0 +1,1 @@
+{"modId":"Natura","itemName":"stair.ghostwood","metadata":0,"displayName":"Ghostwood Stairs","unlocalizedName":"tile.stair.ghostwood","oreDictNames":["stairWood"],"id":"Natura:stair.ghostwood:0","recipesAsOutput":[{"machine":"crafting_table","chunk":0,"index":42},{"machine":"crafting_table","chunk":114,"index":123}],"recipesAsInput":[]}

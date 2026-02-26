@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"mincepieItem","metadata":0,"displayName":"Mince Pie","unlocalizedName":"item.mincepieItem","oreDictNames":["foodMincepie"],"id":"harvestcraft:mincepieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":91,"index":409}],"recipesAsInput":[]}

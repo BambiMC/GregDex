@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":32475,"displayName":"Lighter","unlocalizedName":"gt.metaitem.01.32475","id":"gregtech:gt.metaitem.01:32475","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.arcfurnace","chunk":4,"index":445},{"machine":"gt.recipe.fluidextractor","chunk":5,"index":59},{"machine":"gt.recipe.macerator","chunk":17,"index":35}]}

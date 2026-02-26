@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.02","metadata":32120,"displayName":"Chilly Sauce","unlocalizedName":"gt.metaitem.02.32120","id":"gregtech:gt.metaitem.02:32120","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":36}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":37}]}

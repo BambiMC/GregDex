@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"diamondEmeraldUpgrade","metadata":0,"displayName":"Diamond to Aluminium Tank Upgrade","unlocalizedName":"item.irontank:diamondEmeraldUpgrade","id":"irontank:diamondEmeraldUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":47},{"machine":"gt.recipe.assembler","chunk":2,"index":165}],"recipesAsInput":[]}

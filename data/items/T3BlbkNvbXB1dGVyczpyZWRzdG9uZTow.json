@@ -1,0 +1,1 @@
+{"modId":"OpenComputers","itemName":"redstone","metadata":0,"displayName":"Redstone I/O","unlocalizedName":"tile.oc.redstone","oreDictNames":["oc:redstone"],"id":"OpenComputers:redstone:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":12}],"recipesAsInput":[]}

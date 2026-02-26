@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":52,"displayName":"Molten Palladium Cell","unlocalizedName":"gt.metaitem.99.52","oreDictNames":["cellMoltenPalladium"],"id":"gregtech:gt.metaitem.99:52","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":279}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":280}]}

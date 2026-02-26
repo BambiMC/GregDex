@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemDustInfusedEarth","metadata":0,"displayName":"Infused Earth Dust","unlocalizedName":"item.itemDustInfusedEarth","oreDictNames":["dustInfusedEarth"],"id":"miscutils:itemDustInfusedEarth:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":24,"index":87},{"machine":"crafting_table","chunk":24,"index":89}]}

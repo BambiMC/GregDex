@@ -1,0 +1,1 @@
+{"modId":"GraviSuite","itemName":"graviChestPlate","metadata":26,"displayName":"GraviChestPlate","unlocalizedName":"item.graviChestPlate","id":"GraviSuite:graviChestPlate:26","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":43},{"machine":"gt.recipe.scanner","chunk":0,"index":9}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pecanItem","metadata":32767,"displayName":"Pecan","unlocalizedName":"item.pecanItem","id":"harvestcraft:pecanItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":220}]}

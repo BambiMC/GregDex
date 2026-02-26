@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"coconutmilkItem","metadata":32767,"displayName":"Coconut Milk","unlocalizedName":"item.coconutmilkItem","id":"harvestcraft:coconutmilkItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":434}]}

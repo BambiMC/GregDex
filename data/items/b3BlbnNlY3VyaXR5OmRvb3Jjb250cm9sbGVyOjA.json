@@ -1,0 +1,1 @@
+{"modId":"opensecurity","itemName":"doorcontroller","metadata":0,"displayName":"Door Controller","unlocalizedName":"tile.doorController","id":"opensecurity:doorcontroller:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":1,"index":41}],"recipesAsInput":[]}

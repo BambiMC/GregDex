@@ -1,0 +1,1 @@
+{"modId":"malisisdoors","itemName":"sliding_trapdoor","metadata":0,"displayName":"Sliding Trapdoor","unlocalizedName":"tile.sliding_trapdoor","id":"malisisdoors:sliding_trapdoor:0","recipesAsOutput":[{"machine":"crafting_table","chunk":113,"index":134},{"machine":"gt.recipe.assembler","chunk":27,"index":242}],"recipesAsInput":[]}

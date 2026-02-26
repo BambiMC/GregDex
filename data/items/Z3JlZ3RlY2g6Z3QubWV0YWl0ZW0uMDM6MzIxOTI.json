@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.03","metadata":32192,"displayName":"Kevlar Fiber","unlocalizedName":"gt.metaitem.03.32192","id":"gregtech:gt.metaitem.03:32192","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":56,"index":219}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":8,"index":449}]}

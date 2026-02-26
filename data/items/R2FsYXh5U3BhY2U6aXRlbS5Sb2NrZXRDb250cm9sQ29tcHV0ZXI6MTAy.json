@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"item.RocketControlComputer","metadata":102,"displayName":"Astro Miner Control Computer","unlocalizedName":"item.computerMiner","id":"GalaxySpace:item.RocketControlComputer:102","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":7,"index":130}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":397,"displayName":"Molten Infinity Cell","unlocalizedName":"gt.metaitem.99.397","oreDictNames":["cellMoltenInfinity"],"id":"gregtech:gt.metaitem.99:397","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":101}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":102}]}

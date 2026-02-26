@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"BowLimbPart","metadata":316,"displayName":"Magical Wooden Bow Limb","unlocalizedName":"toolpart.BowLimb.MagicWood","id":"TConstruct:BowLimbPart:316","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":29,"index":85}],"recipesAsInput":[]}

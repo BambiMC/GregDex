@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"zeppoleItem","metadata":0,"displayName":"Zeppole","unlocalizedName":"item.zeppoleItem","oreDictNames":["foodZeppole"],"id":"harvestcraft:zeppoleItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":451}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":41,"displayName":"LootBag (Tier 6 LuV)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:41","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":444},{"machine":"gt.recipe.assembler","chunk":2,"index":241}],"recipesAsInput":[]}

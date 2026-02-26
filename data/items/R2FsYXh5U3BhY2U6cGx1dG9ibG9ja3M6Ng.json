@@ -1,0 +1,1 @@
+{"modId":"GalaxySpace","itemName":"plutoblocks","metadata":6,"displayName":"Pluto Dungeon Bricks","unlocalizedName":"tile.PlutoBricks","id":"GalaxySpace:plutoblocks:6","recipesAsOutput":[{"machine":"gt.recipe.laserengraver","chunk":3,"index":194}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":213}]}

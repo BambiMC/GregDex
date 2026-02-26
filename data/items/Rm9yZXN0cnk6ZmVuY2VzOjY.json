@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"fences","metadata":6,"displayName":"Baobab Fence","unlocalizedName":"tile.for.fences.6","oreDictNames":["fenceWood"],"id":"Forestry:fences:6","recipesAsOutput":[{"machine":"crafting_table","chunk":111,"index":284},{"machine":"crafting_table","chunk":111,"index":285},{"machine":"crafting_table","chunk":111,"index":286}],"recipesAsInput":[]}

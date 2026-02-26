@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemNuggetFermium","metadata":0,"displayName":"Fermium Nugget","unlocalizedName":"item.itemNuggetFermium","oreDictNames":["nuggetFermium"],"id":"miscutils:itemNuggetFermium:0","recipesAsOutput":[{"machine":"gt.recipe.fluidsolidifier","chunk":55,"index":456}],"recipesAsInput":[]}

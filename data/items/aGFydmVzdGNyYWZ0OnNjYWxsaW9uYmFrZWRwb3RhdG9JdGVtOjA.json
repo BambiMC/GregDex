@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"scallionbakedpotatoItem","metadata":0,"displayName":"Scallion Baked Potato","unlocalizedName":"item.scallionbakedpotatoItem","oreDictNames":["foodScallionbakedpotato"],"id":"harvestcraft:scallionbakedpotatoItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":95,"index":220}],"recipesAsInput":[]}

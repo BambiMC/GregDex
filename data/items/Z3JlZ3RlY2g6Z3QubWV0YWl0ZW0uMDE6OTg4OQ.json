@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":9889,"displayName":"Sealed Wood Chip","unlocalizedName":"gt.metaitem.01.9889","oreDictNames":["nuggetWoodSealed"],"id":"gregtech:gt.metaitem.01:9889","recipesAsOutput":[{"machine":"gt.recipe.chemicalbath","chunk":1,"index":21}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":38,"index":173}]}

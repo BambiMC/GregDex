@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeAxeHead","metadata":0,"displayName":"Casting Form (Axe Head Shape)","unlocalizedName":"item.ShapeAxeHead","id":"dreamcraft:item.ShapeAxeHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":45}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":108}]}

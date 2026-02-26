@@ -1,0 +1,1 @@
+{"modId":"IC2","itemName":"itemFoamSprayer","metadata":0,"displayName":"CF Sprayer","unlocalizedName":"ic2.itemFoamSprayer","id":"IC2:itemFoamSprayer:0","recipesAsOutput":[{"machine":"crafting_table","chunk":112,"index":441},{"machine":"gt.recipe.fluidcanner","chunk":8,"index":112}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":112}]}

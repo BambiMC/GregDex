@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellWhiteMetal","metadata":0,"displayName":"White Metal Cell","unlocalizedName":"item.itemCellWhiteMetal","oreDictNames":["cellWhiteMetal"],"id":"miscutils:itemCellWhiteMetal:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":91}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":8,"index":92}]}

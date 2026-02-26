@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":386,"displayName":"Molten Manyullyn Cell","unlocalizedName":"gt.metaitem.99.386","oreDictNames":["cellMoltenManyullyn"],"id":"gregtech:gt.metaitem.99:386","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":179}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":180}]}

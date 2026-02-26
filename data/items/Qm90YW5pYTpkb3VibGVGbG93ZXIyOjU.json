@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"doubleFlower2","metadata":5,"displayName":"Tall Mystical Green Flower","unlocalizedName":"tile.doubleFlower25","oreDictNames":["mysticFlowerGreenDouble"],"id":"Botania:doubleFlower2:5","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":103,"index":355},{"machine":"gt.recipe.extractor","chunk":0,"index":63}]}

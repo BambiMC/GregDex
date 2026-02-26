@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.CarbonPartLeggings","metadata":0,"displayName":"Carbon Parts \"Leggings\"","unlocalizedName":"item.CarbonPartLeggings","id":"dreamcraft:item.CarbonPartLeggings:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":4,"index":187}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":4,"index":271}]}

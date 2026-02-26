@@ -1,0 +1,1 @@
+{"modId":"RIO","itemName":"tile.machine","metadata":1,"displayName":"Lava Heater","unlocalizedName":"tile.machine.heater","id":"RIO:tile.machine:1","recipesAsOutput":[{"machine":"crafting_table","chunk":115,"index":303}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"applepieItem","metadata":0,"displayName":"Apple Pie","unlocalizedName":"item.applepieItem","oreDictNames":["foodApplepie"],"id":"harvestcraft:applepieItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":328}],"recipesAsInput":[]}

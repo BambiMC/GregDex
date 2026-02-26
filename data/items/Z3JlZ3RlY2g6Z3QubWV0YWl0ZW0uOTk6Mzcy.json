@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":372,"displayName":"Molten HSS-G Cell","unlocalizedName":"gt.metaitem.99.372","oreDictNames":["cellMoltenHSSG"],"id":"gregtech:gt.metaitem.99:372","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":151}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":152}]}

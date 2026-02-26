@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"okrachipsItem","metadata":0,"displayName":"Okra Chips","unlocalizedName":"item.okrachipsItem","oreDictNames":["foodOkrachips"],"id":"harvestcraft:okrachipsItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":480}],"recipesAsInput":[]}

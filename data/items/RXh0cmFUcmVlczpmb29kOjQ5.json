@@ -1,0 +1,1 @@
+{"modId":"ExtraTrees","itemName":"food","metadata":49,"displayName":"Golden Raspberry","unlocalizedName":"item.food","oreDictNames":["cropGoldenRaspberry"],"id":"ExtraTrees:food:49","recipesAsOutput":[{"machine":"gtpp.recipe.treefarm","chunk":0,"index":235}],"recipesAsInput":[{"machine":"gt.recipe.compressor","chunk":1,"index":495}]}

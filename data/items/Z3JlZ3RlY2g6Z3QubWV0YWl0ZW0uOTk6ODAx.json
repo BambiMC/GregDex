@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.99","metadata":801,"displayName":"Molten Blaze Cell","unlocalizedName":"gt.metaitem.99.801","oreDictNames":["cellMoltenBlaze"],"id":"gregtech:gt.metaitem.99:801","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":133}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":0,"index":134}]}

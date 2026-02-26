@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.comb","metadata":118,"displayName":"Infinity Catalyst Comb","unlocalizedName":"item.gt.comb","oreDictNames":["combUHV","beeComb"],"id":"gregtech:gt.comb:118","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.centrifuge","chunk":0,"index":148},{"machine":"gtpp.recipe.multicentrifuge","chunk":1,"index":45}]}

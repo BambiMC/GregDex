@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"woodPattern","metadata":32767,"displayName":"Arrowhead Pattern","unlocalizedName":"item.tconstruct.Pattern.arrowhead","id":"TConstruct:woodPattern:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":98}]}

@@ -1,0 +1,1 @@
+{"modId":"irontank","itemName":"copperIronUpgrade","metadata":0,"displayName":"Copper to Iron Tank Upgrade","unlocalizedName":"item.irontank:copperIronUpgrade","id":"irontank:copperIronUpgrade:0","recipesAsOutput":[{"machine":"crafting_table","chunk":23,"index":42},{"machine":"gt.recipe.assembler","chunk":2,"index":159}],"recipesAsInput":[]}

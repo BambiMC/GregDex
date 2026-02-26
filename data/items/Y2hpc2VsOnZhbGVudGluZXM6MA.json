@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"valentines","metadata":0,"displayName":"Valentines Block","unlocalizedName":"tile.chisel.valentines","id":"chisel:valentines:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":355},{"machine":"gt.recipe.assembler","chunk":2,"index":188}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":28879,"displayName":"Paper Ring","unlocalizedName":"gt.metaitem.01.28879","oreDictNames":["ringPaper"],"id":"gregtech:gt.metaitem.01:28879","recipesAsOutput":[{"machine":"crafting_table","chunk":84,"index":409}],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":28,"index":71}]}

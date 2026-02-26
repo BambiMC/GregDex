@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"charrrawItem","metadata":32767,"displayName":"Raw Charr","unlocalizedName":"item.charrrawItem","id":"harvestcraft:charrrawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":0,"index":44},{"machine":"gt.recipe.canner","chunk":1,"index":159}]}

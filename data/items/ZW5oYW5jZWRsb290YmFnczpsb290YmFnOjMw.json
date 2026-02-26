@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":30,"displayName":"LootBag (Haute Cuisine)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:30","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":433},{"machine":"gt.recipe.assembler","chunk":2,"index":251}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":2,"index":252}]}

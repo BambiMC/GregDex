@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"strawberrysaladItem","metadata":0,"displayName":"Strawberry Salad","unlocalizedName":"item.strawberrysaladItem","oreDictNames":["foodStrawberrysalad"],"id":"harvestcraft:strawberrysaladItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":309}],"recipesAsInput":[]}

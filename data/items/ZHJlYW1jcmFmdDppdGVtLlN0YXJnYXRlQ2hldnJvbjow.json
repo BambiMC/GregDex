@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.StargateChevron","metadata":0,"displayName":"Stargate Chevron","unlocalizedName":"item.StargateChevron","id":"dreamcraft:item.StargateChevron:0","recipesAsOutput":[{"machine":"gt.recipe.fakeassemblylineprocess","chunk":0,"index":271},{"machine":"gt.recipe.researchstation","chunk":0,"index":227}],"recipesAsInput":[]}

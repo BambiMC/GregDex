@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"sprinkler","metadata":0,"displayName":"Sprinkler","unlocalizedName":"tile.openblocks.sprinkler","id":"OpenBlocks:sprinkler:0","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":384}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":499}]}

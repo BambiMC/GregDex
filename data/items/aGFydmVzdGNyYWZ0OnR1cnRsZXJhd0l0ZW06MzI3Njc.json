@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"turtlerawItem","metadata":32767,"displayName":"Raw Turtle","unlocalizedName":"item.turtlerawItem","id":"harvestcraft:turtlerawItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":483},{"machine":"gt.recipe.canner","chunk":1,"index":178}]}

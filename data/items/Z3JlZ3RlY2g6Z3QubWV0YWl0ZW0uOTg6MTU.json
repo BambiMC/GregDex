@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.98","metadata":15,"displayName":"Bacteria Cell","unlocalizedName":"gt.metaitem.98.15","id":"gregtech:gt.metaitem.98:15","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":345}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":1,"index":346}]}

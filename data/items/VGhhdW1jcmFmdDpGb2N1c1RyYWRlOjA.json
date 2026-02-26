@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"FocusTrade","metadata":0,"displayName":"Wand Focus: Equal Trade","unlocalizedName":"item.FocusTrade","id":"Thaumcraft:FocusTrade:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":407}],"recipesAsInput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":245}]}

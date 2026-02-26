@@ -1,0 +1,1 @@
+{"modId":"GalacticraftCore","itemName":"tile.oxygenPipe","metadata":32767,"displayName":"Oxygen Pipe","unlocalizedName":"tile.oxygenPipe","id":"GalacticraftCore:tile.oxygenPipe:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"crafting_table","chunk":23,"index":109},{"machine":"crafting_table","chunk":23,"index":110}]}

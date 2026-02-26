@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"FocusWarding","metadata":0,"displayName":"Wand Focus: Warding","unlocalizedName":"item.FocusWarding","id":"Thaumcraft:FocusWarding:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":3,"index":343}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":450}]}

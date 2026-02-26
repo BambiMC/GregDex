@@ -1,0 +1,1 @@
+{"modId":"bartworks","itemName":"bw.blockores.02","metadata":26,"displayName":"Small Red Descloizite Ore","unlocalizedName":"bw.blockores.02.26","oreDictNames":["oreSmallRedDescloizite"],"id":"bartworks:bw.blockores.02:26","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":8,"index":317},{"machine":"gt.recipe.macerator","chunk":10,"index":7}]}

@@ -1,0 +1,1 @@
+{"modId":"gadomancy","itemName":"ItemElement","metadata":0,"displayName":"Element of Darkness","unlocalizedName":"item.ItemElement.0","id":"gadomancy:ItemElement:0","recipesAsOutput":[{"machine":"thaumcraft_infusion_altar","chunk":2,"index":428}],"recipesAsInput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":328}]}

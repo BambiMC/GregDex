@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.metaitem.01","metadata":30159,"displayName":"Protomatter Cell","unlocalizedName":"gt.metaitem.01.30159","oreDictNames":["cellProtomatter"],"id":"gregtech:gt.metaitem.01:30159","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":154}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":7,"index":155}]}

@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemBasicCapacitor","metadata":4,"displayName":"Melodic Capacitor","unlocalizedName":"enderio.melodicCapacitor","oreDictNames":["capacitorMelodic"],"id":"EnderIO:itemBasicCapacitor:4","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":0,"index":407}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"enhancedlootbags","itemName":"lootbag","metadata":27,"displayName":"LootBag (Bees Expert)","unlocalizedName":"item.null","id":"enhancedlootbags:lootbag:27","recipesAsOutput":[{"machine":"crafting_table","chunk":109,"index":430},{"machine":"gt.recipe.assembler","chunk":2,"index":247}],"recipesAsInput":[]}

@@ -1,0 +1,1 @@
+{"modId":"gregtech","itemName":"gt.blockores","metadata":4076,"displayName":"Thulium Ore","unlocalizedName":"gt.blockores.4076","oreDictNames":["oreRedgraniteThulium"],"id":"gregtech:gt.blockores:4076","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":7,"index":211},{"machine":"gt.recipe.macerator","chunk":8,"index":448}]}

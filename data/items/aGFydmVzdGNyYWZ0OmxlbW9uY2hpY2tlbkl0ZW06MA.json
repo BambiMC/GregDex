@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"lemonchickenItem","metadata":0,"displayName":"Lemon Chicken","unlocalizedName":"item.lemonchickenItem","oreDictNames":["foodLemonchicken"],"id":"harvestcraft:lemonchickenItem:0","recipesAsOutput":[{"machine":"crafting_table","chunk":93,"index":371}],"recipesAsInput":[]}

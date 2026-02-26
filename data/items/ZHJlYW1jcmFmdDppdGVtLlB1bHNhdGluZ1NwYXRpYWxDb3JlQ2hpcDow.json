@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.PulsatingSpatialCoreChip","metadata":0,"displayName":"Spatial Circuit Tier I","unlocalizedName":"item.PulsatingSpatialCoreChip","id":"dreamcraft:item.PulsatingSpatialCoreChip:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":303}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":104}]}

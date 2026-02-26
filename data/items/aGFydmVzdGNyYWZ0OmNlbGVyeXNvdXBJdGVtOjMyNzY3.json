@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"celerysoupItem","metadata":32767,"displayName":"Celery Soup","unlocalizedName":"item.celerysoupItem","id":"harvestcraft:celerysoupItem:32767","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.canner","chunk":0,"index":407}]}

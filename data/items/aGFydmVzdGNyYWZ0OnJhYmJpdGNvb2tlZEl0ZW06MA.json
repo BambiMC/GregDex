@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"rabbitcookedItem","metadata":0,"displayName":"Cooked Rabbit","unlocalizedName":"item.rabbitcookedItem","oreDictNames":["foodRabbitcooked","listAllmeatcooked","listAllrabbitcooked"],"id":"harvestcraft:rabbitcookedItem:0","recipesAsOutput":[{"machine":"furnace","chunk":9,"index":286}],"recipesAsInput":[]}

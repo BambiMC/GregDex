@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapeCasing","metadata":0,"displayName":"Casting Form (Casing Shape)","unlocalizedName":"item.ShapeCasing","id":"dreamcraft:item.ShapeCasing:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":35}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":113}]}

@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"blockCircuitProgrammer","metadata":0,"displayName":"Circuit Programmer","unlocalizedName":"tile.blockCircuitProgrammer","id":"miscutils:blockCircuitProgrammer:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":119}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":6,"index":127}]}

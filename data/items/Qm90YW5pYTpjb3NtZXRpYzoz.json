@@ -1,0 +1,1 @@
+{"modId":"Botania","itemName":"cosmetic","metadata":3,"displayName":"Puffy Scarf","unlocalizedName":"item.cosmetic3","id":"Botania:cosmetic:3","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":226},{"machine":"gt.recipe.assembler","chunk":0,"index":258}],"recipesAsInput":[{"machine":"gt.recipe.extractor","chunk":0,"index":93}]}

@@ -1,0 +1,1 @@
+{"modId":"OpenBlocks","itemName":"generic","metadata":9,"displayName":"Assistant's base","unlocalizedName":"item.openblocks.assistant_base","id":"OpenBlocks:generic:9","recipesAsOutput":[{"machine":"crafting_table","chunk":114,"index":399}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":28,"index":261}]}

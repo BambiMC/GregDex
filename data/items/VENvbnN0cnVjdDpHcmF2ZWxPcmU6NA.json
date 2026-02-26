@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"GravelOre","metadata":4,"displayName":"Aluminum Gravel Ore","unlocalizedName":"block.ore.gravel.aluminum","oreDictNames":["oreAluminum","oreAluminium"],"id":"TConstruct:GravelOre:4","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":89}]}

@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"stairs","metadata":10,"displayName":"Mahogany Stairs","unlocalizedName":"tile.for.stairs.10","oreDictNames":["stairWood"],"id":"Forestry:stairs:10","recipesAsOutput":[{"machine":"crafting_table","chunk":19,"index":431}],"recipesAsInput":[]}

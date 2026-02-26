@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ChromeIronPlate","metadata":0,"displayName":"Chrome-Iron Plate","unlocalizedName":"item.ChromeIronPlate","id":"dreamcraft:item.ChromeIronPlate:0","recipesAsOutput":[{"machine":"gt.recipe.press","chunk":0,"index":316}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":3,"index":146}]}

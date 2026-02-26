@@ -1,0 +1,1 @@
+{"modId":"Thaumcraft","itemName":"WandCasting","metadata":5,"displayName":"Copper Capped Wooden Wand","unlocalizedName":"item.WandCasting","nbt":"{cap:\"copper\",rod:\"wood\"}","id":"Thaumcraft:WandCasting:5","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":135},{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":141}],"recipesAsInput":[]}

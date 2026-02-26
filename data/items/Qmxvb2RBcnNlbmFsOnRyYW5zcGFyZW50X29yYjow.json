@@ -1,0 +1,1 @@
+{"modId":"BloodArsenal","itemName":"transparent_orb","metadata":0,"displayName":"Transparent Orb","unlocalizedName":"item.transparent_orb","id":"BloodArsenal:transparent_orb:0","recipesAsOutput":[{"machine":"thaumcraft_arcane_crafting","chunk":3,"index":271}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":0}]}

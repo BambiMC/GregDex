@@ -1,0 +1,1 @@
+{"modId":"Forestry","itemName":"cratedReeds","metadata":0,"displayName":"Crated Sugar Canes","unlocalizedName":"item.cratedReeds","id":"Forestry:cratedReeds:0","recipesAsOutput":[{"machine":"forestry_carpenter","chunk":0,"index":306}],"recipesAsInput":[{"machine":"forestry_carpenter","chunk":0,"index":288}]}

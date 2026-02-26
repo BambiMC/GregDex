@@ -1,0 +1,1 @@
+{"modId":"chisel","itemName":"warningSign","metadata":0,"displayName":"Warning Sign","unlocalizedName":"tile.chisel.warningSign","id":"chisel:warningSign:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":356},{"machine":"gt.recipe.assembler","chunk":2,"index":191}],"recipesAsInput":[]}

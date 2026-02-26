@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"oreSamarskiteY","metadata":0,"displayName":"Samarskite (Y) Ore","unlocalizedName":"tile.OreSamarskiteY","oreDictNames":["oreSamarskiteY"],"id":"miscutils:oreSamarskiteY:0","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.hammer","chunk":1,"index":321},{"machine":"gt.recipe.macerator","chunk":1,"index":113}]}

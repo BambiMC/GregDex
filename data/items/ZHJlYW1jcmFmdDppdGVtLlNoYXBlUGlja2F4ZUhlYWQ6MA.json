@@ -1,0 +1,1 @@
+{"modId":"dreamcraft","itemName":"item.ShapePickaxeHead","metadata":0,"displayName":"Casting Form (Pickaxe Head Shape)","unlocalizedName":"item.ShapePickaxeHead","id":"dreamcraft:item.ShapePickaxeHead:0","recipesAsOutput":[{"machine":"crafting_table","chunk":26,"index":43}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":126}]}

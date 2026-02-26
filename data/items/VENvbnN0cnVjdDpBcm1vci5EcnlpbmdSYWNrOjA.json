@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"Armor.DryingRack","metadata":0,"displayName":"Drying Rack","unlocalizedName":"tile.Armor.DryingRack","id":"TConstruct:Armor.DryingRack:0","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":154},{"machine":"crafting_table","chunk":116,"index":155}],"recipesAsInput":[]}

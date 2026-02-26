@@ -1,0 +1,1 @@
+{"modId":"EnderIO","itemName":"itemYetaWrench","metadata":0,"displayName":"Yeta Wrench","unlocalizedName":"item.itemYetaWrench","id":"EnderIO:itemYetaWrench:0","recipesAsOutput":[{"machine":"crafting_table","chunk":22,"index":357},{"machine":"crafting_table","chunk":109,"index":382}],"recipesAsInput":[{"machine":"gt.recipe.assembler","chunk":26,"index":196}]}

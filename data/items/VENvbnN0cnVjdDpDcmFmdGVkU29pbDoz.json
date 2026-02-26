@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"CraftedSoil","metadata":3,"displayName":"Graveyard Soil","unlocalizedName":"CraftedSoil.GraveyardSoil","id":"TConstruct:CraftedSoil:3","recipesAsOutput":[{"machine":"crafting_table","chunk":116,"index":89}],"recipesAsInput":[{"machine":"furnace","chunk":10,"index":495}]}

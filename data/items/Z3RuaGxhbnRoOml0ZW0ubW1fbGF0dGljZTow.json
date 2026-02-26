@@ -1,0 +1,1 @@
+{"modId":"gtnhlanth","itemName":"item.mm_lattice","metadata":0,"displayName":"Mu-Metal Lattice","unlocalizedName":"item.mm_lattice","id":"gtnhlanth:item.mm_lattice:0","recipesAsOutput":[{"machine":"gt.recipe.assembler","chunk":6,"index":108}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":458}]}

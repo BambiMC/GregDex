@@ -1,0 +1,1 @@
+{"modId":"thaumicbases","itemName":"resource","metadata":7,"displayName":"Tobacco Leaves Pile","unlocalizedName":"item.resourcetobacco_leaves","id":"thaumicbases:resource:7","recipesAsOutput":[],"recipesAsInput":[{"machine":"gt.recipe.macerator","chunk":0,"index":84},{"machine":"thaumcraft_arcane_crafting","chunk":0,"index":106}]}

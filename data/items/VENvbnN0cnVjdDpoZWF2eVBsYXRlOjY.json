@@ -1,0 +1,1 @@
+{"modId":"TConstruct","itemName":"heavyPlate","metadata":6,"displayName":"Obsidian Large Plate","unlocalizedName":"toolpart.LargePlate.Obsidian","id":"TConstruct:heavyPlate:6","recipesAsOutput":[{"machine":"gt.recipe.extruder","chunk":28,"index":398}],"recipesAsInput":[{"machine":"gt.recipe.fluidsolidifier","chunk":54,"index":61}]}

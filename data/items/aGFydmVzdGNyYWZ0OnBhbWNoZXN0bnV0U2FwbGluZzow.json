@@ -1,0 +1,1 @@
+{"modId":"harvestcraft","itemName":"pamchestnutSapling","metadata":0,"displayName":"Chestnut Sapling","unlocalizedName":"tile.pamchestnutSapling","id":"harvestcraft:pamchestnutSapling:0","recipesAsOutput":[{"machine":"crafting_table","chunk":96,"index":246},{"machine":"gtpp.recipe.treefarm","chunk":0,"index":86}],"recipesAsInput":[]}

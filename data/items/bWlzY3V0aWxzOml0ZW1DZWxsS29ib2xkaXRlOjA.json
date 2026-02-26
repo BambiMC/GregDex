@@ -1,0 +1,1 @@
+{"modId":"miscutils","itemName":"itemCellKoboldite","metadata":0,"displayName":"Koboldite Cell","unlocalizedName":"item.itemCellKoboldite","oreDictNames":["cellKoboldite"],"id":"miscutils:itemCellKoboldite:0","recipesAsOutput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":379}],"recipesAsInput":[{"machine":"gt.recipe.fluidcanner","chunk":4,"index":380}]}
