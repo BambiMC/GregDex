@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "NODE_OPTIONS='--max-old-space-size=4096' next dev",
-    "build": "NODE_OPTIONS='--max-old-space-size=2048' next build",
+    "build": "NODE_OPTIONS='--max-old-space-size=8192' next build",
     "start": "NODE_OPTIONS='--max-old-space-size=2048' next start",
     "process-data": "NODE_OPTIONS='--max-old-space-size=4096 --expose-gc' tsx scripts/process-data.ts",
     "build-with-data": "npm run process-data && npm run build"
