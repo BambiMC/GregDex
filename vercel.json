@@ -9,7 +9,8 @@
   },
   "functions": {
     "src/app/api/**/*.ts": {
-      "maxDuration": 30
+      "maxDuration": 30,
+      "includeFiles": "data/**"
     }
   }
 }
