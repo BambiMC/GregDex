@@ -14,9 +14,20 @@ const cache = new Map<string, unknown>();
 
 function readCached<T>(filePath: string): T {
   if (cache.has(filePath)) return cache.get(filePath) as T;
-  const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-  cache.set(filePath, data);
-  return data;
+
+  try {
+    if (!fs.existsSync(filePath)) {
+      console.error("File not found:", filePath);
+      throw new Error(`File not found: ${filePath}`);
+    }
+
+    const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    cache.set(filePath, data);
+    return data;
+  } catch (error) {
+    console.error("Error reading file:", filePath, error);
+    throw error;
+  }
 }
 
 export function encodeItemId(id: string): string {

@@ -43,15 +43,23 @@ export default function ItemsPage() {
   const [totalPages, setTotalPages] = useState(1);
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   const fetchItems = useCallback(async (p: number, q: string) => {
     setLoading(true);
+    setError(null);
     try {
       if (q.length >= 2) {
         const res = await fetch(
           `/api/search?q=${encodeURIComponent(q)}&limit=60`,
         );
+        if (!res.ok) {
+          throw new Error(`Search API error: ${res.status}`);
+        }
         const data = await res.json();
+        if (data.error) {
+          throw new Error(data.error);
+        }
         setItems(
           (data.results || []).map((r: any) => ({
             id: r.id,
@@ -64,13 +72,23 @@ export default function ItemsPage() {
         setTotalPages(1);
       } else {
         const res = await fetch(`/api/items?page=${p}&limit=60`);
+        if (!res.ok) {
+          throw new Error(`Items API error: ${res.status}`);
+        }
         const data = await res.json();
+        if (data.error) {
+          throw new Error(data.error);
+        }
         setItems(data.data || []);
         setTotal(data.total || 0);
         setTotalPages(data.totalPages || 1);
       }
-    } catch {
+    } catch (err) {
+      console.error("Fetch error:", err);
+      setError(err instanceof Error ? err.message : "Failed to fetch items");
       setItems([]);
+      setTotal(0);
+      setTotalPages(1);
     } finally {
       setLoading(false);
     }
@@ -102,6 +120,16 @@ export default function ItemsPage() {
             className="w-full max-w-md px-4 py-2 bg-bg-tertiary border border-border-default rounded-lg text-text-primary placeholder-text-muted text-sm focus:outline-none focus:border-accent-primary transition-colors"
           />
         </div>
+
+        {/* Error Display */}
+        {error && (
+          <div className="mb-6 p-4 bg-accent-danger/10 border border-accent-danger/30 rounded-lg">
+            <div className="text-accent-danger font-medium">
+              Error loading items
+            </div>
+            <div className="text-accent-danger/80 text-sm mt-1">{error}</div>
+          </div>
+        )}
 
         {/* Grid */}
         {loading ? (
