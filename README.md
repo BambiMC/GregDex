@@ -1,6 +1,6 @@
 # GregDex
 
-A comprehensive item database and recipe viewer for GregTech: New Horizons modpack.
+**Fully Static** Item Database and Recipe Viewer for GregTech: New Horizons modpack.
 
 ## Setup & Deployment (in order)
 
@@ -13,6 +13,7 @@ npm run process-data
 ```
 
 This reads `betterquesting_*.zip` and `nei_export_*.zip` and outputs JSON to the `data/` directory, including:
+
 - `items-index.json`, `fluids-index.json`, `machines.json`, `materials.json`
 - `items/` (47K files), `fluids/` (1381 files), `recipes/` (chunked by machine)
 - `fluids-recipe-index.json` (fluid → recipe refs index)
@@ -42,7 +43,7 @@ npm run build     # produces the out/ directory
 The output is fully static — no server needed:
 
 ```bash
-npx serve out     # or any static file server (nginx, Caddy, Vercel, GitHub Pages, etc.)
+npx serve out
 ```
 
 ## Development
@@ -62,12 +63,12 @@ npm run dev       # start dev server on http://localhost:3000
 
 ## How It Works
 
-GregDex is a **fully static site** (`output: "export"` in `next.config.ts`). There are no server-side API routes at runtime. All data is pre-processed into JSON and served as static files from `out/data/`.
+**Built entirely statically** (`output: "export"` in `next.config.ts`) — **no server-side API routes, no server-side data fetching at runtime**. All data is pre-processed into JSON at build time and served as static client-side resources.
 
-- Pages load data on the client by fetching `/data/*.json` files
-- Search is client-side: `items-index.json` is loaded once and cached in memory per browser session
-- Recipes are chunked (~500/chunk per machine); only needed chunks are fetched on demand
-- Item icons live in `public/icons/items/` (47K PNG files, served statically)
+- **No APIs**: Pages load data on the client by fetching `/data/*.json` static files directly
+- **Client-side only**: All data access (search, recipes, item metadata) happens in the browser
+- **Static build only**: `npm run process-data` runs before `npm run build` (development server runs separately but `npm start` doesn't apply)
+- **Deploy static**: `out/` directory contains everything needed; deploy `out/data/` to any static host
 
 ## Tech Stack
 

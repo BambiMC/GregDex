@@ -4,7 +4,7 @@ This file provides guidance to Claude Code agents when working with code in this
 
 ## Project Overview
 
-GregDex is a comprehensive item and recipe database for the GregTech: New Horizons modpack. It displays 47,000+ items, 246,000+ recipes across 152+ machines, plus materials, fluids, bees, ores, and blood magic content. Built with Next.js, React, TypeScript, and TailwindCSS.
+GregDex is a **fully static** item and recipe database for the GregTech: New Horizons modpack. It displays 47,000+ items, 246,000+ recipes across 152+ machines, plus materials, fluids, bees, ores, and blood magic content. **Built as a client-side only static site with no server-side APIs or runtime server** with Next.js, React, TypeScript, and TailwindCSS.
 
 ## Tech Stack
 
@@ -167,9 +167,8 @@ Global search (Ctrl+K) is fully client-side:
 
 ## Important Notes
 
-- The app is **fully static** — no Node.js server needed at runtime
-- Deploy `out/` to any static file server (Vercel, Netlify, nginx, GitHub Pages, etc.)
-- `npm run process-data` must be run whenever data exports change, before `npm run build`
-- `public/data → ../data` symlink must exist before running `npm run build`
-- Data is read-only at runtime; all processing happens at build/data-processing time
-- Use VersionContext when accessing version-aware data in components
+- **No server-side code**: Build at build time (`npm run process-data`), serves static files at runtime (`out/`)
+- **No runtime server**: Deploy `out/` to any static host (Vercel, Netlify, nginx, GitHub Pages)
+- **Client-side only**: All data fetching happens in the browser; no server-side APIs
+- `npm run dev` runs separately; multiple agents can work simultaneously on the codebase
+- Use VersionContext for version-aware data

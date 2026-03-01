@@ -1,0 +1,33 @@
+{
+    "$schema": "https://opencode.ai/config.json",
+    "agent": {
+        "local-coding": {
+            "model": "llama.cpp/Qwen3.5-35B-A3B-UD-Q6_K_XL",
+            "mode": "subagent",
+            "description": "General-purpose agent using local model for coding tasks",
+            "hidden": false
+        }
+    },
+    "provider": {
+        "llama.cpp": {
+            "npm": "@ai-sdk/openai-compatible",
+            "name": "llama.cpp",
+            "options": {
+                "baseURL": "http://127.0.0.1:8080/v1"
+            },
+            "models": {
+                "Qwen3.5-35B-A3B-IQ2_XXS": {
+                    "name": "Qwen3.5-35B-A3B-IQ2_XXS",
+                    "options": {
+                        "min_p": 0.0,
+                        "presence_penalty": 0.0,
+                        "repetition_penalty": 1.0,
+                        "temperature": 0.6,
+                        "top_k": 20,
+                        "top_p": 0.95
+                    }
+                }
+            }
+        }
+    }
+}
