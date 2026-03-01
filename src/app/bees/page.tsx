@@ -34,9 +34,9 @@ export default function BeesPage() {
   const [search, setSearch] = useState("");
 
   useEffect(() => {
-    fetch("/api/bees?type=mutations")
+    fetch("/data/bee-mutations.json")
       .then((r) => r.json())
-      .then((d) => setMutations(d.mutations || []))
+      .then((d) => setMutations(d))
       .finally(() => setLoading(false));
   }, []);
 

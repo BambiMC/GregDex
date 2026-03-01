@@ -1,13 +1,11 @@
 import Link from "next/link";
-
-const stats = [
-  { label: "Items", value: "47,398", href: "/items" },
-  { label: "Recipes", value: "246,961", href: "/machines" },
-  { label: "Machines", value: "152", href: "/machines" },
-  { label: "Materials", value: "1,319", href: "/materials" },
-  { label: "Bee Mutations", value: "536", href: "/bees" },
-  { label: "Ore Veins", value: "79", href: "/ores" },
-];
+import {
+  getItemsIndex,
+  getMachines,
+  getMaterials,
+  getBeeMutations,
+  getOreVeins,
+} from "@/lib/data";
 
 const quickLinks = [
   {
@@ -61,6 +59,31 @@ const quickLinks = [
 ];
 
 export default function HomePage() {
+  let items: { id: string }[] = [];
+  let machines: { recipeCount: number }[] = [];
+  let materials: unknown[] = [];
+  let beeMutations: unknown[] = [];
+  let oreVeins: unknown[] = [];
+  try {
+    items = getItemsIndex();
+    machines = getMachines();
+    materials = getMaterials();
+    beeMutations = getBeeMutations();
+    oreVeins = getOreVeins();
+  } catch {
+    // data not yet generated
+  }
+  const totalRecipes = machines.reduce((sum, m) => sum + m.recipeCount, 0);
+
+  const stats = [
+    { label: "Items", value: items.length.toLocaleString(), href: "/items" },
+    { label: "Recipes", value: totalRecipes.toLocaleString(), href: "/machines" },
+    { label: "Machines", value: machines.length.toLocaleString(), href: "/machines" },
+    { label: "Materials", value: materials.length.toLocaleString(), href: "/materials" },
+    { label: "Bee Mutations", value: beeMutations.length.toLocaleString(), href: "/bees" },
+    { label: "Ore Veins", value: oreVeins.length.toLocaleString(), href: "/ores" },
+  ];
+
   return (
     <div className="p-4 sm:p-6 lg:p-8 max-w-6xl mx-auto">
       {/* Hero */}
@@ -98,9 +121,7 @@ export default function HomePage() {
             href={link.href}
             className={`${link.bg} border ${link.border} rounded-xl p-5 hover:scale-[1.02] transition-transform`}
           >
-            <h3 className={`font-semibold ${link.color} mb-1`}>
-              {link.title}
-            </h3>
+            <h3 className={`font-semibold ${link.color} mb-1`}>{link.title}</h3>
             <p className="text-sm text-text-secondary">{link.desc}</p>
           </Link>
         ))}

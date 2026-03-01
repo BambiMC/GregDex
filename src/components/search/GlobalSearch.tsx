@@ -6,6 +6,20 @@ import type { SearchResult } from "@/types";
 import ItemIcon from "@/components/ItemIcon";
 import { createReadableItemId } from "@/lib/utils";
 
+// Module-level cache — loaded once per browser session
+let itemsCache: { id: string; displayName: string; modId: string }[] | null = null;
+let cachePromise: Promise<void> | null = null;
+
+function loadItemsCache(): Promise<void> {
+  if (itemsCache) return Promise.resolve();
+  if (cachePromise) return cachePromise;
+  cachePromise = fetch("/data/items-index.json")
+    .then((r) => r.json())
+    .then((d) => { itemsCache = d; })
+    .catch(() => { itemsCache = []; });
+  return cachePromise;
+}
+
 export default function GlobalSearch({
   open,
   onClose,
@@ -51,11 +65,24 @@ export default function GlobalSearch({
     }
     setLoading(true);
     try {
-      const res = await fetch(
-        `/api/search?q=${encodeURIComponent(q)}&limit=15`,
-      );
-      const data = await res.json();
-      setResults(data.results || []);
+      await loadItemsCache();
+      const lower = q.toLowerCase();
+      const matches = (itemsCache || [])
+        .filter(
+          (item) =>
+            item.displayName.toLowerCase().includes(lower) ||
+            item.modId.toLowerCase().includes(lower) ||
+            item.id.toLowerCase().includes(lower),
+        )
+        .slice(0, 15)
+        .map((item) => ({
+          id: item.id,
+          displayName: item.displayName,
+          modId: item.modId,
+          type: "item" as const,
+          score: 1,
+        }));
+      setResults(matches);
       setSelectedIndex(0);
     } catch {
       setResults([]);

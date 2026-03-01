@@ -29,10 +29,7 @@ export default function BloodMagicPage() {
   const [tab, setTab] = useState<"altar" | "alchemy">("altar");
 
   useEffect(() => {
-    fetch("/api/ores") // temp: load from blood magic data directly
-      .catch(() => null);
-    // Load blood magic data
-    fetch("/api/blood-magic")
+    fetch("/data/blood-magic.json")
       .then((r) => r.json())
       .then((d) => {
         setAltar(d.altarRecipes || []);

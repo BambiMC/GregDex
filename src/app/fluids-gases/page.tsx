@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 
 interface FluidEntry {
@@ -68,82 +68,52 @@ function getFluidIcon(fluid: FluidEntry): React.ReactElement {
   );
 }
 
+const LIMIT = 60;
+
 export default function FluidsGasesPage() {
-  const [fluids, setFluids] = useState<FluidEntry[]>([]);
-  const [total, setTotal] = useState(0);
+  const [allFluids, setAllFluids] = useState<FluidEntry[]>([]);
   const [page, setPage] = useState(1);
-  const [totalPages, setTotalPages] = useState(1);
   const [search, setSearch] = useState("");
   const [fluidTypeFilter, setFluidTypeFilter] = useState<
     "all" | "fluid" | "gas" | "molten" | "plasma"
   >("all");
   const [loading, setLoading] = useState(true);
 
-  const fetchFluids = useCallback(
-    async (p: number, q: string) => {
-      setLoading(true);
-      try {
-        if (q.length >= 2) {
-          const res = await fetch(
-            `/api/search?q=${encodeURIComponent(q)}&limit=60`,
-          );
-          const data = await res.json();
-          const allFluids = (data.results || [])
-            .filter((r: any) => r.type === "fluid")
-            .map((r: any) => ({
-              name: r.id,
-              displayName: r.displayName,
-              type: "fluid" as const,
-              fluidType: getFluidType(r.id),
-            }));
-
-          const filteredFluids =
-            fluidTypeFilter === "all"
-              ? allFluids
-              : allFluids.filter(
-                  (f: FluidEntry) => f.fluidType === fluidTypeFilter,
-                );
-
-          setFluids(filteredFluids);
-          setTotal(filteredFluids.length);
-          setTotalPages(1);
-        } else {
-          const res = await fetch(`/api/fluids?page=${p}&limit=60`);
-          const data = await res.json();
-          const allFluids = (data.data || []).map((f: any) => ({
+  // Load all fluids once from static JSON
+  useEffect(() => {
+    fetch("/data/fluids-index.json")
+      .then((r) => r.json())
+      .then((data: { name: string; displayName: string }[]) => {
+        setAllFluids(
+          data.map((f) => ({
             ...f,
             type: "fluid" as const,
             fluidType: getFluidType(f.name),
-          }));
+          })),
+        );
+      })
+      .finally(() => setLoading(false));
+  }, []);
 
-          const filteredFluids =
-            fluidTypeFilter === "all"
-              ? allFluids
-              : allFluids.filter(
-                  (f: FluidEntry) => f.fluidType === fluidTypeFilter,
-                );
-
-          setFluids(filteredFluids);
-          setTotal(data.total || 0);
-          setTotalPages(data.totalPages || 1);
-        }
-      } catch {
-        setFluids([]);
-      } finally {
-        setLoading(false);
-      }
-    },
-    [fluidTypeFilter],
-  );
-
-  useEffect(() => {
-    const timeout = setTimeout(() => fetchFluids(page, search), 200);
-    return () => clearTimeout(timeout);
-  }, [page, search, fetchFluids]);
-
+  // Reset page when filters change
   useEffect(() => {
     setPage(1);
-  }, [fluidTypeFilter]);
+  }, [search, fluidTypeFilter]);
+
+  // Client-side filter + paginate
+  const filtered = allFluids.filter((f) => {
+    const matchesType =
+      fluidTypeFilter === "all" || f.fluidType === fluidTypeFilter;
+    const matchesSearch =
+      search.length < 2 ||
+      f.displayName.toLowerCase().includes(search.toLowerCase()) ||
+      f.name.toLowerCase().includes(search.toLowerCase());
+    return matchesType && matchesSearch;
+  });
+  const totalPages = Math.max(1, Math.ceil(filtered.length / LIMIT));
+  const safePage = Math.min(page, totalPages);
+  const fluids = filtered.slice((safePage - 1) * LIMIT, safePage * LIMIT);
+  const total = filtered.length;
 
   return (
     <div className="p-4 sm:p-6 lg:p-8">

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import Link from "next/link";
 import ItemIcon from "@/components/ItemIcon";
 import { createReadableItemId } from "@/lib/utils";
@@ -13,7 +13,6 @@ interface ItemEntry {
 }
 
 function createReadableFluidId(fluidId: string): string {
-  // For fluids, convert dots to hyphens for readable URLs
   return fluidId.replace(/\./g, "-");
 }
 
@@ -36,50 +35,58 @@ function getItemIcon(item: ItemEntry): React.ReactElement {
   return <ItemIcon itemId={item.id} displayName={item.displayName} size={28} />;
 }
 
+const LIMIT = 60;
+
 export default function ItemsPage() {
+  const [allItems, setAllItems] = useState<ItemEntry[]>([]);
   const [items, setItems] = useState<ItemEntry[]>([]);
   const [total, setTotal] = useState(0);
   const [page, setPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
+  const allItemsRef = useRef<ItemEntry[]>([]);
 
-  const fetchItems = useCallback(async (p: number, q: string) => {
-    setLoading(true);
-    try {
-      if (q.length >= 2) {
-        const res = await fetch(
-          `/api/search?q=${encodeURIComponent(q)}&limit=60`,
-        );
-        const data = await res.json();
-        setItems(
-          (data.results || []).map((r: any) => ({
-            id: r.id,
-            displayName: r.displayName,
-            modId: r.modId || "",
-            type: r.type || "item",
-          })),
-        );
-        setTotal(data.results?.length || 0);
-        setTotalPages(1);
-      } else {
-        const res = await fetch(`/api/items?page=${p}&limit=60`);
-        const data = await res.json();
-        setItems(data.data || []);
-        setTotal(data.total || 0);
-        setTotalPages(data.totalPages || 1);
-      }
-    } catch {
-      setItems([]);
-    } finally {
-      setLoading(false);
-    }
+  // Load all items once from static JSON
+  useEffect(() => {
+    fetch("/data/items-index.json")
+      .then((r) => r.json())
+      .then((data: ItemEntry[]) => {
+        allItemsRef.current = data;
+        setAllItems(data);
+        setLoading(false);
+      })
+      .catch(() => setLoading(false));
   }, []);
 
+  // Filter and paginate client-side
+  const applyFilter = useCallback(
+    (q: string, p: number, all: ItemEntry[]) => {
+      let filtered = all;
+      if (q.length >= 2) {
+        const lower = q.toLowerCase();
+        filtered = all.filter(
+          (item) =>
+            item.displayName.toLowerCase().includes(lower) ||
+            item.modId.toLowerCase().includes(lower) ||
+            item.id.toLowerCase().includes(lower),
+        );
+      }
+      const tp = Math.max(1, Math.ceil(filtered.length / LIMIT));
+      const safePage = Math.min(p, tp);
+      const start = (safePage - 1) * LIMIT;
+      setItems(filtered.slice(start, start + LIMIT));
+      setTotal(filtered.length);
+      setTotalPages(tp);
+    },
+    [],
+  );
+
   useEffect(() => {
-    const timeout = setTimeout(() => fetchItems(page, search), 200);
-    return () => clearTimeout(timeout);
-  }, [page, search, fetchItems]);
+    if (allItems.length > 0) {
+      applyFilter(search, page, allItems);
+    }
+  }, [search, page, allItems, applyFilter]);
 
   return (
     <div className="p-4 sm:p-6 lg:p-8">

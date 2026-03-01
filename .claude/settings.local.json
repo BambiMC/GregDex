@@ -8,7 +8,19 @@
       "Bash(python3:*)",
       "Bash(python:*)",
       "Bash(node -e:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(ls /Users/fnberger/Desktop/GregDex/src/app/fluids-gases/[fluidId]/)",
+      "Bash(xxd \"/Users/fnberger/Desktop/GregDex/src/app/fluids-gases/[fluidId]/page.tsx\")",
+      "Bash(__NEW_LINE_9f3665381a28662d__ cat)",
+      "Bash(__NEW_LINE_9f3665381a28662d__ echo \"Done\")",
+      "Bash(ln -sf ../data data)",
+      "Bash(ls /Users/fnberger/Desktop/GregDex/nei_export*)",
+      "Bash(ls /Users/fnberger/Desktop/GregDex/*.zip)",
+      "Bash(ls /Users/fnberger/Desktop/GregDex/*.md)",
+      "Bash(ls /Users/fnberger/Desktop/GregDex/src/app/ores/[veinId]/)",
+      "Bash(ls /Users/fnberger/Desktop/GregDex/src/app/bees/[speciesId]/)",
+      "Bash(npx tsc --noEmit)",
+      "Bash(npx next build)"
     ]
   }
 }

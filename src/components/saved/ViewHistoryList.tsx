@@ -8,7 +8,7 @@ import ItemIcon from '@/components/ItemIcon';
 function getItemLink(item: HistoryItem): string {
   switch (item.type) {
     case 'item':
-      return `/items/${item.id}`;
+      return `/items/${item.id.replace(/:/g, '-')}`;
     case 'fluid':
       return `/fluids-gases/${item.id}`;
     case 'recipe':

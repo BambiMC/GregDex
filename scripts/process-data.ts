@@ -278,6 +278,17 @@ async function main() {
 
   let totalRecipes = 0;
 
+  // Map fluid name → recipe refs
+  const fluidMap = new Map<
+    string,
+    { recipesAsOutput: any[]; recipesAsInput: any[] }
+  >();
+  const getFluidEntry = (name: string) => {
+    if (!fluidMap.has(name))
+      fluidMap.set(name, { recipesAsOutput: [], recipesAsInput: [] });
+    return fluidMap.get(name)!;
+  };
+
   for (const file of recipeFiles) {
     const machineId = file.replace(".json", "");
     const recipes = readJSON<any[]>(path.join(recipesDir, file), []);
@@ -319,8 +330,8 @@ async function main() {
       }
       if (recipe.fluidOutputs) {
         for (const output of recipe.fluidOutputs) {
-          if (output?.name) {
-            // Fluid refs handled separately
+          if (output?.id) {
+            getFluidEntry(output.id).recipesAsOutput.push(ref);
           }
         }
       }
@@ -334,6 +345,13 @@ async function main() {
           }
         }
       }
+      if (recipe.fluidInputs) {
+        for (const input of recipe.fluidInputs) {
+          if (input?.id) {
+            getFluidEntry(input.id).recipesAsInput.push(ref);
+          }
+        }
+      }
     }
 
     process.stdout.write(
@@ -342,6 +360,20 @@ async function main() {
   }
 
   console.log(`\n  Total recipes: ${totalRecipes}`);
+
+  // Write fluid recipe index
+  const fluidRecipeIndex: Record<
+    string,
+    { recipesAsOutput: any[]; recipesAsInput: any[] }
+  > = {};
+  for (const [name, entry] of fluidMap) {
+    fluidRecipeIndex[name] = entry;
+  }
+  writeJSON(
+    path.join(DATA_DIR, "fluids-recipe-index.json"),
+    fluidRecipeIndex,
+  );
+  console.log(`  Built fluid recipe index for ${fluidMap.size} fluids`);
 
   // Write machines index
   machines.sort((a, b) => b.recipeCount - a.recipeCount);

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import {
   SavedItem,
   HistoryItem,
@@ -47,7 +47,7 @@ export function useUserData() {
   }, [userData, isLoading]);
 
   // Saved items management
-  const saveItem = (item: Omit<SavedItem, "savedAt">) => {
+  const saveItem = useCallback((item: Omit<SavedItem, "savedAt">) => {
     const savedItem: SavedItem = {
       ...item,
       savedAt: new Date().toISOString(),
@@ -66,23 +66,23 @@ export function useUserData() {
         },
       };
     });
-  };
+  }, []);
 
-  const removeSavedItem = (id: string) => {
+  const removeSavedItem = useCallback((id: string) => {
     setUserData((prev) => ({
       ...prev,
       savedItems: {
         items: prev.savedItems.items.filter((item) => item.id !== id),
       },
     }));
-  };
+  }, []);
 
-  const isSaved = (id: string) => {
+  const isSaved = useCallback((id: string) => {
     return userData.savedItems.items.some((item) => item.id === id);
-  };
+  }, [userData.savedItems.items]);
 
   // View history management
-  const addToHistory = (item: Omit<HistoryItem, "viewedAt">) => {
+  const addToHistory = useCallback((item: Omit<HistoryItem, "viewedAt">) => {
     const historyItem: HistoryItem = {
       ...item,
       viewedAt: new Date().toISOString(),
@@ -98,14 +98,14 @@ export function useUserData() {
         },
       };
     });
-  };
+  }, []);
 
-  const clearHistory = () => {
+  const clearHistory = useCallback(() => {
     setUserData((prev) => ({
       ...prev,
       viewHistory: { items: [] },
     }));
-  };
+  }, []);
 
   return {
     savedItems: userData.savedItems.items,

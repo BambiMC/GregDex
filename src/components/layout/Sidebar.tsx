@@ -136,9 +136,11 @@ const icons: Record<string, React.ReactNode> = {
 export default function Sidebar({
   open,
   onClose,
+  stats,
 }: {
   open: boolean;
   onClose: () => void;
+  stats: { itemCount: number; recipeCount: number; machineCount: number };
 }) {
   const pathname = usePathname();
 
@@ -184,9 +186,9 @@ export default function Sidebar({
         {/* Stats footer */}
         <div className="absolute bottom-0 left-0 right-0 p-4 border-t border-border-default">
           <div className="text-xs text-text-muted space-y-1">
-            <div>47,398 Items</div>
-            <div>246,961 Recipes</div>
-            <div>152 Machines</div>
+            <div>{stats.itemCount.toLocaleString()} Items</div>
+            <div>{stats.recipeCount.toLocaleString()} Recipes</div>
+            <div>{stats.machineCount.toLocaleString()} Machines</div>
           </div>
         </div>
       </aside>

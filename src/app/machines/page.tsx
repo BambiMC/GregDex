@@ -16,9 +16,9 @@ export default function MachinesPage() {
   const [filter, setFilter] = useState("");
 
   useEffect(() => {
-    fetch("/api/machines")
+    fetch("/data/machines.json")
       .then((r) => r.json())
-      .then((d) => setMachines(d.machines || []))
+      .then((d) => setMachines(d))
       .finally(() => setLoading(false));
   }, []);
 

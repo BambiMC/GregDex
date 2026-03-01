@@ -3,6 +3,10 @@
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 
+function encodeId(id: string): string {
+  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+
 interface Material {
   name: string;
   localizedName: string;
@@ -26,9 +30,9 @@ export default function MaterialsPage() {
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
 
   useEffect(() => {
-    fetch("/api/materials")
+    fetch("/data/materials.json")
       .then((r) => r.json())
-      .then((d) => setMaterials(d.materials || []))
+      .then((d) => setMaterials(d))
       .finally(() => setLoading(false));
   }, []);
 
@@ -117,7 +121,7 @@ export default function MaterialsPage() {
                   >
                     <td className="px-3 py-2">
                       <Link
-                        href={`/materials/${mat.name}`}
+                        href={`/materials/${encodeId(mat.name)}`}
                         className="font-medium text-text-primary hover:text-accent-primary transition-colors cursor-pointer"
                       >
                         {mat.localizedName}

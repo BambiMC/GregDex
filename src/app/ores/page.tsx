@@ -55,33 +55,45 @@ export default function OresPage() {
   const [tab, setTab] = useState<"veins" | "small">("veins");
   const [search, setSearch] = useState("");
 
-  // Load all available dimensions on mount
+  // Load all data once from static JSON
+  const [allVeins, setAllVeins] = useState<OreVein[]>([]);
+  const [allSmallOres, setAllSmallOres] = useState<SmallOre[]>([]);
+
   useEffect(() => {
-    fetch("/api/ores")
-      .then((r) => r.json())
-      .then((d) => {
+    Promise.all([
+      fetch("/data/ore-veins.json").then((r) => r.json()),
+      fetch("/data/small-ores.json").then((r) => r.json()),
+    ])
+      .then(([veinsData, smallOresData]) => {
+        setAllVeins(veinsData);
+        setAllSmallOres(smallOresData);
         const dimensions = new Set<string>();
-        [...(d.veins || []), ...(d.smallOres || [])].forEach((item: any) => {
+        [...veinsData, ...smallOresData].forEach((item: any) => {
           item.dimensions?.forEach((dim: string) => dimensions.add(dim));
         });
         setAllDimensions(Array.from(dimensions).sort());
-      });
-  }, []);
-
-  useEffect(() => {
-    setLoading(true);
-    const param =
-      selectedDimensions.length > 0
-        ? `?dimensions=${selectedDimensions.join(",")}`
-        : "";
-    fetch(`/api/ores${param}`)
-      .then((r) => r.json())
-      .then((d) => {
-        setVeins(d.veins || []);
-        setSmallOres(d.smallOres || []);
       })
       .finally(() => setLoading(false));
-  }, [selectedDimensions]);
+  }, []);
+
+  // Filter by selected dimensions client-side
+  useEffect(() => {
+    if (selectedDimensions.length === 0) {
+      setVeins(allVeins);
+      setSmallOres(allSmallOres);
+    } else {
+      setVeins(
+        allVeins.filter((v) =>
+          selectedDimensions.some((d) => v.dimensions.includes(d)),
+        ),
+      );
+      setSmallOres(
+        allSmallOres.filter((o) =>
+          selectedDimensions.some((d) => o.dimensions.includes(d)),
+        ),
+      );
+    }
+  }, [selectedDimensions, allVeins, allSmallOres]);
 
   const filteredVeins = useMemo(() => {
     if (!search) return veins;
