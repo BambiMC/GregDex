@@ -15,7 +15,7 @@ function encodeId(id: string): string {
 export function generateStaticParams() {
   try {
     const species = JSON.parse(
-      readFileSync(join(process.cwd(), "data", "bee-species.json"), "utf8"),
+      readFileSync(join(process.cwd(), "public", "data", "bee-species.json"), "utf8"),
     );
     return species.map((s: { uid: string }) => ({ speciesId: encodeId(s.uid) }));
   } catch {

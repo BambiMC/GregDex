@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import {
   formatEU,
@@ -43,11 +44,39 @@ function createReadableFluidId(fluidId: string): string {
   return fluidId.replace(/\./g, "-");
 }
 
+// Module-level cache for fluid icons — loads once, reuses browser cache
+let fluidIconMap: Map<string, string> | null = null;
+let fluidIconPromise: Promise<Map<string, string>> | null = null;
+function loadFluidIcons(): Promise<Map<string, string>> {
+  if (fluidIconMap) return Promise.resolve(fluidIconMap);
+  if (!fluidIconPromise) {
+    fluidIconPromise = fetch("/data/fluids-index.json")
+      .then((r) => r.json())
+      .then((fluids: { name: string; icon?: string }[]) => {
+        fluidIconMap = new Map(fluids.filter((f) => f.icon).map((f) => [f.name, f.icon!]));
+        return fluidIconMap;
+      })
+      .catch(() => new Map());
+  }
+  return fluidIconPromise;
+}
+
 function FluidSlot({
   fluid,
 }: {
   fluid: { id?: string; name?: string; displayName: string; amount: number };
 }) {
+  const [icon, setIcon] = useState<string | undefined>(fluidIconMap?.get(fluid.id || fluid.name || "") );
+  const [imgFailed, setImgFailed] = useState(false);
+
+  useEffect(() => {
+    if (icon !== undefined) return;
+    loadFluidIcons().then((map) => {
+      const fluidId = fluid.id || fluid.name;
+      if (fluidId) setIcon(map.get(fluidId));
+    });
+  }, [fluid.id, fluid.name, icon]);
+
   // Get the fluid identifier (id or name)
   const fluidId = fluid.id || fluid.name;
 
@@ -68,9 +97,21 @@ function FluidSlot({
 
   const fluidContent = (
     <div className="item-slot !w-10 !h-10 bg-accent-secondary/10 border-accent-secondary/30 group/slot relative">
-      <span className="text-[9px] text-accent-secondary">
-        {fluid.displayName.substring(0, 2)}
-      </span>
+      {icon && !imgFailed ? (
+        <img
+          src={`/icons/items/${icon}`}
+          alt={fluid.displayName}
+          width={32}
+          height={32}
+          className="pixelated w-full h-full object-contain"
+          draggable={false}
+          onError={() => setImgFailed(true)}
+        />
+      ) : (
+        <span className="text-[9px] text-accent-secondary">
+          {fluid.displayName.substring(0, 2)}
+        </span>
+      )}
       <span className="absolute -bottom-0.5 -right-0.5 text-[8px] font-bold text-accent-secondary bg-bg-primary px-0.5 rounded">
         {fluid.amount}L
       </span>

@@ -1,6 +1,6 @@
 nei_export*/
 betterquesting*/
-data/
+data*/
 node_modules/
 .next/
 out/

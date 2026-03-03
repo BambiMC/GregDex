@@ -23,7 +23,7 @@ const NEI_DIR = (() => {
   }
   return path.join(ROOT_DIR, match);
 })();
-const DATA_DIR = path.join(__dirname, "..", "data");
+const DATA_DIR = path.join(__dirname, "..", "public", "data");
 
 function ensureDir(dir: string) {
   fs.mkdirSync(dir, { recursive: true });
@@ -510,6 +510,43 @@ async function main() {
         copyRecursive(neiIconsDir, publicIconsDir);
       }
     }
+  }
+
+  // Build fluid icon index by scanning available icons
+  const finalIconsDir = fs.existsSync(publicIconsDir)
+    ? publicIconsDir
+    : fs.existsSync(path.join(NEI_DIR, "icons"))
+      ? path.join(NEI_DIR, "icons")
+      : null;
+  if (finalIconsDir) {
+    const allIcons = fs.readdirSync(finalIconsDir).filter((f) => f.endsWith(".png"));
+    // Build lookup: itemSubname.toLowerCase() -> iconFilename
+    const iconBySubname = new Map<string, string>();
+    for (const icon of allIcons) {
+      const withoutExt = icon.slice(0, -4);
+      const lastUnder = withoutExt.lastIndexOf("_");
+      if (lastUnder === -1) continue;
+      const withoutMeta = withoutExt.slice(0, lastUnder);
+      const firstUnder = withoutMeta.indexOf("_");
+      if (firstUnder === -1) continue;
+      const itemSubname = withoutMeta.slice(firstUnder + 1).toLowerCase();
+      iconBySubname.set(itemSubname, icon);
+    }
+    function findFluidIcon(fluidName: string): string | undefined {
+      const fn = fluidName.toLowerCase();
+      if (iconBySubname.has(fn)) return iconBySubname.get(fn);
+      for (const prefix of ["fluid.", "liquid."]) {
+        if (iconBySubname.has(prefix + fn)) return iconBySubname.get(prefix + fn);
+      }
+      return undefined;
+    }
+    const fluidsIndexWithIcons = fluidsIndex.map((f) => {
+      const icon = findFluidIcon(f.name);
+      return icon ? { ...f, icon } : f;
+    });
+    writeJSON(path.join(DATA_DIR, "fluids-index.json"), fluidsIndexWithIcons);
+    const iconCount = fluidsIndexWithIcons.filter((f: any) => f.icon).length;
+    console.log(`  Fluid icons resolved: ${iconCount}/${fluidsIndex.length}`);
   }
 
   console.log("\n=== Processing complete! ===");

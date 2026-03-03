@@ -1,11 +1,12 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import Link from "next/link";
 
 interface FluidEntry {
   name: string;
   displayName: string;
+  icon?: string;
   type: "fluid";
   fluidType?: "fluid" | "gas" | "molten" | "plasma";
 }
@@ -47,23 +48,31 @@ function getFluidTypeColor(
   }
 }
 
-function getFluidIcon(fluid: FluidEntry): React.ReactElement {
+function FluidIcon({ fluid }: { fluid: FluidEntry }): React.ReactElement {
+  const [failed, setFailed] = React.useState(false);
+  if (fluid.icon && !failed) {
+    return (
+      <img
+        src={`/icons/items/${fluid.icon}`}
+        alt={fluid.displayName}
+        width={32}
+        height={32}
+        className="pixelated w-full h-full object-contain"
+        draggable={false}
+        onError={() => setFailed(true)}
+      />
+    );
+  }
   const fluidType = fluid.fluidType || getFluidType(fluid.name);
   const colors = {
     plasma: "bg-accent-purple/10 border-accent-purple/30 text-accent-purple",
     gas: "bg-accent-blue/10 border-accent-blue/30 text-accent-blue",
     molten: "bg-accent-danger/10 border-accent-danger/30 text-accent-danger",
-    fluid:
-      "bg-accent-secondary/10 border-accent-secondary/30 text-accent-secondary",
+    fluid: "bg-accent-secondary/10 border-accent-secondary/30 text-accent-secondary",
   };
-
   return (
-    <div
-      className={`w-full h-full ${colors[fluidType]} border rounded flex items-center justify-center`}
-    >
-      <span className="text-[10px] font-bold">
-        {fluid.displayName.substring(0, 2)}
-      </span>
+    <div className={`w-full h-full ${colors[fluidType]} border rounded flex items-center justify-center`}>
+      <span className="text-[10px] font-bold">{fluid.displayName.substring(0, 2)}</span>
     </div>
   );
 }
@@ -83,7 +92,7 @@ export default function FluidsGasesPage() {
   useEffect(() => {
     fetch("/data/fluids-index.json")
       .then((r) => r.json())
-      .then((data: { name: string; displayName: string }[]) => {
+      .then((data: { name: string; displayName: string; icon?: string }[]) => {
         setAllFluids(
           data.map((f) => ({
             ...f,
@@ -181,7 +190,7 @@ export default function FluidsGasesPage() {
                 className="flex items-center gap-3 px-3 py-2.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"
               >
                 <div className="item-slot !w-8 !h-8 shrink-0 group-hover:border-accent-primary">
-                  {getFluidIcon(fluid)}
+                  <FluidIcon fluid={fluid} />
                 </div>
                 <div className="min-w-0 flex-1">
                   <div className="text-sm text-text-primary truncate group-hover:text-accent-primary transition-colors">

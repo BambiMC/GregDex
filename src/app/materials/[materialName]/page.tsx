@@ -15,7 +15,7 @@ function encodeId(id: string): string {
 export function generateStaticParams() {
   try {
     const materials = JSON.parse(
-      readFileSync(join(process.cwd(), "data", "materials.json"), "utf8"),
+      readFileSync(join(process.cwd(), "public", "data", "materials.json"), "utf8"),
     );
     return materials.map((m: { name: string }) => ({
       materialName: encodeId(m.name),

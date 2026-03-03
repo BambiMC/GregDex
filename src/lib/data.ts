@@ -7,7 +7,7 @@ function getDataDir(version?: string): string {
     ? GTNH_VERSIONS.find((v) => v.id === version)
     : GTNH_VERSIONS.find((v) => v.isDefault);
 
-  return path.join(process.cwd(), versionConfig?.dataPath || "data");
+  return path.join(process.cwd(), versionConfig?.dataPath || "public/data");
 }
 
 const cache = new Map<string, unknown>();

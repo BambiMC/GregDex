@@ -12,30 +12,20 @@ Place your zip exports in the project root, then run:
 npm run process-data
 ```
 
-This reads `betterquesting_*.zip` and `nei_export_*.zip` and outputs JSON to the `data/` directory, including:
-
+This reads `betterquesting_*.zip` and `nei_export_*.zip` and outputs JSON to `public/data/`, including:
 - `items-index.json`, `fluids-index.json`, `machines.json`, `materials.json`
 - `items/` (47K files), `fluids/` (1381 files), `recipes/` (chunked by machine)
 - `fluids-recipe-index.json` (fluid → recipe refs index)
 - `bee-species.json`, `bee-mutations.json`, `ore-veins.json`, `small-ores.json`, `blood-magic.json`
 
-### 2. Ensure the public/data symlink exists
-
-The build copies everything under `public/` into `out/`. A symlink makes the data directory available as static files:
+### 2. Clean Build
 
 ```bash
-cd public && ln -sf ../data data
-```
-
-(Only needed once. Already created if `public/data` exists.)
-
-### 3. Build
-
-```bash
-npm install       # install dependencies
-rm -rf out
-clear
-npm run build     # produces the out/ directory
+npm install       
+rm -rf out public/data public/icons/items nei_export betterquestion
+npm run process-data
+npm run build
+npx serve out
 ```
 
 ### 4. Serve

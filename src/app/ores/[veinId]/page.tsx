@@ -15,8 +15,8 @@ function encodeId(id: string): string {
 export function generateStaticParams() {
   try {
     const [veins, smallOres] = [
-      JSON.parse(readFileSync(join(process.cwd(), "data", "ore-veins.json"), "utf8")),
-      JSON.parse(readFileSync(join(process.cwd(), "data", "small-ores.json"), "utf8")),
+      JSON.parse(readFileSync(join(process.cwd(), "public", "data", "ore-veins.json"), "utf8")),
+      JSON.parse(readFileSync(join(process.cwd(), "public", "data", "small-ores.json"), "utf8")),
     ];
     const ids = new Set<string>();
     [...veins, ...smallOres].forEach((item: { name: string }) =>

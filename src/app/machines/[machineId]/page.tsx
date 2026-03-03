@@ -7,7 +7,7 @@ export const dynamicParams = false;
 export function generateStaticParams() {
   try {
     const machines = JSON.parse(
-      readFileSync(join(process.cwd(), "data", "machines.json"), "utf8"),
+      readFileSync(join(process.cwd(), "public", "data", "machines.json"), "utf8"),
     );
     return machines.map((m: { id: string }) => ({ machineId: m.id }));
   } catch {

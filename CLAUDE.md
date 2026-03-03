@@ -21,12 +21,9 @@ Run these in order when setting up or updating data:
 ```bash
 # Step 1: Process data from zip exports (run once, or whenever exports change)
 npm run process-data     # Reads betterquesting_*.zip and nei_export_*.zip
-                         # Outputs to data/ directory (items, fluids, recipes, indices)
+                         # Outputs to public/data/ directory (items, fluids, recipes, indices)
 
-# Step 2: Ensure public/data symlink exists (one-time setup)
-# cd public && ln -sf ../data data
-
-# Step 3: Development or build
+# Step 2: Development or build
 # npm run dev              # Start development server on http://localhost:3000
 npm run build            # Build static output to out/ directory
 
@@ -43,7 +40,7 @@ It is not needed to run `npm run dev`, because multiple agents can work on the s
 
 ### Data Organization
 
-Data is stored as JSON files in the `data/` directory:
+Data is stored as JSON files in the `public/data/` directory:
 
 - **items/**: Individual item files (one file per item, named with base64url-encoded item ID)
 - **fluids/**: Individual fluid files
@@ -61,7 +58,7 @@ Data is stored as JSON files in the `data/` directory:
 
 The app uses `output: "export"` in `next.config.ts` — there are **no server-side API routes at runtime**. All data is served as static JSON files:
 
-- A `public/data → ../data` symlink causes `npm run build` to copy the entire `data/` directory into `out/data/`
+- Data lives directly in `public/data/`, so `npm run build` copies it into `out/data/` automatically
 - All pages fetch data client-side from `/data/*.json` URLs
 - Dynamic route shells are pre-rendered with `generateStaticParams()` returning a placeholder; actual data is loaded client-side
 - Item icons are in `public/icons/items/` (47K PNGs, served statically from `out/icons/items/`)
@@ -161,8 +158,7 @@ Global search (Ctrl+K) is fully client-side:
 
 ## Deployment & Data Files
 
-- **Data files**: Git-ignored, stored in `data/` directory (from zips or processed locally)
-- **public/data**: Symlink to `../data` — causes build to copy data into `out/data/`
+- **Data files**: Git-ignored, stored in `public/data/` (output of `npm run process-data`)
 - **out/**: Static build output — deploy this directory to any static host
 - **public/icons/items**: Item icon images (git-ignored, generated from zip exports)
 
@@ -171,6 +167,5 @@ Global search (Ctrl+K) is fully client-side:
 - The app is **fully static** — no Node.js server needed at runtime
 - Deploy `out/` to any static file server (Vercel, Netlify, nginx, GitHub Pages, etc.)
 - `npm run process-data` must be run whenever data exports change, before `npm run build`
-- `public/data → ../data` symlink must exist before running `npm run build`
 - Data is read-only at runtime; all processing happens at build/data-processing time
 - Use VersionContext when accessing version-aware data in components

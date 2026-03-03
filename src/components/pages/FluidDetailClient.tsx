@@ -7,6 +7,28 @@ import SaveButton from "@/components/ui/SaveButton";
 import { useUserData } from "@/hooks/useUserData";
 import { useVersion } from "@/contexts/VersionContext";
 
+function FluidIcon({ name, icon, size = 32 }: { name: string; icon?: string; size?: number }) {
+  const [failed, setFailed] = useState(false);
+  if (icon && !failed) {
+    return (
+      <img
+        src={`/icons/items/${icon}`}
+        alt={name}
+        width={size}
+        height={size}
+        className="pixelated w-full h-full object-contain"
+        draggable={false}
+        onError={() => setFailed(true)}
+      />
+    );
+  }
+  return (
+    <div className="w-full h-full bg-bg-secondary rounded border border-border-default flex items-center justify-center">
+      <span className="text-xs text-text-muted">💧</span>
+    </div>
+  );
+}
+
 export default function FluidDetailPage({
   params,
 }: {
@@ -27,7 +49,7 @@ export default function FluidDetailPage({
           fetch("/data/fluids-recipe-index.json"),
         ]);
         if (!fluidsRes.ok) return;
-        const allFluids: { name: string; displayName: string }[] = await fluidsRes.json();
+        const allFluids: { name: string; displayName: string; icon?: string }[] = await fluidsRes.json();
         const fluid = allFluids.find(
           (f) => f.name.replace(/\./g, "-") === fluidId || f.name === fluidId,
         );
@@ -61,7 +83,7 @@ export default function FluidDetailPage({
         const inputRecipes = inputRefs.map(getRecipe).filter(Boolean);
 
         setData({
-          fluid,
+          fluid: fluid!,
           outputRecipes,
           inputRecipes,
           totalOutputRecipes: refs.recipesAsOutput.length,
@@ -135,9 +157,7 @@ export default function FluidDetailPage({
           <div className="flex items-start justify-between gap-4">
             <div className="flex items-start gap-4">
               <div className="item-slot !w-12 !h-12 shrink-0">
-                <div className="w-full h-full bg-bg-secondary rounded border border-border-default flex items-center justify-center">
-                  <span className="text-xs text-text-muted font-mono">💧</span>
-                </div>
+                <FluidIcon name={fluid.name} icon={fluid.icon} size={48} />
               </div>
               <div>
                 <h1 className="text-xl font-bold text-text-primary">

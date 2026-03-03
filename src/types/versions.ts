@@ -9,7 +9,7 @@ export const GTNH_VERSIONS: GTNHVersion[] = [
   {
     id: "2.7.4",
     displayName: "GTNH 2.7.4",
-    dataPath: "data",
+    dataPath: "public/data",
     isDefault: true,
   },
 ];

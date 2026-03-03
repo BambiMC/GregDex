@@ -7,7 +7,7 @@ export const dynamicParams = false;
 export function generateStaticParams() {
   try {
     const items = JSON.parse(
-      readFileSync(join(process.cwd(), "data", "items-index.json"), "utf8"),
+      readFileSync(join(process.cwd(), "public", "data", "items-index.json"), "utf8"),
     );
     return items.map((item: { id: string }) => ({
       itemId: item.id.replace(/:/g, "-"),

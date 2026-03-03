@@ -7,7 +7,7 @@ export const dynamicParams = false;
 export function generateStaticParams() {
   try {
     const fluids = JSON.parse(
-      readFileSync(join(process.cwd(), "data", "fluids-index.json"), "utf8"),
+      readFileSync(join(process.cwd(), "public", "data", "fluids-index.json"), "utf8"),
     );
     return fluids.map((f: { name: string }) => ({
       fluidId: f.name.replace(/\./g, "-"),
