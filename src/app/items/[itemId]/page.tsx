@@ -1,6 +1,7 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import ItemDetailClient from "@/components/pages/ItemDetailClient";
+import { createReadableItemId } from "@/lib/utils";
 
 export const dynamicParams = false;
 
@@ -10,7 +11,7 @@ export function generateStaticParams() {
       readFileSync(join(process.cwd(), "public", "data", "items-index.json"), "utf8"),
     );
     return items.map((item: { id: string }) => ({
-      itemId: item.id.replace(/:/g, "-"),
+      itemId: createReadableItemId(item.id),
     }));
   } catch {
     return [{ itemId: "_" }];

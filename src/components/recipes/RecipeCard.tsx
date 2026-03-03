@@ -11,10 +11,7 @@ import {
 import ItemIcon from "@/components/ItemIcon";
 import Tooltip from "@/components/ui/Tooltip";
 import { createReadableItemId } from "@/lib/utils";
-
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+import { encodeId } from "../../lib/encoding";
 
 function ItemSlot({
   item,
@@ -66,7 +63,7 @@ function FluidSlot({
 }: {
   fluid: { id?: string; name?: string; displayName: string; amount: number };
 }) {
-  const [icon, setIcon] = useState<string | undefined>(fluidIconMap?.get(fluid.id || fluid.name || "") );
+  const [icon, setIcon] = useState<string | undefined>(fluidIconMap?.get(fluid.id || fluid.name || ""));
   const [imgFailed, setImgFailed] = useState(false);
 
   useEffect(() => {

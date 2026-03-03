@@ -2,10 +2,7 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
-
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+import { encodeId } from "../../lib/encoding";
 
 function getBeeDisplayName(uid: string): string {
   // Extract clean name from uid like "forestry.speciesRural" -> "Rural"
@@ -225,15 +222,13 @@ export default function BeeSpeciesDetailPage({
                     <div className="flex items-center gap-2 flex-wrap">
                       <Link
                         href={`/bees/${encodeId(mutation.parent1Uid)}`}
-                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${
-                          mutation.parent1Uid === species.uid
+                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${mutation.parent1Uid === species.uid
                             ? "bg-accent-success/10 border-accent-success/20"
                             : "bg-yellow-500/10 border-yellow-500/20"
-                        }`}
+                          }`}
                       >
-                        <div className={`text-sm font-medium ${
-                          mutation.parent1Uid === species.uid ? "text-accent-success" : "text-yellow-400"
-                        }`}>
+                        <div className={`text-sm font-medium ${mutation.parent1Uid === species.uid ? "text-accent-success" : "text-yellow-400"
+                          }`}>
                           {getBeeDisplayName(mutation.parent1Uid)}
                         </div>
                         <div className="text-[10px] text-text-muted">{mutation.parent1Uid}</div>
@@ -243,15 +238,13 @@ export default function BeeSpeciesDetailPage({
 
                       <Link
                         href={`/bees/${encodeId(mutation.parent2Uid)}`}
-                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${
-                          mutation.parent2Uid === species.uid
+                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${mutation.parent2Uid === species.uid
                             ? "bg-accent-success/10 border-accent-success/20"
                             : "bg-yellow-500/10 border-yellow-500/20"
-                        }`}
+                          }`}
                       >
-                        <div className={`text-sm font-medium ${
-                          mutation.parent2Uid === species.uid ? "text-accent-success" : "text-yellow-400"
-                        }`}>
+                        <div className={`text-sm font-medium ${mutation.parent2Uid === species.uid ? "text-accent-success" : "text-yellow-400"
+                          }`}>
                           {getBeeDisplayName(mutation.parent2Uid)}
                         </div>
                         <div className="text-[10px] text-text-muted">{mutation.parent2Uid}</div>
@@ -296,12 +289,12 @@ export default function BeeSpeciesDetailPage({
 
           {/* No mutations */}
           {mutations.asOffspring.length === 0 &&
-           mutations.asParent1.length === 0 &&
-           mutations.asParent2.length === 0 && (
-            <div className="text-center py-8 text-text-muted">
-              This species is not involved in any known breeding mutations
-            </div>
-          )}
+            mutations.asParent1.length === 0 &&
+            mutations.asParent2.length === 0 && (
+              <div className="text-center py-8 text-text-muted">
+                This species is not involved in any known breeding mutations
+              </div>
+            )}
         </div>
       </div>
     </div>

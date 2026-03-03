@@ -7,10 +7,7 @@ import ItemIcon from "@/components/ItemIcon";
 import SaveButton from "@/components/ui/SaveButton";
 import { useUserData } from "@/hooks/useUserData";
 import { useVersion } from "@/contexts/VersionContext";
-
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+import { encodeId } from "../../lib/encoding";
 
 function parseReadableItemId(readableId: string): string {
   return readableId.replace(/-/g, ":");
@@ -192,21 +189,19 @@ export default function ItemDetailPage({
         <div className="flex gap-1 mb-4 border-b border-border-default">
           <button
             onClick={() => setActiveTab("output")}
-            className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${
-              activeTab === "output"
+            className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${activeTab === "output"
                 ? "border-accent-primary text-accent-primary"
                 : "border-transparent text-text-muted hover:text-text-secondary"
-            }`}
+              }`}
           >
             Recipes ({totalOutputRecipes})
           </button>
           <button
             onClick={() => setActiveTab("input")}
-            className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${
-              activeTab === "input"
+            className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${activeTab === "input"
                 ? "border-accent-primary text-accent-primary"
                 : "border-transparent text-text-muted hover:text-text-secondary"
-            }`}
+              }`}
           >
             Used In ({totalInputRecipes})
           </button>

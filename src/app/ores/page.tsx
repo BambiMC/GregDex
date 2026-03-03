@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
+import { encodeId } from "../../lib/encoding";
 
 // Important dimensions that get quick filter buttons
 const IMPORTANT_DIMENSIONS = [
@@ -42,9 +43,7 @@ interface SmallOre {
   dimensions: string[];
 }
 
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+
 
 export default function OresPage() {
   const [veins, setVeins] = useState<OreVein[]>([]);
@@ -158,11 +157,10 @@ export default function OresPage() {
           <div className="flex flex-wrap gap-1 mb-3">
             <button
               onClick={clearAllDimensions}
-              className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                selectedDimensions.length === 0
+              className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${selectedDimensions.length === 0
                   ? "bg-accent-primary/15 text-accent-primary border border-accent-primary/30"
                   : "bg-bg-tertiary text-text-muted border border-border-default hover:bg-bg-elevated"
-              }`}
+                }`}
             >
               All Dimensions
             </button>
@@ -170,12 +168,11 @@ export default function OresPage() {
               <button
                 key={dim.key}
                 onClick={() => setQuickFilter(dim.key)}
-                className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                  selectedDimensions.length === 1 &&
-                  selectedDimensions[0] === dim.key
+                className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${selectedDimensions.length === 1 &&
+                    selectedDimensions[0] === dim.key
                     ? "bg-accent-primary/15 text-accent-primary border border-accent-primary/30"
                     : "bg-bg-tertiary text-text-muted border border-border-default hover:bg-bg-elevated"
-                }`}
+                  }`}
               >
                 {dim.label}
               </button>
@@ -237,21 +234,19 @@ export default function OresPage() {
           <div className="flex gap-1">
             <button
               onClick={() => setTab("veins")}
-              className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                tab === "veins"
+              className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${tab === "veins"
                   ? "bg-accent-secondary/15 text-accent-secondary border border-accent-secondary/30"
                   : "bg-bg-tertiary text-text-muted border border-border-default"
-              }`}
+                }`}
             >
               Veins ({filteredVeins.length})
             </button>
             <button
               onClick={() => setTab("small")}
-              className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                tab === "small"
+              className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${tab === "small"
                   ? "bg-accent-secondary/15 text-accent-secondary border border-accent-secondary/30"
                   : "bg-bg-tertiary text-text-muted border border-border-default"
-              }`}
+                }`}
             >
               Small ({filteredSmall.length})
             </button>

@@ -3,13 +3,14 @@
 export function createReadableItemId(id: string): string {
   // Convert item IDs like "gregtech:gt.metaitem.01:32741" to readable format
   // Replace colons with hyphens, but keep dots as dots
-  return id.replace(/:/g, "-");
+  // Also replace pipe characters which can break filesystem paths on Windows
+  return id.replace(/:/g, "-").replace(/\|/g, "_");
 }
 
 export function parseReadableItemId(readableId: string): string {
   // Convert readable format back to original item ID
   // Replace hyphens back to colons
-  return readableId.replace(/-/g, ":");
+  return readableId.replace(/-/g, ":").replace(/_/g, "|");
 }
 
 export function isReadableItemId(id: string): boolean {

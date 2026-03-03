@@ -2,10 +2,7 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
-
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+import { encodeId } from "../../lib/encoding";
 
 function getVeinDisplayName(name: string): string {
   return name.replace("ore.mix.", "");

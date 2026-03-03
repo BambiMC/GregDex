@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { createReadableItemId } from "@/lib/utils";
 import { useUserData } from "@/hooks/useUserData";
 import { SavedItem } from "@/types/user-data";
 import ItemIcon from "@/components/ItemIcon";
@@ -8,9 +9,9 @@ import ItemIcon from "@/components/ItemIcon";
 function getItemLink(item: SavedItem): string {
   switch (item.type) {
     case "item":
-      return `/items/${item.id.replace(/:/g, "-")}`;
+      return `/items/${createReadableItemId(item.id)}`;
     case "fluid":
-      return `/fluids-gases/${item.id}`;
+      return `/fluids-gases/${createReadableItemId(item.id.replace(/\./g, "-"))}`;
     case "recipe":
       if (item.metadata?.machine) {
         return `/recipes/${item.metadata.machine}?recipe=${item.id}`;

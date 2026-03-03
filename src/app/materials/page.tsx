@@ -2,10 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
-
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+import { encodeId } from "../../lib/encoding";
 
 interface Material {
   name: string;

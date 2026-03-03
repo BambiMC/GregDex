@@ -1,16 +1,9 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import OreVeinDetailClient from "@/components/pages/OreVeinDetailClient";
+import { encodeId } from "../../../lib/encoding";
 
 export const dynamicParams = false;
-
-function encodeId(id: string): string {
-  return Buffer.from(id)
-    .toString("base64")
-    .replace(/\+/g, "-")
-    .replace(/\//g, "_")
-    .replace(/=+$/, "");
-}
 
 export function generateStaticParams() {
   try {

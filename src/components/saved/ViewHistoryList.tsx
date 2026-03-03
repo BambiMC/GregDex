@@ -1,6 +1,7 @@
 "use client";
 
 import Link from 'next/link';
+import { createReadableItemId } from '@/lib/utils';
 import { useUserData } from '@/hooks/useUserData';
 import { HistoryItem } from '@/types/user-data';
 import ItemIcon from '@/components/ItemIcon';
@@ -8,9 +9,9 @@ import ItemIcon from '@/components/ItemIcon';
 function getItemLink(item: HistoryItem): string {
   switch (item.type) {
     case 'item':
-      return `/items/${item.id.replace(/:/g, '-')}`;
+      return `/items/${createReadableItemId(item.id)}`;
     case 'fluid':
-      return `/fluids-gases/${item.id}`;
+      return `/fluids-gases/${createReadableItemId(item.id.replace(/\./g, '-'))}`;
     case 'recipe':
       if (item.metadata?.machine) {
         return `/recipes/${item.metadata.machine}?recipe=${item.id}`;
@@ -51,7 +52,7 @@ function formatDate(dateString: string): string {
   if (diffMinutes < 60) return `Vor ${diffMinutes} ${diffMinutes === 1 ? 'Minute' : 'Minuten'}`;
   if (diffHours < 24) return `Vor ${diffHours} ${diffHours === 1 ? 'Stunde' : 'Stunden'}`;
   if (diffDays < 7) return `Vor ${diffDays} ${diffDays === 1 ? 'Tag' : 'Tagen'}`;
-  
+
   return date.toLocaleDateString('de-DE', {
     day: '2-digit',
     month: '2-digit',

@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
+import { encodeId } from "../../lib/encoding";
 
 interface Mutation {
   parent1Uid: string;
@@ -24,9 +25,7 @@ function getBeeDisplayName(uid: string): string {
   return name.replace(/([a-z])([A-Z])/g, "$1 $2") || uid;
 }
 
-function encodeId(id: string): string {
-  return btoa(id).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-}
+
 
 export default function BeesPage() {
   const [mutations, setMutations] = useState<Mutation[]>([]);

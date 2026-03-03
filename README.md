@@ -13,6 +13,7 @@ npm run process-data
 ```
 
 This reads `betterquesting_*.zip` and `nei_export_*.zip` and outputs JSON to `public/data/`, including:
+
 - `items-index.json`, `fluids-index.json`, `machines.json`, `materials.json`
 - `items/` (47K files), `fluids/` (1381 files), `recipes/` (chunked by machine)
 - `fluids-recipe-index.json` (fluid → recipe refs index)
@@ -20,9 +21,21 @@ This reads `betterquesting_*.zip` and `nei_export_*.zip` and outputs JSON to `pu
 
 ### 2. Clean Build
 
+Mac
+
 ```bash
-npm install       
+npm install
 rm -rf out public/data public/icons/items nei_export betterquestion
+npm run process-data
+npm run build
+npx serve out
+```
+
+Windows PowerShell
+
+```bash
+npm install
+Remove-Item -Recurse -Force out, public/data, public/icons/items, nei_export, betterquestion
 npm run process-data
 npm run build
 npx serve out
