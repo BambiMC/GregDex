@@ -92,7 +92,7 @@ export default function HomePage() {
           Greg<span className="text-accent-primary">Dex</span>
         </h1>
         <p className="text-text-secondary text-sm sm:text-base max-w-md mx-auto">
-          The complete item and recipe database for GregTech: New Horizons
+          The "mostly" complete item and recipe database for GregTech: New Horizons
         </p>
       </div>
 

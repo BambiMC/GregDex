@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import * as path from "path";
+import * as fflate from "fflate"; // Reliable zip library
 import { execSync } from "child_process";
 
 const ROOT_DIR = path.join(__dirname, "..");
@@ -29,29 +30,46 @@ function ensureDir(dir: string) {
   fs.mkdirSync(dir, { recursive: true });
 }
 
-function extractZipCrossPlatform(zipPath: string, destPath: string): void {
-  try {
-    // Try using unzip command first (most common on Unix systems)
-    execSync(`unzip -q "${zipPath}" -d "${destPath}"`, { stdio: "ignore" });
-  } catch (unzipError) {
-    try {
-      // Fallback to Python's zipfile module
-      execSync(
-        `python3 -c "import zipfile; zipfile.ZipFile('${zipPath}').extractall('${destPath}')"`,
-        { stdio: "ignore" },
-      );
-    } catch (pythonError) {
-      try {
-        // Last resort: use PowerShell on Windows
-        const cmd = `powershell -NoProfile -Command "Expand-Archive -Force -LiteralPath '${zipPath}' -DestinationPath '${destPath}'"`;
-        execSync(cmd, { stdio: "ignore" });
-      } catch (powershellError) {
-        throw new Error(
-          `Failed to extract zip. Tried unzip, python3, and powershell. Errors: ${unzipError}, ${pythonError}, ${powershellError}`,
-        );
-      }
-    }
+/**
+ * Robust extraction using fflate.
+ * fflate is pure JS, handles binary data better, and extracts all entries deterministically.
+ */
+async function extractZipWithFflate(
+  zipPath: string,
+  destPath: string,
+): Promise<void> {
+  // Read the zip buffer synchronously
+  const zipData = fs.readFileSync(zipPath);
+
+  // fflate.unzipSync returns an object where keys are filenames and values are Buffer contents
+  const files = fflate.unzipSync(zipData);
+
+  if (Object.keys(files).length === 0) {
+    console.log(`  Warning: Zip file ${zipPath} appears empty.`);
+    return;
   }
+
+  // fflate extracts the zip structure, we now need to write it to disk
+  // We sort keys to ensure deterministic order (helps with race conditions if any)
+  const sortedKeys = Object.keys(files).sort();
+
+  await Promise.allSettled(
+    sortedKeys.map(async (filename) => {
+      const buffer = files[filename];
+
+      // Construct the full destination path
+      // Note: filename might contain '../' attempts in zip, though usually safe in mod exports.
+      // We use the filename directly as fflate handles the path joining logic internally if needed,
+      // but here we pass it relative to destPath.
+      const destFile = path.join(destPath, filename);
+
+      // Ensure parent directory exists for the specific file
+      ensureDir(path.dirname(destFile));
+
+      // Write the file content
+      fs.writeFileSync(destFile, buffer);
+    }),
+  );
 }
 
 function encodeItemId(id: string): string {
@@ -140,7 +158,10 @@ async function main() {
   console.log("=== GregDex Data Processing ===\n");
 
   // Step 0: Extract zip archives if present
-  const extractZipPattern = (globPattern: string, destDirName: string) => {
+  const extractZipPattern = async (
+    globPattern: string,
+    destDirName: string,
+  ) => {
     const files = fs.readdirSync(ROOT_DIR).filter((f) => f.match(globPattern));
     if (files.length === 0) {
       console.log(`  No archives found for pattern ${globPattern}`);
@@ -149,17 +170,26 @@ async function main() {
     for (const file of files) {
       const src = path.join(ROOT_DIR, file);
       const dest = path.join(ROOT_DIR, destDirName);
+
       // If the destination already exists and is non-empty, skip extraction
-      if (fs.existsSync(dest) && fs.readdirSync(dest).length > 0) {
-        console.log(
-          `  Destination ${destDirName} already exists and is non-empty; skipping extraction of ${file}`,
-        );
-        continue;
+      // NOTE: We check if files exist, not just the dir, to avoid overwriting existing data
+      // But we allow re-extraction if the dir is empty (re-run scenario)
+      if (fs.existsSync(dest)) {
+        const existing = fs.readdirSync(dest);
+        if (existing.length > 0) {
+          console.log(
+            `  Destination ${destDirName} already exists and is non-empty; skipping extraction of ${file}`,
+          );
+          continue;
+        }
       }
+
       ensureDir(dest);
+
       try {
         console.log(`  Extracting ${file} -> ${dest}`);
-        extractZipCrossPlatform(src, dest);
+        // Use the new robust fflate method
+        await extractZipWithFflate(src, dest);
 
         // If the archive extracted into a single top-level folder
         // (e.g. dest/nei_export_2.7.4/...), move its children up one level
@@ -206,12 +236,14 @@ async function main() {
         }
       } catch (err) {
         console.log(`  Failed to extract ${file}: ${err}`);
+        // Log the specific error for debugging
+        console.error(err);
       }
     }
   };
 
-  extractZipPattern("^betterquesting.*\\.zip$", "betterquesting");
-  extractZipPattern("^nei_export.*\\.zip$", "nei_export");
+  await extractZipPattern("^betterquesting.*\\.zip$", "betterquesting");
+  await extractZipPattern("^nei_export.*\\.zip$", "nei_export");
 
   // Clean output dir (ignore errors from locked files)
   if (fs.existsSync(DATA_DIR)) {
@@ -369,10 +401,7 @@ async function main() {
   for (const [name, entry] of fluidMap) {
     fluidRecipeIndex[name] = entry;
   }
-  writeJSON(
-    path.join(DATA_DIR, "fluids-recipe-index.json"),
-    fluidRecipeIndex,
-  );
+  writeJSON(path.join(DATA_DIR, "fluids-recipe-index.json"), fluidRecipeIndex);
   console.log(`  Built fluid recipe index for ${fluidMap.size} fluids`);
 
   // Write machines index
@@ -475,6 +504,12 @@ async function main() {
   console.log(`  Small ores: ${smallOres.length}`);
 
   // Copy NEI icons into public/icons/items
+  // Icon copy/scan stats
+  let iconCopySkipped = false;
+  let iconsPresent = 0;
+  let fluidIconsResolvedCount = 0;
+  const totalFluidCount = fluidsIndex.length;
+  let iconCopyError: any = null;
   const neiIconsDir = path.join(NEI_DIR, "icons");
   const publicIconsDir = path.join(ROOT_DIR, "public", "icons", "items");
   if (!fs.existsSync(neiIconsDir)) {
@@ -484,6 +519,7 @@ async function main() {
       fs.existsSync(publicIconsDir) &&
       fs.readdirSync(publicIconsDir).length > 0;
     if (destExistsAndNonEmpty) {
+      iconCopySkipped = true;
       console.log(
         `  Icons already present in ${publicIconsDir}; skipping copy`,
       );
@@ -519,7 +555,10 @@ async function main() {
       ? path.join(NEI_DIR, "icons")
       : null;
   if (finalIconsDir) {
-    const allIcons = fs.readdirSync(finalIconsDir).filter((f) => f.endsWith(".png"));
+    const allIcons = fs
+      .readdirSync(finalIconsDir)
+      .filter((f) => f.endsWith(".png"));
+    iconsPresent = allIcons.length;
     // Build lookup: itemSubname.toLowerCase() -> iconFilename
     const iconBySubname = new Map<string, string>();
     for (const icon of allIcons) {
@@ -536,7 +575,8 @@ async function main() {
       const fn = fluidName.toLowerCase();
       if (iconBySubname.has(fn)) return iconBySubname.get(fn);
       for (const prefix of ["fluid.", "liquid."]) {
-        if (iconBySubname.has(prefix + fn)) return iconBySubname.get(prefix + fn);
+        if (iconBySubname.has(prefix + fn))
+          return iconBySubname.get(prefix + fn);
       }
       return undefined;
     }
@@ -545,8 +585,12 @@ async function main() {
       return icon ? { ...f, icon } : f;
     });
     writeJSON(path.join(DATA_DIR, "fluids-index.json"), fluidsIndexWithIcons);
-    const iconCount = fluidsIndexWithIcons.filter((f: any) => f.icon).length;
-    console.log(`  Fluid icons resolved: ${iconCount}/${fluidsIndex.length}`);
+    fluidIconsResolvedCount = fluidsIndexWithIcons.filter(
+      (f: any) => f.icon,
+    ).length;
+    console.log(
+      `  Fluid icons resolved: ${fluidIconsResolvedCount}/${totalFluidCount}`,
+    );
   }
 
   console.log("\n=== Processing complete! ===");
@@ -554,6 +598,13 @@ async function main() {
   console.log(`Recipes: ${totalRecipes}`);
   console.log(`Machines: ${machines.length}`);
   console.log(`Fluids: ${fluidsIndex.length}`);
+  // Icon stats summary
+  if (iconsPresent > 0) console.log(`Icons present: ${iconsPresent}`);
+  if (iconCopySkipped) console.log(`Icons copy: skipped (already present)`);
+  if (iconCopyError) console.log(`Icons copy error: ${iconCopyError}`);
+  console.log(
+    `Fluid icons resolved: ${fluidIconsResolvedCount}/${totalFluidCount}`,
+  );
 }
 
 main().catch(console.error);

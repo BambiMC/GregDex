@@ -8,16 +8,34 @@ import { createReadableItemId } from "@/lib/utils";
 
 // Module-level cache — loaded once per browser session
 let itemsCache: { id: string; displayName: string; modId: string }[] | null = null;
-let cachePromise: Promise<void> | null = null;
+let itemsCachePromise: Promise<void> | null = null;
+let beesCache: { uid: string; displayName: string; branch: string }[] | null = null;
+let beesCachePromise: Promise<void> | null = null;
 
 function loadItemsCache(): Promise<void> {
   if (itemsCache) return Promise.resolve();
-  if (cachePromise) return cachePromise;
-  cachePromise = fetch("/data/items-index.json")
+  if (itemsCachePromise) return itemsCachePromise;
+  itemsCachePromise = fetch("/data/items-index.json")
     .then((r) => r.json())
     .then((d) => { itemsCache = d; })
     .catch(() => { itemsCache = []; });
-  return cachePromise;
+  return itemsCachePromise;
+}
+
+function loadBeeCache(): Promise<void> {
+  if (beesCache) return Promise.resolve();
+  if (beesCachePromise) return beesCachePromise;
+  beesCachePromise = fetch("/data/bee-species.json")
+    .then((r) => r.json())
+    .then((d) => {
+      beesCache = d.map((s: any) => ({
+        uid: s.uid,
+        displayName: s.binomial,
+        branch: s.branch || "Unknown",
+      }));
+    })
+    .catch(() => { beesCache = []; });
+  return beesCachePromise;
 }
 
 export default function GlobalSearch({
@@ -65,16 +83,17 @@ export default function GlobalSearch({
     }
     setLoading(true);
     try {
-      await loadItemsCache();
+      await Promise.all([loadItemsCache(), loadBeeCache()]);
       const lower = q.toLowerCase();
-      const matches = (itemsCache || [])
+
+      const itemsMatches = (itemsCache || [])
         .filter(
           (item) =>
             item.displayName.toLowerCase().includes(lower) ||
             item.modId.toLowerCase().includes(lower) ||
             item.id.toLowerCase().includes(lower),
         )
-        .slice(0, 15)
+        .slice(0, 10)
         .map((item) => ({
           id: item.id,
           displayName: item.displayName,
@@ -82,7 +101,23 @@ export default function GlobalSearch({
           type: "item" as const,
           score: 1,
         }));
-      setResults(matches);
+
+      const beeMatches = (beesCache || [])
+        .filter((bee) =>
+          bee.displayName.toLowerCase().includes(lower) ||
+          bee.branch.toLowerCase().includes(lower) ||
+          bee.uid.toLowerCase().includes(lower),
+        )
+        .slice(0, 5)
+        .map((bee) => ({
+          id: bee.uid,
+          displayName: bee.displayName,
+          modId: "Forestry",
+          type: "bee" as const,
+          score: 1,
+        }));
+
+      setResults([...itemsMatches, ...beeMatches]);
       setSelectedIndex(0);
     } catch {
       setResults([]);
@@ -97,16 +132,24 @@ export default function GlobalSearch({
   }, [query, search]);
 
   const navigate = (result: SearchResult) => {
-    const readableId = createReadableItemId(result.id);
     if (result.type === "item") {
+      const readableId = createReadableItemId(result.id);
       router.push(`/items/${readableId}`);
     } else if (result.type === "fluid") {
       // For fluids, convert dots to hyphens for readable URLs
       const readableFluidId = result.id.replace(/\./g, "-");
       router.push(`/fluids/${readableFluidId}`);
-    } else {
-      router.push(`/items/${readableId}`);
+    } else if (result.type === "bee") {
+      // For bees, use a readable uid (e.g. forestry.speciesForest)
+      router.push(`/bees/${createReadableItemId(result.id)}`);
     }
+    onClose();
+    setQuery("");
+  };
+
+  const viewAll = () => {
+    if (query.length < 2) return;
+    router.push(`/search?q=${encodeURIComponent(query)}`);
     onClose();
     setQuery("");
   };
@@ -152,15 +195,25 @@ export default function GlobalSearch({
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               onKeyDown={handleKeyDown}
-              placeholder="Search items, machines, materials..."
+              placeholder="Search items, fluids, materials, bee species..."
               className="flex-1 py-3 bg-transparent text-text-primary placeholder-text-muted outline-none text-sm"
             />
             {loading && (
               <div className="w-4 h-4 border-2 border-accent-primary/30 border-t-accent-primary rounded-full animate-spin" />
             )}
-            <kbd className="text-xs text-text-muted bg-bg-elevated px-1.5 py-0.5 rounded border border-border-default">
-              ESC
-            </kbd>
+            <div className="flex items-center gap-2">
+              {query.length >= 2 && (
+                <button
+                  onClick={viewAll}
+                  className="text-sm text-accent-primary/90 hover:underline"
+                >
+                  View all
+                </button>
+              )}
+              <kbd className="text-xs text-text-muted bg-bg-elevated px-1.5 py-0.5 rounded border border-border-default">
+                ESC
+              </kbd>
+            </div>
           </div>
 
           {/* Results */}
@@ -170,18 +223,21 @@ export default function GlobalSearch({
                 <button
                   key={result.id}
                   onClick={() => navigate(result)}
-                  className={`w-full flex items-center gap-3 px-4 py-2 text-left text-sm transition-colors ${
-                    i === selectedIndex
-                      ? "bg-accent-primary/10 text-accent-primary"
-                      : "text-text-primary hover:bg-bg-elevated"
-                  }`}
+                  className={`w-full flex items-center gap-3 px-4 py-2 text-left text-sm transition-colors ${i === selectedIndex
+                    ? "bg-accent-primary/10 text-accent-primary"
+                    : "text-text-primary hover:bg-bg-elevated"
+                    }`}
                 >
                   <div className="item-slot !w-8 !h-8 shrink-0">
-                    <ItemIcon
-                      itemId={result.id}
-                      displayName={result.displayName}
-                      size={28}
-                    />
+                    {result.type === "bee" ? (
+                      <span className="text-xl">🐝</span>
+                    ) : (
+                      <ItemIcon
+                        itemId={result.id}
+                        displayName={result.displayName}
+                        size={28}
+                      />
+                    )}
                   </div>
                   <div className="min-w-0 flex-1">
                     <div className="truncate">{result.displayName}</div>
@@ -193,6 +249,7 @@ export default function GlobalSearch({
                   </div>
                 </button>
               ))}
+              {/* removed bottom 'View all' — it's now in the input row */}
             </div>
           )}
 

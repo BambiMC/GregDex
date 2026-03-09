@@ -25,7 +25,7 @@ Mac
 
 ```bash
 npm install
-rm -rf out public/data public/icons/items nei_export betterquestion
+rm -rf out public/data public/icons/items nei_export betterquesting
 npm run process-data
 npm run build
 npx serve out
@@ -35,7 +35,7 @@ Windows PowerShell
 
 ```bash
 npm install
-Remove-Item -Recurse -Force out, public/data, public/icons/items, nei_export, betterquestion
+Remove-Item -Recurse -Force out, public/data, public/icons/items, nei_export, betterquesting
 npm run process-data
 npm run build
 npx serve out

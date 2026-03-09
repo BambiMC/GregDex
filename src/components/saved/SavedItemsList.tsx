@@ -20,7 +20,7 @@ function getItemLink(item: SavedItem): string {
     case "material":
       return `/materials/${item.id}`;
     case "bee":
-      return `/bees/${item.id}`;
+      return `/bees/${createReadableItemId(item.id)}`;
     case "ore":
       return `/ores/${item.id}`;
     default:

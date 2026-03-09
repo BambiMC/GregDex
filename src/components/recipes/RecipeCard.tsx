@@ -11,7 +11,7 @@ import {
 import ItemIcon from "@/components/ItemIcon";
 import Tooltip from "@/components/ui/Tooltip";
 import { createReadableItemId } from "@/lib/utils";
-import { encodeId } from "../../lib/encoding";
+import { encodeId } from "@/lib/encoding";
 
 function ItemSlot({
   item,

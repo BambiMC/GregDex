@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
-import { encodeId } from "../../lib/encoding";
+import { encodeId } from "@/lib/encoding";
 
 // Important dimensions that get quick filter buttons
 const IMPORTANT_DIMENSIONS = [

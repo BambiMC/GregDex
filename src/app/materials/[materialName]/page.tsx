@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import MaterialDetailClient from "@/components/pages/MaterialDetailClient";
-import { encodeId } from "../../../lib/encoding";
+import { encodeId } from "@/lib/encoding";
 
 export const dynamicParams = false;
 

@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import BeeSpeciesDetailClient from "@/components/pages/BeeSpeciesDetailClient";
-import { encodeId } from "../../../lib/encoding";
+import { createReadableItemId } from "@/lib/utils";
 
 export const dynamicParams = false;
 
@@ -10,7 +10,7 @@ export function generateStaticParams() {
     const species = JSON.parse(
       readFileSync(join(process.cwd(), "public", "data", "bee-species.json"), "utf8"),
     );
-    return species.map((s: { uid: string }) => ({ speciesId: encodeId(s.uid) }));
+    return species.map((s: { uid: string }) => ({ speciesId: createReadableItemId(s.uid) }));
   } catch {
     return [{ speciesId: "_" }];
   }

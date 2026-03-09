@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import OreVeinDetailClient from "@/components/pages/OreVeinDetailClient";
-import { encodeId } from "../../../lib/encoding";
+import { encodeId } from "@/lib/encoding";
 
 export const dynamicParams = false;
 

@@ -7,7 +7,7 @@ import ItemIcon from "@/components/ItemIcon";
 import SaveButton from "@/components/ui/SaveButton";
 import { useUserData } from "@/hooks/useUserData";
 import { useVersion } from "@/contexts/VersionContext";
-import { encodeId } from "../../lib/encoding";
+import { encodeId } from "@/lib/encoding";
 
 function parseReadableItemId(readableId: string): string {
   return readableId.replace(/-/g, ":");

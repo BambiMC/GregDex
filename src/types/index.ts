@@ -112,12 +112,20 @@ export interface BeeSpecies {
   humidity: string;
   nocturnal: boolean;
   products: BeeProduct[];
+  /** Optional list of speciality products (rare drops, etc) */
+  specialties?: BeeProduct[];
 }
 
 export interface BeeProduct {
   id: string;
   displayName: string;
   chance: number;
+}
+
+export interface BeeSearchEntry {
+  uid: string;
+  displayName: string;
+  branch: string;
 }
 
 // === Ores ===
@@ -172,9 +180,11 @@ export interface SearchResult {
   id: string;
   displayName: string;
   modId?: string;
-  type: "item" | "fluid";
+  type: "item" | "fluid" | "bee";
   score: number;
 }
+
+export type SearchData = ItemIndex | BeeSearchEntry;
 
 // === API ===
 export interface PaginatedResponse<T> {

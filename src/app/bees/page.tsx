@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
-import { encodeId } from "../../lib/encoding";
+import { createReadableItemId } from "@/lib/utils";
 
 interface Mutation {
   parent1Uid: string;
@@ -88,7 +88,7 @@ export default function BeesPage() {
                 <div className="flex items-center gap-2 flex-wrap">
                   {/* Parent 1 */}
                   <Link
-                    href={`/bees/${encodeId(mutation.parent1Uid)}`}
+                    href={`/bees/${createReadableItemId(mutation.parent1Uid)}`}
                     className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                   >
                     <div className="text-sm font-medium text-yellow-400">
@@ -103,7 +103,7 @@ export default function BeesPage() {
 
                   {/* Parent 2 */}
                   <Link
-                    href={`/bees/${encodeId(mutation.parent2Uid)}`}
+                    href={`/bees/${createReadableItemId(mutation.parent2Uid)}`}
                     className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                   >
                     <div className="text-sm font-medium text-yellow-400">
@@ -131,7 +131,7 @@ export default function BeesPage() {
 
                   {/* Offspring */}
                   <Link
-                    href={`/bees/${encodeId(mutation.offspringUid)}`}
+                    href={`/bees/${createReadableItemId(mutation.offspringUid)}`}
                     className="px-3 py-1.5 bg-accent-success/10 border border-accent-success/20 rounded-lg hover:border-accent-success/40 transition-colors"
                   >
                     <div className="text-sm font-medium text-accent-success">
