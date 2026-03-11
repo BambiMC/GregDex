@@ -439,9 +439,11 @@ async function main() {
     path.join(NEI_DIR, "fluids.json"),
     {},
   );
-  const fluidsIndex: { name: string; displayName: string }[] = [];
+  const fluidsIndex: { name: string; displayName: string; color?: number }[] = [];
   for (const [name, fluid] of Object.entries(rawFluids)) {
-    fluidsIndex.push({ name, displayName: fluid.displayName });
+    const entry: { name: string; displayName: string; color?: number } = { name, displayName: fluid.displayName };
+    if (fluid.color !== undefined) entry.color = fluid.color;
+    fluidsIndex.push(entry);
     writeJSON(path.join(DATA_DIR, "fluids", `${name}.json`), fluid);
   }
   writeJSON(path.join(DATA_DIR, "fluids-index.json"), fluidsIndex);
@@ -504,6 +506,8 @@ async function main() {
   console.log(`  Small ores: ${smallOres.length}`);
 
   // Copy NEI icons into public/icons/items
+  // nei_export/icons/ has items/ and fluids/ subdirectories
+  // Item PNGs go to public/icons/items/ (flat), fluid PNGs to public/icons/items/fluids/
   // Icon copy/scan stats
   let iconCopySkipped = false;
   let iconsPresent = 0;
@@ -511,70 +515,55 @@ async function main() {
   const totalFluidCount = fluidsIndex.length;
   let iconCopyError: any = null;
   const neiIconsDir = path.join(NEI_DIR, "icons");
+  const neiItemIconsDir = fs.existsSync(path.join(neiIconsDir, "items"))
+    ? path.join(neiIconsDir, "items")
+    : neiIconsDir;
   const publicIconsDir = path.join(ROOT_DIR, "public", "icons", "items");
   if (!fs.existsSync(neiIconsDir)) {
     console.log(`  NEI icons directory not found: ${neiIconsDir}`);
   } else {
-    const destExistsAndNonEmpty =
+    // Skip only if there are actual PNG files directly in the dest (not just subdirs)
+    const destHasPngs =
       fs.existsSync(publicIconsDir) &&
-      fs.readdirSync(publicIconsDir).length > 0;
-    if (destExistsAndNonEmpty) {
+      fs.readdirSync(publicIconsDir).some((f) => f.endsWith(".png"));
+    if (destHasPngs) {
       iconCopySkipped = true;
       console.log(
         `  Icons already present in ${publicIconsDir}; skipping copy`,
       );
     } else {
-      console.log(`  Copying icons from ${neiIconsDir} to ${publicIconsDir}`);
+      console.log(`  Copying icons from ${neiItemIconsDir} to ${publicIconsDir}`);
       ensureDir(publicIconsDir);
-      // Prefer built-in cpSync when available (Node 16.7+), otherwise do a recursive copy
-      const copyRecursiveLower = (src: string, dest: string) => {
+      const copyFilesLower = (src: string, dest: string) => {
         for (const name of fs.readdirSync(src)) {
           const s = path.join(src, name);
           const d = path.join(dest, name.toLowerCase());
           const st = fs.statSync(s);
           if (st.isDirectory()) {
             ensureDir(d);
-            copyRecursiveLower(s, d);
+            copyFilesLower(s, d);
           } else {
             fs.copyFileSync(s, d);
           }
         }
       };
-      copyRecursiveLower(neiIconsDir, publicIconsDir);
+      copyFilesLower(neiItemIconsDir, publicIconsDir);
     }
   }
 
-  // Build fluid icon index by scanning available icons
-  const finalIconsDir = fs.existsSync(publicIconsDir)
-    ? publicIconsDir
-    : fs.existsSync(path.join(NEI_DIR, "icons"))
-      ? path.join(NEI_DIR, "icons")
-      : null;
+  // Build fluid icon index
+  // Icons are in public/icons/items/ as fluid_{fluidName}.png (all lowercase)
+  const finalIconsDir = fs.existsSync(publicIconsDir) ? publicIconsDir : null;
   if (finalIconsDir) {
     const allIcons = fs
       .readdirSync(finalIconsDir)
       .filter((f) => f.endsWith(".png"));
     iconsPresent = allIcons.length;
-    // Build lookup: itemSubname.toLowerCase() -> iconFilename
-    const iconBySubname = new Map<string, string>();
-    for (const icon of allIcons) {
-      const withoutExt = icon.slice(0, -4);
-      const lastUnder = withoutExt.lastIndexOf("_");
-      if (lastUnder === -1) continue;
-      const withoutMeta = withoutExt.slice(0, lastUnder);
-      const firstUnder = withoutMeta.indexOf("_");
-      if (firstUnder === -1) continue;
-      const itemSubname = withoutMeta.slice(firstUnder + 1).toLowerCase();
-      iconBySubname.set(itemSubname, icon);
-    }
+    // Build lookup: fluid name -> icon filename (fluid_{name}.png convention)
+    const iconSet = new Set(allIcons.map((f) => f.toLowerCase()));
     function findFluidIcon(fluidName: string): string | undefined {
-      const fn = fluidName.toLowerCase();
-      if (iconBySubname.has(fn)) return iconBySubname.get(fn);
-      for (const prefix of ["fluid.", "liquid."]) {
-        if (iconBySubname.has(prefix + fn))
-          return iconBySubname.get(prefix + fn);
-      }
-      return undefined;
+      const candidate = "fluid_" + fluidName.toLowerCase() + ".png";
+      return iconSet.has(candidate) ? candidate : undefined;
     }
     const fluidsIndexWithIcons = fluidsIndex.map((f) => {
       const icon = findFluidIcon(f.name);

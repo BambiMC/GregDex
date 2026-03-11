@@ -7,6 +7,7 @@ interface FluidEntry {
   name: string;
   displayName: string;
   icon?: string;
+  color?: number;
   type: "fluid";
   fluidType?: "fluid" | "gas" | "molten" | "plasma";
 }
@@ -63,6 +64,13 @@ function FluidIcon({ fluid }: { fluid: FluidEntry }): React.ReactElement {
       />
     );
   }
+  if (fluid.color !== undefined) {
+    const hex = "#" + fluid.color.toString(16).padStart(6, "0");
+    return (
+      // eslint-disable-next-line react/forbid-dom-props
+      <div className="w-full h-full rounded-sm opacity-80" style={{ backgroundColor: hex }} />
+    );
+  }
   const fluidType = fluid.fluidType || getFluidType(fluid.name);
   const colors = {
     plasma: "bg-accent-purple/10 border-accent-purple/30 text-accent-purple",
@@ -92,7 +100,7 @@ export default function FluidsGasesPage() {
   useEffect(() => {
     fetch("/data/fluids-index.json")
       .then((r) => r.json())
-      .then((data: { name: string; displayName: string; icon?: string }[]) => {
+      .then((data: { name: string; displayName: string; icon?: string; color?: number }[]) => {
         setAllFluids(
           data.map((f) => ({
             ...f,

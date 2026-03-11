@@ -41,21 +41,26 @@ function createReadableFluidId(fluidId: string): string {
   return fluidId.replace(/\./g, "-");
 }
 
-// Module-level cache for fluid icons — loads once, reuses browser cache
-let fluidIconMap: Map<string, string> | null = null;
-let fluidIconPromise: Promise<Map<string, string>> | null = null;
-function loadFluidIcons(): Promise<Map<string, string>> {
-  if (fluidIconMap) return Promise.resolve(fluidIconMap);
-  if (!fluidIconPromise) {
-    fluidIconPromise = fetch("/data/fluids-index.json")
+// Module-level cache for fluid icons/colors — loads once, reuses browser cache
+type FluidMeta = { icon?: string; color?: number };
+let fluidMetaMap: Map<string, FluidMeta> | null = null;
+let fluidMetaPromise: Promise<Map<string, FluidMeta>> | null = null;
+function loadFluidMeta(): Promise<Map<string, FluidMeta>> {
+  if (fluidMetaMap) return Promise.resolve(fluidMetaMap);
+  if (!fluidMetaPromise) {
+    fluidMetaPromise = fetch("/data/fluids-index.json")
       .then((r) => r.json())
-      .then((fluids: { name: string; icon?: string }[]) => {
-        fluidIconMap = new Map(fluids.filter((f) => f.icon).map((f) => [f.name, f.icon!]));
-        return fluidIconMap;
+      .then((fluids: { name: string; icon?: string; color?: number }[]) => {
+        fluidMetaMap = new Map(fluids.map((f) => [f.name, { icon: f.icon, color: f.color }]));
+        return fluidMetaMap;
       })
       .catch(() => new Map());
   }
-  return fluidIconPromise;
+  return fluidMetaPromise;
+}
+
+function fluidColorCss(color: number): string {
+  return "#" + color.toString(16).padStart(6, "0");
 }
 
 function FluidSlot({
@@ -63,22 +68,23 @@ function FluidSlot({
 }: {
   fluid: { id?: string; name?: string; displayName: string; amount: number };
 }) {
-  const [icon, setIcon] = useState<string | undefined>(fluidIconMap?.get(fluid.id || fluid.name || ""));
+  const fluidId = fluid.id || fluid.name || "";
+  const [meta, setMeta] = useState<FluidMeta | undefined>(fluidMetaMap?.get(fluidId));
   const [imgFailed, setImgFailed] = useState(false);
 
   useEffect(() => {
-    if (icon !== undefined) return;
-    loadFluidIcons().then((map) => {
-      const fluidId = fluid.id || fluid.name;
-      if (fluidId) setIcon(map.get(fluidId));
+    if (meta !== undefined) return;
+    loadFluidMeta().then((map) => {
+      const id = fluid.id || fluid.name;
+      if (id) setMeta(map.get(id));
     });
-  }, [fluid.id, fluid.name, icon]);
+  }, [fluid.id, fluid.name, meta]);
 
-  // Get the fluid identifier (id or name)
-  const fluidId = fluid.id || fluid.name;
+  const icon = meta?.icon;
+  const color = meta?.color;
 
   // Safety check - only block if fluid identifier is actually undefined or null
-  if (fluidId === undefined || fluidId === null) {
+  if (!fluidId) {
     console.log("Undefined fluid detected:", fluid);
     return (
       <Tooltip content={`Unknown Fluid (${fluid.amount}L)`}>
@@ -103,6 +109,12 @@ function FluidSlot({
           className="pixelated w-full h-full object-contain"
           draggable={false}
           onError={() => setImgFailed(true)}
+        />
+      ) : color !== undefined ? (
+        // eslint-disable-next-line react/forbid-dom-props
+        <div
+          className="w-full h-full rounded-sm opacity-80"
+          style={{ backgroundColor: fluidColorCss(color) }}
         />
       ) : (
         <span className="text-[9px] text-accent-secondary">

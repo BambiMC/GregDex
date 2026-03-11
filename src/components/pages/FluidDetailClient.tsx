@@ -7,7 +7,7 @@ import SaveButton from "@/components/ui/SaveButton";
 import { useUserData } from "@/hooks/useUserData";
 import { useVersion } from "@/contexts/VersionContext";
 
-function FluidIcon({ name, icon, size = 32 }: { name: string; icon?: string; size?: number }) {
+function FluidIcon({ name, icon, color, size = 32 }: { name: string; icon?: string; color?: number; size?: number }) {
   const [failed, setFailed] = useState(false);
   if (icon && !failed) {
     return (
@@ -20,6 +20,13 @@ function FluidIcon({ name, icon, size = 32 }: { name: string; icon?: string; siz
         draggable={false}
         onError={() => setFailed(true)}
       />
+    );
+  }
+  if (color !== undefined) {
+    const hex = "#" + color.toString(16).padStart(6, "0");
+    return (
+      // eslint-disable-next-line react/forbid-dom-props
+      <div className="w-full h-full rounded-sm opacity-80" style={{ backgroundColor: hex }} />
     );
   }
   return (
@@ -49,7 +56,7 @@ export default function FluidDetailPage({
           fetch("/data/fluids-recipe-index.json"),
         ]);
         if (!fluidsRes.ok) return;
-        const allFluids: { name: string; displayName: string; icon?: string }[] = await fluidsRes.json();
+        const allFluids: { name: string; displayName: string; icon?: string; color?: number }[] = await fluidsRes.json();
         const fluid = allFluids.find(
           (f) => f.name.replace(/\./g, "-") === fluidId || f.name === fluidId,
         );
@@ -157,7 +164,7 @@ export default function FluidDetailPage({
           <div className="flex items-start justify-between gap-4">
             <div className="flex items-start gap-4">
               <div className="item-slot !w-12 !h-12 shrink-0">
-                <FluidIcon name={fluid.name} icon={fluid.icon} size={48} />
+                <FluidIcon name={fluid.name} icon={fluid.icon} color={fluid.color} size={48} />
               </div>
               <div>
                 <h1 className="text-xl font-bold text-text-primary">
