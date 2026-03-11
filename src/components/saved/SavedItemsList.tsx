@@ -114,7 +114,7 @@ export default function SavedItemsList() {
 
           {/* Item info */}
           <div className="flex-1 min-w-0">
-            <Link
+            <Link prefetch={false}
               href={getItemLink(item)}
               className="block hover:text-accent-primary transition-colors"
             >

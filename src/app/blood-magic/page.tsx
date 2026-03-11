@@ -88,7 +88,7 @@ export default function BloodMagicPage() {
               >
                 <div className="flex items-center gap-3 flex-wrap">
                   {/* Input */}
-                  <Link
+                  <Link prefetch={false}
                     href={`/items/${createReadableItemId(recipe.input.id)}`}
                   >
                     <div className="item-slot !w-10 !h-10 group/slot">
@@ -99,7 +99,7 @@ export default function BloodMagicPage() {
                       />
                     </div>
                   </Link>
-                  <Link
+                  <Link prefetch={false}
                     href={`/items/${createReadableItemId(recipe.input.id)}`}
                     className="text-sm text-text-secondary hover:text-accent-primary transition-colors"
                   >
@@ -121,7 +121,7 @@ export default function BloodMagicPage() {
                   </svg>
 
                   {/* Output */}
-                  <Link
+                  <Link prefetch={false}
                     href={`/items/${createReadableItemId(recipe.output.id)}`}
                   >
                     <div className="item-slot !w-10 !h-10 group/slot">
@@ -132,7 +132,7 @@ export default function BloodMagicPage() {
                       />
                     </div>
                   </Link>
-                  <Link
+                  <Link prefetch={false}
                     href={`/items/${createReadableItemId(recipe.output.id)}`}
                     className="text-sm font-medium text-text-primary hover:text-accent-primary transition-colors"
                   >
@@ -167,7 +167,7 @@ export default function BloodMagicPage() {
                 className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
               >
                 <div className="flex items-center gap-3 mb-2">
-                  <Link
+                  <Link prefetch={false}
                     href={`/items/${createReadableItemId(recipe.output.id)}`}
                   >
                     <div className="item-slot !w-8 !h-8 group/slot">
@@ -178,7 +178,7 @@ export default function BloodMagicPage() {
                       />
                     </div>
                   </Link>
-                  <Link
+                  <Link prefetch={false}
                     href={`/items/${createReadableItemId(recipe.output.id)}`}
                     className="text-sm font-medium text-text-primary hover:text-accent-primary transition-colors"
                   >
@@ -195,7 +195,7 @@ export default function BloodMagicPage() {
                 </div>
                 <div className="flex flex-wrap gap-1">
                   {recipe.inputs.map((input, j) => (
-                    <Link
+                    <Link prefetch={false}
                       key={j}
                       href={`/items/${createReadableItemId(input.id)}`}
                     >

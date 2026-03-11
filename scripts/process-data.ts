@@ -527,24 +527,20 @@ async function main() {
       console.log(`  Copying icons from ${neiIconsDir} to ${publicIconsDir}`);
       ensureDir(publicIconsDir);
       // Prefer built-in cpSync when available (Node 16.7+), otherwise do a recursive copy
-      if ((fs as any).cpSync) {
-        (fs as any).cpSync(neiIconsDir, publicIconsDir, { recursive: true });
-      } else {
-        const copyRecursive = (src: string, dest: string) => {
-          for (const name of fs.readdirSync(src)) {
-            const s = path.join(src, name);
-            const d = path.join(dest, name);
-            const st = fs.statSync(s);
-            if (st.isDirectory()) {
-              ensureDir(d);
-              copyRecursive(s, d);
-            } else {
-              fs.copyFileSync(s, d);
-            }
+      const copyRecursiveLower = (src: string, dest: string) => {
+        for (const name of fs.readdirSync(src)) {
+          const s = path.join(src, name);
+          const d = path.join(dest, name.toLowerCase());
+          const st = fs.statSync(s);
+          if (st.isDirectory()) {
+            ensureDir(d);
+            copyRecursiveLower(s, d);
+          } else {
+            fs.copyFileSync(s, d);
           }
-        };
-        copyRecursive(neiIconsDir, publicIconsDir);
-      }
+        }
+      };
+      copyRecursiveLower(neiIconsDir, publicIconsDir);
     }
   }
 

@@ -86,7 +86,7 @@ export default function MachineDetailPage({
       <div className="max-w-4xl mx-auto">
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-text-muted mb-4">
-          <Link href="/machines" className="hover:text-accent-secondary">
+          <Link prefetch={false} href="/machines" className="hover:text-accent-secondary">
             Machines
           </Link>
           <span>/</span>

@@ -1,0 +1,47 @@
+RewriteEngine On
+RewriteBase /
+
+# Serve existing files directly
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# If request ends with a slash and a corresponding .html exists, serve that
+RewriteCond %{REQUEST_URI} ^/(.+)/$
+RewriteCond %{DOCUMENT_ROOT}/%1.html -f
+RewriteRule ^(.+)/$ /%1.html [L]
+
+# If adding .html to the request matches a file (e.g. /items -> items.html), serve it
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f
+RewriteRule ^(.*?)/?$ $1.html [L]
+
+# SPA fallback: serve index.html for any other non-file requests
+RewriteRule . /index.html [L]
+
+# OPTIONAL: cache static assets (adjust durations as desired)
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/css "access plus 1 week"
+  ExpiresByType application/javascript "access plus 1 week"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+</IfModule>
+RewriteEngine On
+RewriteBase /
+
+# Serve existing files or directories directly
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# If adding .html to the request (no slash) matches a file, serve it
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f
+RewriteRule ^(.*?)/?$ $1.html [L]
+
+# If request ends with a slash but corresponding .html file exists, serve that
+RewriteCond %{REQUEST_URI} ^/(.+)/$
+RewriteCond %{DOCUMENT_ROOT}/%1.html -f
+RewriteRule ^(.+)/$ %1.html [L]
+
+# SPA fallback
+RewriteRule . /index.html [L]

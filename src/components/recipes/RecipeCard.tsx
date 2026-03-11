@@ -22,7 +22,7 @@ function ItemSlot({
     return <div className="item-slot !w-10 !h-10 opacity-30" />;
   }
   return (
-    <Link href={`/items/${createReadableItemId(item.id)}`}>
+    <Link prefetch={false} href={`/items/${createReadableItemId(item.id)}`}>
       <div className="item-slot !w-10 !h-10 group/slot relative">
         <ItemIcon itemId={item.id} displayName={item.displayName} size={32} />
         {item.amount > 1 && (
@@ -117,7 +117,7 @@ function FluidSlot({
 
   // Make all fluids clickable
   return (
-    <Link
+    <Link prefetch={false}
       href={`/fluids/${createReadableFluidId(fluidId)}`}
       className="cursor-pointer hover:border-accent-secondary/50 transition-colors"
     >
@@ -162,7 +162,7 @@ export default function RecipeCard({ recipe }: { recipe: any }) {
     <div className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors">
       {/* Machine header */}
       <div className="flex items-center justify-between mb-3 pb-2 border-b border-border-default">
-        <Link
+        <Link prefetch={false}
           href={`/machines/${encodeURIComponent(recipe.machine)}`}
           className="text-sm font-medium text-accent-secondary hover:underline"
         >

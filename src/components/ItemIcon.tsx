@@ -9,7 +9,7 @@ import Tooltip from "@/components/ui/Tooltip";
  * Icon filenames are "modId_itemName_metadata.png"
  */
 function getIconPath(itemId: string): string {
-  const filename = itemId.replaceAll(":", "_") + ".png";
+  const filename = (itemId.replaceAll(":", "_") + ".png").toLowerCase();
   return `/icons/items/${filename}`;
 }
 

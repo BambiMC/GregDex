@@ -122,7 +122,7 @@ export default function FluidDetailPage({
         <h1 className="text-xl font-bold text-text-primary mb-2">
           Fluid Not Found
         </h1>
-        <Link
+        <Link prefetch={false}
           href="/fluids-gases"
           className="text-accent-secondary hover:underline"
         >
@@ -145,7 +145,7 @@ export default function FluidDetailPage({
       <div className="max-w-4xl mx-auto">
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-text-muted mb-4">
-          <Link href="/fluids-gases" className="hover:text-accent-secondary">
+          <Link prefetch={false} href="/fluids-gases" className="hover:text-accent-secondary">
             Fluids & Gases
           </Link>
           <span>/</span>

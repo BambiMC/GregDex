@@ -33,7 +33,7 @@ export default function Header({ onMenuToggle }: { onMenuToggle: () => void }) {
           </button>
 
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 shrink-0">
+          <Link prefetch={false} href="/" className="flex items-center gap-2 shrink-0">
             <div className="w-8 h-8 rounded-lg bg-accent-primary/20 flex items-center justify-center">
               <span className="text-accent-primary font-bold text-sm">G</span>
             </div>

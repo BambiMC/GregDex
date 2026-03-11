@@ -166,7 +166,7 @@ export default function Sidebar({
                 ? pathname === "/"
                 : pathname.startsWith(item.href);
             return (
-              <Link
+              <Link prefetch={false}
                 key={item.href}
                 href={item.href}
                 onClick={onClose}

@@ -78,7 +78,7 @@ export default function OreVeinDetailPage({
         <h1 className="text-xl font-bold text-text-primary mb-2">
           Ore Vein Not Found
         </h1>
-        <Link href="/ores" className="text-accent-secondary hover:underline">
+        <Link prefetch={false} href="/ores" className="text-accent-secondary hover:underline">
           Back to Ore Veins
         </Link>
       </div>
@@ -93,7 +93,7 @@ export default function OreVeinDetailPage({
       <div className="max-w-4xl mx-auto">
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-text-muted mb-4">
-          <Link href="/ores" className="hover:text-accent-secondary">
+          <Link prefetch={false} href="/ores" className="hover:text-accent-secondary">
             Ore Veins
           </Link>
           <span>/</span>
@@ -206,7 +206,7 @@ export default function OreVeinDetailPage({
             <h2 className="text-lg font-semibold text-text-primary mb-3">Other Veins in These Dimensions</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               {relatedVeins.map((relatedVein: any, i: number) => (
-                <Link
+                <Link prefetch={false}
                   key={i}
                   href={`/ores/${encodeId(relatedVein.name)}`}
                   className="flex items-center justify-between p-3 bg-bg-primary rounded-lg hover:bg-bg-elevated transition-colors"
@@ -232,7 +232,7 @@ export default function OreVeinDetailPage({
             <h2 className="text-lg font-semibold text-text-primary mb-3">Small Ores in These Dimensions</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               {relatedSmallOres.map((relatedOre: any, i: number) => (
-                <Link
+                <Link prefetch={false}
                   key={i}
                   href={`/ores/${encodeId(relatedOre.name)}`}
                   className="flex items-center justify-between p-3 bg-bg-primary rounded-lg hover:bg-bg-elevated transition-colors"

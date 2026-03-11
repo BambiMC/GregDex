@@ -64,7 +64,7 @@ export default function MobileNav() {
               ? pathname === "/"
               : pathname.startsWith(tab.href);
           return (
-            <Link
+            <Link prefetch={false}
               key={tab.href}
               href={tab.href}
               className={`flex flex-col items-center gap-0.5 px-3 py-1 transition-colors ${

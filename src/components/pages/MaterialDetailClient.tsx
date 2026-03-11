@@ -68,7 +68,7 @@ export default function MaterialDetailClient({
         <h1 className="text-xl font-bold text-text-primary mb-2">
           Material Not Found
         </h1>
-        <Link href="/materials" className="text-accent-secondary hover:underline">
+        <Link prefetch={false} href="/materials" className="text-accent-secondary hover:underline">
           Back to Materials
         </Link>
       </div>
@@ -92,7 +92,7 @@ export default function MaterialDetailClient({
       <div className="max-w-3xl mx-auto">
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-text-muted mb-4">
-          <Link href="/materials" className="hover:text-accent-secondary">
+          <Link prefetch={false} href="/materials" className="hover:text-accent-secondary">
             Materials
           </Link>
           <span>/</span>

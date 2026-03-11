@@ -99,7 +99,7 @@ export default function HomePage() {
       {/* Stats */}
       <div className="grid grid-cols-3 sm:grid-cols-6 gap-3 mb-10">
         {stats.map((stat) => (
-          <Link
+          <Link prefetch={false}
             key={stat.label}
             href={stat.href}
             className="bg-bg-tertiary border border-border-default rounded-lg p-3 text-center hover:border-border-bright transition-colors"
@@ -116,7 +116,7 @@ export default function HomePage() {
       <h2 className="text-lg font-semibold mb-4 text-text-primary">Browse</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {quickLinks.map((link) => (
-          <Link
+          <Link prefetch={false}
             key={link.href}
             href={link.href}
             className={`${link.bg} border ${link.border} rounded-xl p-5 hover:scale-[1.02] transition-transform`}

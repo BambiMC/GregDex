@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && node scripts/post-build-copy.js",
     "start": "next start",
     "process-data": "tsx scripts/process-data.ts"
   },

@@ -117,7 +117,7 @@ export default function MaterialsPage() {
                     className="hover:bg-bg-elevated transition-colors"
                   >
                     <td className="px-3 py-2">
-                      <Link
+                      <Link prefetch={false}
                         href={`/materials/${encodeId(mat.name)}`}
                         className="font-medium text-text-primary hover:text-accent-primary transition-colors cursor-pointer"
                       >

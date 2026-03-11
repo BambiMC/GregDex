@@ -126,6 +126,7 @@ export default function ItemsPage() {
               <Link
                 key={item.id}
                 href={getItemUrl(item)}
+                prefetch={false}
                 className="flex items-center gap-3 px-3 py-2.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"
               >
                 <div className="item-slot !w-8 !h-8 shrink-0 group-hover:border-accent-primary">

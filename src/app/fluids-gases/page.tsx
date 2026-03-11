@@ -184,7 +184,7 @@ export default function FluidsGasesPage() {
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
             {fluids.map((fluid) => (
-              <Link
+              <Link prefetch={false}
                 key={fluid.name}
                 href={getFluidUrl(fluid)}
                 className="flex items-center gap-3 px-3 py-2.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"

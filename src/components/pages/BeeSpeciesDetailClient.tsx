@@ -180,7 +180,7 @@ export default function BeeSpeciesDetailPage({
         <h1 className="text-xl font-bold text-text-primary mb-2">
           Bee Species Not Found
         </h1>
-        <Link href="/bees" className="text-accent-secondary hover:underline">
+        <Link prefetch={false} href="/bees" className="text-accent-secondary hover:underline">
           Back to Bee Breeding
         </Link>
       </div>
@@ -194,7 +194,7 @@ export default function BeeSpeciesDetailPage({
       <div className="max-w-4xl mx-auto">
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-text-muted mb-4">
-          <Link href="/bees" className="hover:text-accent-secondary">
+          <Link prefetch={false} href="/bees" className="hover:text-accent-secondary">
             Bee Breeding
           </Link>
           <span>/</span>
@@ -272,7 +272,7 @@ export default function BeeSpeciesDetailPage({
                 </h2>
                 <div className="flex flex-wrap gap-2">
                   {productList.map((p: any, i: number) => (
-                    <Link
+                    <Link prefetch={false}
                       key={i}
                       href={`/items/${createReadableItemId(p.id)}`}
                       className="px-3 py-1.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors flex items-center gap-2"
@@ -301,7 +301,7 @@ export default function BeeSpeciesDetailPage({
                 </h2>
                 <div className="flex flex-wrap gap-2">
                   {specialtyList.map((p: any, i: number) => (
-                    <Link
+                    <Link prefetch={false}
                       key={i}
                       href={`/items/${createReadableItemId(p.id)}`}
                       className="px-3 py-1.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors flex items-center gap-2"
@@ -340,7 +340,7 @@ export default function BeeSpeciesDetailPage({
                     className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
                   >
                     <div className="flex items-center gap-2 flex-wrap">
-                      <Link
+                      <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent1Uid)}`}
                         className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                       >
@@ -352,7 +352,7 @@ export default function BeeSpeciesDetailPage({
 
                       <span className="text-text-muted text-lg">+</span>
 
-                      <Link
+                      <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent2Uid)}`}
                         className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                       >
@@ -409,7 +409,7 @@ export default function BeeSpeciesDetailPage({
                     className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
                   >
                     <div className="flex items-center gap-2 flex-wrap">
-                      <Link
+                      <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent1Uid)}`}
                         className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${mutation.parent1Uid === species.uid
                           ? "bg-accent-success/10 border-accent-success/20"
@@ -425,7 +425,7 @@ export default function BeeSpeciesDetailPage({
 
                       <span className="text-text-muted text-lg">+</span>
 
-                      <Link
+                      <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent2Uid)}`}
                         className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${mutation.parent2Uid === species.uid
                           ? "bg-accent-success/10 border-accent-success/20"
@@ -443,7 +443,7 @@ export default function BeeSpeciesDetailPage({
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                       </svg>
 
-                      <Link
+                      <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.offspringUid)}`}
                         className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                       >

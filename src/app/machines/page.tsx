@@ -73,7 +73,7 @@ export default function MachinesPage() {
                 </h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
                   {group.machines.map((machine) => (
-                    <Link
+                    <Link prefetch={false}
                       key={machine.id}
                       href={`/machines/${encodeURIComponent(machine.id)}`}
                       className="flex items-center justify-between px-4 py-3 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"

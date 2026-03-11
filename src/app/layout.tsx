@@ -9,6 +9,10 @@ export const metadata: Metadata = {
   description:
     "Item and recipe database for GregTech: New Horizons. Search 47,000+ items and 246,000+ recipes.",
   manifest: "/manifest.json",
+  icons: {
+    icon: { url: "/icons/icon-192.svg", type: "image/svg+xml" },
+    apple: { url: "/icons/icon-192.svg", type: "image/svg+xml" },
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
@@ -43,10 +47,6 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <head>
-        <link rel="icon" href="/icons/icon-192.svg" />
-        <link rel="apple-touch-icon" href="/icons/icon-192.svg" />
-      </head>
       <body className="font-sans antialiased">
         <VersionProvider>
           <AppShell stats={{ itemCount, recipeCount, machineCount }}>

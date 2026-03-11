@@ -72,6 +72,7 @@ npm run dev       # start dev server on http://localhost:3000
 - **Client-side only**: All data access (search, recipes, item metadata) happens in the browser
 - **Static build only**: `npm run process-data` runs before `npm run build` (development server runs separately but `npm start` doesn't apply)
 - **Deploy static**: `out/` directory contains everything needed; deploy `out/data/` to any static host
+- **Netcup specific**: https://xxxxx.webhosting.systems/smb/web/web-server-settings/id/1989 -> enable "Statische Dateien direkt durch nginx bedienen" for working icons
 
 ## Tech Stack
 

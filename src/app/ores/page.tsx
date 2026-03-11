@@ -271,7 +271,7 @@ export default function OresPage() {
               >
                 <div className="flex items-start justify-between mb-3">
                   <div>
-                    <Link
+                    <Link prefetch={false}
                       href={`/ores/${encodeId(vein.name)}`}
                       className="font-medium text-text-primary text-sm hover:text-accent-cyan transition-colors"
                     >
@@ -364,7 +364,7 @@ export default function OresPage() {
                     className="hover:bg-bg-elevated transition-colors"
                   >
                     <td className="px-3 py-2 font-medium">
-                      <Link
+                      <Link prefetch={false}
                         href={`/ores/${encodeId(ore.name)}`}
                         className="text-text-primary hover:text-accent-cyan transition-colors"
                       >

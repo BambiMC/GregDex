@@ -87,7 +87,7 @@ export default function BeesPage() {
               >
                 <div className="flex items-center gap-2 flex-wrap">
                   {/* Parent 1 */}
-                  <Link
+                  <Link prefetch={false}
                     href={`/bees/${createReadableItemId(mutation.parent1Uid)}`}
                     className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                   >
@@ -102,7 +102,7 @@ export default function BeesPage() {
                   <span className="text-text-muted text-lg">+</span>
 
                   {/* Parent 2 */}
-                  <Link
+                  <Link prefetch={false}
                     href={`/bees/${createReadableItemId(mutation.parent2Uid)}`}
                     className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
                   >
@@ -130,7 +130,7 @@ export default function BeesPage() {
                   </svg>
 
                   {/* Offspring */}
-                  <Link
+                  <Link prefetch={false}
                     href={`/bees/${createReadableItemId(mutation.offspringUid)}`}
                     className="px-3 py-1.5 bg-accent-success/10 border border-accent-success/20 rounded-lg hover:border-accent-success/40 transition-colors"
                   >
