@@ -30,9 +30,16 @@ export default function ItemDetailPage({
   useEffect(() => {
     async function load() {
       try {
-        const rawId = parseReadableItemId(decodeURIComponent(itemId));
-        const encodedId = encodeId(rawId);
-        const itemRes = await fetch(`/data/items/${encodedId}.json`);
+        let rawId = parseReadableItemId(decodeURIComponent(itemId));
+        let encodedId = encodeId(rawId);
+        let itemRes = await fetch(`/data/items/${encodedId}.json`);
+        // Items stored with meta=0 in some data sources (e.g. blood-magic.json)
+        // are indexed as meta=32767 (wildcard). Fall back automatically.
+        if (!itemRes.ok && rawId.endsWith(":0")) {
+          rawId = rawId.slice(0, -2) + ":32767";
+          encodedId = encodeId(rawId);
+          itemRes = await fetch(`/data/items/${encodedId}.json`);
+        }
         if (!itemRes.ok) return;
         const item = await itemRes.json();
 

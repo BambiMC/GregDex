@@ -52,7 +52,8 @@ npx serve out
 ## Development
 
 ```bash
-npm run dev       # start dev server on http://localhost:3000
+npm run dev
+# start dev server on http://localhost:3000
 ```
 
 ## Features

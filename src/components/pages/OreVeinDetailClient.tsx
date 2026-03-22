@@ -2,10 +2,30 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
-import { encodeId } from "@/lib/encoding";
 
-function getVeinDisplayName(name: string): string {
-  return name.replace("ore.mix.", "");
+function getVeinDisplayName(vein: any): string {
+  return vein.primaryOre?.materialName || vein.name.replace(/^ore\.\w+\./, "");
+}
+
+function veinSlug(name: string) {
+  return name.replace(/\./g, "-");
+}
+
+function OreIcon({ meta, displayName }: { meta: number; displayName: string }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) return <span className="text-2xl">⛏️</span>;
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={`/icons/items/gregtech_gt.blockores_${meta}.png`}
+      alt={displayName}
+      width={40}
+      height={40}
+      className="pixelated"
+      draggable={false}
+      onError={() => setFailed(true)}
+    />
+  );
 }
 
 export default function OreVeinDetailPage({
@@ -28,13 +48,8 @@ export default function OreVeinDetailPage({
         const allVeins: any[] = await veinsRes.json();
         const allSmallOres: any[] = await smallOresRes.json();
 
-        // veinId is base64url-encoded vein name
-        let name: string;
-        try {
-          name = atob(veinId.replace(/-/g, "+").replace(/_/g, "/"));
-        } catch {
-          name = veinId;
-        }
+        // veinId is the vein name with dots replaced by hyphens
+        const name = veinId.replace(/-/g, ".");
 
         const vein = allVeins.find((v) => v.name === name) || null;
         const smallOre = allSmallOres.find((o) => o.name === name) || null;
@@ -98,7 +113,7 @@ export default function OreVeinDetailPage({
           </Link>
           <span>/</span>
           <span className="text-text-secondary">
-            {vein ? getVeinDisplayName(vein.name) : smallOre.ore.materialName}
+            {vein ? getVeinDisplayName(vein) : smallOre.ore.materialName}
           </span>
         </div>
 
@@ -106,11 +121,15 @@ export default function OreVeinDetailPage({
         <div className="bg-bg-tertiary border border-border-default rounded-xl p-5 mb-6">
           <div className="flex items-start gap-4">
             <div className="w-12 h-12 bg-cyan-500/20 border border-cyan-500/30 rounded-lg flex items-center justify-center shrink-0">
-              <span className="text-2xl">⛏️</span>
+              {vein ? (
+                <OreIcon meta={vein.primaryOre.meta} displayName={vein.primaryOre.materialName} />
+              ) : (
+                <OreIcon meta={smallOre.ore.meta} displayName={smallOre.ore.materialName} />
+              )}
             </div>
             <div className="flex-1">
               <h1 className="text-xl font-bold text-text-primary">
-                {vein ? getVeinDisplayName(vein.name) : smallOre.ore.materialName}
+                {vein ? getVeinDisplayName(vein) : smallOre.ore.materialName}
               </h1>
               <div className="flex flex-wrap items-center gap-2 mt-2">
                 <span className="px-2 py-0.5 rounded-full text-xs bg-cyan-500/10 text-cyan-400 border border-cyan-500/20">
@@ -169,22 +188,20 @@ export default function OreVeinDetailPage({
           <div className="bg-bg-tertiary border border-border-default rounded-xl p-5 mb-6">
             <h2 className="text-lg font-semibold text-text-primary mb-3">Ore Composition</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              <div className="bg-bg-primary rounded-lg p-3">
-                <div className="text-sm font-medium text-accent-primary mb-1">Primary Ore</div>
-                <div className="text-text-primary">{vein.primaryOre.materialName}</div>
-              </div>
-              <div className="bg-bg-primary rounded-lg p-3">
-                <div className="text-sm font-medium text-accent-secondary mb-1">Secondary Ore</div>
-                <div className="text-text-primary">{vein.secondaryOre.materialName}</div>
-              </div>
-              <div className="bg-bg-primary rounded-lg p-3">
-                <div className="text-sm font-medium text-accent-success mb-1">Between Ore</div>
-                <div className="text-text-primary">{vein.betweenOre.materialName}</div>
-              </div>
-              <div className="bg-bg-primary rounded-lg p-3">
-                <div className="text-sm font-medium text-accent-purple mb-1">Sporadic Ore</div>
-                <div className="text-text-primary">{vein.sporadicOre.materialName}</div>
-              </div>
+              {([
+                { label: "Primary Ore", ore: vein.primaryOre, color: "text-accent-primary" },
+                { label: "Secondary Ore", ore: vein.secondaryOre, color: "text-accent-secondary" },
+                { label: "Between Ore", ore: vein.betweenOre, color: "text-accent-success" },
+                { label: "Sporadic Ore", ore: vein.sporadicOre, color: "text-accent-purple" },
+              ]).map(({ label, ore, color }) => (
+                <div key={label} className="bg-bg-primary rounded-lg p-3 flex items-center gap-3">
+                  <OreIcon meta={ore.meta} displayName={ore.materialName} />
+                  <div>
+                    <div className={`text-sm font-medium mb-0.5 ${color}`}>{label}</div>
+                    <div className="text-text-primary">{ore.materialName}</div>
+                  </div>
+                </div>
+              ))}
             </div>
           </div>
         )}
@@ -192,10 +209,13 @@ export default function OreVeinDetailPage({
         {smallOre && (
           <div className="bg-bg-tertiary border border-border-default rounded-xl p-5 mb-6">
             <h2 className="text-lg font-semibold text-text-primary mb-3">Ore Details</h2>
-            <div className="bg-bg-primary rounded-lg p-3">
-              <div className="text-sm font-medium text-accent-primary mb-1">Ore Type</div>
-              <div className="text-text-primary">{smallOre.ore.materialName}</div>
-              <div className="text-xs text-text-muted mt-1">Amount per vein: {smallOre.amount}</div>
+            <div className="bg-bg-primary rounded-lg p-3 flex items-center gap-3">
+              <OreIcon meta={smallOre.ore.meta} displayName={smallOre.ore.materialName} />
+              <div>
+                <div className="text-sm font-medium text-accent-primary mb-0.5">Ore Type</div>
+                <div className="text-text-primary">{smallOre.ore.materialName}</div>
+                <div className="text-xs text-text-muted mt-1">Amount per vein: {smallOre.amount}</div>
+              </div>
             </div>
           </div>
         )}
@@ -208,12 +228,13 @@ export default function OreVeinDetailPage({
               {relatedVeins.map((relatedVein: any, i: number) => (
                 <Link prefetch={false}
                   key={i}
-                  href={`/ores/${encodeId(relatedVein.name)}`}
-                  className="flex items-center justify-between p-3 bg-bg-primary rounded-lg hover:bg-bg-elevated transition-colors"
+                  href={`/ores/${veinSlug(relatedVein.name)}`}
+                  className="flex items-center gap-3 p-3 bg-bg-primary rounded-lg hover:bg-bg-elevated transition-colors"
                 >
-                  <div>
+                  <OreIcon meta={relatedVein.primaryOre.meta} displayName={relatedVein.primaryOre.materialName} />
+                  <div className="flex-1 min-w-0">
                     <div className="text-sm font-medium text-text-primary">
-                      {getVeinDisplayName(relatedVein.name)}
+                      {getVeinDisplayName(relatedVein)}
                     </div>
                     <div className="text-xs text-text-muted">
                       Y: {relatedVein.minY} - {relatedVein.maxY}
@@ -234,10 +255,11 @@ export default function OreVeinDetailPage({
               {relatedSmallOres.map((relatedOre: any, i: number) => (
                 <Link prefetch={false}
                   key={i}
-                  href={`/ores/${encodeId(relatedOre.name)}`}
-                  className="flex items-center justify-between p-3 bg-bg-primary rounded-lg hover:bg-bg-elevated transition-colors"
+                  href={`/ores/${veinSlug(relatedOre.name)}`}
+                  className="flex items-center gap-3 p-3 bg-bg-primary rounded-lg hover:bg-bg-elevated transition-colors"
                 >
-                  <div>
+                  <OreIcon meta={relatedOre.ore.meta} displayName={relatedOre.ore.materialName} />
+                  <div className="flex-1 min-w-0">
                     <div className="text-sm font-medium text-text-primary">
                       {relatedOre.ore.materialName}
                     </div>

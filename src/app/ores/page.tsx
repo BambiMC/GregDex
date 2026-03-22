@@ -2,7 +2,27 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
-import { encodeId } from "@/lib/encoding";
+
+function veinSlug(name: string) {
+  return name.replace(/\./g, "-");
+}
+
+function OreIcon({ meta, size = 24 }: { meta: number; size?: number }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) return <span className="flex items-center justify-center text-base">⛏️</span>;
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={`/icons/items/gregtech_gt.blockores_${meta}.png`}
+      alt=""
+      width={size}
+      height={size}
+      className="pixelated shrink-0"
+      draggable={false}
+      onError={() => setFailed(true)}
+    />
+  );
+}
 
 // Important dimensions that get quick filter buttons
 const IMPORTANT_DIMENSIONS = [
@@ -20,6 +40,11 @@ const DIMENSION_LABELS: Record<string, string> = {
   twilight_forest: "Twilight Forest",
 };
 
+interface OreEntry {
+  meta: number;
+  materialName: string;
+}
+
 interface OreVein {
   name: string;
   minY: number;
@@ -27,10 +52,10 @@ interface OreVein {
   weight: number;
   density: number;
   size: number;
-  primaryOre: { materialName: string };
-  secondaryOre: { materialName: string };
-  betweenOre: { materialName: string };
-  sporadicOre: { materialName: string };
+  primaryOre: OreEntry;
+  secondaryOre: OreEntry;
+  betweenOre: OreEntry;
+  sporadicOre: OreEntry;
   dimensions: string[];
 }
 
@@ -39,7 +64,7 @@ interface SmallOre {
   minY: number;
   maxY: number;
   amount: number;
-  ore: { materialName: string };
+  ore: OreEntry;
   dimensions: string[];
 }
 
@@ -270,16 +295,19 @@ export default function OresPage() {
                 className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
               >
                 <div className="flex items-start justify-between mb-3">
-                  <div>
-                    <Link prefetch={false}
-                      href={`/ores/${encodeId(vein.name)}`}
-                      className="font-medium text-text-primary text-sm hover:text-accent-cyan transition-colors"
-                    >
-                      {vein.name.replace("ore.mix.", "")}
-                    </Link>
-                    <div className="text-xs text-text-muted mt-0.5">
-                      Y: {vein.minY} - {vein.maxY} | Weight: {vein.weight} |
-                      Density: {vein.density} | Size: {vein.size}
+                  <div className="flex items-center gap-2">
+                    <OreIcon meta={vein.primaryOre.meta} size={28} />
+                    <div>
+                      <Link prefetch={false}
+                        href={`/ores/${veinSlug(vein.name)}`}
+                        className="font-medium text-text-primary text-sm hover:text-accent-cyan transition-colors"
+                      >
+                        {vein.primaryOre.materialName}
+                      </Link>
+                      <div className="text-xs text-text-muted mt-0.5">
+                        Y: {vein.minY} - {vein.maxY} | Weight: {vein.weight} |
+                        Density: {vein.density} | Size: {vein.size}
+                      </div>
                     </div>
                   </div>
                   <div className="flex gap-1 flex-wrap justify-end">
@@ -310,30 +338,20 @@ export default function OresPage() {
 
                 {/* Ore types */}
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
-                  <div>
-                    <span className="text-text-muted">Primary: </span>
-                    <span className="text-accent-primary">
-                      {vein.primaryOre.materialName}
-                    </span>
-                  </div>
-                  <div>
-                    <span className="text-text-muted">Secondary: </span>
-                    <span className="text-accent-secondary">
-                      {vein.secondaryOre.materialName}
-                    </span>
-                  </div>
-                  <div>
-                    <span className="text-text-muted">Between: </span>
-                    <span className="text-accent-success">
-                      {vein.betweenOre.materialName}
-                    </span>
-                  </div>
-                  <div>
-                    <span className="text-text-muted">Sporadic: </span>
-                    <span className="text-accent-purple">
-                      {vein.sporadicOre.materialName}
-                    </span>
-                  </div>
+                  {([
+                    { label: "Primary", ore: vein.primaryOre, color: "text-accent-primary" },
+                    { label: "Secondary", ore: vein.secondaryOre, color: "text-accent-secondary" },
+                    { label: "Between", ore: vein.betweenOre, color: "text-accent-success" },
+                    { label: "Sporadic", ore: vein.sporadicOre, color: "text-accent-purple" },
+                  ] as const).map(({ label, ore, color }) => (
+                    <div key={label} className="flex items-center gap-1.5">
+                      <OreIcon meta={ore.meta} size={20} />
+                      <div>
+                        <span className="text-text-muted">{label}: </span>
+                        <span className={color}>{ore.materialName}</span>
+                      </div>
+                    </div>
+                  ))}
                 </div>
               </div>
             ))}
@@ -365,9 +383,10 @@ export default function OresPage() {
                   >
                     <td className="px-3 py-2 font-medium">
                       <Link prefetch={false}
-                        href={`/ores/${encodeId(ore.name)}`}
-                        className="text-text-primary hover:text-accent-cyan transition-colors"
+                        href={`/ores/${veinSlug(ore.name)}`}
+                        className="flex items-center gap-2 text-text-primary hover:text-accent-cyan transition-colors"
                       >
+                        <OreIcon meta={ore.ore.meta} size={20} />
                         {ore.ore.materialName}
                       </Link>
                     </td>

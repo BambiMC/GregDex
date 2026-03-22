@@ -5,12 +5,13 @@ import {
   getMaterials,
   getBeeMutations,
   getOreVeins,
+  getFluidsIndex,
 } from "@/lib/data";
 
 const quickLinks = [
   {
     title: "Items",
-    desc: "Search and browse all items",
+    desc: "Search and browse all 47k+ items",
     href: "/items",
     color: "text-accent-primary",
     bg: "bg-accent-primary/10",
@@ -31,6 +32,14 @@ const quickLinks = [
     color: "text-accent-success",
     bg: "bg-accent-success/10",
     border: "border-accent-success/20",
+  },
+  {
+    title: "Fluids & Gases",
+    desc: "All fluids with recipes and properties",
+    href: "/fluids-gases",
+    color: "text-sky-400",
+    bg: "bg-sky-400/10",
+    border: "border-sky-400/20",
   },
   {
     title: "Bee Breeding",
@@ -56,6 +65,14 @@ const quickLinks = [
     bg: "bg-accent-danger/10",
     border: "border-accent-danger/20",
   },
+  {
+    title: "Loot Bags",
+    desc: "Drop tables and upgrade recipes for all loot bags",
+    href: "/lootbags",
+    color: "text-purple-400",
+    bg: "bg-purple-400/10",
+    border: "border-purple-400/20",
+  },
 ];
 
 export default function HomePage() {
@@ -64,12 +81,14 @@ export default function HomePage() {
   let materials: unknown[] = [];
   let beeMutations: unknown[] = [];
   let oreVeins: unknown[] = [];
+  let fluids: unknown[] = [];
   try {
     items = getItemsIndex();
     machines = getMachines();
     materials = getMaterials();
     beeMutations = getBeeMutations();
     oreVeins = getOreVeins();
+    fluids = getFluidsIndex();
   } catch {
     // data not yet generated
   }
@@ -79,6 +98,7 @@ export default function HomePage() {
     { label: "Items", value: items.length.toLocaleString(), href: "/items" },
     { label: "Recipes", value: totalRecipes.toLocaleString(), href: "/machines" },
     { label: "Machines", value: machines.length.toLocaleString(), href: "/machines" },
+    { label: "Fluids", value: fluids.length.toLocaleString(), href: "/fluids-gases" },
     { label: "Materials", value: materials.length.toLocaleString(), href: "/materials" },
     { label: "Bee Mutations", value: beeMutations.length.toLocaleString(), href: "/bees" },
     { label: "Ore Veins", value: oreVeins.length.toLocaleString(), href: "/ores" },
@@ -92,12 +112,12 @@ export default function HomePage() {
           Greg<span className="text-accent-primary">Dex</span>
         </h1>
         <p className="text-text-secondary text-sm sm:text-base max-w-md mx-auto">
-          The "mostly" complete item and recipe database for GregTech: New Horizons
+          A "mostly" complete item and recipe database for GregTech: New Horizons
         </p>
       </div>
 
       {/* Stats */}
-      <div className="grid grid-cols-3 sm:grid-cols-6 gap-3 mb-10">
+      <div className="grid grid-cols-4 sm:grid-cols-7 gap-3 mb-10">
         {stats.map((stat) => (
           <Link prefetch={false}
             key={stat.label}
@@ -125,6 +145,29 @@ export default function HomePage() {
             <p className="text-sm text-text-secondary">{link.desc}</p>
           </Link>
         ))}
+      </div>
+
+      {/* Tools Section */}
+      <h2 className="text-lg font-semibold mb-4 mt-10 text-text-primary">Tools</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <Link prefetch={false}
+          href="/tools/planner"
+          className="bg-accent-primary/10 border border-accent-primary/20 rounded-xl p-5 hover:scale-[1.02] transition-transform"
+        >
+          <h3 className="font-semibold text-accent-primary mb-1">Recipe Planner</h3>
+          <p className="text-sm text-text-secondary">
+            Node-based editor to plan and validate multi-machine processing chains
+          </p>
+        </Link>
+        <Link prefetch={false}
+          href="/tools/overclock"
+          className="bg-amber-400/10 border border-amber-400/20 rounded-xl p-5 hover:scale-[1.02] transition-transform"
+        >
+          <h3 className="font-semibold text-amber-400 mb-1">Overclock Calculator</h3>
+          <p className="text-sm text-text-secondary">
+            Calculate overclocked EU/t and duration across voltage tiers for any recipe
+          </p>
+        </Link>
       </div>
 
       {/* Keyboard shortcut hint */}

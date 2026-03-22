@@ -1,7 +1,6 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import OreVeinDetailClient from "@/components/pages/OreVeinDetailClient";
-import { encodeId } from "@/lib/encoding";
 
 export const dynamicParams = false;
 
@@ -13,7 +12,7 @@ export function generateStaticParams() {
     ];
     const ids = new Set<string>();
     [...veins, ...smallOres].forEach((item: { name: string }) =>
-      ids.add(encodeId(item.name)),
+      ids.add(item.name.replace(/\./g, "-")),
     );
     return Array.from(ids).map((veinId) => ({ veinId }));
   } catch {

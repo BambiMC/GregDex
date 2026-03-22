@@ -4,6 +4,7 @@ import { useState, useEffect, use } from "react";
 import Link from "next/link";
 import { createReadableItemId } from "@/lib/utils";
 import { encodeId } from "@/lib/encoding";
+import ItemIcon from "@/components/ItemIcon";
 
 function getBeeDisplayName(uid: string): string {
   // Extract clean name from uid like "forestry.speciesRural" -> "Rural"
@@ -13,6 +14,32 @@ function getBeeDisplayName(uid: string): string {
   name = name.replace(/^species/i, "");
   // Add spaces before capitals
   return name.replace(/([a-z])([A-Z])/g, "$1 $2") || uid;
+}
+
+function BeeIcon({ uid, size = 24 }: { uid: string; size?: number }) {
+  const [candidateIdx, setCandidateIdx] = useState(0);
+  const candidates = [
+    `/icons/items/bee_${uid}.png`,
+    `/icons/items/bee_${uid.replace(/\./g, "_")}.png`,
+    `/icons/items/bee_${createReadableItemId(uid)}.png`,
+  ];
+
+  if (candidateIdx >= candidates.length) {
+    return <span className="text-base leading-none">🐝</span>;
+  }
+
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={candidates[candidateIdx]}
+      alt={getBeeDisplayName(uid)}
+      width={size}
+      height={size}
+      className="pixelated"
+      draggable={false}
+      onError={() => setCandidateIdx((i) => i + 1)}
+    />
+  );
 }
 
 export default function BeeSpeciesDetailPage({
@@ -277,6 +304,9 @@ export default function BeeSpeciesDetailPage({
                       href={`/items/${createReadableItemId(p.id)}`}
                       className="px-3 py-1.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors flex items-center gap-2"
                     >
+                      <div className="w-6 h-6 flex items-center justify-center shrink-0">
+                        <ItemIcon itemId={p.id.replace(/-/g, ":")} displayName={getProductName(p.id)} size={24} showTooltip={false} />
+                      </div>
                       <div className="flex flex-col">
                         <span className="text-sm font-medium">
                           {getProductName(p.id)}
@@ -306,6 +336,9 @@ export default function BeeSpeciesDetailPage({
                       href={`/items/${createReadableItemId(p.id)}`}
                       className="px-3 py-1.5 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors flex items-center gap-2"
                     >
+                      <div className="w-6 h-6 flex items-center justify-center shrink-0">
+                        <ItemIcon itemId={p.id.replace(/-/g, ":")} displayName={getProductName(p.id)} size={24} showTooltip={false} />
+                      </div>
                       <div className="flex flex-col">
                         <span className="text-sm font-medium">
                           {getProductName(p.id)}
@@ -342,35 +375,44 @@ export default function BeeSpeciesDetailPage({
                     <div className="flex items-center gap-2 flex-wrap">
                       <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent1Uid)}`}
-                        className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
+                        className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors flex items-center gap-2"
                       >
-                        <div className="text-sm font-medium text-yellow-400">
-                          {getBeeDisplayName(mutation.parent1Uid)}
+                        <BeeIcon uid={mutation.parent1Uid} size={20} />
+                        <div>
+                          <div className="text-sm font-medium text-yellow-400">
+                            {getBeeDisplayName(mutation.parent1Uid)}
+                          </div>
+                          <div className="text-[10px] text-text-muted">{mutation.parent1Uid}</div>
                         </div>
-                        <div className="text-[10px] text-text-muted">{mutation.parent1Uid}</div>
                       </Link>
 
                       <span className="text-text-muted text-lg">+</span>
 
                       <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent2Uid)}`}
-                        className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
+                        className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors flex items-center gap-2"
                       >
-                        <div className="text-sm font-medium text-yellow-400">
-                          {getBeeDisplayName(mutation.parent2Uid)}
+                        <BeeIcon uid={mutation.parent2Uid} size={20} />
+                        <div>
+                          <div className="text-sm font-medium text-yellow-400">
+                            {getBeeDisplayName(mutation.parent2Uid)}
+                          </div>
+                          <div className="text-[10px] text-text-muted">{mutation.parent2Uid}</div>
                         </div>
-                        <div className="text-[10px] text-text-muted">{mutation.parent2Uid}</div>
                       </Link>
 
                       <svg className="w-5 h-5 text-text-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                       </svg>
 
-                      <div className="px-3 py-1.5 bg-accent-success/10 border border-accent-success/20 rounded-lg">
-                        <div className="text-sm font-medium text-accent-success">
-                          {getBeeDisplayName(mutation.offspringUid)}
+                      <div className="px-3 py-1.5 bg-accent-success/10 border border-accent-success/20 rounded-lg flex items-center gap-2">
+                        <BeeIcon uid={mutation.offspringUid} size={20} />
+                        <div>
+                          <div className="text-sm font-medium text-accent-success">
+                            {getBeeDisplayName(mutation.offspringUid)}
+                          </div>
+                          <div className="text-[10px] text-text-muted">{mutation.offspringUid}</div>
                         </div>
-                        <div className="text-[10px] text-text-muted">{mutation.offspringUid}</div>
                       </div>
 
                       <span className="px-2 py-0.5 bg-accent-primary/10 text-accent-primary text-xs font-medium rounded-full border border-accent-primary/20">
@@ -411,32 +453,36 @@ export default function BeeSpeciesDetailPage({
                     <div className="flex items-center gap-2 flex-wrap">
                       <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent1Uid)}`}
-                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${mutation.parent1Uid === species.uid
+                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors flex items-center gap-2 ${mutation.parent1Uid === species.uid
                           ? "bg-accent-success/10 border-accent-success/20"
                           : "bg-yellow-500/10 border-yellow-500/20"
                           }`}
                       >
-                        <div className={`text-sm font-medium ${mutation.parent1Uid === species.uid ? "text-accent-success" : "text-yellow-400"
-                          }`}>
-                          {getBeeDisplayName(mutation.parent1Uid)}
+                        <BeeIcon uid={mutation.parent1Uid} size={20} />
+                        <div>
+                          <div className={`text-sm font-medium ${mutation.parent1Uid === species.uid ? "text-accent-success" : "text-yellow-400"}`}>
+                            {getBeeDisplayName(mutation.parent1Uid)}
+                          </div>
+                          <div className="text-[10px] text-text-muted">{mutation.parent1Uid}</div>
                         </div>
-                        <div className="text-[10px] text-text-muted">{mutation.parent1Uid}</div>
                       </Link>
 
                       <span className="text-text-muted text-lg">+</span>
 
                       <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.parent2Uid)}`}
-                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors ${mutation.parent2Uid === species.uid
+                        className={`px-3 py-1.5 border rounded-lg hover:border-yellow-500/40 transition-colors flex items-center gap-2 ${mutation.parent2Uid === species.uid
                           ? "bg-accent-success/10 border-accent-success/20"
                           : "bg-yellow-500/10 border-yellow-500/20"
                           }`}
                       >
-                        <div className={`text-sm font-medium ${mutation.parent2Uid === species.uid ? "text-accent-success" : "text-yellow-400"
-                          }`}>
-                          {getBeeDisplayName(mutation.parent2Uid)}
+                        <BeeIcon uid={mutation.parent2Uid} size={20} />
+                        <div>
+                          <div className={`text-sm font-medium ${mutation.parent2Uid === species.uid ? "text-accent-success" : "text-yellow-400"}`}>
+                            {getBeeDisplayName(mutation.parent2Uid)}
+                          </div>
+                          <div className="text-[10px] text-text-muted">{mutation.parent2Uid}</div>
                         </div>
-                        <div className="text-[10px] text-text-muted">{mutation.parent2Uid}</div>
                       </Link>
 
                       <svg className="w-5 h-5 text-text-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -445,12 +491,15 @@ export default function BeeSpeciesDetailPage({
 
                       <Link prefetch={false}
                         href={`/bees/${createReadableItemId(mutation.offspringUid)}`}
-                        className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors"
+                        className="px-3 py-1.5 bg-yellow-500/10 border border-yellow-500/20 rounded-lg hover:border-yellow-500/40 transition-colors flex items-center gap-2"
                       >
-                        <div className="text-sm font-medium text-yellow-400">
-                          {getBeeDisplayName(mutation.offspringUid)}
+                        <BeeIcon uid={mutation.offspringUid} size={20} />
+                        <div>
+                          <div className="text-sm font-medium text-yellow-400">
+                            {getBeeDisplayName(mutation.offspringUid)}
+                          </div>
+                          <div className="text-[10px] text-text-muted">{mutation.offspringUid}</div>
                         </div>
-                        <div className="text-[10px] text-text-muted">{mutation.offspringUid}</div>
                       </Link>
 
                       <span className="px-2 py-0.5 bg-accent-primary/10 text-accent-primary text-xs font-medium rounded-full border border-accent-primary/20">

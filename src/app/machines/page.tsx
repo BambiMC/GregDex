@@ -2,12 +2,42 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import { getMachineDisplayName, getMachineIconPath } from "@/lib/format";
 
 interface MachineInfo {
   id: string;
   displayName: string;
   recipeCount: number;
   category: string;
+}
+
+function MachineIcon({ machineId }: { machineId: string }) {
+  const [failed, setFailed] = useState(false);
+  const iconPath = getMachineIconPath(machineId);
+
+  if (!iconPath || failed) {
+    return (
+      <div className="w-8 h-8 rounded bg-bg-elevated border border-border-default flex items-center justify-center shrink-0">
+        <svg className="w-4 h-4 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.573-1.066z" />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+      </div>
+    );
+  }
+
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={iconPath}
+      alt=""
+      width={32}
+      height={32}
+      className="pixelated w-8 h-8 shrink-0"
+      draggable={false}
+      onError={() => setFailed(true)}
+    />
+  );
 }
 
 export default function MachinesPage() {
@@ -26,7 +56,7 @@ export default function MachinesPage() {
   const filtered = filter
     ? machines.filter(
         (m) =>
-          m.displayName.toLowerCase().includes(filter.toLowerCase()) ||
+          getMachineDisplayName(m.id).toLowerCase().includes(filter.toLowerCase()) ||
           m.id.toLowerCase().includes(filter.toLowerCase())
       )
     : machines;
@@ -76,17 +106,18 @@ export default function MachinesPage() {
                     <Link prefetch={false}
                       key={machine.id}
                       href={`/machines/${encodeURIComponent(machine.id)}`}
-                      className="flex items-center justify-between px-4 py-3 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"
+                      className="flex items-center gap-3 px-4 py-3 bg-bg-tertiary border border-border-default rounded-lg hover:border-border-bright transition-colors group"
                     >
-                      <div>
-                        <div className="text-sm font-medium text-text-primary group-hover:text-accent-secondary transition-colors">
-                          {machine.displayName}
+                      <MachineIcon machineId={machine.id} />
+                      <div className="flex-1 min-w-0">
+                        <div className="text-sm font-medium text-text-primary group-hover:text-accent-secondary transition-colors truncate">
+                          {getMachineDisplayName(machine.id)}
                         </div>
-                        <div className="text-xs text-text-muted mt-0.5">
+                        <div className="text-xs text-text-muted mt-0.5 truncate">
                           {machine.id}
                         </div>
                       </div>
-                      <span className="text-sm text-accent-primary font-medium">
+                      <span className="text-sm text-accent-primary font-medium shrink-0">
                         {machine.recipeCount.toLocaleString()}
                       </span>
                     </Link>

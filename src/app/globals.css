@@ -31,6 +31,11 @@
   --color-tier-zpm: #7ec8a4;
   --color-tier-uv: #53eb53;
   --color-tier-uhv: #960000;
+  --color-tier-uev: #8a2be2;
+  --color-tier-uiv: #4169e1;
+  --color-tier-umv: #00bcd4;
+  --color-tier-uxv: #e91e63;
+  --color-tier-max: #ffd700;
 
   --font-sans: "Inter", system-ui, sans-serif;
   --font-mono: "JetBrains Mono", "Fira Code", monospace;

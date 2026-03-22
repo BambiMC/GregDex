@@ -7,7 +7,13 @@ export const NAV_ITEMS = [
   { href: "/bees", label: "Bees", icon: "bug" },
   { href: "/ores", label: "Ores", icon: "mountain" },
   { href: "/blood-magic", label: "Blood Magic", icon: "droplet" },
+  { href: "/lootbags", label: "Loot Bags", icon: "bag" },
   { href: "/saved", label: "Gespeichert", icon: "bookmark" },
+] as const;
+
+export const TOOL_NAV_ITEMS = [
+  { href: "/tools/overclock", label: "Overclock Calculator", icon: "bolt" },
+  { href: "/tools/planner", label: "Production Line Planner", icon: "planner" },
 ] as const;
 
 export const DIMENSIONS = [

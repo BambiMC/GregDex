@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { NAV_ITEMS } from "@/lib/constants";
+import { NAV_ITEMS, TOOL_NAV_ITEMS } from "@/lib/constants";
 
 const icons: Record<string, React.ReactNode> = {
   home: (
@@ -131,18 +131,104 @@ const icons: Record<string, React.ReactNode> = {
       />
     </svg>
   ),
+  bolt: (
+    <svg
+      className="w-5 h-5"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z"
+      />
+    </svg>
+  ),
+  chain: (
+    <svg
+      className="w-5 h-5"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m9.553-4.522a4.5 4.5 0 00-6.364 0l-4.5 4.5a4.5 4.5 0 001.242 7.244"
+      />
+    </svg>
+  ),
+  planner: (
+    <svg
+      className="w-5 h-5"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        d="M3.75 6A2.25 2.25 0 016 3.75h2.25A2.25 2.25 0 0110.5 6v2.25a2.25 2.25 0 01-2.25 2.25H6a2.25 2.25 0 01-2.25-2.25V6zM3.75 15.75A2.25 2.25 0 016 13.5h2.25a2.25 2.25 0 012.25 2.25V18a2.25 2.25 0 01-2.25 2.25H6A2.25 2.25 0 013.75 18v-2.25zM13.5 6a2.25 2.25 0 012.25-2.25H18A2.25 2.25 0 0120.25 6v2.25A2.25 2.25 0 0118 10.5h-2.25a2.25 2.25 0 01-2.25-2.25V6zM13.5 15.75a2.25 2.25 0 012.25-2.25H18a2.25 2.25 0 012.25 2.25V18A2.25 2.25 0 0118 20.25h-2.25A2.25 2.25 0 0113.5 18v-2.25z"
+      />
+    </svg>
+  ),
+  chart: (
+    <svg
+      className="w-5 h-5"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        d="M3 13.5V19a1 1 0 001 1h3a1 1 0 001-1v-5.5M9 9V19a1 1 0 001 1h3a1 1 0 001-1V9M15 5v14a1 1 0 001 1h3a1 1 0 001-1V5"
+      />
+    </svg>
+  ),
+  bag: (
+    <svg
+      className="w-5 h-5"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+        d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"
+      />
+    </svg>
+  ),
 };
 
 export default function Sidebar({
   open,
   onClose,
+  collapsed,
+  onCollapsedChange,
   stats,
 }: {
   open: boolean;
   onClose: () => void;
+  collapsed: boolean;
+  onCollapsedChange: (v: boolean) => void;
   stats: { itemCount: number; recipeCount: number; machineCount: number };
 }) {
   const pathname = usePathname();
+
+  const navLinkClass = (isActive: boolean) =>
+    `flex items-center gap-3 px-3 py-2 rounded-lg text-sm transition-colors ${collapsed ? "lg:justify-center lg:px-2" : ""} ${
+      isActive
+        ? "bg-accent-primary/10 text-accent-primary border border-accent-primary/20"
+        : "text-text-secondary hover:text-text-primary hover:bg-bg-elevated"
+    }`;
 
   return (
     <>
@@ -155,41 +241,84 @@ export default function Sidebar({
       )}
 
       <aside
-        className={`fixed top-14 left-0 z-50 h-[calc(100vh-3.5rem)] w-60 border-r border-border-default bg-bg-secondary transition-transform duration-200 lg:translate-x-0 ${
+        className={`fixed top-14 left-0 z-50 h-[calc(100vh-3.5rem)] border-r border-border-default bg-bg-secondary flex flex-col transition-all duration-200 lg:translate-x-0 ${
           open ? "translate-x-0" : "-translate-x-full"
-        }`}
+        } ${collapsed ? "lg:w-14 w-60" : "w-60"}`}
       >
-        <nav className="flex flex-col gap-1 p-3">
-          {NAV_ITEMS.map((item) => {
-            const isActive =
-              item.href === "/"
-                ? pathname === "/"
-                : pathname.startsWith(item.href);
-            return (
-              <Link prefetch={false}
-                key={item.href}
-                href={item.href}
-                onClick={onClose}
-                className={`flex items-center gap-3 px-3 py-2 rounded-lg text-sm transition-colors ${
-                  isActive
-                    ? "bg-accent-primary/10 text-accent-primary border border-accent-primary/20"
-                    : "text-text-secondary hover:text-text-primary hover:bg-bg-elevated"
-                }`}
-              >
-                {icons[item.icon]}
-                {item.label}
-              </Link>
-            );
-          })}
-        </nav>
+        {/* Scrollable nav */}
+        <div className="flex-1 overflow-y-auto overflow-x-hidden min-h-0">
+          <nav className="flex flex-col gap-1 p-2">
+            {NAV_ITEMS.map((item) => {
+              const isActive =
+                item.href === "/"
+                  ? pathname === "/"
+                  : pathname.startsWith(item.href);
+              return (
+                <Link
+                  prefetch={false}
+                  key={item.href}
+                  href={item.href}
+                  onClick={onClose}
+                  title={collapsed ? item.label : undefined}
+                  className={navLinkClass(isActive)}
+                >
+                  <span className="shrink-0">{icons[item.icon]}</span>
+                  <span className={collapsed ? "lg:hidden" : ""}>{item.label}</span>
+                </Link>
+              );
+            })}
 
-        {/* Stats footer */}
-        <div className="absolute bottom-0 left-0 right-0 p-4 border-t border-border-default">
-          <div className="text-xs text-text-muted space-y-1">
+            {/* Tools section */}
+            <div className="mt-3 pt-3 border-t border-border-default">
+              <div className={`px-3 py-1 text-[10px] font-semibold uppercase tracking-wider text-text-muted ${collapsed ? "lg:hidden" : ""}`}>
+                Tools
+              </div>
+              {TOOL_NAV_ITEMS.map((item) => {
+                const isActive = pathname.startsWith(item.href);
+                return (
+                  <Link
+                    prefetch={false}
+                    key={item.href}
+                    href={item.href}
+                    onClick={onClose}
+                    title={collapsed ? item.label : undefined}
+                    className={navLinkClass(isActive)}
+                  >
+                    <span className="shrink-0">{icons[item.icon]}</span>
+                    <span className={collapsed ? "lg:hidden" : ""}>{item.label}</span>
+                  </Link>
+                );
+              })}
+            </div>
+          </nav>
+        </div>
+
+        {/* Footer: stats + collapse toggle */}
+        <div className="shrink-0 border-t border-border-default">
+          {/* Stats — hidden when collapsed on desktop */}
+          <div className={`px-4 pt-3 pb-2 text-xs text-text-muted space-y-1 ${collapsed ? "lg:hidden" : ""}`}>
             <div>{stats.itemCount.toLocaleString()} Items</div>
             <div>{stats.recipeCount.toLocaleString()} Recipes</div>
             <div>{stats.machineCount.toLocaleString()} Machines</div>
           </div>
+
+          {/* Collapse toggle — desktop only */}
+          <button
+            type="button"
+            onClick={() => onCollapsedChange(!collapsed)}
+            title={collapsed ? "Expand sidebar" : "Collapse sidebar"}
+            className="hidden lg:flex w-full items-center justify-center gap-2 px-3 py-2.5 text-xs text-text-muted hover:text-text-primary hover:bg-bg-elevated transition-colors"
+          >
+            <svg
+              className={`w-4 h-4 transition-transform duration-200 ${collapsed ? "rotate-180" : ""}`}
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            {!collapsed && <span>Collapse</span>}
+          </button>
         </div>
       </aside>
     </>

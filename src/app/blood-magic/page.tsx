@@ -22,6 +22,39 @@ interface AlchemyRecipe {
 
 const TIER_NAMES = ["", "I", "II", "III", "IV", "V", "VI"];
 
+function ItemTile({
+  item,
+  label,
+  labelColor = "text-text-muted",
+}: {
+  item: { id: string; displayName: string; amount?: number };
+  label: string;
+  labelColor?: string;
+}) {
+  return (
+    <Link
+      prefetch={false}
+      href={`/items/${createReadableItemId(item.id)}`}
+      className="flex flex-col items-center gap-1 group"
+    >
+      <span className={`text-[10px] font-semibold uppercase tracking-wide ${labelColor}`}>
+        {label}
+      </span>
+      <div className="item-slot w-12! h-12! group-hover:border-accent-primary/50 transition-colors relative">
+        <ItemIcon itemId={item.id} displayName={item.displayName} size={36} />
+        {item.amount != null && item.amount > 1 && (
+          <span className="absolute -bottom-0.5 -right-0.5 text-[9px] font-bold text-accent-primary bg-bg-primary px-0.5 rounded">
+            {item.amount}
+          </span>
+        )}
+      </div>
+      <span className="text-xs text-text-secondary group-hover:text-accent-primary transition-colors text-center leading-tight max-w-[72px] truncate">
+        {item.displayName}
+      </span>
+    </Link>
+  );
+}
+
 export default function BloodMagicPage() {
   const [altar, setAltar] = useState<AltarRecipe[]>([]);
   const [alchemy, setAlchemy] = useState<AlchemyRecipe[]>([]);
@@ -49,6 +82,7 @@ export default function BloodMagicPage() {
 
         <div className="flex gap-1 mb-6">
           <button
+            type="button"
             onClick={() => setTab("altar")}
             className={`px-4 py-2 text-sm rounded-lg transition-colors ${
               tab === "altar"
@@ -59,6 +93,7 @@ export default function BloodMagicPage() {
             Altar ({altar.length})
           </button>
           <button
+            type="button"
             onClick={() => setTab("alchemy")}
             className={`px-4 py-2 text-sm rounded-lg transition-colors ${
               tab === "alchemy"
@@ -73,10 +108,7 @@ export default function BloodMagicPage() {
         {loading ? (
           <div className="space-y-3">
             {Array.from({ length: 5 }).map((_, i) => (
-              <div
-                key={i}
-                className="h-20 bg-bg-tertiary rounded-lg animate-pulse"
-              />
+              <div key={i} className="h-28 bg-bg-tertiary rounded-lg animate-pulse" />
             ))}
           </div>
         ) : tab === "altar" ? (
@@ -86,75 +118,28 @@ export default function BloodMagicPage() {
                 key={i}
                 className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
               >
-                <div className="flex items-center gap-3 flex-wrap">
+                <div className="flex items-center gap-4 flex-wrap">
                   {/* Input */}
-                  <Link prefetch={false}
-                    href={`/items/${createReadableItemId(recipe.input.id)}`}
-                  >
-                    <div className="item-slot !w-10 !h-10 group/slot">
-                      <ItemIcon
-                        itemId={recipe.input.id}
-                        displayName={recipe.input.displayName}
-                        size={32}
-                      />
-                    </div>
-                  </Link>
-                  <Link prefetch={false}
-                    href={`/items/${createReadableItemId(recipe.input.id)}`}
-                    className="text-sm text-text-secondary hover:text-accent-primary transition-colors"
-                  >
-                    {recipe.input.displayName}
-                  </Link>
+                  <ItemTile item={recipe.input} label="Input" labelColor="text-text-muted" />
 
-                  <svg
-                    className="w-5 h-5 text-text-muted"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M14 5l7 7m0 0l-7 7m7-7H3"
-                    />
+                  {/* Arrow */}
+                  <svg className="w-5 h-5 text-accent-danger shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
 
                   {/* Output */}
-                  <Link prefetch={false}
-                    href={`/items/${createReadableItemId(recipe.output.id)}`}
-                  >
-                    <div className="item-slot !w-10 !h-10 group/slot">
-                      <ItemIcon
-                        itemId={recipe.output.id}
-                        displayName={recipe.output.displayName}
-                        size={32}
-                      />
-                    </div>
-                  </Link>
-                  <Link prefetch={false}
-                    href={`/items/${createReadableItemId(recipe.output.id)}`}
-                    className="text-sm font-medium text-text-primary hover:text-accent-primary transition-colors"
-                  >
-                    {recipe.output.displayName}
-                  </Link>
-                </div>
+                  <ItemTile item={recipe.output} label="Output" labelColor="text-accent-danger" />
 
-                <div className="flex flex-wrap gap-3 mt-2 text-xs text-text-muted">
-                  <span>
-                    Tier{" "}
-                    <span className="text-accent-danger font-medium">
-                      {TIER_NAMES[recipe.minTier] || recipe.minTier}
+                  {/* Stats */}
+                  <div className="ml-auto flex flex-col gap-1 text-xs text-right">
+                    <span className="text-text-muted">
+                      Tier <span className="text-accent-danger font-semibold">{TIER_NAMES[recipe.minTier] || recipe.minTier}</span>
                     </span>
-                  </span>
-                  <span>
-                    LP:{" "}
-                    <span className="text-accent-danger">
-                      {recipe.liquidRequired.toLocaleString()}
+                    <span className="text-text-muted">
+                      <span className="text-accent-danger font-medium">{recipe.liquidRequired.toLocaleString()}</span> LP
                     </span>
-                  </span>
-                  <span>Consumption: {recipe.consumptionRate}/t</span>
-                  <span>Drain: {recipe.drainRate}/t</span>
+                    <span className="text-text-muted">{recipe.consumptionRate}/t · drain {recipe.drainRate}/t</span>
+                  </div>
                 </div>
               </div>
             ))}
@@ -166,48 +151,51 @@ export default function BloodMagicPage() {
                 key={i}
                 className="bg-bg-tertiary border border-border-default rounded-lg p-4 hover:border-border-bright transition-colors"
               >
-                <div className="flex items-center gap-3 mb-2">
-                  <Link prefetch={false}
-                    href={`/items/${createReadableItemId(recipe.output.id)}`}
-                  >
-                    <div className="item-slot !w-8 !h-8 group/slot">
-                      <ItemIcon
-                        itemId={recipe.output.id}
-                        displayName={recipe.output.displayName}
-                        size={28}
-                      />
+                <div className="flex items-start gap-4 flex-wrap">
+                  {/* Inputs */}
+                  <div className="flex flex-col gap-1">
+                    <span className="text-[10px] font-semibold uppercase tracking-wide text-text-muted">Inputs</span>
+                    <div className="flex flex-wrap gap-1">
+                      {recipe.inputs.map((input, j) => (
+                        <Link
+                          prefetch={false}
+                          key={j}
+                          href={`/items/${createReadableItemId(input.id)}`}
+                          className="group"
+                        >
+                          <div className="item-slot w-10! h-10! group-hover:border-accent-primary/50 transition-colors relative">
+                            <ItemIcon itemId={input.id} displayName={input.displayName} size={28} />
+                            {input.amount > 1 && (
+                              <span className="absolute -bottom-0.5 -right-0.5 text-[9px] font-bold text-accent-primary bg-bg-primary px-0.5 rounded">
+                                {input.amount}
+                              </span>
+                            )}
+                          </div>
+                        </Link>
+                      ))}
                     </div>
-                  </Link>
-                  <Link prefetch={false}
-                    href={`/items/${createReadableItemId(recipe.output.id)}`}
-                    className="text-sm font-medium text-text-primary hover:text-accent-primary transition-colors"
-                  >
-                    {recipe.output.displayName}
-                  </Link>
-                  {recipe.output.amount > 1 && (
-                    <span className="text-xs text-accent-primary">
-                      x{recipe.output.amount}
+                  </div>
+
+                  {/* Arrow */}
+                  <div className="flex items-center self-center">
+                    <svg className="w-5 h-5 text-accent-danger shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                    </svg>
+                  </div>
+
+                  {/* Output */}
+                  <ItemTile
+                    item={recipe.output}
+                    label="Output"
+                    labelColor="text-accent-danger"
+                  />
+
+                  {/* Orb level */}
+                  <div className="ml-auto self-center">
+                    <span className="text-xs px-2 py-1 bg-accent-danger/10 text-accent-danger rounded border border-accent-danger/20">
+                      Orb Level {recipe.orbLevel}
                     </span>
-                  )}
-                  <span className="text-xs px-2 py-0.5 bg-accent-danger/10 text-accent-danger rounded border border-accent-danger/20">
-                    Orb Level {recipe.orbLevel}
-                  </span>
-                </div>
-                <div className="flex flex-wrap gap-1">
-                  {recipe.inputs.map((input, j) => (
-                    <Link prefetch={false}
-                      key={j}
-                      href={`/items/${createReadableItemId(input.id)}`}
-                    >
-                      <div className="item-slot !w-8 !h-8 group/slot">
-                        <ItemIcon
-                          itemId={input.id}
-                          displayName={input.displayName}
-                          size={28}
-                        />
-                      </div>
-                    </Link>
-                  ))}
+                  </div>
                 </div>
               </div>
             ))}

@@ -160,6 +160,22 @@ function CraftingGrid({ recipe }: { recipe: any }) {
   );
 }
 
+function stackItems(
+  items: { id: string; displayName: string; amount: number }[],
+): { id: string; displayName: string; amount: number }[] {
+  const map = new Map<string, { id: string; displayName: string; amount: number }>();
+  for (const item of items) {
+    if (!item) continue;
+    const existing = map.get(item.id);
+    if (existing) {
+      existing.amount += item.amount;
+    } else {
+      map.set(item.id, { ...item });
+    }
+  }
+  return Array.from(map.values());
+}
+
 export default function RecipeCard({ recipe }: { recipe: any }) {
   const isGtMachine = recipe.recipeType === "gt_machine";
   const isCrafting = recipe.machine === "crafting_table";
@@ -204,8 +220,7 @@ export default function RecipeCard({ recipe }: { recipe: any }) {
             <CraftingGrid recipe={recipe} />
           ) : (
             <div className="flex flex-wrap gap-1">
-              {(recipe.itemInputs || [])
-                .filter((i: any) => i !== null)
+              {stackItems((recipe.itemInputs || []).filter(Boolean))
                 .map((input: any, idx: number) => (
                   <ItemSlot key={idx} item={input} />
                 ))}
@@ -240,7 +255,7 @@ export default function RecipeCard({ recipe }: { recipe: any }) {
         {/* Outputs */}
         <div className="flex flex-col gap-2">
           <div className="flex flex-wrap gap-1">
-            {(recipe.itemOutputs || []).map((output: any, idx: number) => (
+            {stackItems((recipe.itemOutputs || []).filter(Boolean)).map((output: any, idx: number) => (
               <ItemSlot key={idx} item={output} />
             ))}
           </div>

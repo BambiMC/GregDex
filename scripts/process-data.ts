@@ -495,6 +495,34 @@ async function main() {
     `  Blood Magic: ${(bloodMagic.altarRecipes || []).length} altar, ${(bloodMagic.alchemyRecipes || []).length} alchemy`,
   );
 
+  // Loot bags
+  const allItems = readJSON<Record<string, any>>(path.join(NEI_DIR, "items.json"), {});
+  const lootbagItems = Object.entries(allItems)
+    .filter(([, v]) => v.modId === "enhancedlootbags")
+    .map(([id, v]) => ({ id, displayName: v.displayName as string, metadata: v.metadata as number }))
+    .sort((a, b) => a.metadata - b.metadata);
+  const assemblerRecipes = readJSON<any[]>(path.join(NEI_DIR, "recipes", "gt.recipe.assembler.json"), []);
+  const lootbagUpgrades = assemblerRecipes
+    .filter((r) => {
+      const inputs = r.itemInputs || [];
+      const outputs = r.itemOutputs || [];
+      return (
+        inputs.length === 1 &&
+        outputs.length === 1 &&
+        inputs[0]?.id?.includes("lootbag") &&
+        outputs[0]?.id?.includes("lootbag")
+      );
+    })
+    .map((r) => ({
+      input: { id: r.itemInputs[0].id, displayName: r.itemInputs[0].displayName, amount: r.itemInputs[0].amount },
+      output: { id: r.itemOutputs[0].id, displayName: r.itemOutputs[0].displayName, amount: r.itemOutputs[0].amount },
+      euPerTick: r.euPerTick,
+      duration: r.duration,
+    }));
+  const lootGroups = readJSON<any[]>(path.join(NEI_DIR, "loot_bags.json"), []);
+  writeJSON(path.join(DATA_DIR, "lootbags.json"), { bags: lootbagItems, upgrades: lootbagUpgrades, groups: lootGroups });
+  console.log(`  Loot bags: ${lootbagItems.length} bags, ${lootbagUpgrades.length} upgrade recipes, ${lootGroups.length} loot groups`);
+
   // Ore veins
   const oreVeins = readJSON<any[]>(path.join(NEI_DIR, "ore_veins.json"), []);
   writeJSON(path.join(DATA_DIR, "ore-veins.json"), oreVeins);

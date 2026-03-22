@@ -71,7 +71,7 @@ export default function Header({ onMenuToggle }: { onMenuToggle: () => void }) {
           <VersionSelector />
         </div>
       </header>
-      <GlobalSearch open={searchOpen} onClose={() => setSearchOpen(false)} />
+      <GlobalSearch open={searchOpen} onOpen={() => setSearchOpen(true)} onClose={() => setSearchOpen(false)} />
     </>
   );
 }

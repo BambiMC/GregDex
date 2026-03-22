@@ -6,6 +6,23 @@ import type { SearchResult } from "@/types";
 import ItemIcon from "@/components/ItemIcon";
 import { createReadableItemId } from "@/lib/utils";
 
+function BeeIcon({ uid, displayName }: { uid: string; displayName: string }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) return <span className="text-xl">🐝</span>;
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={`/icons/items/bee_${uid.toLowerCase()}.png`}
+      alt={displayName}
+      width={28}
+      height={28}
+      className="pixelated"
+      draggable={false}
+      onError={() => setFailed(true)}
+    />
+  );
+}
+
 // Module-level cache — loaded once per browser session
 let itemsCache: { id: string; displayName: string; modId: string }[] | null = null;
 let itemsCachePromise: Promise<void> | null = null;
@@ -28,11 +45,16 @@ function loadBeeCache(): Promise<void> {
   beesCachePromise = fetch("/data/bee-species.json")
     .then((r) => r.json())
     .then((d) => {
-      beesCache = d.map((s: any) => ({
-        uid: s.uid,
-        displayName: s.binomial,
-        branch: s.branch || "Unknown",
-      }));
+      beesCache = d.map((s: any) => {
+        const parts = (s.uid as string).split(".");
+        let name = parts[parts.length - 1].replace(/^species/i, "");
+        name = name.replace(/([a-z])([A-Z])/g, "$1 $2") || s.uid;
+        return {
+          uid: s.uid,
+          displayName: name + " Bee",
+          branch: s.branch || "Unknown",
+        };
+      });
     })
     .catch(() => { beesCache = []; });
   return beesCachePromise;
@@ -41,9 +63,11 @@ function loadBeeCache(): Promise<void> {
 export default function GlobalSearch({
   open,
   onClose,
+  onOpen,
 }: {
   open: boolean;
   onClose: () => void;
+  onOpen: () => void;
 }) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<SearchResult[]>([]);
@@ -58,15 +82,12 @@ export default function GlobalSearch({
       if ((e.metaKey || e.ctrlKey) && e.key === "k") {
         e.preventDefault();
         if (open) onClose();
-        else {
-          setQuery("");
-          setResults([]);
-        }
+        else onOpen();
       }
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [open, onClose]);
+  }, [open, onClose, onOpen]);
 
   // Focus input when opened
   useEffect(() => {
@@ -204,6 +225,7 @@ export default function GlobalSearch({
             <div className="flex items-center gap-2">
               {query.length >= 2 && (
                 <button
+                  type="button"
                   onClick={viewAll}
                   className="text-sm text-accent-primary/90 hover:underline"
                 >
@@ -221,6 +243,7 @@ export default function GlobalSearch({
             <div className="max-h-80 overflow-y-auto py-2">
               {results.map((result, i) => (
                 <button
+                  type="button"
                   key={result.id}
                   onClick={() => navigate(result)}
                   className={`w-full flex items-center gap-3 px-4 py-2 text-left text-sm transition-colors ${i === selectedIndex
@@ -228,9 +251,9 @@ export default function GlobalSearch({
                     : "text-text-primary hover:bg-bg-elevated"
                     }`}
                 >
-                  <div className="item-slot !w-8 !h-8 shrink-0">
+                  <div className="item-slot w-8! h-8! shrink-0">
                     {result.type === "bee" ? (
-                      <span className="text-xl">🐝</span>
+                      <BeeIcon uid={result.id} displayName={result.displayName} />
                     ) : (
                       <ItemIcon
                         itemId={result.id}
