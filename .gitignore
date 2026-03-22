@@ -9,3 +9,6 @@ out_old/
 next-env.d.ts
 .DS_Store
 public/icons/items
+
+# Ignore all dot folders
+/.*/

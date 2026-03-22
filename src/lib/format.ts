@@ -236,7 +236,6 @@ const MACHINE_ICON_MAP: Record<string, string> = {
   "gt.recipe.eyeofharmony": "gregtech_gt.blockmachines_15410.png",
   "gt.recipe.nanoforge": "gregtech_gt.blockmachines_357.png",
   "gt.recipe.plasmaforge": "gregtech_gt.blockmachines_1004.png",
-  "gt.recipe.massfab": "gregtech_gt.blockmachines_461.png",
   "gt.recipe.fakeassemblylineprocess": "gregtech_gt.blockmachines_15442.png",
   "gt.recipe.researchstation": "gregtech_gt.blockmachines_356.png",
   "gt.recipe.pcbfactory": "gregtech_gt.blockmachines_356.png",
