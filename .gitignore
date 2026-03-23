@@ -10,5 +10,7 @@ next-env.d.ts
 .DS_Store
 public/icons/items
 
+test-results/
+
 # Ignore all dot folders
 /.*/

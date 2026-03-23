@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build && node scripts/post-build-copy.js",
     "start": "next start",
-    "process-data": "tsx scripts/process-data.ts"
+    "process-data": "tsx scripts/process-data.ts",
+    "validate-data": "tsx scripts/validate-data.ts",
+    "test:e2e": "playwright test --config tests/playwright.config.ts",
+    "test:e2e:ui": "playwright test --config tests/playwright.config.ts --ui",
+    "test": "npm run validate-data && npm run test:e2e"
   },
   "dependencies": {
     "extract-zip": "^2.0.1",
@@ -16,6 +20,7 @@
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.2",
     "@tailwindcss/postcss": "^4.2.1",
     "@types/node": "^25.3.0",
     "@types/react": "^19.2.14",

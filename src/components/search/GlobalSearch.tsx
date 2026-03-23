@@ -114,6 +114,14 @@ export default function GlobalSearch({
             item.modId.toLowerCase().includes(lower) ||
             item.id.toLowerCase().includes(lower),
         )
+        // Prefer specific meta variants over wildcard :32767
+        .sort((a, b) => {
+          const aWild = a.id.endsWith(":32767");
+          const bWild = b.id.endsWith(":32767");
+          if (aWild && !bWild) return 1;
+          if (!aWild && bWild) return -1;
+          return 0;
+        })
         .slice(0, 10)
         .map((item) => ({
           id: item.id,

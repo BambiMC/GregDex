@@ -91,7 +91,7 @@ function Minimap({
 
   return (
     <div
-      className="absolute bottom-10 right-3 z-20 rounded-lg overflow-hidden border border-border-default bg-bg-secondary/90 backdrop-blur-sm"
+      className="absolute bottom-10 left-3 z-20 rounded-lg overflow-hidden border border-border-default bg-bg-secondary/90 backdrop-blur-sm"
       style={{ width: MINIMAP_W, height: MINIMAP_H }}
     >
       <svg
@@ -178,6 +178,9 @@ export default function PlannerCanvas({
     ro.observe(el);
     return () => ro.disconnect();
   }, []);
+
+  // Tracks whether the recipe-search modal is open (used inside handleWheel without a dep)
+  const modalOpenRef = useRef(false);
 
   // Camera: pan and zoom
   const [camera, setCamera] = useState({ x: 0, y: 0, zoom: 1 });
@@ -382,6 +385,8 @@ export default function PlannerCanvas({
   // === Wheel zoom ===
   const handleWheel = useCallback(
     (e: WheelEvent) => {
+      // Don't hijack scroll when the recipe search modal is open
+      if (modalOpenRef.current) return;
       e.preventDefault();
       const rect = containerRef.current?.getBoundingClientRect();
       if (!rect) return;
@@ -515,6 +520,8 @@ export default function PlannerCanvas({
 
   // Recipe search modal — lifted here to stay outside the CSS transform context
   const [searchNodeId, setSearchNodeId] = useState<string | null>(null);
+  // Keep ref in sync so handleWheel can read it without needing it as a dep
+  useEffect(() => { modalOpenRef.current = searchNodeId !== null; }, [searchNodeId]);
 
   const handleRecipeSelect = useCallback(
     (recipe: RecipeData, label: string) => {

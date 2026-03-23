@@ -317,7 +317,7 @@ export default function RecipeNode({
                   </div>
 
                   {/* Outputs column (right side with ports) */}
-                  <div className="flex flex-col gap-1 items-end min-w-0">
+                  <div className="flex flex-col gap-1 items-end min-w-0 flex-1">
                     <div className="text-[9px] uppercase tracking-wider text-text-muted mb-0.5 font-medium">
                       Out
                     </div>
@@ -346,7 +346,7 @@ export default function RecipeNode({
                           {/* Output port */}
                           <div
                             ref={handleRef(handle)}
-                            className="w-3 h-3 rounded-full bg-accent-primary/30 border border-accent-primary/60 hover:bg-accent-primary hover:scale-125 transition-all cursor-crosshair shrink-0 -mr-[18px]"
+                            className="w-3 h-3 rounded-full bg-accent-primary/30 border border-accent-primary/60 hover:bg-accent-primary hover:scale-125 transition-all cursor-crosshair shrink-0 translate-x-4.5"
                             onMouseDown={(e) =>
                               onHandleMouseDown(handle, "output", "item", e)
                             }
@@ -376,7 +376,7 @@ export default function RecipeNode({
                           </div>
                           <div
                             ref={handleRef(handle)}
-                            className="w-3 h-3 rounded-full bg-accent-secondary/30 border border-accent-secondary/60 hover:bg-accent-secondary hover:scale-125 transition-all cursor-crosshair shrink-0 -mr-[18px]"
+                            className="w-3 h-3 rounded-full bg-accent-secondary/30 border border-accent-secondary/60 hover:bg-accent-secondary hover:scale-125 transition-all cursor-crosshair shrink-0 translate-x-4.5"
                             onMouseDown={(e) =>
                               onHandleMouseDown(handle, "output", "fluid", e)
                             }

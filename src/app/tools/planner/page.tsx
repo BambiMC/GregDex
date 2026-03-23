@@ -13,8 +13,43 @@ export default function PlannerPage() {
     []
   );
   const [showValidation, setShowValidation] = useState(false);
+  const [isDirty, setIsDirty] = useState(false);
 
   const nextId = useRef(1);
+  // Suppresses the dirty flag during load so loading saved data doesn't mark as dirty
+  const isLoadingRef = useRef(false);
+
+  // Mark dirty whenever nodes/edges change (but not during load)
+  useEffect(() => {
+    if (isLoadingRef.current) return;
+    if (nodes.length === 0 && edges.length === 0) { setIsDirty(false); return; }
+    setIsDirty(true);
+  }, [nodes, edges]);
+
+  // Warn on browser close / refresh
+  useEffect(() => {
+    if (!isDirty) return;
+    const handler = (e: BeforeUnloadEvent) => { e.preventDefault(); e.returnValue = ""; };
+    window.addEventListener("beforeunload", handler);
+    return () => window.removeEventListener("beforeunload", handler);
+  }, [isDirty]);
+
+  // Intercept in-app Next.js navigation via link clicks (capture phase fires before Link's handler)
+  useEffect(() => {
+    if (!isDirty) return;
+    const handleClick = (e: MouseEvent) => {
+      const anchor = (e.target as Element).closest("a[href]");
+      if (!anchor) return;
+      const href = anchor.getAttribute("href");
+      if (!href || href.startsWith("#") || href.startsWith("http") || href.startsWith("mailto:")) return;
+      if (!window.confirm("You have unsaved changes. Leave without saving?")) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    };
+    document.addEventListener("click", handleClick, true);
+    return () => document.removeEventListener("click", handleClick, true);
+  }, [isDirty]);
 
   const addNode = useCallback(
     (x: number, y: number) => {
@@ -173,6 +208,7 @@ export default function PlannerPage() {
     setValidationIssues([]);
     setShowValidation(false);
     nextId.current = 1;
+    setIsDirty(false);
   }, []);
 
   // Persistence: save/load from localStorage
@@ -186,9 +222,11 @@ export default function PlannerPage() {
       nextId: nextId.current,
     };
     localStorage.setItem("gregdex-planner", JSON.stringify(data));
+    setIsDirty(false);
   }, [nodes, edges]);
 
   const loadFromLocal = useCallback(() => {
+    isLoadingRef.current = true;
     try {
       const raw = localStorage.getItem("gregdex-planner");
       if (!raw) return;
@@ -196,8 +234,12 @@ export default function PlannerPage() {
       if (data.nodes) setNodes(data.nodes);
       if (data.edges) setEdges(data.edges);
       if (data.nextId) nextId.current = data.nextId;
+      setIsDirty(false);
     } catch {
       // ignore corrupt data
+    } finally {
+      // Delay clearing the flag so the resulting state-update effects are skipped
+      setTimeout(() => { isLoadingRef.current = false; }, 0);
     }
   }, []);
 
@@ -286,9 +328,12 @@ export default function PlannerPage() {
           </button>
           <button
             onClick={saveToLocal}
-            className="px-3 py-1.5 text-xs font-medium rounded-md border border-accent-secondary/30 bg-accent-secondary/10 text-accent-secondary hover:bg-accent-secondary/20 transition-colors cursor-pointer"
+            className={`px-3 py-1.5 text-xs font-medium rounded-md border transition-colors cursor-pointer ${isDirty
+              ? "border-accent-secondary/60 bg-accent-secondary/20 text-accent-secondary font-semibold"
+              : "border-accent-secondary/30 bg-accent-secondary/10 text-accent-secondary hover:bg-accent-secondary/20"
+            }`}
           >
-            Save
+            {isDirty ? "Save *" : "Save"}
           </button>
           <button
             onClick={loadFromLocal}

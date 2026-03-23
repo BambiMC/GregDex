@@ -56,6 +56,44 @@ npm run dev
 # start dev server on http://localhost:3000
 ```
 
+## Testing
+
+Requires a running server at `http://localhost:3000` (run `npm run dev` , not(!) `npx serve out`).
+
+### Data integrity check (fast, no browser)
+
+Validates recipe chunk refs, item files, blood magic linkage, and flags :32767 ordering issues:
+
+```bash
+npm run validate-data
+```
+
+### E2E tests (Playwright, runs against localhost:3000)
+
+First-time setup:
+
+```bash
+npx playwright install chromium
+```
+
+Run all tests:
+
+```bash
+npm run test:e2e
+```
+
+Run with interactive UI:
+
+```bash
+npm run test:e2e:ui
+```
+
+Run both validate-data and E2E in sequence:
+
+```bash
+npm test
+```
+
 ## Features
 
 - Browse 47,000+ items across multiple categories

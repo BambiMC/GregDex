@@ -117,7 +117,7 @@ export default function HomePage() {
       </div>
 
       {/* Stats */}
-      <div className="grid grid-cols-4 sm:grid-cols-7 gap-3 mb-10">
+      <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-7 gap-3 mb-10">
         {stats.map((stat) => (
           <Link prefetch={false}
             key={stat.label}
@@ -132,29 +132,14 @@ export default function HomePage() {
         ))}
       </div>
 
-      {/* Quick Links */}
-      <h2 className="text-lg font-semibold mb-4 text-text-primary">Browse</h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {quickLinks.map((link) => (
-          <Link prefetch={false}
-            key={link.href}
-            href={link.href}
-            className={`${link.bg} border ${link.border} rounded-xl p-5 hover:scale-[1.02] transition-transform`}
-          >
-            <h3 className={`font-semibold ${link.color} mb-1`}>{link.title}</h3>
-            <p className="text-sm text-text-secondary">{link.desc}</p>
-          </Link>
-        ))}
-      </div>
-
       {/* Tools Section */}
-      <h2 className="text-lg font-semibold mb-4 mt-10 text-text-primary">Tools</h2>
+      <h2 className="text-lg font-semibold mb-4 text-text-primary">Tools</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <Link prefetch={false}
           href="/tools/planner"
-          className="bg-accent-primary/10 border border-accent-primary/20 rounded-xl p-5 hover:scale-[1.02] transition-transform"
+          className="bg-accent-success/10 border border-accent-success/20 rounded-xl p-5 hover:scale-[1.02] transition-transform"
         >
-          <h3 className="font-semibold text-accent-primary mb-1">Recipe Planner</h3>
+          <h3 className="font-semibold text-accent-success mb-1">Production Line Planner</h3>
           <p className="text-sm text-text-secondary">
             Node-based editor to plan and validate multi-machine processing chains
           </p>
@@ -168,6 +153,21 @@ export default function HomePage() {
             Calculate overclocked EU/t and duration across voltage tiers for any recipe
           </p>
         </Link>
+      </div>
+
+      {/* Quick Links */}
+      <h2 className="text-lg font-semibold mb-4 mt-10 text-text-primary">Browse</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {quickLinks.map((link) => (
+          <Link prefetch={false}
+            key={link.href}
+            href={link.href}
+            className={`${link.bg} border ${link.border} rounded-xl p-5 hover:scale-[1.02] transition-transform`}
+          >
+            <h3 className={`font-semibold ${link.color} mb-1`}>{link.title}</h3>
+            <p className="text-sm text-text-secondary">{link.desc}</p>
+          </Link>
+        ))}
       </div>
 
       {/* Keyboard shortcut hint */}

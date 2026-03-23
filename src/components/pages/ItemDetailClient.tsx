@@ -41,7 +41,24 @@ export default function ItemDetailPage({
           itemRes = await fetch(`/data/items/${encodedId}.json`);
         }
         if (!itemRes.ok) return;
-        const item = await itemRes.json();
+        let item = await itemRes.json();
+
+        // Wildcard meta (:32767) items often have 0 output recipes while the :0 variant
+        // has real ones (blood magic alchemy targets sand:0, not sand:32767).
+        // In that case, swap in the :0 item data so recipes are shown.
+        const isWildcard = rawId.endsWith(":32767");
+        const hasNoOutputRecipes = !item.recipesAsOutput || item.recipesAsOutput.length === 0;
+        if (isWildcard && hasNoOutputRecipes) {
+          const altId = rawId.slice(0, -6) + ":0";
+          const altEncoded = encodeId(altId);
+          const altRes = await fetch(`/data/items/${altEncoded}.json`);
+          if (altRes.ok) {
+            const altItem = await altRes.json();
+            if (altItem.recipesAsOutput?.length > 0) {
+              item = altItem;
+            }
+          }
+        }
 
         // Collect unique chunks needed (limit to first MAX_RECIPES refs each)
         const outputRefs: any[] = (item.recipesAsOutput || []).slice(0, MAX_RECIPES);

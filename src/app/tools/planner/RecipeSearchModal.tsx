@@ -87,6 +87,14 @@ export default function RecipeSearchModal({ onSelect, onClose }: Props) {
             item.displayName.toLowerCase().includes(lower) ||
             item.id.toLowerCase().includes(lower)
         )
+        // Prefer specific meta variants over wildcard :32767
+        .sort((a, b) => {
+          const aWild = a.id.endsWith(":32767");
+          const bWild = b.id.endsWith(":32767");
+          if (aWild && !bWild) return 1;
+          if (!aWild && bWild) return -1;
+          return 0;
+        })
         .slice(0, 15);
       setResults(matches);
     }, 150);
@@ -100,13 +108,27 @@ export default function RecipeSearchModal({ onSelect, onClose }: Props) {
     setLoadingRecipes(true);
 
     try {
-      const encoded = encodeId(item.id);
-      const res = await fetch(`/data/items/${encoded}.json`);
+      let itemId = item.id;
+      let encoded = encodeId(itemId);
+      let res = await fetch(`/data/items/${encoded}.json`);
       if (!res.ok) {
         setRecipes([]);
         return;
       }
-      const data = await res.json();
+      let data = await res.json();
+
+      // If wildcard meta (:32767) has no output recipes, try the :0 variant
+      if ((!data.recipesAsOutput || data.recipesAsOutput.length === 0) && itemId.endsWith(":32767")) {
+        const altId = itemId.slice(0, -6) + ":0";
+        const altEncoded = encodeId(altId);
+        const altRes = await fetch(`/data/items/${altEncoded}.json`);
+        if (altRes.ok) {
+          const altData = await altRes.json();
+          if (altData.recipesAsOutput?.length > 0) {
+            data = altData;
+          }
+        }
+      }
 
       // Load output recipes
       const refs = data.recipesAsOutput || [];
